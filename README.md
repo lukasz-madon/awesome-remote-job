@@ -19,4 +19,4 @@ A curated list of awesome remote jobs
   1. [StackExchange](http://stackexchange.com/work-here)
   1. [Zapier](https://zapier.com/jobs/)
   1. [Fog Creek](http://www.fogcreek.com/careers/)
-  1. [DuckDuckG](https://duck.co/help/company/hiring)
+  1. [DuckDuckGo](https://duck.co/help/company/hiring)
