@@ -24,3 +24,4 @@ A curated list of awesome remote jobs
   1. [Mozilla](https://careers.mozilla.org/en-US/listings/)
   1. [Wikimedia](http://wikimediafoundation.org/wiki/Work_with_us)
   1. [DataStax](http://www.datastax.com/company/careers)
+  1. [GitLab](https://about.gitlab.com/jobs/) 
