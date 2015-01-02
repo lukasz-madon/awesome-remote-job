@@ -14,6 +14,7 @@ A curated list of awesome remote jobs
   1. [jobsremotely](https://jobsremotely.com)
   1. [Gun.io](http://gun.io/)
   1. [Remote Coder](http://remotecoder.io)
+  1. [Authentic Jobs](http://www.authenticjobs.com/)
 
 ## Companies
   1. [Canonical](http://www.canonical.com/careers/all-vacancies)
