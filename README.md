@@ -23,3 +23,4 @@ A curated list of awesome remote jobs
   1. [DuckDuckGo](https://duck.co/help/company/hiring)
   1. [Mozilla](https://careers.mozilla.org/en-US/listings/)
   1. [Wikimedia](http://wikimediafoundation.org/wiki/Work_with_us)
+  2. [Heap](https://heapanalytics.com/jobs)
