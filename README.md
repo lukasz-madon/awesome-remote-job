@@ -26,3 +26,4 @@ A curated list of awesome remote jobs
   1. [DataStax](http://www.datastax.com/company/careers)
   1. [GitLab](https://about.gitlab.com/jobs/) 
   1. [Red Hat](http://jobs.redhat.com/) 
+  1. [Collabora](https://www.collabora.com/about-us/careers.html)
