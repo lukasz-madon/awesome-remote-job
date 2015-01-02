@@ -6,7 +6,7 @@ A curated list of awesome remote jobs
 ## Job boards
   1. [Angel List](https://angel.co/jobs) Job Type -> Remote OK
   1. [weworkremotely.com](https://weworkremotely.com/)
-  1. [Nomad Jobs](http://nomadjobs.io/s)
+  1. [Nomad Jobs](http://nomadjobs.io/)
   1. [Careers Stackoverflow](http://careers.stackoverflow.com/) Location -> allows remote
   
 ## Companies
