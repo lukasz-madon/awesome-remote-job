@@ -9,7 +9,7 @@ A curated list of awesome remote jobs
   1. [Nomad Jobs](http://nomadjobs.io/)
   1. [Careers Stackoverflow](http://careers.stackoverflow.com/) Location -> allows remote
   1. [HN hiring](http://hnhiring.me/) filter REMOTE
-  1. [www.wfh](https://www.wfh.io/)
+  1. [wfh.io](https://www.wfh.io/)
   
 ## Companies
   1. [Canonical](http://www.canonical.com/careers/all-vacancies)
