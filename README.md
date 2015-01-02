@@ -9,6 +9,9 @@ A curated list of awesome remote jobs
   1. [Nomad Jobs](http://nomadjobs.io/)
   1. [Careers Stackoverflow](http://careers.stackoverflow.com/) Location -> allows remote
   1. [HN hiring](http://hnhiring.me/) filter REMOTE
+  1. [wfh](https://www.wfh.io/)
+  1. [supportops](http://jobs.supportops.co/category/remote/)
+  1. [jobsremotely](https://jobsremotely.com)
 
 ## Companies
   1. [Canonical](http://www.canonical.com/careers/all-vacancies)
@@ -23,4 +26,8 @@ A curated list of awesome remote jobs
   1. [DuckDuckGo](https://duck.co/help/company/hiring)
   1. [Mozilla](https://careers.mozilla.org/en-US/listings/)
   1. [Wikimedia](http://wikimediafoundation.org/wiki/Work_with_us)
-  2. [Heap](https://heapanalytics.com/jobs)
+  1. [Heap](https://heapanalytics.com/jobs)
+  1. [DataStax](http://www.datastax.com/company/careers)
+  1. [GitLab](https://about.gitlab.com/jobs/)
+  1. [Red Hat](http://jobs.redhat.com/)
+  1. [Articulate](https://www.articulate.com/company/careers.php)
