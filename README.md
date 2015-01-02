@@ -12,6 +12,8 @@ A curated list of awesome remote jobs
   1. [wfh](https://www.wfh.io/)
   1. [supportops](http://jobs.supportops.co/category/remote/)
   1. [jobsremotely](https://jobsremotely.com)
+  1. [Gun.io](http://gun.io/)
+  1. [Remote Coder](http://remotecoder.io)
 
 ## Companies
   1. [Canonical](http://www.canonical.com/careers/all-vacancies)
