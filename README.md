@@ -35,6 +35,7 @@ Click README.md and then pencil icon to edit. It will create the fork automaticl
   1. [DataStax](http://www.datastax.com/company/careers)
   1. [DuckDuckGo](https://duck.co/help/company/hiring)
   1. [Everlane](https://www.everlane.com/jobs)
+  2. [Eyeo](https://eyeo.com/jobs)
   1. [Fog Creek](http://www.fogcreek.com/careers/)
   1. [Github](https://github.com/about/jobs)
   1. [GitLab](https://about.gitlab.com/jobs/)
