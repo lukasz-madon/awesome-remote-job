@@ -7,9 +7,8 @@ A curated list of awesome remote jobs
   1. [Angel List](https://angel.co/jobs) Job Type -> Remote OK
   1. [Authentic Jobs](http://www.authenticjobs.com/)
   1. [Careers Stackoverflow](http://careers.stackoverflow.com/) Location -> allows remote
-  1. [Gun.io](http://gun.io/)
   1. [HN hiring](http://hnhiring.me/) filter REMOTE
-  1. [jobsremotely](https://jobsremotely.com)
+  1. [Jobsremotely](https://jobsremotely.com)
   1. [Nomad Jobs](http://nomadjobs.io/)
   1. [Remote Coder](http://remotecoder.io)
   1. [Supportops](http://jobs.supportops.co/category/remote/)
@@ -26,8 +25,6 @@ A curated list of awesome remote jobs
   1. [DataStax](http://www.datastax.com/company/careers)
   1. [DuckDuckGo](https://duck.co/help/company/hiring)
   1. [Fog Creek](http://www.fogcreek.com/careers/)
-  1. [GitLab](https://about.gitlab.com/jobs/)
-  1. [GitLab](https://about.gitlab.com/jobs/)
   1. [GitLab](https://about.gitlab.com/jobs/)
   1. [Heap](https://heapanalytics.com/jobs)
   1. [Khan Academy](https://www.khanacademy.org/careers)
