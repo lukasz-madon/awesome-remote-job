@@ -3,6 +3,8 @@ Awesome Remote Job
 
 A curated list of awesome remote jobs and resources.
 
+Click README.md and then pencil icon to edit. It will create the fork automaticly.
+
 ## Articles 
 [Why We (Still) Believe in Working Remotely](http://blog.stackoverflow.com/2013/02/why-we-still-believe-in-working-remotely/)
 
