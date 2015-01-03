@@ -1,7 +1,13 @@
 Awesome Remote Job
 ==================
 
-A curated list of awesome remote jobs
+A curated list of awesome remote jobs and resources.
+
+## Articles 
+[Why We (Still) Believe in Working Remotely](http://blog.stackoverflow.com/2013/02/why-we-still-believe-in-working-remotely/)
+
+## Books
+[Remote. Office Not Required.](http://37signals.com/remote/)
 
 ## Job boards
   1. [Angel List](https://angel.co/jobs) Job Type -> Remote OK
@@ -43,3 +49,10 @@ A curated list of awesome remote jobs
   1. [Twin Technologies](https://www.twintechs.com/about-us/contact-us/careers/)
   1. [Wikimedia](http://wikimediafoundation.org/wiki/Work_with_us)
   1. [Zapier](https://zapier.com/jobs/)
+
+## Tools
+- [Hipchat](https://www.hipchat.com/) great internal chat for hackers.
+- [Skype](http://www.skype.com) video calls.
+
+## Law & Finance
+US based company can hire remote workers as 1099 contractors.
