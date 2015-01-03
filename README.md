@@ -5,7 +5,7 @@ A curated list of awesome remote jobs and resources.
 
 Click README.md and then pencil icon to edit. It will create the fork automaticly.
 
-## Articles 
+## Articles & Posts
 [Why We (Still) Believe in Working Remotely](http://blog.stackoverflow.com/2013/02/why-we-still-believe-in-working-remotely/)
 
 ## Books
@@ -53,6 +53,9 @@ Click README.md and then pencil icon to edit. It will create the fork automaticl
   1. [Twin Technologies](https://www.twintechs.com/about-us/contact-us/careers/)
   1. [Wikimedia](http://wikimediafoundation.org/wiki/Work_with_us)
   1. [Zapier](https://zapier.com/jobs/)
+
+## Q&A
+[I program from home. What can I do to be more productive?](http://programmers.stackexchange.com/questions/257/i-program-from-home-what-can-i-do-to-be-more-productive)
 
 ## Tools
 - [Hipchat](https://www.hipchat.com/) great internal chat for hackers.
