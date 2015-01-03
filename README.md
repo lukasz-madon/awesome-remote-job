@@ -44,6 +44,7 @@ A curated list of awesome remote jobs and resources.
   1. [Mozilla](https://careers.mozilla.org/en-US/listings/)
   1. [Red Hat](http://jobs.redhat.com/)
   1. [StackExchange](http://stackexchange.com/work-here)
+  1. [Soostone](http://www.soostone.com/careers) 
   1. [Toggle](http://jobs.toggl.com/)
   1. [Trello](https://trello.com/jobs)
   1. [Twin Technologies](https://www.twintechs.com/about-us/contact-us/careers/)
