@@ -7,6 +7,7 @@ Click README.md and then pencil icon to edit. It will create the fork automaticl
 
 ## Articles & Posts
 [Why We (Still) Believe in Working Remotely](http://blog.stackoverflow.com/2013/02/why-we-still-believe-in-working-remotely/)
+[My Ideal Day as a Remote Programmer: Taking Charge of Your Daily Routine](https://overflow.bufferapp.com/2014/06/12/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/)
 
 ## Books
 [Remote. Office Not Required.](http://37signals.com/remote/)
