@@ -63,6 +63,7 @@ Click README.md and then pencil icon to edit. It will create the fork automaticl
 - [Skype](http://www.skype.com) video calls.
 - [Trello](https://trello.com/) project managment.
 - [Hangout](http://www.google.com/+/learnmore/hangouts/) video calls.
+- [Slack] (https://slack.com/) chat system with loads of integration options
 
 ## Law & Finance
 US based company can hire remote workers as 1099 contractors.
