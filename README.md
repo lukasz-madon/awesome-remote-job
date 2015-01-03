@@ -27,6 +27,7 @@ A curated list of awesome remote jobs
   1. [DuckDuckGo](https://duck.co/help/company/hiring)
   1. [Everlane](https://www.everlane.com/jobs)
   1. [Fog Creek](http://www.fogcreek.com/careers/)
+  1. [Github](https://github.com/about/jobs)
   1. [GitLab](https://about.gitlab.com/jobs/)
   1. [Harvest](https://www.getharvest.com/careers)
   1. [Heap](https://heapanalytics.com/jobs)
