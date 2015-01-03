@@ -25,6 +25,7 @@ A curated list of awesome remote jobs
   1. [Collabora](https://www.collabora.com/about-us/careers.html)
   1. [DataStax](http://www.datastax.com/company/careers)
   1. [DuckDuckGo](https://duck.co/help/company/hiring)
+  1. [Everlane](https://www.everlane.com/jobs)
   1. [Fog Creek](http://www.fogcreek.com/careers/)
   1. [GitLab](https://about.gitlab.com/jobs/)
   1. [Heap](https://heapanalytics.com/jobs)
