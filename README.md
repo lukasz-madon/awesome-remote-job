@@ -54,7 +54,7 @@ A curated list of awesome remote jobs and resources.
 - [Hipchat](https://www.hipchat.com/) great internal chat for hackers.
 - [Skype](http://www.skype.com) video calls.
 - [Trello](https://trello.com/) project managment.
-- [Hangout](http://www.google.com/+/learnmore/hangouts/)
+- [Hangout](http://www.google.com/+/learnmore/hangouts/) video calls.
 
 ## Law & Finance
 US based company can hire remote workers as 1099 contractors.
