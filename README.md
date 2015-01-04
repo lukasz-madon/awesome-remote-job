@@ -19,6 +19,7 @@ Click README.md and then pencil icon to edit. It will create the fork automaticl
   1. [HN hiring](http://hnhiring.me/) filter REMOTE
   1. [JOBBOX.io](http://www.jobbox.io/offers) filter -> Remote only
   1. [Jobs Remotely](https://jobsremotely.com)
+  1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) filter -> "*remote*"
   1. [Nomad Jobs](http://nomadjobs.io/)
   1. [Remote Coder](http://remotecoder.io)
   1. [Remote Hackers](http://remotehackers.com/)
