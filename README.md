@@ -60,12 +60,14 @@ Click README.md and then pencil icon to edit. It will create the fork automaticl
 [I program from home. What can I do to be more productive?](http://programmers.stackexchange.com/questions/257/i-program-from-home-what-can-i-do-to-be-more-productive)
 
 ## Tools
-- [Hipchat](https://www.hipchat.com/) great internal chat for hackers.
-- [Skype](http://www.skype.com) video calls.
-- [Trello](https://trello.com/) project managment.
-- [Hangout](http://www.google.com/+/learnmore/hangouts/) video calls.
-- [Slack](https://slack.com/) chat system with loads of integration options
-- [Appear.in](http://appear.in) browser-based, pluginless group video calls
+- Communication
+  - [Hipchat](https://www.hipchat.com/) great internal chat for hackers.
+  - [Skype](http://www.skype.com) video calls.
+  - [Hangout](http://www.google.com/+/learnmore/hangouts/) video calls.
+  - [Slack](https://slack.com/) chat system with loads of integration options
+  - [Appear.in](http://appear.in) browser-based, pluginless group video calls
+- Project managment 
+  - [Trello](https://trello.com/) 
 
 ## Law & Finance
 US based company can hire remote workers as 1099 contractors.
