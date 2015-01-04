@@ -23,6 +23,7 @@ Click README.md and then pencil icon to edit. It will create the fork automaticl
   1. [Remote Hackers](http://remotehackers.com/)
   1. [weworkremotely.com](https://weworkremotely.com/)
   1. [WFH.io](https://www.wfh.io/)
+  2. [Gun.io](https://gun.io/)
 
 ## Companies
   1. [Articulate](https://www.articulate.com/company/careers.php)
