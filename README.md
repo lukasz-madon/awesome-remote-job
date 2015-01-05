@@ -49,6 +49,7 @@ Click README.md and then pencil icon to edit. It will create the fork automaticl
   1. [Mapbox](https://www.mapbox.com/jobs/)
   1. [Mozilla](https://careers.mozilla.org/en-US/listings/)
   1. [Red Hat](http://jobs.redhat.com/)
+  1. [RightScale](http://www.rightscale.com/jobs)
   1. [SoftwareMill](https://softwaremill.com/join-us/)
   1. [StackExchange](http://stackexchange.com/work-here)
   1. [Soostone](http://www.soostone.com/careers) 
