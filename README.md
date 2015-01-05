@@ -23,6 +23,7 @@ Click README.md and then pencil icon to edit. It will create the fork automaticl
   1. [Nomad Jobs](http://nomadjobs.io/)
   1. [Remote Coder](http://remotecoder.io)
   1. [Remote Hackers](http://remotehackers.com/)
+  1. [Unicorn Hunt](https://unicornhunt.io/)
   1. [weworkremotely.com](https://weworkremotely.com/)
   1. [WFH.io](https://www.wfh.io/)
 
