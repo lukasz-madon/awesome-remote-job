@@ -52,6 +52,7 @@ Click README.md and then pencil icon to edit. It will create the fork automaticl
   1. [SoftwareMill](https://softwaremill.com/join-us/)
   1. [StackExchange](http://stackexchange.com/work-here)
   1. [Soostone](http://www.soostone.com/careers) 
+  2. [Sqwiggle](https://angel.co/sqwiggle/jobs)
   1. [Toggle](http://jobs.toggl.com/)
   1. [Trello](https://trello.com/jobs)
   1. [Twin Technologies](https://www.twintechs.com/about-us/contact-us/careers/)
