@@ -26,6 +26,9 @@ Click README.md and then pencil icon to edit. It will create the fork automaticl
   1. [weworkremotely.com](https://weworkremotely.com/)
   1. [WFH.io](https://www.wfh.io/)
 
+## Newsletters
+  1. [Remote Digest](http://remotedigest.com/)
+
 ## Companies
   1. [Articulate](https://www.articulate.com/company/careers.php)
   1. [Automattic](http://automattic.com/work-with-us/)
