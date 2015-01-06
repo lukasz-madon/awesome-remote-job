@@ -12,6 +12,9 @@ Click README.md and then pencil icon to edit. It will create the fork automaticl
 ## Books
   1. [Remote. Office Not Required.](http://37signals.com/remote/)
 
+## Remote workers community
+  1. [Live Work Remote](http://www.liveworkremote.com/) Remote jobs board and community
+
 ## Job boards
   1. [Angel List](https://angel.co/jobs) Job Type -> Remote OK
   1. [Authentic Jobs](http://www.authenticjobs.com/)
