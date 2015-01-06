@@ -69,6 +69,7 @@ Click README.md and then pencil icon to edit. It will create the fork automaticl
   - [Hangout](http://www.google.com/+/learnmore/hangouts/) video calls.
   - [Slack](https://slack.com/) chat system with loads of integration options
   - [Appear.in](http://appear.in) browser-based, pluginless group video calls
+  - [Sqwiggle](https://www.sqwiggle.com/) Online Collaboration Software for Remote and Virtual Teams
 - Project managment 
   - [Trello](https://trello.com/) 
 
