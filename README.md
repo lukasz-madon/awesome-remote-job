@@ -1,9 +1,9 @@
 Awesome Remote Job
 ==================
 
-A curated list of awesome remote jobs and resources.
+A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecommuting) resources.
 
-Click README.md and then pencil icon to edit. It will create the fork automaticly.
+*To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow the contributions guidelines in CONTRIBUTING.md.*
 
 ## Articles & Posts
   1. [Why We (Still) Believe in Working Remotely](http://blog.stackoverflow.com/2013/02/why-we-still-believe-in-working-remotely/)
@@ -74,4 +74,4 @@ Click README.md and then pencil icon to edit. It will create the fork automaticl
   - [Trello](https://trello.com/) 
 
 ## Law & Finance
-US based company can hire remote workers as 1099 contractors.
+US based companies can hire remote workers as [1099 contractors](http://www.wisegeek.com/what-is-a-1099-contractor.htm).
