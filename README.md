@@ -15,7 +15,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 ## Job boards
   1. [Angel List](https://angel.co/jobs) Job Type -> Remote OK
   1. [Authentic Jobs](http://www.authenticjobs.com/)
-  1. [Careers Stackoverflow](http://careers.stackoverflow.com/) Location -> allows remote
+  1. [Careers Stackoverflow](http://careers.stackoverflow.com/jobs/remote)
   1. [HN hiring](http://hnhiring.me/) filter REMOTE
   1. [JOBBOX.io](http://www.jobbox.io/offers) filter -> Remote only
   1. [Jobs Remotely](https://jobsremotely.com)
@@ -60,7 +60,14 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Zapier](https://zapier.com/jobs/)
 
 ## Q&A
-[I program from home. What can I do to be more productive?](http://programmers.stackexchange.com/questions/257/i-program-from-home-what-can-i-do-to-be-more-productive)
+- StackExchange
+  - Workplace: [telecommute](http://workplace.stackexchange.com/questions/tagged/telecommute?sort=votes) / [remote](http://workplace.stackexchange.com/questions/tagged/remote?sort=votes)
+  - Freelancing: [remote](http://freelancing.stackexchange.com/questions/tagged/remote?sort=votes) / [working from home](http://freelancing.stackexchange.com/questions/tagged/working-from-home?sort=votes)
+  - Programmers: [home](http://programmers.stackexchange.com/questions/tagged/home?sort=votes) / [telecommuting](http://programmers.stackexchange.com/questions/tagged/telecommuting?sort=votes)
+- Quora: [Telecommuting and Working Remotely](http://www.quora.com/Telecommuting-and-Working-Remotely) / [Virtual Workplace](http://www.quora.com/Virtual-Workplace) / [Working at Home](http://www.quora.com/Working-at-Home)
+
+## Communities
+- [/r/telecommuting](http://www.reddit.com/r/telecommuting/)
 
 ## Tools
 - Communication
