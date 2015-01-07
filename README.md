@@ -25,6 +25,8 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Remote Hackers](http://remotehackers.com/)
   1. [weworkremotely.com](https://weworkremotely.com/)
   1. [WFH.io](https://www.wfh.io/)
+  1. [Offsite.Careers](http://offsite.careers)
+  1. [JobMote](http://jobmote.com)
 
 ## Companies
   1. [Articulate](https://www.articulate.com/company/careers.php)
