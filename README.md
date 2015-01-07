@@ -58,6 +58,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Twin Technologies](https://www.twintechs.com/about-us/contact-us/careers/)
   1. [Wikimedia](http://wikimediafoundation.org/wiki/Work_with_us)
   1. [Zapier](https://zapier.com/jobs/)
+  1. [TriSoft.ro](https://www.trisoft.ro)
 
 ## Q&A
 - StackExchange
