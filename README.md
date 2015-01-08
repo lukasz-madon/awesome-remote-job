@@ -62,9 +62,9 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 
 ## Q&A
 - StackExchange
-  - Workplace: [telecommute](http://workplace.stackexchange.com/questions/tagged/telecommute?sort=votes) / [remote](http://workplace.stackexchange.com/questions/tagged/remote?sort=votes)
+  - Workplace: [telecommute](http://workplace.stackexchange.com/questions/tagged/telecommute?sort=votes)
   - Freelancing: [remote](http://freelancing.stackexchange.com/questions/tagged/remote?sort=votes) / [working from home](http://freelancing.stackexchange.com/questions/tagged/working-from-home?sort=votes)
-  - Programmers: [home](http://programmers.stackexchange.com/questions/tagged/home?sort=votes) / [telecommuting](http://programmers.stackexchange.com/questions/tagged/telecommuting?sort=votes)
+  - Programmers: [telecommuting](http://programmers.stackexchange.com/questions/tagged/telecommuting?sort=votes) / [home](http://programmers.stackexchange.com/questions/tagged/home?sort=votes)
 - Quora: [Telecommuting and Working Remotely](http://www.quora.com/Telecommuting-and-Working-Remotely) / [Virtual Workplace](http://www.quora.com/Virtual-Workplace) / [Working at Home](http://www.quora.com/Working-at-Home)
 
 ## Communities
