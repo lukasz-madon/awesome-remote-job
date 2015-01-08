@@ -48,6 +48,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [LivingSocial](http://corporate.livingsocial.com/careers/overview/) - Company-wide support for teams of experienced, remote developers. Lots of autonomy.
   1. [Mapbox](https://www.mapbox.com/jobs/)
   1. [Mozilla](https://careers.mozilla.org/en-US/listings/)
+  1. [RebelMouse](https://blog.rebelmouse.com/jobs/) - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
   1. [Red Hat](http://jobs.redhat.com/)
   1. [SoftwareMill](https://softwaremill.com/join-us/)
   1. [StackExchange](http://stackexchange.com/work-here)
