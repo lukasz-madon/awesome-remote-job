@@ -38,6 +38,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Canonical](http://www.canonical.com/careers/all-vacancies)
   1. [Chef](https://www.chef.io/careers/) - We are all about IT automation for speed and awesomeness. Ruby, JavaScript & shell scripting. HQ in Seattle but we have employees all around US.
   1. [CicleCI](https://circleci.com/jobs#engineer)
+  1. [Clerky](https://www.clerky.com/)
   1. [Collabora](https://www.collabora.com/about-us/careers.html)
   1. [DataStax](http://www.datastax.com/company/careers)
   1. [DuckDuckGo](https://duck.co/help/company/hiring)
