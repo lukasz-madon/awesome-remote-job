@@ -56,6 +56,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Mozilla](https://careers.mozilla.org/en-US/listings/)
   1. [RebelMouse](https://blog.rebelmouse.com/jobs/) - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
   1. [Red Hat](http://jobs.redhat.com/)
+  1. [Simple](https://www.simple.com/careers)
   1. [SoftwareMill](https://softwaremill.com/join-us/)
   1. [StackExchange](http://stackexchange.com/work-here)
   1. [Soostone](http://www.soostone.com/careers) 
