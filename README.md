@@ -51,6 +51,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Igalia](http://www.igalia.com/about-us/form)
   1. [Khan Academy](https://www.khanacademy.org/careers)
   1. [Librato](https://www.librato.com/jobs)
+  1. [Lincoln Loop](https://lincolnloop.com/careers/)
   1. [LivingSocial](http://corporate.livingsocial.com/careers/overview/) - Company-wide support for teams of experienced, remote developers. Lots of autonomy.
   1. [Mapbox](https://www.mapbox.com/jobs/)
   1. [Mozilla](https://careers.mozilla.org/en-US/listings/)
