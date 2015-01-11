@@ -96,3 +96,6 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 
 ## Law & Finance
 US based companies can hire remote workers as [1099 contractors](http://www.wisegeek.com/what-is-a-1099-contractor.htm).
+
+## Others
+- [Nomad List](https://nomadlist.io/) - Compare cost and quality of living in different cities.
