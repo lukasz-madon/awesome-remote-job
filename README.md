@@ -27,6 +27,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [WFH.io](https://www.wfh.io/)
 
 ## Newsletters
+  1. [Working Nomads](http://workingnomads.co/)
   1. [Remote Digest](http://remotedigest.com/)
 
 ## Companies
