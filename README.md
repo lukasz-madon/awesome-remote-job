@@ -77,8 +77,8 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 - Quora: [Telecommuting and Working Remotely](http://www.quora.com/Telecommuting-and-Working-Remotely) / [Virtual Workplace](http://www.quora.com/Virtual-Workplace) / [Working at Home](http://www.quora.com/Working-at-Home)
 
 ## Communities
-- [/r/telecommuting](http://www.reddit.com/r/telecommuting/)
-- [##remotes](https://github.com/remotesclub/remotes)
+- [/r/telecommuting](http://www.reddit.com/r/telecommuting/) - subreddit
+- [##remotes](https://github.com/remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes))
 
 ## Tools
 - Communication
