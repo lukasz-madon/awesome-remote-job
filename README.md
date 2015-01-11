@@ -78,6 +78,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 
 ## Communities
 - [/r/telecommuting](http://www.reddit.com/r/telecommuting/)
+- [/r/remotejs](http://reddit.com/r/remotejs) - remote javascript jobs
 - [##remotes](https://github.com/remotesclub/remotes)
 
 ## Tools
