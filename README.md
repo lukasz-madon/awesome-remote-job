@@ -51,6 +51,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Harvest](https://www.getharvest.com/careers)
   1. [Healthfinch](http://www.healthfinch.com/jobs) - Making Healthcare systems more usable. HQ in Madison, WI, USA. Ruby, Javascript.
   1. [Heap](https://heapanalytics.com/jobs)
+  1. [Heroku](http://jobs.heroku.com/) - PaaS Cloud, makes devs' experience awesome, Ruby, Erlang, Javascript, Golang, Python
   1. [Igalia](http://www.igalia.com/about-us/form)
   1. [Khan Academy](https://www.khanacademy.org/careers)
   1. [Librato](https://www.librato.com/jobs)
