@@ -42,6 +42,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Collabora](https://www.collabora.com/about-us/careers.html)
   1. [DataStax](http://www.datastax.com/company/careers)
   1. [DuckDuckGo](https://duck.co/help/company/hiring)
+  1. [Etsy](https://www.etsy.com/careers)
   1. [Everlane](https://www.everlane.com/jobs)
   1. [Eyeo](https://eyeo.com/jobs)
   1. [Fog Creek](http://www.fogcreek.com/careers/)
