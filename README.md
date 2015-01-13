@@ -25,7 +25,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Remote Hackers](http://remotehackers.com/)
   1. [weworkremotely.com](https://weworkremotely.com/)
   1. [WFH.io](https://www.wfh.io/)
-  1. [Front-end Developer Jobs] (http://frontenddeveloperjob.com/) sort by `performed`
+  1. [Front-end Developer Jobs] (http://frontenddeveloperjob.com/) View as table, then sort by `performed`
 
 ## Newsletters
   1. [Working Nomads](http://workingnomads.co/)
