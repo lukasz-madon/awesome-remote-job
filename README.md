@@ -69,7 +69,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Soostone](http://www.soostone.com/careers) 
   1. [Sqwiggle](https://angel.co/sqwiggle/jobs)
   1. [Strongloop](http://strongloop.com/careers/)
-  1. [Toggle](http://jobs.toggl.com/)
+  1. [Toggl](http://jobs.toggl.com/)
   1. [Trello](https://trello.com/jobs)
   1. [Twin Technologies](https://www.twintechs.com/about-us/contact-us/careers/)
   1. [Wikimedia](http://wikimediafoundation.org/wiki/Work_with_us)
