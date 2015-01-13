@@ -8,9 +8,43 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 ## Articles & Posts
   1. [Why We (Still) Believe in Working Remotely](http://blog.stackoverflow.com/2013/02/why-we-still-believe-in-working-remotely/)
   1. [My Ideal Day as a Remote Programmer: Taking Charge of Your Daily Routine](https://overflow.bufferapp.com/2014/06/12/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/)
+  1. [Remote worker vs distributed team](http://opensource.com/life/11/11/remote-worker-vs-distributed-team)
+  1. [Six Strategies for Managing Telecommuters](http://www.cio.com/article/2422138/leadership-management/six-strategies-for-managing-telecommuters.html)
+  1. [Why Small Businesses Are Building Remote Workforces](http://www.businessinsider.com/why-small-businesses-are-building-remote-workforces-2013-10)
+  1. [Rethinking Agile in an office-less world](https://signalvnoise.com/posts/3641-rethinking-agile-in-an-office-less-world)
+  1. [Why Remote Workers Are More (Yes, More) Engaged](https://hbr.org/2012/08/are-you-taking-your-people-for)
+  1. [Team Knowledge and Coordination in Geographically Distributed Software Development](http://kraut.hciresearch.org/sites/kraut.hciresearch.org/files/articles/Espinosa07-CoordinationInGlobalSWDevelopment.pdf)
+  1. [Managing a Geographically Dispersed Team: Achieving Your Goals Together, While Apart](http://www.mindtools.com/pages/article/newTMM_40.htm)
+  1. [The Pros & Cons of Being a Remote Team (& How We Do It)](https://www.groovehq.com/blog/being-a-remote-team)
+  1. [To Raise Productivity, Let More Employees Work from Home](https://hbr.org/2014/01/to-raise-productivity-let-more-employees-work-from-home/ar/1)
+  1. [Andreessen-Incubated Teleport Aims To Make Location Irrelevant For Mobile Workers](http://techcrunch.com/2014/05/19/teleport/)
+  1. [Acceptance of Telecommuting Project Management Grows](http://www.amanet.org/training/articles/Acceptance-of-Telecommuting-Project-Management-Grows.aspx?pcode=XCRP)
+  1. [Death of the office and rise of the telecommuter](http://www.zdnet.com/article/death-of-the-office-and-rise-of-the-telecommuter/)
+  1. [Why Coworking Is a Hit for Telecommuters and Entrepreneurs](http://www.cio.com/article/2369058/telecommuting/why-coworking-is-a-hit-for-telecommuters-and-entrepreneurs.html)
+  1. [Bosses without borders: Essential tools for managing remote workers](http://www.pcworld.com/article/2045737/bosses-without-borders-essential-tools-for-managing-remote-workers.html)
+  1. [The Complete Remote Work Toolset For Distributed Teams](http://blog.screenmailer.com/the-complete-remote-work-toolset-for-distributed-teams/)
+  1. [10 Lessons from 4 Years Working Remotely at Automattic](http://whenihavetime.com/2014/07/08/10-lessons-from-4-years-working-remotely/)
+  1. [The future of telecommuting: Corralling the Yahoos](http://www.economist.com/news/business/21572804-technology-allows-millions-people-work-home-big-tech-firm-trying-stop?fsrc=scn/tw/te/pe/corallingtheyahoos)
+  1. [It’s Unclearly Defined, but Telecommuting Is Fast on the Rise](http://www.nytimes.com/2014/03/08/your-money/when-working-in-your-pajamas-is-more-productive.html?_r=0)
+  1. [Remote Workers Log More Hours and Are Slightly More Engaged](http://www.gallup.com/opinion/gallup/170669/remote-workers-log-hours-slightly-engaged.aspx)
+  1. [Working Outside the Box: A Study of the Growing Momentum in Telework](http://www-01.ibm.com/industries/government/ieg/pdf/working_outside_the_box.pdf)
+  1. [Calculate how much you could save by telecommuting to work](http://meetchrisbennett.com/telework/final.html)
+  1. ['Working From Home' Without Slacking Off](http://online.wsj.com/news/articles/SB10001424052702303684004577508953483021234)
+  1. [Michael Bloomberg agrees with Marissa Mayer on telecommuting](http://www.capitalnewyork.com/article/politics/2013/03/8071699/michael-bloomberg-agrees-marissa-mayer-telecommuting)
+  1. [Latest Telecommuting Statistics | Global Workplace Analytics](http://www.globalworkplaceanalytics.com/telecommuting-statistics)
+  1. [Your Commute Is Killing You](http://www.slate.com/articles/business/moneybox/2011/05/your_commute_is_killing_you.html)
+  1. [Give people the freedom of where to work](http://www.virgin.com/richard-branson/give-people-the-freedom-of-where-to-work)
+  1. [For Some, Home=Office](http://online.wsj.com/news/articles/SB10001424127887324677204578185180450152760)
+  1. [One day offices will be a thing of the past](http://www.virgin.com/richard-branson/one-day-offices-will-be-a-thing-of-the-past)
+  1. [Solo Workers Bond at Shared Workspaces](http://www.nytimes.com/2013/05/05/fashion/solo-workers-bond-at-shared-workspaces.html)
+  1. [Why Marissa Mayer’s ban on remote working at Yahoo could backfire badly](http://gigaom.com/2013/02/25/why-marissa-mayers-ban-on-remote-working-at-yahoo-could-backfire-badly/)
+  1. [How many companies are 100% distributed? (Research Summary)](http://scottberkun.com/2013/how-many-companies-are-100-distributed/)
+  1. [How many people really work from home? (research summary)](http://scottberkun.com/2013/how-many-people-really-work-from-home-research-summary/)
+  1. [How We Went Remote](https://archive.org/details/oscon2014-how-we-went-remote) (archive.org video from [OSCON 2014](http://www.oscon.com/oscon2014/public/schedule/detail/34260) presentation)
 
 ## Books
-  1. [Remote. Office Not Required.](http://37signals.com/remote/)
+  1. [Remote. Office Not Required.](http://37signals.com/remote/) ([bibliography](https://www.zotero.org/groups/oscon_2014-remote/items/collectionKey/46QWPQUJ))
+  1. [The Year Without Pants: WordPress.com and the Future of Work](http://scottberkun.com/yearwithoutpants/) ([bibliography](https://www.zotero.org/groups/oscon_2014-remote/items/collectionKey/9WMMQMJ9))
 
 ## Job boards
   1. [Angel List](https://angel.co/jobs) Job Type -> Remote OK
@@ -102,3 +136,5 @@ US based companies can hire remote workers as [1099 contractors](http://www.wise
 
 ## Others
 - [Nomad List](https://nomadlist.io/) - Compare cost and quality of living in different cities.
+- [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental
+- [Regus USA](http://www.regus.com/) - Executive suites, virtual offices & conference room space
