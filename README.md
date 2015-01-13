@@ -50,6 +50,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Angel List](https://angel.co/jobs) Job Type -> Remote OK
   1. [Authentic Jobs](http://www.authenticjobs.com/)
   1. [Careers Stackoverflow](http://careers.stackoverflow.com/jobs/remote)
+  1. [Front-end Developer Jobs](http://frontenddeveloperjob.com/) View as table, then sort by `performed`
   1. [HN hiring](http://hnhiring.me/) filter REMOTE
   1. [JOBBOX.io](http://www.jobbox.io/offers) filter -> Remote only
   1. [Jobs Remotely](https://jobsremotely.com)
@@ -59,7 +60,6 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Remote Hackers](http://remotehackers.com/)
   1. [weworkremotely.com](https://weworkremotely.com/)
   1. [WFH.io](https://www.wfh.io/)
-  1. [Front-end Developer Jobs] (http://frontenddeveloperjob.com/) View as table, then sort by `performed`
 
 ## Newsletters
   1. [Working Nomads](http://workingnomads.co/)
