@@ -62,8 +62,8 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [WFH.io](https://www.wfh.io/)
 
 ## Newsletters
-  1. [Working Nomads](http://workingnomads.co/)
-  1. [Remote Digest](http://remotedigest.com/)
+  1. [Working Nomads](http://workingnomads.co/) - job posts
+  1. [Remote Digest](http://remotedigest.com/) - job posts
 
 ## Companies with "remote DNA"
 Currently hiring:
@@ -87,7 +87,7 @@ Currently hiring:
   1. [Harvest](https://www.getharvest.com/careers)
   1. [Healthfinch](http://www.healthfinch.com/jobs) - Making Healthcare systems more usable. HQ in Madison, WI, USA. Ruby, Javascript.
   1. [Heap](https://heapanalytics.com/jobs)
-  1. [Heroku](http://jobs.heroku.com/) - PaaS Cloud, makes devs' experience awesome, Ruby, Erlang, Javascript, Golang, Python
+  1. [Heroku](http://jobs.heroku.com/) - PaaS Cloud, makes devs' experience awesome, Ruby, Erlang, Javascript, Golang, Python.
   1. [Igalia](http://www.igalia.com/about-us/form)
   1. [Khan Academy](https://www.khanacademy.org/careers)
   1. [Librato](https://www.librato.com/jobs)
@@ -120,7 +120,7 @@ Currently hiring:
 
 ## Communities
 - [/r/telecommuting](http://www.reddit.com/r/telecommuting/) - subreddit
-- [##remotes](https://github.com/remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes))
+- [##remotes](https://github.com/remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes)).
 
 ## Tools
 - Communication
@@ -129,14 +129,14 @@ Currently hiring:
   - [Hangout](http://www.google.com/+/learnmore/hangouts/) video calls.
   - [Slack](https://slack.com/) chat system with loads of integration options
   - [Appear.in](http://appear.in) browser-based, pluginless group video calls
-  - [Sqwiggle](https://www.sqwiggle.com/) Online Collaboration Software for Remote and Virtual Teams
+  - [Sqwiggle](https://www.sqwiggle.com/) Online Collaboration Software for Remote and Virtual Teams.
 - Project managment 
-  - [Trello](https://trello.com/) 
+  - [Trello](https://trello.com/) - lean project boards.
 
 ## Law & Finance
 US based companies can hire remote workers as [1099 contractors](http://www.wisegeek.com/what-is-a-1099-contractor.htm).
 
 ## Others
 - [Nomad List](https://nomadlist.io/) - Compare cost and quality of living in different cities.
-- [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental
-- [Regus USA](http://www.regus.com/) - Executive suites, virtual offices & conference room space
+- [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
+- [Regus USA](http://www.regus.com/) - Executive suites, virtual offices & conference room space.
