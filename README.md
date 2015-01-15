@@ -41,6 +41,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [How many companies are 100% distributed? (Research Summary)](http://scottberkun.com/2013/how-many-companies-are-100-distributed/)
   1. [How many people really work from home? (research summary)](http://scottberkun.com/2013/how-many-people-really-work-from-home-research-summary/)
   1. [How We Went Remote](https://archive.org/details/oscon2014-how-we-went-remote) (archive.org video from [OSCON 2014](http://www.oscon.com/oscon2014/public/schedule/detail/34260) presentation)
+  1. [Remote Working – 3 Year Retrospective](http://blog.jonliv.es/remote-working-3-year-retrospective/) 
 
 ## Books
   1. [Remote. Office Not Required.](http://37signals.com/remote/) ([bibliography](https://www.zotero.org/groups/oscon_2014-remote/items/collectionKey/46QWPQUJ))
