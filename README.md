@@ -96,6 +96,7 @@ Currently hiring:
   1. [Lincoln Loop](https://lincolnloop.com/careers/)
   1. [LivingSocial](http://corporate.livingsocial.com/careers/overview/) - Company-wide support for teams of experienced, remote developers. Lots of autonomy.
   1. [Mapbox](https://www.mapbox.com/jobs/)
+  1. [Modern Tribe](http://tri.be/about/join-our-team/) - A digital agency with a modern twist. All freelancers. All experts.
   1. [Mozilla](https://careers.mozilla.org/en-US/listings/)
   1. [Next Big Sound](https://jobs.lever.co/nextbigsound/) - Analytics and Insights for the Music Industry. 
   1. [RebelMouse](https://blog.rebelmouse.com/jobs/) - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
