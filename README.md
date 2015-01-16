@@ -126,11 +126,11 @@ Currently hiring:
 
 ## Tools
 - Communication
+  - [Appear.in](http://appear.in) browser-based, pluginless group video calls
+  - [Hangout](http://www.google.com/+/learnmore/hangouts/) video calls.
   - [Hipchat](https://www.hipchat.com/) great internal chat for hackers.
   - [Skype](http://www.skype.com) video calls.
-  - [Hangout](http://www.google.com/+/learnmore/hangouts/) video calls.
   - [Slack](https://slack.com/) chat system with loads of integration options
-  - [Appear.in](http://appear.in) browser-based, pluginless group video calls
   - [Sqwiggle](https://www.sqwiggle.com/) Online Collaboration Software for Remote and Virtual Teams.
 - Project managment 
   - [Trello](https://trello.com/) - lean project boards.
@@ -139,6 +139,6 @@ Currently hiring:
 US based companies can hire remote workers as [1099 contractors](http://www.wisegeek.com/what-is-a-1099-contractor.htm).
 
 ## Others
-- [Nomad List](https://nomadlist.io/) - Compare cost and quality of living in different cities.
 - [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
+- [Nomad List](https://nomadlist.io/) - Compare cost and quality of living in different cities.
 - [Regus USA](http://www.regus.com/) - Executive suites, virtual offices & conference room space.
