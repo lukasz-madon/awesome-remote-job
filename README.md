@@ -127,6 +127,7 @@ Currently hiring:
 ## Tools
 - Communication
   - [Hipchat](https://www.hipchat.com/) great internal chat for hackers.
+  - [IRCCloud](https://www.irccloud.com) browser-based IRC client with permanent storage
   - [Skype](http://www.skype.com) video calls.
   - [Hangout](http://www.google.com/+/learnmore/hangouts/) video calls.
   - [Slack](https://slack.com/) chat system with loads of integration options
