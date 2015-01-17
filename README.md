@@ -68,7 +68,6 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Remote Digest](http://remotedigest.com/) - job posts
 
 ## Companies with "remote DNA"
-Currently hiring:
   1. [Articulate](https://www.articulate.com/company/careers.php)
   1. [Automattic](http://automattic.com/work-with-us/)
   1. [BaseCamp](https://basecamp.com/team)
