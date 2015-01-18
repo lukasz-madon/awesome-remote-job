@@ -60,6 +60,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Nomad Jobs](http://nomadjobs.io/)
   1. [Remote Coder](http://remotecoder.io)
   1. [Remote Hackers](http://remotehackers.com/)
+  1. [Remotus](http://remotus.com/)
   1. [weworkremotely.com](https://weworkremotely.com/)
   1. [WFH.io](https://www.wfh.io/)
 
