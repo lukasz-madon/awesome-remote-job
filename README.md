@@ -43,7 +43,13 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [How We Went Remote](https://archive.org/details/oscon2014-how-we-went-remote) (archive.org video from [OSCON 2014](http://www.oscon.com/oscon2014/public/schedule/detail/34260) presentation)
   1. [Remote Working – 3 Year Retrospective](http://blog.jonliv.es/remote-working-3-year-retrospective/) 
   1. [Why moonlighting will change your career](http://blog.jobbox.io/why-moonlighting-will-change-your-career/)
-  1. [30 Tips for Successful Communication as a Remote Worker](http://www.hanselman.com/blog/30TipsForSuccessfulCommunicationAsARemoteWorker.aspx)
+  1. [30 Tips for Successful Communication as a Remote Worker](http://www.hanselman.com/blog/30TipsForSuccessfulCommunicationAsARemoteWorker.aspx)  
+  1. [Yahoo, Best Buy, and Telecommuting: Advice From A Distributed Company](https://www.lullabot.com/blog/article/yahoo-best-buy-and-telecommuting-advice-distributed-company)
+  1. [How Working at Home Works (For Us)](https://www.lullabot.com/blog/article/how-working-home-works-us)
+  1. [Communication for Distributed Teams](https://www.lullabot.com/blog/article/communication-distributed-teams)
+  1. [Hiring Secrets Of A Distributed Company](https://www.lullabot.com/blog/article/hiring-secrets-distributed-company)
+  1. [What is a Distributed Company?](https://www.lullabot.com/blog/article/what-distributed-company)
+  1. [Learning From Distributed Companies](https://www.lullabot.com/blog/article/learning-distributed-companies)
 
 ## Books
   1. [Remote. Office Not Required.](http://37signals.com/remote/) ([bibliography](https://www.zotero.org/groups/oscon_2014-remote/items/collectionKey/46QWPQUJ))
@@ -68,6 +74,9 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 ## Newsletters
   1. [Working Nomads](http://workingnomads.co/) - job posts
   1. [Remote Digest](http://remotedigest.com/) - job posts
+
+## Podcasts
+  1. [Lessons from Distributed Companies](https://www.lullabot.com/blog/podcasts/drupalizeme-podcast/38-lessons-distributed-companies)
 
 ## Companies with "remote DNA"
   1. [Articulate](https://www.articulate.com/company/careers.php)
@@ -100,6 +109,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Librato](https://www.librato.com/jobs)
   1. [Lincoln Loop](https://lincolnloop.com/careers/)
   1. [LivingSocial](http://corporate.livingsocial.com/careers/overview/) - Company-wide support for teams of experienced, remote developers. Lots of autonomy.
+  1. [Lullabot](https://www.lullabot.com/jobs)
   1. [Mapbox](https://www.mapbox.com/jobs/)
   1. [Modern Tribe](http://tri.be/about/join-our-team/) - A digital agency with a modern twist. All freelancers. All experts.
   1. [Mozilla](https://careers.mozilla.org/en-US/listings/)
@@ -129,6 +139,9 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 ## Communities
 - [/r/telecommuting](http://www.reddit.com/r/telecommuting/) - subreddit
 - [##remotes](https://github.com/remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes)).
+
+## Conferences
+ 1. [Yonder](http://yonder.io/)
 
 ## Tools
 - Communication
