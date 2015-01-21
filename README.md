@@ -68,6 +68,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 ## Newsletters
   1. [Working Nomads](http://workingnomads.co/) - job posts
   1. [Remote Digest](http://remotedigest.com/) - job posts
+  1. [Jobscribe](http://jobscri.be/) - job posts
   1. [Remote Internships](http://remoteinternships.com/)
 
 ## Companies with "remote DNA"
