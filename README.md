@@ -156,6 +156,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   - [Sqwiggle](https://www.sqwiggle.com/) Online Collaboration Software for Remote and Virtual Teams.
 - Project managment 
   - [Trello](https://trello.com/) - lean project boards.
+  - [Asana](https://asana.com/) - Project management good for distributed teams
 
 ## Law & Finance
 US based companies can hire remote workers as [1099 contractors](http://www.wisegeek.com/what-is-a-1099-contractor.htm).
