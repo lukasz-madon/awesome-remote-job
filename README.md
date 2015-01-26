@@ -82,7 +82,6 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 
 ## Companies with "remote DNA"
   1. [Articulate](https://www.articulate.com/company/careers.php)
->>>>>>> upstream/master
   1. [Automattic](http://automattic.com/work-with-us/)
   1. [BaseCamp](https://basecamp.com/team)
   1. [Basho](http://bashojobs.theresumator.com)
