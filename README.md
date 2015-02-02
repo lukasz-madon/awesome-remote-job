@@ -99,6 +99,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Eyeo](https://eyeo.com/jobs)
   1. [Fog Creek](http://www.fogcreek.com/careers/)
   1. [Ghost](https://ghost.org/careers/)
+  1. [Gitbook] (http://jobs.gitbook.com/)
   1. [Github](https://github.com/about/jobs)
   1. [GitLab](https://about.gitlab.com/jobs/)
   1. [Harvest](https://www.getharvest.com/careers)
