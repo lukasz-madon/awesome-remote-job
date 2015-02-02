@@ -85,6 +85,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Automattic](http://automattic.com/work-with-us/)
   1. [BaseCamp](https://basecamp.com/team)
   1. [Basho](http://bashojobs.theresumator.com)
+  1. [Bluespark Labs](http://www.bluespark.com/work-at-bluespark)
   1. [Buffer](http://jobs.bufferapp.com/)
   1. [Canonical](http://www.canonical.com/careers/all-vacancies)
   1. [Chef](https://www.chef.io/careers/) - We are all about IT automation for speed and awesomeness. Ruby, JavaScript & shell scripting. HQ in Seattle but we have employees all around US.
