@@ -84,7 +84,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Articulate](https://www.articulate.com/company/careers.php)
   1. [Automattic](http://automattic.com/work-with-us/)
   1. [BaseCamp](https://basecamp.com/team)
-  1. [Basho](http://bashojobs.theresumator.com)
+  1. [Basho](http://bashojobs.theresumator.com) - Creators of Riak, an open source platform and k/v database. We code in Erlang and hang out on clouds. Everyone works remote and gets together a few times a year at HQ in Seattle.
   1. [Buffer](http://jobs.bufferapp.com/)
   1. [Canonical](http://www.canonical.com/careers/all-vacancies)
   1. [Chef](https://www.chef.io/careers/) - We are all about IT automation for speed and awesomeness. Ruby, JavaScript & shell scripting. HQ in Seattle but we have employees all around US.
