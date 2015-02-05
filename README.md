@@ -79,6 +79,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 
 ## Podcasts
   1. [Lessons from Distributed Companies](https://www.lullabot.com/blog/podcasts/drupalizeme-podcast/38-lessons-distributed-companies)
+  2. [Wide Teams](http://www.wideteams.com) - Each episode a one-on-one interview with a remote worker taking about workflow and practices
 
 ## Companies with "remote DNA"
   1. [Articulate](https://www.articulate.com/company/careers.php)
