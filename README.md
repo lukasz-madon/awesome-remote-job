@@ -76,6 +76,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Working Nomads](http://workingnomads.co/) - job posts
   1. [Remote Digest](http://remotedigest.com/) - job posts
   1. [Remote Internships](http://remoteinternships.com/)
+  1. [Remotive - productive remote workers](http://remotive.io/) - A weekly newsletter on Remote Tips & Jobs sent to 3,000+ Remote Workers
 
 ## Podcasts
   1. [Lessons from Distributed Companies](https://www.lullabot.com/blog/podcasts/drupalizeme-podcast/38-lessons-distributed-companies)
