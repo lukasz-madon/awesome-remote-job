@@ -52,6 +52,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Learning From Distributed Companies](https://www.lullabot.com/blog/article/learning-distributed-companies)
   1. [Working Remotely for Extroverts](http://hoppycow.com/2014/12/13/working-remotely-for-extroverts/)
   1. [10 Secrets to Becoming a Great Remote Developer](http://x-team.com/2014/05/10-secrets-to-becoming-a-great-remote-developer/)
+  1. [5 Tricks to Get More Done While Working Remotely](https://medium.com/@rdutel/working-remotely-getting-things-done-38dcd0413733)
 
 ## Books
   1. [Remote. Office Not Required.](http://37signals.com/remote/) ([bibliography](https://www.zotero.org/groups/oscon_2014-remote/items/collectionKey/46QWPQUJ))
