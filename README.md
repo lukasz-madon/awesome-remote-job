@@ -33,7 +33,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [One day offices will be a thing of the past](http://www.virgin.com/richard-branson/one-day-offices-will-be-a-thing-of-the-past)
   1. [Remote worker vs distributed team](http://opensource.com/life/11/11/remote-worker-vs-distributed-team)
   1. [Remote Workers Log More Hours and Are Slightly More Engaged](http://www.gallup.com/opinion/gallup/170669/remote-workers-log-hours-slightly-engaged.aspx)
-  1. [Remote Working – 3 Year Retrospective](http://blog.jonliv.es/remote-working-3-year-retrospective/) 
+  1. [Remote Working – 3 Year Retrospective](http://blog.jonliv.es/remote-working-3-year-retrospective/)
   1. [Rethinking Agile in an office-less world](https://signalvnoise.com/posts/3641-rethinking-agile-in-an-office-less-world)
   1. [Six Strategies for Managing Telecommuters](http://www.cio.com/article/2422138/leadership-management/six-strategies-for-managing-telecommuters.html)
   1. [Solo Workers Bond at Shared Workspaces](http://www.nytimes.com/2013/05/05/fashion/solo-workers-bond-at-shared-workspaces.html)
@@ -124,7 +124,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Mapbox](https://www.mapbox.com/jobs/)
   1. [Modern Tribe](http://tri.be/about/join-our-team/) - A digital agency with a modern twist. All freelancers. All experts.
   1. [Mozilla](https://careers.mozilla.org/en-US/listings/)
-  1. [Next Big Sound](https://jobs.lever.co/nextbigsound/) - Analytics and Insights for the Music Industry. 
+  1. [Next Big Sound](https://jobs.lever.co/nextbigsound/) - Analytics and Insights for the Music Industry.
   1. [Railsdog](http://railsdog.com/) - eCommerce solutions and integrations based on Spree (Ruby on Rails). Most team members are distributed including development, project management, and executive roles.
   1. [RebelMouse](https://blog.rebelmouse.com/jobs/) - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
   1. [Red Hat](http://jobs.redhat.com/)
@@ -133,7 +133,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Simple](https://www.simple.com/careers)
   1. [SoftwareMill](https://softwaremill.com/join-us/)
   1. [StackExchange](http://stackexchange.com/work-here)
-  1. [Soostone](http://www.soostone.com/careers) 
+  1. [Soostone](http://www.soostone.com/careers)
   1. [Sqwiggle](https://angel.co/sqwiggle/jobs)
   1. [Strongloop](http://strongloop.com/careers/)
   1. [Sysdig Cloud](http://sysdigcloud.com/jobs/)
@@ -144,6 +144,10 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Wikimedia](http://wikimediafoundation.org/wiki/Work_with_us)
   1. [X-Team](https://x-team.com/join/)
   1. [Zapier](https://zapier.com/jobs/)
+
+## Remote Moonlighting
+
+  1. [Gittask](https://gittask.com) - Development tasks you can work on remotely
 
 ## Q&A
 - StackExchange
@@ -168,7 +172,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   - [Skype](http://www.skype.com) video calls.
   - [Slack](https://slack.com/) chat system with loads of integration options
   - [Sqwiggle](https://www.sqwiggle.com/) Online Collaboration Software for Remote and Virtual Teams.
-- Project managment 
+- Project managment
   - [Trello](https://trello.com/) - lean project boards.
   - [Asana](https://asana.com/) - Project management good for distributed teams
 
