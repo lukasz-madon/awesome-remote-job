@@ -144,6 +144,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Wikimedia](http://wikimediafoundation.org/wiki/Work_with_us)
   1. [X-Team](https://x-team.com/join/)
   1. [Zapier](https://zapier.com/jobs/)
+  1. [FormAssembly](http://formassembly.workable.com) - Web form builder
 
 ## Remote Moonlighting
 
