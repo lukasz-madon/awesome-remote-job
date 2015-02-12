@@ -188,3 +188,4 @@ US based companies can hire remote workers as [1099 contractors](http://www.wise
 - [WorkFrom](https://workfrom.co/) - Find coffee shops that are good to work from
 - [Hacker Spaces](http://hackerspaces.org/wiki/List_of_Hacker_Spaces) - list of hacker spaces
 - [The Caravanserai](http://www.thecaravanserai.co/) - Co-living provider
+- [Remote year](http://www.remoteyear.com/) - Travel with interesting people while working remotely
