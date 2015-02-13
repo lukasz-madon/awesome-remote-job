@@ -6,7 +6,6 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 *To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow the contributions guidelines in CONTRIBUTING.md.*
 
 ## Articles & Posts
-  1. ['Working From Home' Without Slacking Off](http://online.wsj.com/news/articles/SB10001424052702303684004577508953483021234)
   1. [10 Lessons from 4 Years Working Remotely at Automattic](http://whenihavetime.com/2014/07/08/10-lessons-from-4-years-working-remotely/)
   1. [10 Secrets to Becoming a Great Remote Developer](http://x-team.com/2014/05/10-secrets-to-becoming-a-great-remote-developer/)
   1. [30 Tips for Successful Communication as a Remote Worker](http://www.hanselman.com/blog/30TipsForSuccessfulCommunicationAsARemoteWorker.aspx)  
@@ -49,6 +48,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Why Remote Workers Are More (Yes, More) Engaged](https://hbr.org/2012/08/are-you-taking-your-people-for)
   1. [Why Small Businesses Are Building Remote Workforces](http://www.businessinsider.com/why-small-businesses-are-building-remote-workforces-2013-10)
   1. [Why We (Still) Believe in Working Remotely](http://blog.stackoverflow.com/2013/02/why-we-still-believe-in-working-remotely/)
+  1. ['Working From Home' Without Slacking Off](http://online.wsj.com/news/articles/SB10001424052702303684004577508953483021234)
   1. [Working Outside the Box: A Study of the Growing Momentum in Telework](http://www-01.ibm.com/industries/government/ieg/pdf/working_outside_the_box.pdf)
   1. [Working Remotely for Extroverts](http://hoppycow.com/2014/12/13/working-remotely-for-extroverts/)
   1. [Yahoo, Best Buy, and Telecommuting: Advice From A Distributed Company](https://www.lullabot.com/blog/article/yahoo-best-buy-and-telecommuting-advice-distributed-company)
