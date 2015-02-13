@@ -159,7 +159,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 ## Communities
 - [/r/telecommuting](http://www.reddit.com/r/telecommuting/) - subreddit
 - [##remotes](https://github.com/remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes)).
-- [Hacker Paradise](http://www.hackerparadise.org/ - traveling hackers
+- [Hacker Paradise](http://www.hackerparadise.org/) - traveling hackers
 
 ## Conferences
  1. [Yonder](http://yonder.io/)
