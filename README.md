@@ -66,7 +66,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [HN hiring](http://hnhiring.me/) filter REMOTE
   1. [IT Flow](http://itflow.biz/)
   1. [JOBBOX.io](http://www.jobbox.io/offers) filter -> Remote only
-  1. [Jobs Remotely](https://jobsremotely.com)
+  1. [Jobs Remotely](https://jobsremotely.com) Jobs + Resumes
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) filter -> "*remote*"
   1. [Nomad Jobs](http://nomadjobs.io/)
   1. [Remote Coder](http://remotecoder.io)
