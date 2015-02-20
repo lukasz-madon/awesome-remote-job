@@ -176,6 +176,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 - Project managment
   - [Trello](https://trello.com/) - lean project boards.
   - [Asana](https://asana.com/) - Project management good for distributed teams
+  - [ScreenHero](https://screenhero.com) - Real-time, HD screen sharing for collaboration in teams.
 
 ## Law & Finance
 US based companies can hire remote workers as [1099 contractors](http://www.wisegeek.com/what-is-a-1099-contractor.htm).
