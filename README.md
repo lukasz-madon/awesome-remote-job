@@ -170,6 +170,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   - [Hangout](http://www.google.com/+/learnmore/hangouts/) chat system, share desktop and video calls.
   - [Hipchat](https://www.hipchat.com/) great internal chat for hackers.
   - [IRCCloud](https://www.irccloud.com) browser-based IRC client with permanent storage
+  - [ScreenHero](https://screenhero.com) - Real-time, HD screen sharing for collaboration in teams.
   - [Skype](http://www.skype.com) video calls.
   - [Slack](https://slack.com/) chat system with loads of integration options
   - [Sqwiggle](https://www.sqwiggle.com/) Online Collaboration Software for Remote and Virtual Teams.
