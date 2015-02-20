@@ -19,6 +19,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [For Some, Home=Office](http://online.wsj.com/news/articles/SB10001424127887324677204578185180450152760)
   1. [Give people the freedom of where to work](http://www.virgin.com/richard-branson/give-people-the-freedom-of-where-to-work)
   1. [Hiring Secrets Of A Distributed Company](https://www.lullabot.com/blog/article/hiring-secrets-distributed-company)
+  1. [How GitHub Works](http://zachholman.com/posts/how-github-works/)
   1. [How many companies are 100% distributed? (Research Summary)](http://scottberkun.com/2013/how-many-companies-are-100-distributed/)
   1. [How many people really work from home? (research summary)](http://scottberkun.com/2013/how-many-people-really-work-from-home-research-summary/)
   1. [How We Went Remote](https://archive.org/details/oscon2014-how-we-went-remote) (archive.org video from [OSCON 2014](http://www.oscon.com/oscon2014/public/schedule/detail/34260) presentation)
