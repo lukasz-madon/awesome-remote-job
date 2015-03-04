@@ -106,6 +106,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Etsy](https://www.etsy.com/careers)
   1. [Everlane](https://www.everlane.com/jobs)
   1. [Eyeo](https://eyeo.com/jobs)
+  1. [Fedora] (https://usefedora.com/careers) - Online education platform.
   1. [Fog Creek](http://www.fogcreek.com/careers/)
   1. [Ghost](https://ghost.org/careers/)
   1. [Gitbook] (http://jobs.gitbook.com/)
