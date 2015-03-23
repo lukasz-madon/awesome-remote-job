@@ -54,7 +54,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Working Remotely for Extroverts](http://hoppycow.com/2014/12/13/working-remotely-for-extroverts/)
   1. [Yahoo, Best Buy, and Telecommuting: Advice From A Distributed Company](https://www.lullabot.com/blog/article/yahoo-best-buy-and-telecommuting-advice-distributed-company)
   1. [Your Commute Is Killing You](http://www.slate.com/articles/business/moneybox/2011/05/your_commute_is_killing_you.html)
-  1.[21 tools that will help your remote team work better together] (http://thenextweb.com/apps/2014/12/06/tools-remote-teams/)
+  2. [21 tools that will help your remote team work better together] (http://thenextweb.com/apps/2014/12/06/tools-remote-teams/)
 
 ## Books
   1. [Remote. Office Not Required.](http://37signals.com/remote/) ([bibliography](https://www.zotero.org/groups/oscon_2014-remote/items/collectionKey/46QWPQUJ))
