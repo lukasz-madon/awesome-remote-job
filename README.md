@@ -54,7 +54,9 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Working Remotely for Extroverts](http://hoppycow.com/2014/12/13/working-remotely-for-extroverts/)
   1. [Yahoo, Best Buy, and Telecommuting: Advice From A Distributed Company](https://www.lullabot.com/blog/article/yahoo-best-buy-and-telecommuting-advice-distributed-company)
   1. [Your Commute Is Killing You](http://www.slate.com/articles/business/moneybox/2011/05/your_commute_is_killing_you.html)
-  2. [21 tools that will help your remote team work better together] (http://thenextweb.com/apps/2014/12/06/tools-remote-teams/)
+  1. [21 tools that will help your remote team work better together] (http://thenextweb.com/apps/2014/12/06/tools-remote-teams/)
+  1. [How to run a team of people who never see each other](http://qz.com/230998/how-to-run-a-team-of-people-who-never-see-each-other/)
+  1. [Who Needs an Office? How to Go 100 Percent Remote.](http://www.entrepreneur.com/article/242708)
 
 ## Books
   1. [Remote. Office Not Required.](http://37signals.com/remote/) ([bibliography](https://www.zotero.org/groups/oscon_2014-remote/items/collectionKey/46QWPQUJ))
@@ -168,6 +170,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 - [/r/telecommuting](http://www.reddit.com/r/telecommuting/) - subreddit
 - [##remotes](https://github.com/remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes)).
 - [Hacker Paradise](http://www.hackerparadise.org/) - traveling hackers
+- [#nomads](http://hashtagnomads.com/) - Slack community for nomadic working, $30 signup fee
 
 ## Conferences
  1. [Yonder](http://yonder.io/)
