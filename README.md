@@ -82,6 +82,9 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [RemoteWorkHunt](http://www.remoteworkhunt.com/)
   1. [Jobmote](http://jobmote.com/)
 
+## Work / Housing Exchange
+  1. [Worldpackers](https://www.worldpackers.com)
+
 ## Newsletters
   1. [Working Nomads](http://workingnomads.co/) - job posts
   1. [Remote Digest](http://remotedigest.com/) - job posts
