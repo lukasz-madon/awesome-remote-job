@@ -26,8 +26,9 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 - [Law & Finance](#law--finance)
 - [Others](#others)
 
-
 <!-- /MarkdownTOC -->
+
+---
 
 ## Articles & Posts
   1. [10 Lessons from 4 Years Working Remotely at Automattic](http://whenihavetime.com/2014/07/08/10-lessons-from-4-years-working-remotely/)
