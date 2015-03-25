@@ -5,6 +5,28 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 
 *To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow the contributions guidelines in CONTRIBUTING.md.*
 
+## Table of Contents
+
+<!-- MarkdownTOC depth=4 -->
+
+- [Articles & Posts](#articles--posts)
+- [Books](#books)
+- [Job boards](#job-boards)
+- [Work / Housing Exchange](#work--housing-exchange)
+- [Newsletters](#newsletters)
+- [Podcasts](#podcasts)
+- [Companies with "remote DNA"](#companies-with-remote-dna)
+- [Remote Moonlighting](#remote-moonlighting)
+- [Q&A](#qa)
+- [Communities](#communities)
+- [Conferences](#conferences)
+- [Tools](#tools)
+- [Law & Finance](#law--finance)
+- [Others](#others)
+
+
+<!-- /MarkdownTOC -->
+
 ## Articles & Posts
   1. [10 Lessons from 4 Years Working Remotely at Automattic](http://whenihavetime.com/2014/07/08/10-lessons-from-4-years-working-remotely/)
   1. [10 Secrets to Becoming a Great Remote Developer](http://x-team.com/2014/05/10-secrets-to-becoming-a-great-remote-developer/)
