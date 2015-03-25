@@ -21,6 +21,8 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 - [Communities](#communities)
 - [Conferences](#conferences)
 - [Tools](#tools)
+  - [Project managment](#project-managment)
+  - [Communication](#communication)
 - [Law & Finance](#law--finance)
 - [Others](#others)
 
@@ -201,7 +203,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
  1. [Yonder](http://yonder.io/)
 
 ## Tools
-- Communication
+#### Communication
   - [Appear.in](http://appear.in) browser-based, pluginless group video calls
   - [Hangout](http://www.google.com/+/learnmore/hangouts/) chat system, share desktop and video calls.
   - [Hipchat](https://www.hipchat.com/) great internal chat for hackers.
@@ -210,7 +212,8 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   - [Skype](http://www.skype.com) video calls.
   - [Slack](https://slack.com/) chat system with loads of integration options
   - [Sqwiggle](https://www.sqwiggle.com/) Online Collaboration Software for Remote and Virtual Teams.
-- Project managment
+
+#### Project managment
   - [Trello](https://trello.com/) - lean project boards.
   - [Asana](https://asana.com/) - Project management good for distributed teams
 
