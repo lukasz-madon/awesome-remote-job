@@ -5,6 +5,31 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 
 *To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow the contributions guidelines in CONTRIBUTING.md.*
 
+## Table of Contents
+
+<!-- MarkdownTOC depth=4 -->
+
+- [Articles & Posts](#articles--posts)
+- [Books](#books)
+- [Job boards](#job-boards)
+- [Work / Housing Exchange](#work--housing-exchange)
+- [Newsletters](#newsletters)
+- [Podcasts](#podcasts)
+- [Companies with "remote DNA"](#companies-with-remote-dna)
+- [Remote Moonlighting](#remote-moonlighting)
+- [Q&A](#qa)
+- [Communities](#communities)
+- [Conferences](#conferences)
+- [Tools](#tools)
+  - [Project managment](#project-managment)
+  - [Communication](#communication)
+- [Law & Finance](#law--finance)
+- [Others](#others)
+
+<!-- /MarkdownTOC -->
+
+---
+
 ## Articles & Posts
   1. [10 Lessons from 4 Years Working Remotely at Automattic](http://whenihavetime.com/2014/07/08/10-lessons-from-4-years-working-remotely/)
   1. [10 Secrets to Becoming a Great Remote Developer](http://x-team.com/2014/05/10-secrets-to-becoming-a-great-remote-developer/)
@@ -179,7 +204,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
  1. [Yonder](http://yonder.io/)
 
 ## Tools
-- Communication
+#### Communication
   - [Appear.in](http://appear.in) browser-based, pluginless group video calls
   - [Hangout](http://www.google.com/+/learnmore/hangouts/) chat system, share desktop and video calls.
   - [Hipchat](https://www.hipchat.com/) great internal chat for hackers.
@@ -189,7 +214,8 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   - [Skype](http://www.skype.com) video calls.
   - [Slack](https://slack.com/) chat system with loads of integration options
   - [Sqwiggle](https://www.sqwiggle.com/) Online Collaboration Software for Remote and Virtual Teams.
-- Project managment
+
+#### Project managment
   - [Trello](https://trello.com/) - lean project boards.
   - [Asana](https://asana.com/) - Project management good for distributed teams
   - [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source)
