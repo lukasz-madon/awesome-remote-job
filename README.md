@@ -108,6 +108,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [weworkremotely.com](https://weworkremotely.com/)
   1. [WFH.io](https://www.wfh.io/)
   1. [Jobmote](http://jobmote.com/)
+  1. [Hasjob](https://hasjob.co/) Location filter -> "*Anywhere/Remote*"
 
 ## Work / Housing Exchange
   1. [Worldpackers](https://www.worldpackers.com)
