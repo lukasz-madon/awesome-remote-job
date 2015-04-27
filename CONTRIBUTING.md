@@ -17,7 +17,7 @@ Please ensure your pull request adheres to the following guidelines:
 Don't use any vague marketing language. Optimize word greppability. For example, if one wants to find python jobs, or to filter for US-only companies, the following descriptions would be useful:
 
 1. [Foo](foo.io) - We are bulding new certificate provider based on crypocurrencies. Python, Scala, JS, Full Time
-1. [Bar](bar.io) - Uber for friut baskests. Node, grunt, JS, workday overlaps New York afternoons (1700 - 2200 UTC)
+1. [Bar](bar.io) - Uber for fruit baskets. Node, grunt, JS, workday overlaps New York afternoons (1700 - 2200 UTC)
 
 - Feel free to post your own company.
 - Companies should have "remote DNA"
