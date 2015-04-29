@@ -95,9 +95,11 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
   1. [Front-end Developer Jobs](http://frontenddeveloperjob.com/) View as table, then sort by `performed`
   1. [Golangprojects](http://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
+  1. [Hasjob](https://hasjob.co/) Location filter -> "*Anywhere/Remote*"
   1. [HN hiring](http://hnhiring.me/) filter REMOTE
   1. [IT Flow](http://itflow.biz/)
   1. [JOBBOX.io](http://www.jobbox.io/offers) filter -> Remote only
+  1. [Jobmote](http://jobmote.com/)
   1. [Jobs Remotely](https://jobsremotely.com) Jobs + Resumes
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) filter -> "*remote*"
   1. [Nomad Jobs](http://nomadjobs.io/)
@@ -107,8 +109,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Remotive Jobs](http://jobs.remotive.io/)
   1. [weworkremotely.com](https://weworkremotely.com/)
   1. [WFH.io](https://www.wfh.io/)
-  1. [Jobmote](http://jobmote.com/)
-  1. [Hasjob](https://hasjob.co/) Location filter -> "*Anywhere/Remote*"
+  1. [Working Nomads](http://www.workingnomads.co/jobs)
 
 ## Work / Housing Exchange
   1. [Worldpackers](https://www.worldpackers.com)
