@@ -164,6 +164,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Mozilla](https://careers.mozilla.org/en-US/listings/)
   1. [Next Big Sound](https://jobs.lever.co/nextbigsound/) - Analytics and Insights for the Music Industry.
   1. [NodeSource](https://nodesource.com/company) - NodeSource is dedicated to creating a sustainable ecosystem for Node.js.
+  1. [OpenCraft](http://opencraft.com/) - Open edX development (Free Software MOOC project)
   1. [Railsdog](http://railsdog.com/) - eCommerce solutions and integrations based on Spree (Ruby on Rails). Most team members are distributed including development, project management, and executive roles.
   1. [RebelMouse](https://blog.rebelmouse.com/jobs/) - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
   1. [Red Hat](http://jobs.redhat.com/)
