@@ -10,6 +10,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 <!-- MarkdownTOC depth=4 -->
 
 - [Articles & Posts](#articles--posts)
+- [Videos](#videos)
 - [Books](#books)
 - [Job boards](#job-boards)
 - [Work / Housing Exchange](#work--housing-exchange)
@@ -82,6 +83,9 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [21 tools that will help your remote team work better together] (http://thenextweb.com/apps/2014/12/06/tools-remote-teams/)
   1. [How to run a team of people who never see each other](http://qz.com/230998/how-to-run-a-team-of-people-who-never-see-each-other/)
   1. [Who Needs an Office? How to Go 100 Percent Remote.](http://www.entrepreneur.com/article/242708)
+
+## Videos
+  1. [Jason Fried: Why work doesn't happen at work](https://www.youtube.com/watch?v=5XD2kNopsUs)
 
 ## Books
   1. [Remote. Office Not Required.](http://37signals.com/remote/) ([bibliography](https://www.zotero.org/groups/oscon_2014-remote/items/collectionKey/46QWPQUJ))
