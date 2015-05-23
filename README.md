@@ -97,6 +97,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Authentic Jobs](http://www.authenticjobs.com/)
   1. [Careers Stackoverflow](http://careers.stackoverflow.com/jobs/remote)
   1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
+  1. [Flexjobs](http://www.flexjobs.com/)
   1. [Front-end Developer Jobs](http://frontenddeveloperjob.com/) View as table, then sort by `performed`
   1. [Golangprojects](http://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
   1. [Hasjob](https://hasjob.co/) Location filter -> "*Anywhere/Remote*"
