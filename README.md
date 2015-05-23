@@ -214,6 +214,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 ## Tools
 #### Communication
   - [Appear.in](http://appear.in) browser-based, pluginless group video calls
+  - [Codeshare.io](http://www.codeshare.io/) browser-based mult-user live code sharing with optional video chat
   - [Flowdock](https://www.flowdock.com/) browser-based group chat for teams. Integrates with GitHub, Jira, Jenkins etc.
   - [Hangout](http://www.google.com/+/learnmore/hangouts/) chat system, share desktop and video calls.
   - [Hipchat](https://www.hipchat.com/) great internal chat for hackers.
