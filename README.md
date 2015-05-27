@@ -64,6 +64,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Six Strategies for Managing Telecommuters](http://www.cio.com/article/2422138/leadership-management/six-strategies-for-managing-telecommuters.html)
   1. [Solo Workers Bond at Shared Workspaces](http://www.nytimes.com/2013/05/05/fashion/solo-workers-bond-at-shared-workspaces.html)
   1. [Team Knowledge and Coordination in Geographically Distributed Software Development](http://kraut.hciresearch.org/sites/kraut.hciresearch.org/files/articles/Espinosa07-CoordinationInGlobalSWDevelopment.pdf)
+  1. [The 25 best sites for finding remote work](http://skillcrush.com/2014/10/10/sites-finding-remote-work/)
   1. [The Complete Remote Work Toolset For Distributed Teams](http://blog.screenmailer.com/the-complete-remote-work-toolset-for-distributed-teams/)
   1. [The future of telecommuting: Corralling the Yahoos](http://www.economist.com/news/business/21572804-technology-allows-millions-people-work-home-big-tech-firm-trying-stop?fsrc=scn/tw/te/pe/corallingtheyahoos)
   1. [The Pros & Cons of Being a Remote Team (& How We Do It)](https://www.groovehq.com/blog/being-a-remote-team)
