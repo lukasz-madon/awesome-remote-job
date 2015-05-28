@@ -149,16 +149,16 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Heap](https://heapanalytics.com/jobs) – Web & Mobile Analytics, 2 of our 8 teammates are remote.
   1. [Heroku](http://jobs.heroku.com/) - PaaS Cloud, makes devs' experience awesome, Ruby, Erlang, Javascript, Golang, Python.
   1. [Honeybadger](https://www.honeybadger.io/) - Ruby. 100% remote.
-  1. [Igalia](http://www.igalia.com/about-us/form)
+  1. [Igalia](http://www.igalia.com/about-us/form) - Open source consultancy. HQ in Spain.
   1. [Inpsyde GmbH](http://inpsyde.com/) - WordPress Agency in Germany
-  1. [Khan Academy](https://www.khanacademy.org/careers)
-  1. [Librato](https://www.librato.com/jobs)
-  1. [Lincoln Loop](https://lincolnloop.com/careers/)
+  1. [Khan Academy](https://www.khanacademy.org/careers) - EdTech. Non-profit focusing on K-12 STEM. Less, React, Flux, Backbone, jQuery, Python, Google App Engine, Swift, and Objective-C.
+  1. [Librato](https://www.librato.com/jobs) - Cloud Monitoring.
+  1. [Lincoln Loop](https://lincolnloop.com/careers/) - WebDev shop.
   1. [LivingSocial](http://corporate.livingsocial.com/careers/overview/) - Company-wide support for teams of experienced, remote developers. Lots of autonomy.
-  1. [Lullabot](https://www.lullabot.com/jobs)
-  1. [Mapbox](https://www.mapbox.com/jobs/)
+  1. [Lullabot](https://www.lullabot.com/jobs) - Strategy, design and development using Drupal.
+  1. [Mapbox](https://www.mapbox.com/jobs/) - Map integration tools for various platforms.
   1. [Modern Tribe](http://tri.be/about/join-our-team/) - A digital agency with a modern twist. All freelancers. All experts.
-  1. [Mozilla](https://careers.mozilla.org/en-US/listings/)
+  1. [Mozilla](https://careers.mozilla.org/en-US/listings/) - Firefox.
   1. [Next Big Sound](https://jobs.lever.co/nextbigsound/) - Analytics and Insights for the Music Industry.
   1. [NodeSource](https://nodesource.com/company) - NodeSource is dedicated to creating a sustainable ecosystem for Node.js.
   1. [Railsdog](http://railsdog.com/) - eCommerce solutions and integrations based on Spree (Ruby on Rails). Most team members are distributed including development, project management, and executive roles.
