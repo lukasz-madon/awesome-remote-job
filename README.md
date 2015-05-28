@@ -3,7 +3,7 @@ Awesome Remote Job
 
 A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecommuting) resources.
 
-*To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow the contributions guidelines in CONTRIBUTING.md.*
+*To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow [the contributions guidelines](CONTRIBUTING.md).*
 
 ## Table of Contents
 
