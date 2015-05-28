@@ -192,7 +192,6 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Zapier](https://zapier.com/jobs/)
 
 ## Remote Moonlighting
-
   1. [Gittask](https://gittask.com) - Development tasks you can work on remotely
 
 ## Q&A
@@ -210,7 +209,8 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 - [Nomadler](http://nomadler.com) - Hacker News for nomads.
 
 ## Conferences
- 1. [Yonder](http://yonder.io/)
+ 1. [DNX Global](http://www.dnxglobal.com/) - Digital Nomad Conference.
+ 1. [Yonder](http://yonder.io/) - A round table conference bringing together leaders of distributed companies.
 
 ## Tools
 #### Communication
