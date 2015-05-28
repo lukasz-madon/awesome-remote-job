@@ -124,7 +124,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 
 ## Companies with "remote DNA"
   1. [Articulate](https://www.articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby. Node. C# and .NET for Windows app.
-  1. [Automattic](http://automattic.com/work-with-us/) - Makers of WordPress.com and  Gravatar.
+  1. [Automattic](http://automattic.com/work-with-us/) - Makers of WordPress.com and Gravatar.
   1. [BaseCamp](https://basecamp.com/team) - Project management software.
   1. [Basho](http://bashojobs.theresumator.com) - Creators of Riak, an open source platform and k/v database. We code in Erlang and hang out on clouds. Everyone works remote and gets together a few times a year at HQ in Seattle.
   1. [Bluespark Labs](http://www.bluespark.com/work-at-bluespark) - WebDev Consulting and makers of Roomify. Remote team with HQs in Raleigh, NC and Italy. Drupal.
@@ -132,7 +132,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Canonical](http://www.canonical.com/careers/all-vacancies) - Ubuntu.
   1. [Catalyze](https://catalyze.io/jobs) - HIPAA-compliant cloud computing for healthcare. HQ in Madison, WI. Docker, Go, Python.
   1. [Chef](https://www.chef.io/careers/) - We are all about IT automation for speed and awesomeness. Ruby, JavaScript & shell scripting. HQ in Seattle but we have employees all around US.
-  1. [CircleCI](https://circleci.com/jobs#engineer) - Provides continouos integration tools and services.
+  1. [CircleCI](https://circleci.com/jobs#engineer) - Provides continuous integration tools and services.
   1. [Collabora](https://www.collabora.com/about-us/careers.html) - Open source software-based consulting.
   1. [Compose](https://www.compose.io/jobs/) - Managing databases as a service. Distributed team with offices in San Meteo, CA and Birmingham, AL.
   1. [DataStax](http://www.datastax.com/company/careers) - Consulting based on Apache Cassandra.
