@@ -34,7 +34,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 ## Articles & Posts
   1. [10 Lessons from 4 Years Working Remotely at Automattic](http://whenihavetime.com/2014/07/08/10-lessons-from-4-years-working-remotely/)
   1. [10 Secrets to Becoming a Great Remote Developer](http://x-team.com/2014/05/10-secrets-to-becoming-a-great-remote-developer/)
-  1. [30 Tips for Successful Communication as a Remote Worker](http://www.hanselman.com/blog/30TipsForSuccessfulCommunicationAsARemoteWorker.aspx)  
+  1. [30 Tips for Successful Communication as a Remote Worker](http://www.hanselman.com/blog/30TipsForSuccessfulCommunicationAsARemoteWorker.aspx)
   1. [5 Tricks to Get More Done While Working Remotely](https://medium.com/@rdutel/working-remotely-getting-things-done-38dcd0413733)
   1. [Acceptance of Telecommuting Project Management Grows](http://www.amanet.org/training/articles/Acceptance-of-Telecommuting-Project-Management-Grows.aspx?pcode=XCRP)
   1. [Andreessen-Incubated Teleport Aims To Make Location Irrelevant For Mobile Workers](http://techcrunch.com/2014/05/19/teleport/)
@@ -129,43 +129,42 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   2. [Wide Teams](http://www.wideteams.com) - Each episode a one-on-one interview with a remote worker taking about workflow and practices
 
 ## Companies with "remote DNA"
-  1. [Articulate](https://www.articulate.com/company/careers.php)
-  1. [Automattic](http://automattic.com/work-with-us/)
-  1. [BaseCamp](https://basecamp.com/team)
+  1. [Articulate](https://www.articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby. Node. C# and .NET for Windows app.
+  1. [Automattic](http://automattic.com/work-with-us/) - Makers of WordPress.com and Gravatar.
+  1. [BaseCamp](https://basecamp.com/team) - Project management software.
   1. [Basho](http://bashojobs.theresumator.com) - Creators of Riak, an open source platform and k/v database. We code in Erlang and hang out on clouds. Everyone works remote and gets together a few times a year at HQ in Seattle.
-  1. [Bluespark Labs](http://www.bluespark.com/work-at-bluespark)
-  1. [Buffer](http://jobs.bufferapp.com/)
-  1. [Canonical](http://www.canonical.com/careers/all-vacancies)
-  1. [Catalyze](https://catalyze.io/jobs)
+  1. [Bluespark Labs](http://www.bluespark.com/work-at-bluespark) - WebDev Consulting and makers of Roomify. Remote team with HQs in Raleigh, NC and Italy. Drupal.
+  1. [Buffer](http://jobs.bufferapp.com/) - Tools to help manage social media. PHP, CodeIgniter, MongoDB, Memcache, Backbone.js, React.js, Grunt.js, LESS, and Python.
+  1. [Canonical](http://www.canonical.com/careers/all-vacancies) - Ubuntu.
+  1. [Catalyze](https://catalyze.io/jobs) - HIPAA-compliant cloud computing for healthcare. HQ in Madison, WI. Docker, Go, Python.
   1. [Chef](https://www.chef.io/careers/) - We are all about IT automation for speed and awesomeness. Ruby, JavaScript & shell scripting. HQ in Seattle but we have employees all around US.
-  1. [CircleCI](https://circleci.com/jobs#engineer)
-  1. [Collabora](https://www.collabora.com/about-us/careers.html)
-  1. [Compose](https://compose.io)
-  1. [DataStax](http://www.datastax.com/company/careers)
-  1. [DuckDuckGo](https://duck.co/help/company/hiring)
-  1. [Etsy](https://www.etsy.com/careers)
-  1. [Everlane](https://www.everlane.com/jobs)
-  1. [Eyeo](https://eyeo.com/jobs)
-  1. [Fog Creek](http://www.fogcreek.com/careers/)
-  1. [Ghost](https://ghost.org/careers/)
-  1. [Gitbook] (http://jobs.gitbook.com/)
+  1. [CircleCI](https://circleci.com/jobs#engineer) - Provides continuous integration tools and services.
+  1. [Collabora](https://www.collabora.com/about-us/careers.html) - Open source software-based consulting.
+  1. [Compose](https://www.compose.io/jobs/) - Managing databases as a service. Distributed team with offices in San Meteo, CA and Birmingham, AL.
+  1. [DataStax](http://www.datastax.com/company/careers) - Consulting based on Apache Cassandra.
+  1. [DuckDuckGo](https://duck.co/help/company/hiring) - Search engine.
+  1. [Etsy](https://www.etsy.com/careers) - Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.
+  1. [Eyeo](https://eyeo.com/en/jobs/) - Maker of AdBlock Plus. Main office in Cologne, Germany.
+  1. [Fog Creek](http://www.fogcreek.com/careers/) - NY-based software company. Makers of bug-tracking and source control tools. Workday must overlap New York afternoons (1700 - 2200 GMT)
+  1. [Ghost](https://ghost.org/careers/) - Publishing platform.
+  1. [Gitbook](http://jobs.gitbook.com/) - Publishing toolchain based on git. Javascript, node.js, Go.
   1. [GitHub](https://github.com/about/jobs)
-  1. [GitLab](https://about.gitlab.com/jobs/)
-  1. [Harvest](https://www.getharvest.com/careers)
+  1. [GitLab](https://about.gitlab.com/jobs/) - Competitor to GitHub.
+  1. [Harvest](https://www.getharvest.com/careers) - Time tracking software.
   1. [Healthfinch](http://www.healthfinch.com/jobs) - Making Healthcare systems more usable. HQ in Madison, WI, USA. Ruby, Javascript.
   1. [Heap](https://heapanalytics.com/jobs) – Web & Mobile Analytics, 2 of our 8 teammates are remote.
   1. [Heroku](http://jobs.heroku.com/) - PaaS Cloud, makes devs' experience awesome, Ruby, Erlang, Javascript, Golang, Python.
   1. [Honeybadger](https://www.honeybadger.io/) - Ruby. 100% remote.
-  1. [Igalia](http://www.igalia.com/about-us/form)
+  1. [Igalia](http://www.igalia.com/about-us/form) - Open source consultancy. HQ in Spain.
   1. [Inpsyde GmbH](http://inpsyde.com/) - WordPress Agency in Germany
-  1. [Khan Academy](https://www.khanacademy.org/careers)
-  1. [Librato](https://www.librato.com/jobs)
-  1. [Lincoln Loop](https://lincolnloop.com/careers/)
+  1. [Khan Academy](https://www.khanacademy.org/careers) - EdTech. Non-profit focusing on K-12 STEM. Less, React, Flux, Backbone, jQuery, Python, Google App Engine, Swift, and Objective-C.
+  1. [Librato](https://www.librato.com/jobs) - Cloud Monitoring.
+  1. [Lincoln Loop](https://lincolnloop.com/careers/) - WebDev shop.
   1. [LivingSocial](http://corporate.livingsocial.com/careers/overview/) - Company-wide support for teams of experienced, remote developers. Lots of autonomy.
-  1. [Lullabot](https://www.lullabot.com/jobs)
-  1. [Mapbox](https://www.mapbox.com/jobs/)
+  1. [Lullabot](https://www.lullabot.com/jobs) - Strategy, design and development using Drupal.
+  1. [Mapbox](https://www.mapbox.com/jobs/) - Map integration tools for various platforms.
   1. [Modern Tribe](http://tri.be/about/join-our-team/) - A digital agency with a modern twist. All freelancers. All experts.
-  1. [Mozilla](https://careers.mozilla.org/en-US/listings/)
+  1. [Mozilla](https://careers.mozilla.org/en-US/listings/) - Firefox.
   1. [Next Big Sound](https://jobs.lever.co/nextbigsound/) - Analytics and Insights for the Music Industry.
   1. [NodeSource](https://nodesource.com/company) - NodeSource is dedicated to creating a sustainable ecosystem for Node.js.
   1. [OpenCraft](http://opencraft.com/) - Open edX development (Free Software MOOC project)
