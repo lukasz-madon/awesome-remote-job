@@ -104,11 +104,12 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [HN hiring](http://hnhiring.me/) filter REMOTE
   1. [JOBBOX.io](http://www.jobbox.io/offers) filter -> Remote only
   1. [Jobmote](http://jobmote.com/)
+  1. [Jobspresso](http://jobspresso.co) * High-quality remote positions that are open and legitimate *
   1. [Jobs Remotely](https://jobsremotely.com) Jobs + Resumes
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) filter -> "*remote*"
   1. [Nomad Jobs](http://nomadjobs.io/)
   1. [Remote Coder](http://remotecoder.io)
-  2. [Remote OK](http://remoteok.io/) - scrapes many job board feeds for remote positions
+  1. [Remote OK](http://remoteok.io/) - scrapes many job board feeds for remote positions
   1. [RemoteWorkHunt] (http://www.remoteworkhunt.com/)
   1. [Remotive Jobs](http://jobs.remotive.io/)
   1. [weworkremotely.com](https://weworkremotely.com/)
