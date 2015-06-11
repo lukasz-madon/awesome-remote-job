@@ -140,7 +140,6 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   18. [47RONIN](http://www.47ronin.co) - Coliving space in Kyoto, Japan.
   19. [nomadicHUB](http://nomadichub.com) - Coliving & coworking spaces in exotic locations.
   20. [Sende](http://sende.co) - Coliving & coworking space in northern Spain.
-  21. 
   
 ## Events
   1. [Remote Year](http://www.remoteyear.com) - Travel & work with interesting people for a year.
