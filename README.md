@@ -13,7 +13,8 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 - [Videos](#videos)
 - [Books](#books)
 - [Job boards](#job-boards)
-- [Work / Housing Exchange](#work--housing-exchange)
+- [Housing](#Housing)
+- [Events](#Events)
 - [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
 - [Companies with "remote DNA"](#companies-with-remote-dna)
@@ -139,6 +140,13 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   18. [47RONIN](http://www.47ronin.co) - Coliving space in Kyoto, Japan.
   19. [nomadicHUB](http://nomadichub.com) - Coliving & coworking spaces in exotic locations.
   20. [Sende](http://sende.co) - Coliving & coworking space in northern Spain.
+  21. 
+  
+## Events
+  1. [Remote Year](http://www.remoteyear.com) - Travel & work with interesting people for a year.
+  2. [deceler8](http://www.deceler8.me) - 10 days retreat
+  3. [Coworking Camp](http://www.coworking-camp.com) - Worldwide temporary coworking Spaces.
+  4. [Project Getaway](http://www.projectgetaway.com) - 30 days retreat
   
 
 ## Newsletters
