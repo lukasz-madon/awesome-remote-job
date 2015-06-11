@@ -1,5 +1,4 @@
-Awesome Remote Job [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-==================
+# Awesome Remote Job [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecommuting) resources.
 
@@ -84,7 +83,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Working Remotely for Extroverts](http://hoppycow.com/2014/12/13/working-remotely-for-extroverts/)
   1. [Yahoo, Best Buy, and Telecommuting: Advice From A Distributed Company](https://www.lullabot.com/articles/yahoo-best-buy-and-telecommuting-advice-from-a-distributed-company)
   1. [Your Commute Is Killing You](http://www.slate.com/articles/business/moneybox/2011/05/your_commute_is_killing_you.html)
-  1. [21 tools that will help your remote team work better together] (http://thenextweb.com/apps/2014/12/06/tools-remote-teams/)
+  1. [21 tools that will help your remote team work better together](http://thenextweb.com/apps/2014/12/06/tools-remote-teams/)
   1. [How to run a team of people who never see each other](http://qz.com/230998/how-to-run-a-team-of-people-who-never-see-each-other/)
   1. [Who Needs an Office? How to Go 100 Percent Remote.](http://www.entrepreneur.com/article/242708)
   1. [Remote Work: How to work the Precision Nutrition way](http://www.precisionnutrition.com/remote-how-to-work-the-pn-way)
@@ -106,41 +105,45 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Videos
   1. [Jason Fried: Why work doesn't happen at work](https://www.youtube.com/watch?v=5XD2kNopsUs)
+  1. [Fluent 2013: Mike Hostetler, “Remote Working Works!”](https://www.youtube.com/watch?v=23oBUH270YU)
 
 ## Books
   1. [Remote. Office Not Required.](http://37signals.com/remote/) ([bibliography](https://www.zotero.org/groups/oscon_2014-remote/items/collectionKey/46QWPQUJ))
-  2. [The Ultimate Guide to Remote Work](https://zapier.com/learn/the-ultimate-guide-to-remote-working/)
+  1. [The Ultimate Guide to Remote Work](https://zapier.com/learn/the-ultimate-guide-to-remote-working/)
   1. [The Year Without Pants: WordPress.com and the Future of Work](http://scottberkun.com/yearwithoutpants/) ([bibliography](https://www.zotero.org/groups/oscon_2014-remote/items/collectionKey/9WMMQMJ9))
   1. [The Remote Jobseeker’s Handbook](http://cobyism.com/remotejobseeker/)
   1. [Async Remote](http://blog.arkency.com/async-remote/)
 
 ## Job boards
-  1. [Angel List](https://angel.co/jobs) Job Type -> Remote OK
-  1. [Authentic Jobs](https://authenticjobs.com/)
+  1. [Angel List](https://angel.co/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
+  1. [Authentic Jobs](https://authenticjobs.com/) – Full-time and freelance job opportunities for web, design, and creative professionals.
   1. [Careers Stackoverflow](http://careers.stackoverflow.com/jobs/remote)
   1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
   1. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
   1. [Find Bacon](https://findbacon.com/jobs/remote)
-  1. [Flexjobs](https://www.flexjobs.com/)
-  1. [Front-end Developer Jobs](http://frontenddeveloperjob.com/) View as table, then sort by `performed`
+  1. [Flexjobs](http://www.flexjobs.com/) – Telecommuting Jobs & Professional Part-Time Jobs.
+  1. [Front-end Developer Jobs](http://frontenddeveloperjob.com/) - View as table, then sort by `performed`
   1. [Github Jobs](https://jobs.github.com/) - Location filter -> "*Anywhere/Remote*"
   1. [Golangprojects](http://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
   1. [GoRemote.io](https://goremote.io/)
   1. [Guru](http://www.guru.com/) - (has MANY different categories outside software)
-  1. [Hasjob](https://hasjob.co/) Location filter -> "*Anywhere/Remote*"
-  1. [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) has remote type filter 
-  1. [HN hiring](http://hnhiring.me/) filter REMOTE
+  1. [Hasjob](https://hasjob.co/) – Location filter -> "*Anywhere/Remote*"
+  1. [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) has remote type filter.
+  1. [HN hiring](http://hnhiring.me/) – Filter REMOTE.
   1. [Jobbatical](https://jobbatical.com/)
-  1. [Jobmote](http://jobmote.com/)
+  1. [JOBBOX.io](http://www.jobbox.io/offers) – Filter -> Remote only.
+  1. [Jobmote](http://jobmote.com/) – Telecommuting jobs for IT professionals.
   1. [Jobspresso](http://jobspresso.co) * High-quality remote positions that are open and legitimate *
+  1. [Jobs Remotely](https://jobsremotely.com) – Jobs and Resumes.
   1. [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
-  1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) filter -> "*remote*"
+  1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
   1. [RemoteBase](https://remotebase.io/) - a searchable collection of remote companies and hiring info
   1. [Remote Coder](https://remotecoder.io/)
-  1. [Remote OK](https://remoteok.io/) - scrapes many job board feeds for remote positions
+  1. [Remote OK](http://remoteok.io/) - Scrapes many job board feeds for remote positions.
   1. [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   1. [Remotely Awesome Jobs](http://www.remotelyawesomejobs.com) - Crawls multiple job boards for remote job postings.
+  1. [RemoteWorkHunt](http://www.remoteworkhunt.com/)
   1. [Remotive Jobs](http://jobs.remotive.io/)
   1. [Skip the Drive](http://www.skipthedrive.com/)
   1. [Virtual Vocations](http://www.virtualvocations.com/)
@@ -189,19 +192,18 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Coworking Camp](http://www.coworking-camp.com) - Worldwide temporary coworking Spaces
   2. [deceler8](http://www.sierraymar.co/decelerate/) - 10 days retreat
   3. [Project Getaway](http://www.projectgetaway.com) - 30 days retreat
-  2. [Remote Year](http://www.remoteyear.com) - Travel & work with interesting people for a year
 
 ## Newsletters
-  1. [Working Nomads](http://www.workingnomads.co) - job posts
-  1. [Remote Digest](http://remotedigest.com/) - job posts
+  1. [Remote Digest](http://remotedigest.com/) - Job posts.
   1. [Remote Internships](http://foundersgrid.com/)
   1. [Remotive - productive remote workers](http://remotive.io/) - A weekly newsletter on Remote Tips & Jobs sent to 10,000+ Remote Workers
+  1. [Working Nomads](http://workingnomads.co/) - Job posts.
 
 ## Podcasts
   1. [Free People Move Podcast](http://teleport.org/podcast/) - mostly interviews with founders attacking the location independence / remote work space from different angles
-  2. [Home Work](http://5by5.tv/homework) - A weekly advice podcast for people who work from home.
-  3. [Lessons from Distributed Companies](https://www.lullabot.com/podcasts/drupalizeme-podcast/lessons-from-distributed-companies)
-  4. [Wide Teams](http://www.wideteams.com) - Each episode a one-on-one interview with a remote worker taking about workflow and practices
+  1. [Home Work](http://5by5.tv/homework) - A weekly advice podcast for people who work from home.
+  1. [Lessons from Distributed Companies](https://www.lullabot.com/podcasts/drupalizeme-podcast/lessons-from-distributed-companies)
+  1. [Wide Teams](http://www.wideteams.com) - Each episode a one-on-one interview with a remote worker taking about workflow and practices
 
 ## Companies with "remote DNA"
   1. [Aha!](https://www.aha.io/company/careers/current-openings) - Aha! is roadmapping software for PMs who want their mojo back.
@@ -212,7 +214,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Automattic](https://automattic.com/work-with-us/) - Makers of WordPress.com and Gravatar
   1. [Avallain](http://www.avallain.com/) - Education Technology and Digital Publishing. We have the tools and processes to achieve the positive impact on human potential that technology enhanced education can provide
   1. [Axelerant](https://axelerant.com/)
-  1. [BaseCamp](https://basecamp.com/team) - Project management software
+  1. [BaseCamp](https://basecamp.com/team) - Project management software.
   1. [Basho](http://bashojobs.theresumator.com) - Creators of Riak, an open source platform and k/v database. We code in Erlang and hang out on clouds. Everyone works remote and gets together a few times a year at HQ in Seattle.
   1. [BeBanjo](http://bebanjo.com/careers) - Software as a service for managing video on-demand. Ruby / Rails, Elasticsearch, Sidekiq.
   1. [Bluespark Labs](http://www.bluespark.com/work-at-bluespark) - WebDev Consulting and makers of Roomify. Remote team with HQs in Raleigh, NC and Italy. Drupal.
@@ -260,7 +262,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Heroku](https://www.heroku.com/careers) - PaaS Cloud, makes devs' experience awesome, Ruby, Erlang, Javascript, Golang, Python.
   1. [Honeybadger](https://www.honeybadger.io/) - Ruby. 100% remote.
   1. [Igalia](http://www.igalia.com/about-us/form) - Open source consultancy. HQ in Spain.
-  1. [Inpsyde GmbH](http://inpsyde.com/) - WordPress Agency in Germany
+  1. [Inpsyde GmbH](http://inpsyde.com/) - WordPress Agency in Germany.
   1. [Instructure](https://www.instructure.com/careers/) - We make software that makes people smarter.
   1. [Intellum](http://intellum.com/) - We build employee collaboration, performance and learning tools. Ruby, iOS, Android, AWS, GCS.
   1. [InVision](https://www.invisionapp.com/company#jobs) - prototyping, collaboration & workflow platform
@@ -279,12 +281,12 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Next Big Sound](https://jobs.lever.co/nextbigsound/) - Analytics and Insights for the Music Industry.
   1. [NodeSource](https://nodesource.com/company) - NodeSource is dedicated to creating a sustainable ecosystem for Node.js.
   1. [Onyo](http://www.onyo.com) - Transforming the eating out experience in pure pleasure.
-  1. [OpenCraft](http://opencraft.com/) - Open edX development (Free Software MOOC project)
+  1. [OpenCraft](http://opencraft.com/) - Open edX development (Free Software MOOC project).
   1. [Parsely](http://www.parsely.com/jobs/) - Analytics solutions
   1. [Particular Software (NServiceBus)](http://particular.net/careers) - Enterprise Service Bus, Messaging, C#, Open Source
   1. [Paylocity](http://www.paylocity.com/careers) - HR and payroll solutions
   1. [Pilot] (https://pilot.co) - Pilot is a software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.
-  1. [Precision Nutrition](http://www.precisionnutrition.com/) -  Online Nutrition Coaching and Certification
+  1. [Precision Nutrition](http://www.precisionnutrition.com/) -  Online Nutrition Coaching and Certification.
   1. [Prezly](https://www.prezly.com/) - SaaS PR platform. PHP, React, JS, Postgres. 100% remote.
   1. [ProofHQ, a Workfront company](http://www.proofhq.com/job-openings.html) - Online proofing solution. PHP, JavaScript, Java, .NET, MySQL, Redis
   1. [RainforestQA](https://www.rainforestqa.com/jobs/) - On demand QA as a service.
@@ -319,70 +321,72 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Zamphyr](https://zamphyr.com/posao/) - School 2.0 for learning computer science. Remote-first, 100% JavaScript mostly Meteor.
   1. [Zapier](https://zapier.com/jobs/)
 
+<<<<<<< HEAD
 ## Q&A
-- Chegg Tutor: [Online tutoring jobs starting at $20+/hour](https://www.chegg.com/tutors/become-a-tutor/)
-- Quora: [Telecommuting and Working Remotely](http://www.quora.com/Telecommuting-and-Working-Remotely) / [Virtual Workplace](http://www.quora.com/Virtual-Workplace) / [Working at Home](http://www.quora.com/Working-at-Home)
-- Remote.co: [Q&A's with 90+ Remote Companies](https://remote.co/qa-leading-remote-companies/)
-- StackExchange
-  - Workplace: [telecommute](http://workplace.stackexchange.com/questions/tagged/telecommute?sort=votes)
-  - Freelancing: [remote](http://freelancing.stackexchange.com/questions/tagged/remote?sort=votes) / [working from home](http://freelancing.stackexchange.com/questions/tagged/working-from-home?sort=votes)
-  - Programmers: [telecommuting](http://programmers.stackexchange.com/questions/tagged/telecommuting?sort=votes) / [home](http://programmers.stackexchange.com/questions/tagged/home?sort=votes)
-
+  1. Chegg Tutor: [Online tutoring jobs starting at $20+/hour](https://www.chegg.com/tutors/become-a-tutor/)
+  1. Quora: [Telecommuting and Working Remotely](http://www.quora.com/Telecommuting-and-Working-Remotely) / [Virtual Workplace](http://www.quora.com/Virtual-Workplace) / [Working at Home](http://www.quora.com/Working-at-Home)
+  1. Remote.co: [Q&A's with 90+ Remote Companies](https://remote.co/qa-leading-remote-companies/)
+  1. StackExchange
+    - Workplace: [telecommute](http://workplace.stackexchange.com/questions/tagged/telecommute?sort=votes)
+    - Freelancing: [remote](http://freelancing.stackexchange.com/questions/tagged/remote?sort=votes) / [working from home](http://freelancing.stackexchange.com/questions/tagged/working-from-home?sort=votes)
+    - Programmers: [telecommuting](http://programmers.stackexchange.com/questions/tagged/telecommuting?sort=votes) / [home](http://programmers.stackexchange.com/questions/tagged/home?sort=votes)
 
 ## Communities
-- [/r/telecommuting](https://www.reddit.com/r/telecommuting/) - subreddit
-- [##remotes](https://github.com/remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes))
-- [Hacker Paradise](http://www.hackerparadise.org/) - traveling remote workers
-- [#nomads](https://hashtagnomads.com/) - Slack community for nomadic working, $100 signup fee
-- [Nomadler](http://nomadler.com) - Hacker News for nomads
-- [Remote Year] (http://www.remoteyear.com/) - traveling techies for 1 year
+1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/) - Subreddit.
+1. [##remotes](https://github.com/remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes))
+1. [Hacker Paradise](http://www.hackerparadise.org/) - Traveling remote workers.
+1. [#nomads](https://hashtagnomads.com/) - Slack community for nomadic working, $100 signup fee.
+1. [Nomadler](http://nomadler.com) - Hacker News for nomads.
+1. [Remote Year] (http://www.remoteyear.com/) - Traveling techies for 1 year.
 
 ## Conferences
- 1. [DNX Global](http://www.dnxglobal.com/) - Digital Nomad Conference
+ 1. [DNX Global](http://www.dnxglobal.com/) - Digital Nomad Conference.
  1. [Out Of Office](http://www.outofoffice.hm/) - Online remote work event by [Human Made](https://hmn.md/)
  1. [Remote Working Conference](http://remoteworkingconf.com/) - Remote conference about remote working
- 1. [Yonder](http://yonder.io/) - A round table conference bringing together leaders of distributed companies
+ 1. [Yonder](http://yonder.io/) - A round table conference bringing together leaders of distributed companies.
 
 ## Tools
 #### Communication
-  - [Zoom](http://zoom.us) high-quality group video and sharing screen, run on linux, record session and support telephone calls.
-  - [Appear.in](https://appear.in/) browser-based, pluginless group video calls
-  - [Bluejeans](http://bluejeans.com/) video conferencing app, great for large groups & live streams
-  - [Codeshare.io](http://codeshare.io/) browser-based mult-user live code sharing with optional video chat
-  - [Fleep](https://fleep.io/) - Internal chat and collaboration tool for development teams
-  - [Floobits](https://floobits.com) remote pair programming with screen share. Integrates with Sublime, IntelliJ, Atom and others
-  - [Flowdock](https://www.flowdock.com/) browser-based group chat for teams. Integrates with GitHub, Jira, Jenkins etc
-  - [Hangout](http://www.google.com/+/learnmore/hangouts/) chat system, share desktop and video calls
-  - [Hipchat](https://www.hipchat.com/) great internal chat for hackers
-  - [IRCCloud](https://www.irccloud.com) browser-based IRC client with permanent storage
-  - [Mumble](https://www.mumble.info) Mumble is an open source voice chat software
-  - [Precursor](https://precursorapp.com) - Simple prototyping & brainstorming web app with real-time collaboration
-  - [PukkaTeam](https://www.pukkateam.com) - Real team presence through regular automated selfies and one-click video calling
-  - [ScreenHero](https://screenhero.com) - Real-time, HD screen sharing for collaboration in teams
-  - [Slack](https://slack.com/) chat system with loads of integration options
-  - [Talky](https://talky.io/) — Truly simple video chat and screen sharing for groups
-  - [Zoom](https://zoom.us) — Video chat and screen sharing for teams
+  1. [Appear.in](https://appear.in) – Browser-based, plugin-less group video calls.
+  1. [Bluejeans](http://bluejeans.com/) video conferencing app, great for large groups & live streams
+  1. [Codeshare.io](http://www.codeshare.io/) – Browser-based multi-user live code sharing with optional video chat.
+  1. [Fleep](https://fleep.io/) - Internal chat and collaboration tool for development teams
+  1. [Floobits](https://floobits.com) remote pair programming with screen share. Integrates with Sublime, IntelliJ, Atom and others
+  1. [Flowdock](https://www.flowdock.com/) – Browser-based group chat for teams. Integrates with GitHub, Jira, Jenkins etc.
+  1. [Hangouts](http://www.google.com/+/learnmore/hangouts/) – Chat system, share desktop and video calls.
+  1. [Hipchat](https://www.hipchat.com/) – Great internal chat for hackers.
+  1. [IRCCloud](https://www.irccloud.com) – Browser-based IRC client with permanent storage.
+  1. [Mumble](https://www.mumble.info) Mumble is an open source voice chat software
+  1. [Precursor](https://precursorapp.com) - Simple prototyping & brainstorming web app with real-time collaboration.
+  1. [PukkaTeam](https://www.pukkateam.com) - Real team presence through regular automated selfies and one-click video calling
+  1. [ScreenHero](https://screenhero.com) - Real-time, HD screen sharing for collaboration in teams.
+  1. [Skype](http://www.skype.com) – Video calls.
+  1. [Slack](https://slack.com/) – Chat system with loads of integration options.
+  1. [Sqwiggle](https://www.sqwiggle.com/) – Online Collaboration Software for Remote and Virtual Teams.
+  1. [Talky](https://talky.io/) — Truly simple video chat and screen sharing for groups
+  1. [Zoom](https://zoom.us) — High-quality group video and sharing screen, run on linux, record session and support telephone calls.
 
 #### Project Management
-  - [Asana](https://asana.com/) - Project management good for distributed teams
-  - [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source)
-  - [Trello](https://trello.com/) - lean project boards
+  1. [Asana](https://asana.com/) - Project management good for distributed teams.
+  1. [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source).
+  1. [Trello](https://trello.com/) - lean project boards.
 
 #### Others
-  - [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better
-  - [Noisli](http://www.noisli.com/) - Noisli has a list of diferent ambient sounds that can be combined to boost creativity and focus
-  - [Teleport Sundial](https://sundial.teleport.org) - Manage the locations and timezones of your distributed team
+  1. [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better.
+  1. [Noisli](http://www.noisli.com/) - Noisli has a list of diferent ambient sounds that can be combined to boost creativity and focus.
+  1. [Teleport Sundial](https://sundial.teleport.org) - Manage the locations and timezones of your distributed team.
 
 ## Law & Finance
-US based companies can hire remote workers as [1099 contractors](http://www.wisegeek.com/what-is-a-1099-contractor.htm)
+  1. [1099 contractors](http://www.wisegeek.com/what-is-a-1099-contractor.htm) – US based companies can hire remote workers as.
 
 ## Others
-- [Hacker Spaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) - list of hacker spaces
-- [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental
-- [Nomad List](https://nomadlist.com/) - Compare cost and quality of living in different cities
-- [Regus USA](http://www.regus.com/) - Executive suites, virtual offices & conference room space
-- [Remote Companies on Careers SO](https://stackoverflow.com/jobs/companies?r=true)
-- [WorkFrom](https://workfrom.co/) - Find coffee shops that are good to work from
+  1. [Hacker Spaces](http://hackerspaces.org/wiki/List_of_Hacker_Spaces) - List of hacker spaces.
+  1. [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
+  1. [Nomad List](https://nomadlist.io/) - Compare cost and quality of living in different cities.
+  1. [Regus USA](http://www.regus.com/) - Executive suites, virtual offices & conference room space.
+  1. [Remote Companies on Careers SO](http://careers.stackoverflow.com/companies?searchTerm=&location=&allowsremote=true)
+  1. [The Caravanserai](http://www.thecaravanserai.co/) - Co-living provider.
+  1. [WorkFrom](https://workfrom.co/) - Find coffee shops that are good to work from.
 
 ## License
 
