@@ -125,7 +125,21 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   4. [The Blue House](http://www.thebluehouse.io) - Startup house & coliving space in Morocco
   5. [Work From Bali](http://www.workfrombali.com) - Coliving space in Bali
   6. [Coworking in the Sun](http://www.coworkinginthesun.com) - Coliving & coworking space in Tenerife island in Spain
-  7. [Coworkation](http://www.coworkation.org) - Coworking & vacation in Colombia
+  7. [bedndesk](http://www.bedndesk.com) - Coworking & coliving space in Mallorca island in Spain
+  8. [Coworkation](http://www.coworkation.org) - Coworking & vacation in Colombia
+  9. [Nomad Pad](http://nomadpad.org) - Global network of coliving spaces
+  10. [Working Retreat](http://workingretreat.com) - Coliving space in Thailand
+  11. [NoHatDigital](http://www.nohatdigital.com/mansionpage/) - Coliving space in Mexico
+  12. [Sun Desk](http://sun-desk.com) - Coliving & coworking space in Taghazout, Morocco.
+  13. [Campus](http://buildcampus.com) - Network of coliving spaces (Currently US only)
+  14. [Blackbox](http://blackbox.vc) - Coliving space in Silicon Valley
+  15. [Hus24](http://hus24.org/en/) - Coliving space in Sweden
+  16. [Nest Copenhagen](http://nestcopenhagen.dk) - Coliving space in Copenhagen, Denmark.
+  17. [The Surf Office](http://www.thesurfoffice.com) - Coworking & vacation space in Portugal, Canaries and California.
+  18. [47RONIN](http://www.47ronin.co) - Coliving space in Kyoto, Japan.
+  19. [nomadicHUB](http://nomadichub.com) - Coliving & coworking spaces in exotic locations.
+  20. [Sende](http://sende.co) - Coliving & coworking space in northern Spain.
+  
 
 ## Newsletters
   1. [Working Nomads](http://workingnomads.co/) - job posts
