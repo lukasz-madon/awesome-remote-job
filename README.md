@@ -118,8 +118,12 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [WFH.io](https://www.wfh.io/)
   1. [Working Nomads](http://www.workingnomads.co/jobs)
 
-## Work / Housing Exchange
-  1. [Worldpackers](https://www.worldpackers.com)
+## Housing
+  1. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
+  2. [Caravanserai](http://www.thecaravanserai.co) - Global network of co-living spaces
+  3. [Nomad House](https://nomadhouse.io) - Global network of nomad housing
+  4. [The Blue House](http://www.thebluehouse.io) - Startup house & co-living space in Morocco
+  5. [Work From Bali](http://www.workfrombali.com) - Co-living space in Bali
 
 ## Newsletters
   1. [Working Nomads](http://workingnomads.co/) - job posts
