@@ -124,7 +124,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   3. [Nomad House](https://nomadhouse.io) - Global network of nomad housing
   4. [The Blue House](http://www.thebluehouse.io) - Startup house & coliving space in Morocco
   5. [Work From Bali](http://www.workfrombali.com) - Coliving space in Bali
-  6. [Coworking in the Sun]() - Coliving & coworking space in Tenerife island in Spain
+  6. [Coworking in the Sun](http://www.coworkinginthesun.com) - Coliving & coworking space in Tenerife island in Spain
   7. [Coworkation](http://www.coworkation.org) - Coworking & vacation in Colombia
 
 ## Newsletters
