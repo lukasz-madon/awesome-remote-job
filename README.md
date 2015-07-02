@@ -173,6 +173,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Collabora](https://www.collabora.com/about-us/careers.html) - Open source software-based consulting.
   1. [Compose](https://www.compose.io/jobs/) - Managing databases as a service. Distributed team with offices in San Meteo, CA and Birmingham, AL.
   1. [DataStax](http://www.datastax.com/company/careers) - Consulting based on Apache Cassandra.
+  1. [DigitalOcean](https://www.digitalocean.com/company/careers/) - Simple Cloud Hosting, Built for Developers 
   1. [DuckDuckGo](https://duck.co/help/company/hiring) - Search engine.
   1. [Etsy](https://www.etsy.com/careers) - Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.
   1. [Eyeo](https://eyeo.com/en/jobs/) - Maker of AdBlock Plus. Main office in Cologne, Germany.
