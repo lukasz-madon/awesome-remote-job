@@ -104,7 +104,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Golangprojects](http://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
   1. [Hasjob](https://hasjob.co/) Location filter -> "*Anywhere/Remote*"
   1. [HN hiring](http://hnhiring.me/) filter REMOTE
-  1. [JOBBOX.io](http://www.jobbox.io/offers) filter -> Remote only
+  1. [Landing.jobs](http://www.landing.jobs/offers) filter -> Remote only
   1. [Jobmote](http://jobmote.com/)
   1. [Jobspresso](http://jobspresso.co) * High-quality remote positions that are open and legitimate *
   1. [Jobs Remotely](https://jobsremotely.com) Jobs + Resumes
