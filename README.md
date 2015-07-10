@@ -190,6 +190,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Igalia](http://www.igalia.com/about-us/form) - Open source consultancy. HQ in Spain.
   1. [Inpsyde GmbH](http://inpsyde.com/) - WordPress Agency in Germany
   1. [Khan Academy](https://www.khanacademy.org/careers) - EdTech. Non-profit focusing on K-12 STEM. Less, React, Flux, Backbone, jQuery, Python, Google App Engine, Swift, and Objective-C.
+  1. [LaterPay](https://laterpay.net/) - The (micro)payment enabler. Munich, Germany. Python, Javascript, AWS.
   1. [Librato](https://www.librato.com/jobs) - Cloud Monitoring.
   1. [Lincoln Loop](https://lincolnloop.com/careers/) - WebDev shop.
   1. [LivingSocial](http://corporate.livingsocial.com/careers/overview/) - Company-wide support for teams of experienced, remote developers. Lots of autonomy.
