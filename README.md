@@ -192,6 +192,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Khan Academy](https://www.khanacademy.org/careers) - EdTech. Non-profit focusing on K-12 STEM. Less, React, Flux, Backbone, jQuery, Python, Google App Engine, Swift, and Objective-C.
   1. [LaterPay](https://laterpay.net/) - The (micro)payment enabler. Munich, Germany. Python, JavaScript, AWS.
   1. [Librato](https://www.librato.com/jobs) - Cloud Monitoring.
+  1. [Linaro](https://www.linaro.org/careers/) - OpenSource Engineering on ARM.
   1. [Lincoln Loop](https://lincolnloop.com/careers/) - WebDev shop.
   1. [LivingSocial](http://corporate.livingsocial.com/careers/overview/) - Company-wide support for teams of experienced, remote developers. Lots of autonomy.
   1. [Lullabot](https://www.lullabot.com/jobs) - Strategy, design and development using Drupal.
