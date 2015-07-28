@@ -243,7 +243,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 - [/r/telecommuting](http://www.reddit.com/r/telecommuting/) - subreddit
 - [##remotes](https://github.com/remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes)).
 - [Hacker Paradise](http://www.hackerparadise.org/) - traveling hackers
-- [#nomads](http://hashtagnomads.com/) - Slack community for nomadic working, $30 signup fee
+- [#nomads](http://hashtagnomads.com/) - Slack community for nomadic working, $100 signup fee
 - [Nomadler](http://nomadler.com) - Hacker News for nomads.
 
 ## Conferences
