@@ -23,10 +23,11 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 - [Communities](#communities)
 - [Conferences](#conferences)
 - [Tools](#tools)
-  - [Project managment](#project-managment)
   - [Communication](#communication)
+  - [Project Managment](#project-managment)
+  - [Others](#others)
 - [Law & Finance](#law--finance)
-- [Others](#others)
+- [Others](#others-1)
 
 <!-- /MarkdownTOC -->
 
@@ -147,7 +148,6 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   2. [deceler8](http://www.deceler8.me) - 10 days retreat
   3. [Coworking Camp](http://www.coworking-camp.com) - Worldwide temporary coworking Spaces.
   4. [Project Getaway](http://www.projectgetaway.com) - 30 days retreat
-  
 
 ## Newsletters
   1. [Working Nomads](http://workingnomads.co/) - job posts
@@ -160,7 +160,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   2. [Wide Teams](http://www.wideteams.com) - Each episode a one-on-one interview with a remote worker taking about workflow and practices
 
 ## Companies with "remote DNA"
-  1. [Articulate](https://www.articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby. Node. C# and .NET for Windows app.
+  1. [Articulate](https://www.articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
   1. [Automattic](http://automattic.com/work-with-us/) - Makers of WordPress.com and Gravatar.
   1. [BaseCamp](https://basecamp.com/team) - Project management software.
   1. [Basho](http://bashojobs.theresumator.com) - Creators of Riak, an open source platform and k/v database. We code in Erlang and hang out on clouds. Everyone works remote and gets together a few times a year at HQ in Seattle.
@@ -265,7 +265,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   - [Sqwiggle](https://www.sqwiggle.com/) Online Collaboration Software for Remote and Virtual Teams.
   - [Fleep](https://fleep.io/) - Internal chat and collaboration tool for development teams
 
-#### Project managment
+#### Project Managment
   - [Trello](https://trello.com/) - lean project boards.
   - [Asana](https://asana.com/) - Project management good for distributed teams
   - [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source)
