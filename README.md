@@ -120,6 +120,8 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [WFH.io](https://www.wfh.io/)
   1. [Working Nomads](http://www.workingnomads.co/jobs)
   2. [Github Jobs](https://jobs.github.com/) - Location filter -> "*Anywhere/Remote*"
+  1. [We Work Remotely](https://weworkremotely.com/)
+  1. [Offsite Careers](http://offsite.careers/)
 
 ## Housing
   1. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
