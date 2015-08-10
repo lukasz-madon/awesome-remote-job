@@ -267,6 +267,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   - [Skype](http://www.skype.com) video calls.
   - [Slack](https://slack.com/) chat system with loads of integration options
   - [Sqwiggle](https://www.sqwiggle.com/) Online Collaboration Software for Remote and Virtual Teams.
+  - [Talky](https://talky.io/) — Truly simple video chat and screen sharing for groups.
   - [Fleep](https://fleep.io/) - Internal chat and collaboration tool for development teams
 
 #### Project Managment
