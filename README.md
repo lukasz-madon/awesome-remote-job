@@ -185,6 +185,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Gitbook](http://jobs.gitbook.com/) - Publishing toolchain based on git. Javascript, node.js, Go.
   1. [GitHub](https://github.com/about/jobs)
   1. [GitLab](https://about.gitlab.com/jobs/) - Competitor to GitHub.
+  1. [GlueNetworks] (http://www.gluenetworks.com) - Network automation company.
   1. [Harvest](https://www.getharvest.com/careers) - Time tracking software.
   1. [Healthfinch](http://www.healthfinch.com/careers) - Making Healthcare systems more usable. HQ in Madison, WI, USA. Ruby, Javascript.
   1. [Heap](https://heapanalytics.com/jobs) – Web & Mobile Analytics, 2 of our 8 teammates are remote.
