@@ -222,7 +222,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Surevine](https://www.surevine.com/join-us/)
   1. [Surge](http://www.surgeforward.com/careers/) - 100% remote consulting company working primarily in Node.JS, iOS, .NET, PHP, and Android
   1. [Sysdig Cloud](http://sysdigcloud.com/jobs/)
-  1. [TED](http://www.ted.com/about/our-organization/jobs-at-ted) - Technolgoy team supports ted.com and internal tools. All engineers are remote. Ruby on Rails, JavaScript, Ember.js
+  1. [TED](http://www.ted.com/about/our-organization/jobs-at-ted) - Technology team supports ted.com and internal tools. All engineers are remote. Ruby on Rails, JavaScript, Ember.js
   1. [Teleport](http://teleport.org/jobs/)
   1. [Toggl](http://jobs.toggl.com/)
   1. [Toptal](http://www.toptal.com)
@@ -231,6 +231,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Wikimedia](http://wikimediafoundation.org/wiki/Work_with_us)
   1. [X-Team](https://x-team.com/join/)
   1. [Zapier](https://zapier.com/jobs/)
+  1. [Paylocity](http://www.paylocity.com/careers.aspx) - Payroll company with peripheral HR platforms (C#, ASP.NET MVC, SQL)
 
 ## Remote Moonlighting
   1. [Gittask](https://gittask.com) - Development tasks you can work on remotely
