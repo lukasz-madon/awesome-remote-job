@@ -116,7 +116,6 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [RemoteWorkHunt] (http://www.remoteworkhunt.com/)
   1. [Remotive Jobs](http://jobs.remotive.io/)
   2. [Virtual Vocations](http://www.virtualvocations.com/)
-  1. [weworkremotely.com](https://weworkremotely.com/)
   1. [WFH.io](https://www.wfh.io/)
   1. [Working Nomads](http://www.workingnomads.co/jobs)
   2. [Github Jobs](https://jobs.github.com/) - Location filter -> "*Anywhere/Remote*"
@@ -223,6 +222,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Surge](http://www.surgeforward.com/careers/) - 100% remote consulting company working primarily in Node.JS, iOS, .NET, PHP, and Android
   1. [Sysdig Cloud](http://sysdigcloud.com/jobs/)
   1. [TED](http://www.ted.com/about/our-organization/jobs-at-ted) - Technology team supports ted.com and internal tools. All engineers are remote. Ruby on Rails, JavaScript, Ember.js
+  1. [Teamed.io](http://www.teamed.io/)
   1. [Teleport](http://teleport.org/jobs/)
   1. [Toggl](http://jobs.toggl.com/)
   1. [Toptal](http://www.toptal.com)
@@ -268,6 +268,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   - [Skype](http://www.skype.com) video calls.
   - [Slack](https://slack.com/) chat system with loads of integration options
   - [Sqwiggle](https://www.sqwiggle.com/) Online Collaboration Software for Remote and Virtual Teams.
+  - [Talky](https://talky.io/) — Truly simple video chat and screen sharing for groups.
   - [Fleep](https://fleep.io/) - Internal chat and collaboration tool for development teams
 
 #### Project Managment
