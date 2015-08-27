@@ -231,7 +231,6 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Wikimedia](http://wikimediafoundation.org/wiki/Work_with_us)
   1. [X-Team](https://x-team.com/join/)
   1. [Zapier](https://zapier.com/jobs/)
-  1. [Paylocity](http://www.paylocity.com/careers.aspx) - Payroll company with peripheral HR platforms (C#, ASP.NET MVC, SQL)
 
 ## Remote Moonlighting
   1. [Gittask](https://gittask.com) - Development tasks you can work on remotely
