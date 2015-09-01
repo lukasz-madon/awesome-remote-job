@@ -143,7 +143,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   18. [47RONIN](http://www.47ronin.co) - Coliving space in Kyoto, Japan.
   19. [nomadicHUB](http://nomadichub.com) - Coliving & coworking spaces in exotic locations.
   20. [Sende](http://sende.co) - Coliving & coworking space in northern Spain.
-  
+
 ## Events
   1. [Remote Year](http://www.remoteyear.com) - Travel & work with interesting people for a year.
   2. [deceler8](http://www.deceler8.me) - 10 days retreat
@@ -165,6 +165,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Automattic](http://automattic.com/work-with-us/) - Makers of WordPress.com and Gravatar.
   1. [BaseCamp](https://basecamp.com/team) - Project management software.
   1. [Basho](http://bashojobs.theresumator.com) - Creators of Riak, an open source platform and k/v database. We code in Erlang and hang out on clouds. Everyone works remote and gets together a few times a year at HQ in Seattle.
+  1. [BeBanjo](http://www.bebanjo.com/team) - Software as a service for managing video on-demand. Ruby / Rails, Elasticsearch, Sidekiq.
   1. [Bluespark Labs](http://www.bluespark.com/work-at-bluespark) - WebDev Consulting and makers of Roomify. Remote team with HQs in Raleigh, NC and Italy. Drupal.
   1. [Buffer](http://jobs.bufferapp.com/) - Tools to help manage social media. PHP, CodeIgniter, MongoDB, Memcache, Backbone.js, React.js, Grunt.js, LESS, and Python.
   1. [Canonical](http://www.canonical.com/careers/all-vacancies) - Ubuntu.
@@ -175,7 +176,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Collabora](https://www.collabora.com/about-us/careers.html) - Open source software-based consulting.
   1. [Compose](https://www.compose.io/jobs/) - Managing databases as a service. Distributed team with offices in San Meteo, CA and Birmingham, AL.
   1. [DataStax](http://www.datastax.com/company/careers) - Consulting based on Apache Cassandra.
-  1. [DigitalOcean](https://www.digitalocean.com/company/careers/) - Simple Cloud Hosting, Built for Developers 
+  1. [DigitalOcean](https://www.digitalocean.com/company/careers/) - Simple Cloud Hosting, Built for Developers
   1. [DuckDuckGo](https://duck.co/help/company/hiring) - Search engine.
   1. [Etsy](https://www.etsy.com/careers) - Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.
   1. [Eyeo](https://eyeo.com/en/jobs/) - Maker of AdBlock Plus. Main office in Cologne, Germany.
@@ -205,7 +206,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [NodeSource](https://nodesource.com/company) - NodeSource is dedicated to creating a sustainable ecosystem for Node.js.
   1. [OpenCraft](http://opencraft.com/) - Open edX development (Free Software MOOC project)
   1. [Parsely](http://www.parsely.com/jobs/) - Analytics solutions
-  1. [Paylocity](http://www.paylocity.com/careers.aspx) - HR and payroll solutions 
+  1. [Paylocity](http://www.paylocity.com/careers.aspx) - HR and payroll solutions
   1. [Precision Nutrition](http://precisionnutrition.com) -  Online Nutrition Coaching and Certification
   1. [Railsdog](http://railsdog.com/) - eCommerce solutions and integrations based on Spree (Ruby on Rails). Most team members are distributed including development, project management, and executive roles.
   1. [RebelMouse](https://blog.rebelmouse.com/jobs/) - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
