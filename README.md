@@ -99,6 +99,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Angel List](https://angel.co/jobs) Job Type -> Remote OK
   1. [Authentic Jobs](http://www.authenticjobs.com/)
   1. [Careers Stackoverflow](http://careers.stackoverflow.com/jobs/remote)
+  1. [Creativepool Jobs](http://creativepool.com/jobs/) - filter -> "remote"
   1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
   1. [Flexjobs](http://www.flexjobs.com/)
   1. [Front-end Developer Jobs](http://frontenddeveloperjob.com/) View as table, then sort by `performed`
@@ -106,6 +107,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Guru](http://www.guru.com/) - (has MANY different categories outside software)
   1. [Hasjob](https://hasjob.co/) Location filter -> "*Anywhere/Remote*"
   1. [HN hiring](http://hnhiring.me/) filter REMOTE
+  1. [Ionic Jobs](http://jobs.ionic.io/)
   1. [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
   1. [Jobmote](http://jobmote.com/)
   1. [Jobspresso](http://jobspresso.co) * High-quality remote positions that are open and legitimate *
@@ -116,16 +118,14 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Remote OK](http://remoteok.io/) - scrapes many job board feeds for remote positions
   1. [RemoteWorkHunt] (http://www.remoteworkhunt.com/)
   1. [Remotive Jobs](http://jobs.remotive.io/)
+  1. [Slack at Work](http://slackatwork.com/)
+  1. [Smashing Jobs](http://jobs.smashingmagazine.com/) - filter -> "remote"
   2. [Virtual Vocations](http://www.virtualvocations.com/)
   1. [WFH.io](https://www.wfh.io/)
   1. [Working Nomads](http://www.workingnomads.co/jobs)
   2. [Github Jobs](https://jobs.github.com/) - Location filter -> "*Anywhere/Remote*"
   1. [We Work Remotely](https://weworkremotely.com/)
   1. [Offsite Careers](http://offsite.careers/)
-  1. [Smashing Jobs](http://jobs.smashingmagazine.com/) - filter -> "remote"
-  1. [Ionic Jobs](http://jobs.ionic.io/)
-  1. [Creativepool Jobs](http://creativepool.com/jobs/) - filter -> "remote"
-  1. [Slack at Work](http://slackatwork.com/)
 
 ## Housing
   1. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
