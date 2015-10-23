@@ -99,6 +99,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Angel List](https://angel.co/jobs) Job Type -> Remote OK
   1. [Authentic Jobs](http://www.authenticjobs.com/)
   1. [Careers Stackoverflow](http://careers.stackoverflow.com/jobs/remote)
+  1. [CodePen Jobs](https://codepen.io/jobs/) The place for front end design and development jobs. (CMD + F + Remote)
   1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
   1. [Flexjobs](http://www.flexjobs.com/)
   1. [Front-end Developer Jobs](http://frontenddeveloperjob.com/) View as table, then sort by `performed`
