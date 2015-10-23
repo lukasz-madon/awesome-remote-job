@@ -166,6 +166,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Articulate](https://www.articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
   1. [Auth0](https://auth0.com/) - Identity for developers
   1. [Automattic](http://automattic.com/work-with-us/) - Makers of WordPress.com and Gravatar.
+  1. [Avallain](http://www.avallain.com/) - Education Technology and Digital Publishing. We have the tools and processes to achieve the positive impact on human potential that technology enhanced education can provide. 
   1. [BaseCamp](https://basecamp.com/team) - Project management software.
   1. [Basho](http://bashojobs.theresumator.com) - Creators of Riak, an open source platform and k/v database. We code in Erlang and hang out on clouds. Everyone works remote and gets together a few times a year at HQ in Seattle.
   1. [BeBanjo](http://www.bebanjo.com/team) - Software as a service for managing video on-demand. Ruby / Rails, Elasticsearch, Sidekiq.
