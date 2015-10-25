@@ -122,6 +122,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   2. [Github Jobs](https://jobs.github.com/) - Location filter -> "*Anywhere/Remote*"
   1. [We Work Remotely](https://weworkremotely.com/)
   1. [Offsite Careers](http://offsite.careers/)
+  1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
 
 ## Housing
   1. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
