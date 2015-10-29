@@ -169,7 +169,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remotive - productive remote workers](http://remotive.io/) - A weekly newsletter on Remote Tips & Jobs sent to 10,000+ Remote Workers
 
 ## Podcasts
-  1. [Free People Move Podcast](http://teleport.org/podcast) - mostly interviews with founders attacking the location independence / remote work space from different angles
+  1. [Free People Move Podcast](http://teleport.org/podcast/) - mostly interviews with founders attacking the location independence / remote work space from different angles
   2. [Home Work](http://5by5.tv/homework) - A  weekly advice podcast for people who work from home.
   3. [Lessons from Distributed Companies](https://www.lullabot.com/blog/podcasts/drupalizeme-podcast/38-lessons-distributed-companies)
   4. [Wide Teams](http://www.wideteams.com) - Each episode a one-on-one interview with a remote worker taking about workflow and practices
