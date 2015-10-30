@@ -160,6 +160,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 ## Podcasts
   1. [Lessons from Distributed Companies](https://www.lullabot.com/blog/podcasts/drupalizeme-podcast/38-lessons-distributed-companies)
   2. [Wide Teams](http://www.wideteams.com) - Each episode a one-on-one interview with a remote worker taking about workflow and practices
+  3. [Free People Move Podcast](http://teleport.org/podcast) - mostly interviews with founders attacking the location independence / remote work space from different angles
 
 ## Companies with "remote DNA"
   1. [Arkency](https://blog.arkency.com) - Rails and React.js experts, fully remote/async
@@ -285,7 +286,8 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   - [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source)
 
 #### Others
-  - [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better.
+  - [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better
+  - [Teleport Sundial](https://sundial.teleport.org) - Manage the locations and timezones of your distributed team
 
 ## Law & Finance
 US based companies can hire remote workers as [1099 contractors](http://www.wisegeek.com/what-is-a-1099-contractor.htm).
