@@ -212,6 +212,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Mozilla](https://careers.mozilla.org/en-US/listings/) - Firefox.
   1. [Next Big Sound](https://jobs.lever.co/nextbigsound/) - Analytics and Insights for the Music Industry.
   1. [NodeSource](https://nodesource.com/company) - NodeSource is dedicated to creating a sustainable ecosystem for Node.js.
+  1. [Onyo](http://www.onyo.com) - Transforming the eating out experience in pure pleasure.
   1. [OpenCraft](http://opencraft.com/) - Open edX development (Free Software MOOC project)
   1. [Parsely](http://www.parsely.com/jobs/) - Analytics solutions
   1. [Particular Software (NServiceBus)](http://particular.net/careers) - Enterprise Service Bus, Messaging, C#, Open Source
