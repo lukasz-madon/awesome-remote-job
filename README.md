@@ -229,6 +229,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Soostone](http://www.soostone.com/careers)
   1. [Sqwiggle](https://angel.co/sqwiggle/jobs)
   1. [Strongloop](http://strongloop.com/careers/)
+  1. [StyleSeat](http://styleseat.com/jobs) - we love high-impact remote engineers, collaboration, creativity, python, angularjs
   1. [Surevine](https://www.surevine.com/join-us/)
   1. [Surge](http://www.surgeforward.com/careers/) - 100% remote consulting company working primarily in Node.JS, iOS, .NET, PHP, and Android
   1. [Sysdig Cloud](http://sysdigcloud.com/jobs/)
