@@ -86,6 +86,11 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [How to run a team of people who never see each other](http://qz.com/230998/how-to-run-a-team-of-people-who-never-see-each-other/)
   1. [Who Needs an Office? How to Go 100 Percent Remote.](http://www.entrepreneur.com/article/242708)
   1. [Remote Work: How to work the Precision Nutrition way](http://www.precisionnutrition.com/remote-how-to-work-the-pn-way)
+  1. [How to suggest improvements remotely](http://x-team.com/2015/01/suggest-improvements-remotely/)
+  1. [8 tips that will make you a more active, healthier remote developer](http://x-team.com/2015/08/how-to-be-healthy-remote/)
+  1. [The 5 most important things we do as a remote company](http://x-team.com/2015/07/5-important-things-remote-company/)
+  1. [How to focus when working remotely](http://x-team.com/2015/04/focus-working-remotely/)
+  1. [http://x-team.com/2015/03/mistakes-remote-developers/](http://x-team.com/2015/03/mistakes-remote-developers/)
 
 ## Videos
   1. [Jason Fried: Why work doesn't happen at work](https://www.youtube.com/watch?v=5XD2kNopsUs)
