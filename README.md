@@ -178,6 +178,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
   1. [Basho](http://bashojobs.theresumator.com) - Creators of Riak, an open source platform and k/v database. We code in Erlang and hang out on clouds. Everyone works remote and gets together a few times a year at HQ in Seattle.
   1. [BeBanjo](http://www.bebanjo.com/team) - Software as a service for managing video on-demand. Ruby / Rails, Elasticsearch, Sidekiq.
   1. [Bluespark Labs](http://www.bluespark.com/work-at-bluespark) - WebDev Consulting and makers of Roomify. Remote team with HQs in Raleigh, NC and Italy. Drupal.
+  1. [Bounty Most Wanted](https://bountymostwanted.com) - Refer most wanted startup jobs. / Python, Django, JavaScript, Angular.js / Brazil & Germany
   1. [Buffer](http://jobs.bufferapp.com/) - Tools to help manage social media. PHP, CodeIgniter, MongoDB, Memcache, Backbone.js, React.js, Grunt.js, LESS, and Python.
   1. [Canonical](http://www.canonical.com/careers/all-vacancies) - Ubuntu.
   1. [Catalyze](https://catalyze.io/jobs) - HIPAA-compliant cloud computing for healthcare. HQ in Madison, WI. Docker, Go, Python.
