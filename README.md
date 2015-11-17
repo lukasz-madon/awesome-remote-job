@@ -299,6 +299,7 @@ A curated list of awesome [remote working](http://en.wikipedia.org/wiki/Telecomm
 #### Others
   - [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better
   - [Teleport Sundial](https://sundial.teleport.org) - Manage the locations and timezones of your distributed team
+  - [Noisli](http://www.noisli.com/) - Noisli has a list of diferent ambient sounds that can be combined to boost creativity and focus
 
 ## Law & Finance
 US based companies can hire remote workers as [1099 contractors](http://www.wisegeek.com/what-is-a-1099-contractor.htm).
