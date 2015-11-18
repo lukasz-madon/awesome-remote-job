@@ -103,6 +103,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Angel List](https://angel.co/jobs) Job Type -> Remote OK
   1. [Authentic Jobs](https://authenticjobs.com/)
   1. [Careers Stackoverflow](http://careers.stackoverflow.com/jobs/remote)
+  2. [Dice] (https://www.dice.com/jobs/advancedResult.html?sort=relevance&telecommute=true) Checkmark Telecommute -> Yes
   1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
   1. [Flexjobs](https://www.flexjobs.com/)
   1. [Front-end Developer Jobs](http://frontenddeveloperjob.com/) View as table, then sort by `performed`
