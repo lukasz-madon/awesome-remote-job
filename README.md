@@ -14,6 +14,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 - [Books](#books)
 - [Job boards](#job-boards)
 - [Housing](#housing)
+- [Interviewing](#interviewing)
 - [Events](#events)
 - [Newsletters](#newsletters)
 - [Podcasts](#podcasts)
@@ -151,6 +152,9 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   18. [47RONIN](http://www.47ronin.co) - Coliving space in Kyoto, Japan.
   19. [nomadicHUB](http://nomadichub.com) - Coliving & coworking spaces in exotic locations.
   20. [Sende](http://sende.co) - Coliving & coworking space in northern Spain.
+
+## Interviewing
+  1. [remoteinterview.io](https://www.remoteinterview.io/takehome) - Take home projects
 
 ## Events
   1. [Remote Year](http://www.remoteyear.com) - Travel & work with interesting people for a year.
