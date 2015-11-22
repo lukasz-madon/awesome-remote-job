@@ -130,6 +130,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Offsite Careers](http://offsite.careers/)
   1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
   2. [Remotely Awesome Jobs](http://www.remotelyawesomejobs.com) - Crawls multiple job boards for remote job postings.
+  1. [Underdog.io](https://underdog.io) - Location preference(s) -> "I want to work remotely"
 
 ## Housing
   1. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
