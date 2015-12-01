@@ -272,7 +272,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [OpenCraft](http://opencraft.com/) - Open edX development (Free Software MOOC project)
   1. [Parsely](http://www.parsely.com/jobs/) - Analytics solutions
   1. [Particular Software (NServiceBus)](http://particular.net/careers) - Enterprise Service Bus, Messaging, C#, Open Source
-  1. [Paylocity](http://www.paylocity.com/careers.aspx) - HR and payroll solutions
+  1. [Paylocity](http://www.paylocity.com/careers) - HR and payroll solutions
   1. [Pilot] (https://pilot.co) - Pilot is a software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.
   1. [Precision Nutrition](http://www.precisionnutrition.com/) -  Online Nutrition Coaching and Certification
   1. [Prezly](https://www.prezly.com/) - SaaS PR platform. PHP, React, JS, Postgres. 100% remote.
