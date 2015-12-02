@@ -101,6 +101,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [The Year Without Pants: WordPress.com and the Future of Work](http://scottberkun.com/yearwithoutpants/) ([bibliography](https://www.zotero.org/groups/oscon_2014-remote/items/collectionKey/9WMMQMJ9))
 
 ## Job boards
+  1. [adafruit](http://www.adafruit.com/jobs/) Remote Jobs have 'Anywhere' tag
   1. [Angel List](https://angel.co/jobs) Job Type -> Remote OK
   1. [Authentic Jobs](https://authenticjobs.com/)
   1. [Careers Stackoverflow](http://careers.stackoverflow.com/jobs/remote)
