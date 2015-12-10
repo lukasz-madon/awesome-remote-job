@@ -91,6 +91,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [The 5 most important things we do as a remote company](http://x-team.com/2015/07/5-important-things-remote-company/)
   1. [How to focus when working remotely](http://x-team.com/2015/04/focus-working-remotely/)
   1. [http://x-team.com/2015/03/mistakes-remote-developers/](http://x-team.com/2015/03/mistakes-remote-developers/)
+  1. [https://github.com/tadast/switching-to-contracting-uk/tree/formationsfactory](Becoming a contractor programmer in the UK) 
 
 ## Videos
   1. [Jason Fried: Why work doesn't happen at work](https://www.youtube.com/watch?v=5XD2kNopsUs)
