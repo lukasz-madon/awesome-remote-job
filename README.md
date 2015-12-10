@@ -286,6 +286,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   - [Appear.in](https://appear.in/) browser-based, pluginless group video calls
   - [Bluejeans](http://bluejeans.com/) video conferencing app, great for large groups & live streams
   - [Codeshare.io](http://codeshare.io/) browser-based mult-user live code sharing with optional video chat
+  - [Fleep](https://fleep.io/) - Internal chat and collaboration tool for development teams
+  - [Floobits](https://floobits.com) remote pair programming with screen share. Integrates with Sublime, IntelliJ, Atom and others.
   - [Flowdock](https://www.flowdock.com/) browser-based group chat for teams. Integrates with GitHub, Jira, Jenkins etc.
   - [Hangout](http://www.google.com/+/learnmore/hangouts/) chat system, share desktop and video calls.
   - [Hipchat](https://www.hipchat.com/) great internal chat for hackers.
@@ -297,7 +299,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   - [Speak](https://speak.io) - Instant Team Communication: blazing fast audio, video and screen sharing inside your team
   - [Sqwiggle](https://www.sqwiggle.com/) Online Collaboration Software for Remote and Virtual Teams.
   - [Talky](https://talky.io/) — Truly simple video chat and screen sharing for groups.
-  - [Fleep](https://fleep.io/) - Internal chat and collaboration tool for development teams
 
 #### Project Managment
   - [Trello](https://trello.com/) - lean project boards.
