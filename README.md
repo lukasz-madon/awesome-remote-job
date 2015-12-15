@@ -112,6 +112,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Guru](http://www.guru.com/) - (has MANY different categories outside software)
   1. [Hasjob](https://hasjob.co/) Location filter -> "*Anywhere/Remote*"
   1. [HN hiring](http://hnhiring.me/) filter REMOTE
+  1. [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) has remote type filter 
   1. [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
   1. [Jobmote](http://jobmote.com/)
   1. [Jobspresso](http://jobspresso.co) * High-quality remote positions that are open and legitimate *
