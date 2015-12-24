@@ -102,6 +102,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [The Year Without Pants: WordPress.com and the Future of Work](http://scottberkun.com/yearwithoutpants/) ([bibliography](https://www.zotero.org/groups/oscon_2014-remote/items/collectionKey/9WMMQMJ9))
 
 ## Job boards
+  1. [adafruit](http://www.adafruit.com/jobs/) Remote Jobs have 'Anywhere' tag
   1. [Angel List](https://angel.co/jobs) Job Type -> Remote OK
   1. [Authentic Jobs](https://authenticjobs.com/)
   1. [Careers Stackoverflow](http://careers.stackoverflow.com/jobs/remote)
@@ -112,6 +113,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Guru](http://www.guru.com/) - (has MANY different categories outside software)
   1. [Hasjob](https://hasjob.co/) Location filter -> "*Anywhere/Remote*"
   1. [HN hiring](http://hnhiring.me/) filter REMOTE
+  1. [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) has remote type filter 
   1. [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
   1. [Jobmote](http://jobmote.com/)
   1. [Jobspresso](http://jobspresso.co) * High-quality remote positions that are open and legitimate *
@@ -224,7 +226,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Lullabot](https://www.lullabot.com/jobs) - Strategy, design and development using Drupal.
   1. [Mapbox](https://www.mapbox.com/jobs/) - Map integration tools for various platforms.
   1. [Modern Tribe](http://tri.be/about/join-our-team/) - A digital agency with a modern twist. All freelancers. All experts.
-  1. [Mozilla](https://careers.mozilla.org/en-US/listings/) - Firefox.
+  1. [Mozilla](https://careers.mozilla.org/en-US/listings/) - Firefox has a 'Remote' option under it's location searchbar
   1. [Next Big Sound](https://jobs.lever.co/nextbigsound/) - Analytics and Insights for the Music Industry.
   1. [NodeSource](https://nodesource.com/company) - NodeSource is dedicated to creating a sustainable ecosystem for Node.js.
   1. [Onyo](http://www.onyo.com) - Transforming the eating out experience in pure pleasure.
