@@ -155,7 +155,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   20. [Sende](http://sende.co) - Coliving & coworking space in northern Spain.
 
 ## Interviewing
-  1. [remoteinterview.io](https://www.remoteinterview.io/takehome) - Take home projects
+  1. [remoteinterview.io](https://www.remoteinterview.io/) - Coding tests & pair programming interview tools
 
 ## Events
   1. [Remote Year](http://www.remoteyear.com) - Travel & work with interesting people for a year.
