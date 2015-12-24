@@ -115,7 +115,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
   1. [Jobmote](http://jobmote.com/)
   1. [Jobspresso](http://jobspresso.co) * High-quality remote positions that are open and legitimate *
-  1. [Jobs Remotely](https://jobsremotely.com) Jobs + Resumes
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) filter -> "*remote*"
   1. [Nomad Jobs](https://remoteok.io)
   1. [Remote Coder](https://remotecoder.io/)
