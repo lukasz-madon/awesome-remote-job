@@ -91,7 +91,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [The 5 most important things we do as a remote company](http://x-team.com/2015/07/5-important-things-remote-company/)
   1. [How to focus when working remotely](http://x-team.com/2015/04/focus-working-remotely/)
   1. [http://x-team.com/2015/03/mistakes-remote-developers/](http://x-team.com/2015/03/mistakes-remote-developers/)
-  1. [https://github.com/tadast/switching-to-contracting-uk/tree/formationsfactory](Becoming a contractor programmer in the UK) 
+  1. [Becoming a contractor programmer in the UK](https://github.com/tadast/switching-to-contracting-uk/tree/formationsfactory)
+  1. [Remote versus Co-located Work](http://martinfowler.com/articles/remote-or-co-located.html)
 
 ## Videos
   1. [Jason Fried: Why work doesn't happen at work](https://www.youtube.com/watch?v=5XD2kNopsUs)
@@ -129,6 +130,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [We Work Remotely](https://weworkremotely.com/)
   1. [Offsite Careers](http://offsite.careers/)
   1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
+  2. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
   2. [Remotely Awesome Jobs](http://www.remotelyawesomejobs.com) - Crawls multiple job boards for remote job postings.
 
 ## Housing
@@ -152,6 +154,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   18. [47RONIN](http://www.47ronin.co) - Coliving space in Kyoto, Japan.
   19. [nomadicHUB](http://nomadichub.com) - Coliving & coworking spaces in exotic locations.
   20. [Sende](http://sende.co) - Coliving & coworking space in northern Spain.
+  21. [HubBOG] (http://hubbog.com/) - Coworking Space + Startup Accelerator. Bogota, Colombia
 
 ## Interviewing
   1. [remoteinterview.io](https://www.remoteinterview.io/) - Coding tests & pair programming interview tools
@@ -179,7 +182,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Articulate](https://www.articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
   1. [Auth0](https://auth0.com/) - Identity for developers
   1. [Automattic](https://automattic.com/work-with-us/) - Makers of WordPress.com and Gravatar.
-  1. [Avallain](http://www.avallain.com/) - Education Technology and Digital Publishing. We have the tools and processes to achieve the positive impact on human potential that technology enhanced education can provide. 
+  1. [Avallain](http://www.avallain.com/) - Education Technology and Digital Publishing. We have the tools and processes to achieve the positive impact on human potential that technology enhanced education can provide.
   1. [BaseCamp](https://basecamp.com/team) - Project management software.
   1. [Basho](http://bashojobs.theresumator.com) - Creators of Riak, an open source platform and k/v database. We code in Erlang and hang out on clouds. Everyone works remote and gets together a few times a year at HQ in Seattle.
   1. [BeBanjo](http://www.bebanjo.com/team) - Software as a service for managing video on-demand. Ruby / Rails, Elasticsearch, Sidekiq.
@@ -196,6 +199,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Datadog](http://jobs.datadoghq.com/) - Easy to use and scalable monitoring systems for modern and dynamic infrastructure.  Distributed team with offices in New York, Boston and Paris.  Engineers based all around the world.
   1. [DataStax](http://www.datastax.com/company/careers) - Consulting based on Apache Cassandra.
   1. [DigitalOcean](https://www.digitalocean.com/company/careers/) - Simple Cloud Hosting, Built for Developers
+  1. [Doximity](https://doximity.com/about/jobs) - Largest online medical network of US physicians. Ruby, Rails, Go, JavaScript, MySQL.
   1. [DuckDuckGo](https://duck.co/help/company/hiring) - Search engine.
   1. [Envato](http://www.envato.com/careers) - Maker of ThemeForest and other online marketplaces. MySQL, Ruby, Rails, Javascript. Distributed team with HQ in Melbourne, Australia.
   1. [Etsy](https://www.etsy.com/careers) - Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.
@@ -225,6 +229,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Mapbox](https://www.mapbox.com/jobs/) - Map integration tools for various platforms.
   1. [Modern Tribe](http://tri.be/about/join-our-team/) - A digital agency with a modern twist. All freelancers. All experts.
   1. [Mozilla](https://careers.mozilla.org/en-US/listings/) - Firefox.
+  1. [Netsparker](https://www.netsparker.com/jobs/) - Web Application Security Scanner.
   1. [Next Big Sound](https://jobs.lever.co/nextbigsound/) - Analytics and Insights for the Music Industry.
   1. [NodeSource](https://nodesource.com/company) - NodeSource is dedicated to creating a sustainable ecosystem for Node.js.
   1. [Onyo](http://www.onyo.com) - Transforming the eating out experience in pure pleasure.
@@ -235,6 +240,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Precision Nutrition](http://www.precisionnutrition.com/) -  Online Nutrition Coaching and Certification
   1. [Railsdog](http://railsdog.com/) - eCommerce solutions and integrations based on Spree (Ruby on Rails). Most team members are distributed including development, project management, and executive roles.
   1. [RainforestQA](https://www.rainforestqa.com/jobs/) - On demand QA as a service.
+  1. [Real HQ](https://realhq.com) - Maker of Agent Pronto, software designed to help make home buying and selling a better experience. We've been remote since the start, now 50+ spread across the globe. Ruby, Rails, React.js, iOS/Android.
   1. [RebelMouse](https://blog.rebelmouse.com/jobs/) - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
   1. [Recurly](https://recurly.com/jobs/) - recurring billing management for subscription-based businesses
   1. [Red Hat](http://jobs.redhat.com/)
@@ -243,6 +249,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Simple](https://www.simple.com/careers)
   1. [SoftwareMill](https://softwaremill.com/join-us/)
   1. [StackExchange](http://stackexchange.com/work-here)
+  1. [Songspace](https://songspace.com) Helps music creators collaborate, catalog, and share work with their professional team
   1. [Soostone](http://www.soostone.com/careers)
   1. [Sqwiggle](https://angel.co/sqwiggle/jobs)
   1. [Strongloop](https://strongloop.com/careers/)
