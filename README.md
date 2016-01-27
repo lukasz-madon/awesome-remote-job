@@ -71,6 +71,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [The Pros & Cons of Being a Remote Team (& How We Do It)](https://www.groovehq.com/blog/being-a-remote-team)
   1. [To Raise Productivity, Let More Employees Work from Home](https://hbr.org/2014/01/to-raise-productivity-let-more-employees-work-from-home/ar/1)
   1. [What is a Distributed Company?](https://www.lullabot.com/articles/what-is-a-distributed-company)
+  1. [Why I work remotely ( hint: it has nothing to do with productivity)](https://m.signalvnoise.com/why-i-work-remotely-hint-it-has-nothing-to-do-with-productivity-34ace30f74fc?gi=39b26e8f40a1)
   1. [Why Coworking Is a Hit for Telecommuters and Entrepreneurs](http://www.cio.com/article/2369058/telecommuting/why-coworking-is-a-hit-for-telecommuters-and-entrepreneurs.html)
   1. [Why Marissa Mayer’s ban on remote working at Yahoo could backfire badly](http://gigaom.com/2013/02/25/why-marissa-mayers-ban-on-remote-working-at-yahoo-could-backfire-badly/)
   1. [Why moonlighting will change your career](http://blog.landing.jobs/why-moonlighting-will-change-your-career/)
