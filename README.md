@@ -121,6 +121,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) filter -> "*remote*"
   1. [Nomad Jobs](https://remoteok.io)
   1. [Remote Coder](https://remotecoder.io/)
+  1. [Remote First](https://remote-first.com/)
   1. [Remote OK](https://remoteok.io/) - scrapes many job board feeds for remote positions
   1. [Remotive Jobs](http://jobs.remotive.io/)
   2. [Skip the Drive](http://www.skipthedrive.com/)
