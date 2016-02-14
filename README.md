@@ -133,6 +133,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
   2. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
   2. [Remotely Awesome Jobs](http://www.remotelyawesomejobs.com) - Crawls multiple job boards for remote job postings.
+  3. [Work Remotely](https://workremotely.io/) - Crawlsand cures many job board feeds for remote positions
 
 ## Housing
   1. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
