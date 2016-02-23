@@ -245,6 +245,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Real HQ](https://realhq.com) - Maker of Agent Pronto, software designed to help make home buying and selling a better experience. We've been remote since the start, now 50+ spread across the globe. Ruby, Rails, React.js, iOS/Android.
   1. [RebelMouse](https://blog.rebelmouse.com/jobs/) - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
   1. [Recurly](https://recurly.com/jobs/) - recurring billing management for subscription-based businesses
+  2. [Redux Apps](http://reduxapps.com/) - Ruby on Rails development shop
   1. [Red Hat](http://jobs.redhat.com/)
   1. [RightScale](http://www.rightscale.com/jobs)
   1. [Scrapinghub](http://scrapinghub.com/careers/)
