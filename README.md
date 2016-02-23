@@ -137,7 +137,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Housing
   1. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
-  2. [Caravanserai](http://www.thecaravanserai.co) - Global network of coliving spaces
+  2. [Roam](http://www.roam.co) - Global network of coliving spaces
   3. [Nomad House](https://nomadhouse.io) - Global network of nomad housing
   4. [The Blue House](http://www.thebluehouse.io) - Startup house & coliving space in Morocco
   5. [Work From Bali](http://www.workfromcuracao.com/) - Coliving space in Bali
