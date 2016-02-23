@@ -91,9 +91,10 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [8 tips that will make you a more active, healthier remote developer](http://x-team.com/2015/08/how-to-be-healthy-remote/)
   1. [The 5 most important things we do as a remote company](http://x-team.com/2015/07/5-important-things-remote-company/)
   1. [How to focus when working remotely](http://x-team.com/2015/04/focus-working-remotely/)
-  1. [http://x-team.com/2015/03/mistakes-remote-developers/](http://x-team.com/2015/03/mistakes-remote-developers/)
+  1. [3 mistakes to avoid if you want to get hired remotely](http://x-team.com/2015/03/mistakes-remote-developers/)
   1. [Becoming a contractor programmer in the UK](https://github.com/tadast/switching-to-contracting-uk/tree/formationsfactory)
   1. [Remote versus Co-located Work](http://martinfowler.com/articles/remote-or-co-located.html)
+  1. [Gitlab's Remote Manifesto](https://about.gitlab.com/2015/04/08/the-remote-manifesto/)
 
 ## Videos
   1. [Jason Fried: Why work doesn't happen at work](https://www.youtube.com/watch?v=5XD2kNopsUs)
