@@ -158,6 +158,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   19. [nomadicHUB](http://nomadichub.com) - Coliving & coworking spaces in exotic locations.
   20. [Sende](http://sende.co) - Coliving & coworking space in northern Spain.
   21. [HubBOG] (http://hubbog.com/) - Coworking Space + Startup Accelerator. Bogota, Colombia
+  22. [Casa98] (http://casa98.co/) - Coworking space. Medellin, Colombia
 
 ## Interviewing
   1. [remoteinterview.io](https://www.remoteinterview.io/) - Coding tests & pair programming interview tools
