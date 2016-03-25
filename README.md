@@ -120,7 +120,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Jobmote](http://jobmote.com/)
   1. [Jobspresso](http://jobspresso.co) * High-quality remote positions that are open and legitimate *
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) filter -> "*remote*"
-  1. [Nomad Jobs](https://remoteok.io)
   1. [Remote Coder](https://remotecoder.io/)
   1. [Remote OK](https://remoteok.io/) - scrapes many job board feeds for remote positions
   1. [Remotive Jobs](http://jobs.remotive.io/)
@@ -130,7 +129,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Working Nomads](http://www.workingnomads.co/jobs)
   2. [Github Jobs](https://jobs.github.com/) - Location filter -> "*Anywhere/Remote*"
   1. [We Work Remotely](https://weworkremotely.com/)
-  1. [Offsite Careers](http://offsite.careers/)
   1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
   2. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
   2. [Remotely Awesome Jobs](http://www.remotelyawesomejobs.com) - Crawls multiple job boards for remote job postings.
@@ -141,7 +139,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   2. [Roam](http://www.roam.co) - Global network of coliving spaces
   3. [Nomad House](https://nomadhouse.io) - Global network of nomad housing
   4. [The Blue House](http://www.thebluehouse.io) - Startup house & coliving space in Morocco
-  5. [Work From Bali](http://www.workfromcuracao.com/) - Coliving space in Bali
+  5. [Work From Curacao](http://www.workfromcuracao.com/) - Coliving space in Curacao
   6. [Coworking in the Sun](http://www.coworkinginthesun.com) - Coliving & coworking space in Tenerife island in Spain
   7. [bedndesk](http://www.bedndesk.com) - Coworking & coliving space in Mallorca island in Spain
   8. [Nomad Pad](http://nomadpad.org) - Global network of coliving spaces
@@ -271,9 +269,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Wikimedia](https://wikimediafoundation.org/wiki/Work_with_us)
   1. [X-Team](https://x-team.com/join/) - Work on incredible web and mobile projects, with extraordinary developers. Unleash your potential. From anywhere. We are X-Team.
   1. [Zapier](https://zapier.com/jobs/)
-
-## Remote Moonlighting
-  1. [Gittask](https://gittask.com) - Development tasks you can work on remotely
 
 ## Q&A
 - StackExchange
