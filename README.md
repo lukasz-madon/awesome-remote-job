@@ -94,6 +94,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Becoming a contractor programmer in the UK](https://github.com/tadast/switching-to-contracting-uk/tree/formationsfactory)
   1. [Remote versus Co-located Work](http://martinfowler.com/articles/remote-or-co-located.html)
   1. [Gitlab's Remote Manifesto](https://about.gitlab.com/2015/04/08/the-remote-manifesto/)
+  1. [How to Make Remote Working Work for You](https://www.toptal.com/remote/how-to-make-remote-working-work-for-you)
 
 ## Videos
   1. [Jason Fried: Why work doesn't happen at work](https://www.youtube.com/watch?v=5XD2kNopsUs)
