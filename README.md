@@ -305,7 +305,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   - [ScreenHero](https://screenhero.com) - Real-time, HD screen sharing for collaboration in teams
   - [Skype](http://www.skype.com/en/) video calls
   - [Slack](https://slack.com/) chat system with loads of integration options
-  - [Speak](https://speak.io) - Instant Team Communication: blazing fast audio, video and screen sharing inside your team
   - [Sqwiggle](https://www.sqwiggle.com/) Online Collaboration Software for Remote and Virtual Teams
   - [Talky](https://talky.io/) — Truly simple video chat and screen sharing for groups
 
