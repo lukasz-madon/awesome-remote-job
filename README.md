@@ -218,6 +218,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Harvest](https://www.getharvest.com/careers) - Time tracking software.
   1. [Healthfinch](http://www.healthfinch.com/careers/) - Making Healthcare systems more usable. HQ in Madison, WI, USA. Ruby, Javascript.
   1. [Heap](https://heapanalytics.com/jobs) – Web & Mobile Analytics, 2 of our 8 teammates are remote.
+  1. [HE:labs](http://helabs.com/us/)
   1. [Heroku](https://www.heroku.com/careers) - PaaS Cloud, makes devs' experience awesome, Ruby, Erlang, Javascript, Golang, Python.
   1. [Honeybadger](https://www.honeybadger.io/) - Ruby. 100% remote.
   1. [Igalia](http://www.igalia.com/about-us/form) - Open source consultancy. HQ in Spain.
