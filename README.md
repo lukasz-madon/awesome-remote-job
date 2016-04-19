@@ -145,6 +145,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   4. [Nomad House](https://nomadhouse.io) - Global network of nomad housing
   5. [Nomad Pad](http://nomadpad.org) - Global network of coliving spaces
   6. [nomadicHUB](http://nomadichub.com) - Coliving & coworking spaces in exotic locations
+  7. [Ondas](http://www.ondasmedellin.com) - Coworking space in Medellin, Colombia
   4. [Roam](http://www.roam.co) - Global network of coliving spaces
   5. [Sende](http://sende.co) - Coliving & coworking space in northern Spain
   5. [Sun Desk](http://sun-desk.com) - Coliving & coworking space in Taghazout, Morocco
