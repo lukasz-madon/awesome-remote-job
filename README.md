@@ -157,10 +157,11 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 
 ## Interviewing
-  1. [interviewing.io](http://interviewing.io/) - Become awesome at technical interviews
-  2. [remoteinterview.io](https://www.remoteinterview.io/) - Coding tests & pair programming interview tools
-  2. [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies
-  3. [hackerrank.com](https://hackerrank.com/) - Online platform for code studying and recruiting with job offers also
+  1. [andreis/interview](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
+  2. [interviewing.io](http://interviewing.io/) - Become awesome at technical interviews
+  3. [remoteinterview.io](https://www.remoteinterview.io/) - Coding tests & pair programming interview tools
+  4. [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies
+  5. [hackerrank.com](https://hackerrank.com/) - Online platform for code studying and recruiting with job offers also
 
 ## Events
   1. [Coworking Camp](http://www.coworking-camp.com) - Worldwide temporary coworking Spaces
