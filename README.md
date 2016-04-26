@@ -276,11 +276,13 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Zapier](https://zapier.com/jobs/)
 
 ## Q&A
+- Quora: [Telecommuting and Working Remotely](http://www.quora.com/Telecommuting-and-Working-Remotely) / [Virtual Workplace](http://www.quora.com/Virtual-Workplace) / [Working at Home](http://www.quora.com/Working-at-Home)
+- Remote.co: [Q&A's with 90+ Remote Companies](https://remote.co/qa-leading-remote-companies/)
 - StackExchange
   - Workplace: [telecommute](http://workplace.stackexchange.com/questions/tagged/telecommute?sort=votes)
   - Freelancing: [remote](http://freelancing.stackexchange.com/questions/tagged/remote?sort=votes) / [working from home](http://freelancing.stackexchange.com/questions/tagged/working-from-home?sort=votes)
   - Programmers: [telecommuting](http://programmers.stackexchange.com/questions/tagged/telecommuting?sort=votes) / [home](http://programmers.stackexchange.com/questions/tagged/home?sort=votes)
-- Quora: [Telecommuting and Working Remotely](http://www.quora.com/Telecommuting-and-Working-Remotely) / [Virtual Workplace](http://www.quora.com/Virtual-Workplace) / [Working at Home](http://www.quora.com/Working-at-Home)
+
 
 ## Communities
 - [/r/telecommuting](https://www.reddit.com/r/telecommuting/) - subreddit
