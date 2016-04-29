@@ -125,6 +125,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remotely Awesome Jobs](http://www.remotelyawesomejobs.com) - Crawls multiple job boards for remote job postings.
   1. [Remotive Jobs](http://jobs.remotive.io/)
   1. [Skip the Drive](http://www.skipthedrive.com/)
+  1. [talremoto.com](http://talremoto.com/) - Lightweight list of recently aggregated remote work opportunites.
   1. [Virtual Vocations](http://www.virtualvocations.com/)
   1. [We Work Remotely](https://weworkremotely.com/)
   1. [WFH.io](https://www.wfh.io/)
