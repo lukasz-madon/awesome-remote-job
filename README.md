@@ -271,7 +271,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Toggl](http://jobs.toggl.com/)
   1. [Toptal](http://www.toptal.com)
   1. [Trello](https://trello.com/jobs)
-  1. [Twin Technologies](https://www.twintechs.com/about-us/contact-us/careers/)
+  1. [Twin Technologies](https://www.twintechs.com/about-twin/careers)
   1. [Wikimedia](https://wikimediafoundation.org/wiki/Work_with_us)
   1. [X-Team](https://x-team.com/join/) - Work on incredible web and mobile projects, with extraordinary developers. Unleash your potential. From anywhere. We are X-Team.
   1. [Zapier](https://zapier.com/jobs/)
