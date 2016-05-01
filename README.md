@@ -262,7 +262,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Sqwiggle](https://angel.co/sqwiggle/jobs)
   1. [Strongloop](https://strongloop.com/careers/)
   1. [StyleSeat](http://static.styleseat.com/jobs/index.html) - we love high-impact remote engineers, collaboration, creativity, python, angularjs
-  1. [Surevine](https://www.surevine.com/join-us/)
+  1. [Surevine](https://www.surevine.com/jobs)
   1. [Surge](http://www.surgeforward.com/careers/) - 100% remote consulting company working primarily in Node.JS, iOS, .NET, PHP, and Android
   1. [Sysdig Cloud](https://sysdig.com/jobs/)
   1. [TED](http://www.ted.com/about/our-organization/jobs-at-ted) - Technology team supports ted.com and internal tools. All engineers are remote. Ruby on Rails, JavaScript, Ember.js
