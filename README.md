@@ -132,6 +132,9 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Working Nomads](http://www.workingnomads.co/jobs)
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
   1. [Work Remotely](https://workremotely.io/) - Crawlsand cures many job board feeds for remote positions
+  1. [We Work Hourly](https://weworkhourly.com/) - Freelance job board for moonlighting or hourly working
+  1. [We Contract Work](https://wecontractwork.com/) - Contract work for those working remote.
+  
 
 ## Housing
   1. [bedndesk](http://www.bedndesk.com) - Coworking & coliving space in Mallorca island in Spain
