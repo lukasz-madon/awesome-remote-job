@@ -120,6 +120,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Jobspresso](http://jobspresso.co) * High-quality remote positions that are open and legitimate *
   1. [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) filter -> "*remote*"
+  1. [RemoteBase](https://remotebase.io/) - a searchable collection of remote companies and hiring info
   1. [Remote Coder](https://remotecoder.io/)
   1. [Remote OK](https://remoteok.io/) - scrapes many job board feeds for remote positions
   1. [Remotely Awesome Jobs](http://www.remotelyawesomejobs.com) - Crawls multiple job boards for remote job postings.
