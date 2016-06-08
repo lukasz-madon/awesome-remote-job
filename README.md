@@ -302,6 +302,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Tools
 #### Communication
+  - [Zoom](http://zoom.us) high-quality group video and sharing screen, run on linux, record session and support telephone calls.
   - [Appear.in](https://appear.in/) browser-based, pluginless group video calls
   - [Bluejeans](http://bluejeans.com/) video conferencing app, great for large groups & live streams
   - [Codeshare.io](http://codeshare.io/) browser-based mult-user live code sharing with optional video chat
