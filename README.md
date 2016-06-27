@@ -156,6 +156,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   6. [Work From Curacao](http://www.workfromcuracao.com/) - Coliving space in Curacao
   7. [Working Retreat](http://workingretreat.com) - Coliving space in Thailand
   2. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
+  1. [Common] (http://www.hicommon.com/) - Coliving House in NewYork
+  1. [Hive Arena] (http://hivearena.com/) - Coworking & Coliving Space in Seoul, South Korea
 
 
 ## Interviewing
