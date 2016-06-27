@@ -150,8 +150,11 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [bedndesk](http://www.bedndesk.com) - Coworking & coliving space in Mallorca island in Spain
   2. [Blackbox](http://blackbox.vc) - Coliving space in Silicon Valley
   2. [Casa98](http://casa98.co/) - Coworking space. Medellin, Colombia
+  1. [Common] (http://www.hicommon.com/) - Coliving House in NewYork
   3. [Coworking in the Sun](http://www.coworkinginthesun.com) - Coliving & coworking space in Tenerife island in Spain
   3. [Etincelle Coworking](http://www.etincelle-coworking.com) - Coworking spaces in south of France
+  22. [Embassy Network](https://embassynetwork.com/) - Global Network of community houses in San Francisco, Amsterdam, Costa Rica, Haiti, Nepal, Estonia and soon-to-be-more locations. Mix of remote workers, entrepreneurs, artists, ... <3
+  1. [Hive Arena] (http://hivearena.com/) - Coworking & Coliving Space in Seoul, South Korea
   3. [HubBOG](http://hubbog.com/) - Coworking Space + Startup Accelerator. Bogota, Colombia
   4. [Hus24](http://hus24.org/en/) - Coliving space in Sweden
   5. [Nest Copenhagen](http://nestcopenhagen.dk) - Coliving space in Copenhagen, Denmark
@@ -168,7 +171,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   6. [Work From Curacao](http://www.workfromcuracao.com/) - Coliving space in Curacao
   7. [Working Retreat](http://workingretreat.com) - Coliving space in Thailand
   2. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
-  22. [Embassy Network](https://embassynetwork.com/) - Global Network of community houses in San Francisco, Amsterdam, Costa Rica, Haiti, Nepal, Estonia and soon-to-be-more locations. Mix of remote workers, entrepreneurs, artists, ... <3
 
 
 ## Interviewing
