@@ -328,6 +328,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 - [Hacker Paradise](http://www.hackerparadise.org/) - traveling remote workers
 - [#nomads](https://hashtagnomads.com/) - Slack community for nomadic working, $100 signup fee
 - [Nomadler](http://nomadler.com) - Hacker News for nomads
+- [Remote Year] (http://www.remoteyear.com/) - traveling techies for 1 year
 
 ## Conferences
  1. [DNX Global](http://www.dnxglobal.com/) - Digital Nomad Conference
