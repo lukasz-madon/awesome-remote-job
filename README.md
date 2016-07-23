@@ -265,7 +265,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [StackExchange](http://stackexchange.com/work-here)
   1. [Songspace](https://songspace.com) Helps music creators collaborate, catalog, and share work with their professional team
   1. [Soostone](http://www.soostone.com/careers)
-  1. [Sqwiggle](https://angel.co/sqwiggle/jobs)
   1. [Strongloop](https://strongloop.com/careers/)
   1. [StyleSeat](http://static.styleseat.com/jobs/index.html) - we love high-impact remote engineers, collaboration, creativity, python, angularjs
   1. [Surevine](https://www.surevine.com/jobs)
@@ -318,7 +317,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   - [ScreenHero](https://screenhero.com) - Real-time, HD screen sharing for collaboration in teams
   - [Skype](http://www.skype.com/en/) video calls
   - [Slack](https://slack.com/) chat system with loads of integration options
-  - [Sqwiggle](https://www.sqwiggle.com/) Online Collaboration Software for Remote and Virtual Teams
   - [Talky](https://talky.io/) — Truly simple video chat and screen sharing for groups
 
 #### Project Management
