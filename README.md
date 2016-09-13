@@ -58,6 +58,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Managing a Geographically Dispersed Team: Achieving Your Goals Together, While Apart](https://www.mindtools.com/pages/article/newTMM_40.htm)
   1. [Michael Bloomberg agrees with Marissa Mayer on telecommuting](http://www.capitalnewyork.com/article/politics/2013/03/8071699/michael-bloomberg-agrees-marissa-mayer-telecommuting)
   1. [My Ideal Day as a Remote Programmer: Taking Charge of Your Daily Routine](https://overflow.buffer.com/2014/06/12/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/)
+  1. [My Remote Developer Life](https://shift.infinite.red/my-remote-developer-life-ama-bb91fa7bd0bd#.kjpehbcab)  
   1. [One day offices will be a thing of the past](http://www.virgin.com/richard-branson/one-day-offices-will-be-a-thing-of-the-past)
   1. [Remote worker vs distributed team](http://opensource.com/life/11/11/remote-worker-vs-distributed-team)
   1. [Remote Workers Log More Hours and Are Slightly More Engaged](http://www.gallup.com/opinion/gallup/170669/remote-workers-log-hours-slightly-engaged.aspx)
