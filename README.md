@@ -254,6 +254,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Particular Software (NServiceBus)](http://particular.net/careers) - Enterprise Service Bus, Messaging, C#, Open Source
   1. [Paylocity](http://www.paylocity.com/careers.aspx) - HR and payroll solutions
   1. [Precision Nutrition](http://www.precisionnutrition.com/) -  Online Nutrition Coaching and Certification
+  1. [Prezly](https://www.prezly.com/) - SaaS PR platform. PHP, React, JS, Postgres. 100% remote.
   1. [ProofHQ, a Workfront company](http://www.proofhq.com/job-openings.html) - Online proofing solution. PHP, JavaScript, Java, .NET, MySQL, Redis 
   1. [Railsdog](http://railsdog.com/) - eCommerce solutions and integrations based on Spree (Ruby on Rails). Most team members are distributed including development, project management, and executive roles.
   1. [RainforestQA](https://www.rainforestqa.com/jobs/) - On demand QA as a service.
