@@ -282,7 +282,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Teamed.io](http://www.teamed.io/)
   1. [Teleport](http://teleport.org/jobs/)
   1. [Toggl](http://jobs.toggl.com/)
-  1. [Toptal](http://www.toptal.com)
+  1. [Toptal](http://www.toptal.com/careers) - 100% remote development company, solving worldwide talent shortage
   1. [Trello](https://trello.com/jobs)
   1. [Twin Technologies](https://www.twintechs.com/about-twin/careers)
   1. [Wikimedia](https://wikimediafoundation.org/wiki/Work_with_us)
