@@ -112,6 +112,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Authentic Jobs](https://authenticjobs.com/)
   1. [Careers Stackoverflow](http://careers.stackoverflow.com/jobs/remote)
   1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
+  1. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
   1. [Find Bacon](https://findbacon.com/jobs/remote)
   1. [Flexjobs](https://www.flexjobs.com/)
   1. [Front-end Developer Jobs](http://frontenddeveloperjob.com/) View as table, then sort by `performed`
@@ -214,6 +215,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Deeson] (https://www.deeson.co.uk/careers) - UK-based w/European team. Digital agency specialising in Drupal, Symfony and Laravel
   1. [DigitalOcean](https://www.digitalocean.com/company/careers/) - Simple Cloud Hosting, Built for Developers
   1. [Doximity](https://doximity.com/about/jobs) - Largest online medical network of US physicians. Ruby, Rails, Go, JavaScript, MySQL.
+  1. [Drupal Association](https://assoc.drupal.org/jobs) - Non-profit supporting the Drupal project.
   1. [DuckDuckGo](https://duck.co/help/company/hiring) - Search engine.
   1. [Envato](http://www.envato.com/careers) - Maker of ThemeForest and other online marketplaces. MySQL, Ruby, Rails, Javascript. Distributed team with HQ in Melbourne, Australia.
   1. [Etsy](https://www.etsy.com/careers) - Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.
