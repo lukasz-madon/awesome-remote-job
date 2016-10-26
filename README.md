@@ -240,6 +240,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Librato](http://solarwinds.jobs/solarwinds-cloud/) - Cloud Monitoring.
   1. [Linaro](https://www.linaro.org/careers/) - OpenSource Engineering on ARM.
   1. [Lincoln Loop](https://lincolnloop.com/careers/) - WebDev shop.
+  1. [Litmus](https://litmus.com/careers) - Optimization tools for email professionals. Offices in Boston and London, but nearly 50% of the team works remotely.
   1. [LivingSocial](http://jobs.livingsocial.com) - Company-wide support for teams of experienced, remote developers. Lots of autonomy.
   1. [Lullabot](https://www.lullabot.com/jobs) - Strategy, design and development using Drupal.
   1. [Mapbox](https://www.mapbox.com/jobs/) - Map integration tools for various platforms.
