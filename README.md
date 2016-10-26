@@ -175,7 +175,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   2. [deceler8](http://www.sierraymar.co/decelerate/) - 10 days retreat
   3. [Project Getaway](http://www.projectgetaway.com) - 30 days retreat
   2. [Remote Year](http://www.remoteyear.com) - Travel & work with interesting people for a year
- 
+
 ## Newsletters
   1. [Working Nomads](http://www.workingnomads.co) - job posts
   1. [Remote Digest](http://remotedigest.com/) - job posts
@@ -257,7 +257,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Paylocity](http://www.paylocity.com/careers.aspx) - HR and payroll solutions
   1. [Precision Nutrition](http://www.precisionnutrition.com/) -  Online Nutrition Coaching and Certification
   1. [Prezly](https://www.prezly.com/) - SaaS PR platform. PHP, React, JS, Postgres. 100% remote.
-  1. [ProofHQ, a Workfront company](http://www.proofhq.com/job-openings.html) - Online proofing solution. PHP, JavaScript, Java, .NET, MySQL, Redis 
+  1. [ProofHQ, a Workfront company](http://www.proofhq.com/job-openings.html) - Online proofing solution. PHP, JavaScript, Java, .NET, MySQL, Redis
   1. [Railsdog](http://railsdog.com/) - eCommerce solutions and integrations based on Spree (Ruby on Rails). Most team members are distributed including development, project management, and executive roles.
   1. [RainforestQA](https://www.rainforestqa.com/jobs/) - On demand QA as a service.
   1. [Real HQ](https://realhq.com) - Maker of Agent Pronto, software designed to help make home buying and selling a better experience. We've been remote since the start, now 50+ spread across the globe. Ruby, Rails, React.js, iOS/Android.
@@ -319,6 +319,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   - [Hangout](http://www.google.com/+/learnmore/hangouts/) chat system, share desktop and video calls
   - [Hipchat](https://www.hipchat.com/) great internal chat for hackers
   - [IRCCloud](https://www.irccloud.com) browser-based IRC client with permanent storage
+  - [Mumble](https://www.mumble.info) Mumble is an open source voice chat software
   - [Precursor](https://precursorapp.com) - Simple prototyping & brainstorming web app with real-time collaboration
   - [ScreenHero](https://screenhero.com) - Real-time, HD screen sharing for collaboration in teams
   - [Skype](http://www.skype.com/en/) video calls
@@ -334,7 +335,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   - [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better
   - [Noisli](http://www.noisli.com/) - Noisli has a list of diferent ambient sounds that can be combined to boost creativity and focus
   - [Teleport Sundial](https://sundial.teleport.org) - Manage the locations and timezones of your distributed team
-  
+
 ## Law & Finance
 US based companies can hire remote workers as [1099 contractors](http://www.wisegeek.com/what-is-a-1099-contractor.htm)
 
@@ -345,4 +346,3 @@ US based companies can hire remote workers as [1099 contractors](http://www.wise
 - [Regus USA](http://www.regus.com/) - Executive suites, virtual offices & conference room space
 - [Remote Companies on Careers SO](http://careers.stackoverflow.com/companies?searchTerm=&location=&allowsremote=true)
 - [WorkFrom](https://workfrom.co/) - Find coffee shops that are good to work from
-
