@@ -190,7 +190,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   4. [Wide Teams](http://www.wideteams.com) - Each episode a one-on-one interview with a remote worker taking about workflow and practices
 
 ## Companies with "remote DNA"
-  1. [Arkency](https://blog.arkency.com) - Rails and React.js experts, fully remote/async
+  1. [Arkency](https://blog.arkency.com/join-our-team) - Rails and React.js experts, fully remote/async.
   1. [Articulate](https://www.articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
   1. [Auth0](https://auth0.com/) - Identity for developers
   1. [Automattic](https://automattic.com/work-with-us/) - Makers of WordPress.com and Gravatar
