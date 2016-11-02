@@ -283,6 +283,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Surge](http://www.surgeforward.com/careers/) - 100% remote consulting company working primarily in Node.JS, iOS, .NET, PHP, and Android
   1. [Sysdig Cloud](https://sysdig.com/jobs/)
   1. [TED](http://www.ted.com/about/our-organization/jobs-at-ted) - Technology team supports ted.com and internal tools. All engineers are remote. Ruby on Rails, JavaScript, Ember.js
+  1. [TeamSnap](https://www.teamsnap.com/about/careers) - TeamSnap is the No. 1 online sports team management software. 80% remote employees
   1. [Teamed.io](http://www.teamed.io/)
   1. [Teleport](http://teleport.org/jobs/)
   1. [Toggl](http://jobs.toggl.com/)
