@@ -204,7 +204,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Catalyze](https://catalyze.io/jobs) - HIPAA-compliant cloud computing for healthcare. HQ in Madison, WI. Docker, Go, Python.
   1. [Chef](https://www.chef.io/careers/) - We are all about IT automation for speed and awesomeness. Ruby, JavaScript & shell scripting. HQ in Seattle but we have employees all around US.
   1. [CircleCI](https://circleci.com/jobs#engineer) - Provides continuous integration tools and services.
-  1. [Clevertech](https://clevertech.biz/) - We build incredible, game changing technology.
+  1. [Clevertech](https://clevertech.biz/careers) - We build incredible, game changing technology.
   2. [Close.io](http://close.io/) - CRM (python)
   1. [Codeship](https://codeship.com/jobs) - SaaS Continuous Delivery
   1. [Collabora](https://www.collabora.com/about-us/careers.html) - Open source software-based consulting.
