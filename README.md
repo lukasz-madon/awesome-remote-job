@@ -145,6 +145,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   2. [Blackbox](http://blackbox.vc) - Coliving space in Silicon Valley
   2. [Casa98](http://casa98.co/) - Coworking space. Medellin, Colombia
   3. [Coworking in the Sun](http://www.coworkinginthesun.com) - Coliving & coworking space in Tenerife island in Spain
+  3. [Etincelle Coworking](http://www.etincelle-coworking.com) - Coworking spaces in south of France
   3. [HubBOG](http://hubbog.com/) - Coworking Space + Startup Accelerator. Bogota, Colombia
   4. [Hus24](http://hus24.org/en/) - Coliving space in Sweden
   5. [Nest Copenhagen](http://nestcopenhagen.dk) - Coliving space in Copenhagen, Denmark
