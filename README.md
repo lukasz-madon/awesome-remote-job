@@ -162,6 +162,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   6. [Work From Curacao](http://www.workfromcuracao.com/) - Coliving space in Curacao
   7. [Working Retreat](http://workingretreat.com) - Coliving space in Thailand
   2. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
+  22. [Embassy Network](https://embassynetwork.com/) - Global Network of community houses in San Francisco, Amsterdam, Costa Rica, Haiti, Nepal, Estonia and soon-to-be-more locations. Mix of remote workers, entrepreneurs, artists, ... <3
 
 
 ## Interviewing
@@ -297,6 +298,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Wikimedia](https://wikimediafoundation.org/wiki/Work_with_us)
   1. [X-Team](https://x-team.com/join/) - Work on incredible web and mobile projects, with extraordinary developers. Unleash your potential. From anywhere. We are X-Team.
   1. [Zapier](https://zapier.com/jobs/)
+  1. [Gigster](https://gigster.com/) - vetted network of top 5% freelancers worldwide. PM, Dev, Sales positions available.
 
 ## Q&A
 - Chegg Tutor: [Online tutoring jobs starting at $20+/hour](https://www.chegg.com/tutors/become-a-tutor/)
