@@ -162,6 +162,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   6. [Work From Curacao](http://www.workfromcuracao.com/) - Coliving space in Curacao
   7. [Working Retreat](http://workingretreat.com) - Coliving space in Thailand
   2. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
+  1. [Common] (http://www.hicommon.com/) - Coliving House in NewYork
+  1. [Hive Arena] (http://hivearena.com/) - Coworking & Coliving Space in Seoul, South Korea
 
 
 ## Interviewing
@@ -314,6 +316,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 - [Hacker Paradise](http://www.hackerparadise.org/) - traveling hackers
 - [#nomads](https://hashtagnomads.com/) - Slack community for nomadic working, $100 signup fee
 - [Nomadler](http://nomadler.com) - Hacker News for nomads
+- [Remote Year] (http://www.remoteyear.com/) - traveling techies for 1 year
 
 ## Conferences
  1. [DNX Global](http://www.dnxglobal.com/) - Digital Nomad Conference
