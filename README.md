@@ -335,6 +335,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   - [IRCCloud](https://www.irccloud.com) browser-based IRC client with permanent storage
   - [Mumble](https://www.mumble.info) Mumble is an open source voice chat software
   - [Precursor](https://precursorapp.com) - Simple prototyping & brainstorming web app with real-time collaboration
+  - [PukkaTeam](https://www.pukkateam.com) - Real team presence through regular automated selfies and one-click video calling
   - [ScreenHero](https://screenhero.com) - Real-time, HD screen sharing for collaboration in teams
   - [Skype](http://www.skype.com/en/) video calls
   - [Slack](https://slack.com/) chat system with loads of integration options
