@@ -218,6 +218,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [DataStax](http://www.datastax.com/company/careers) - Consulting based on Apache Cassandra.
   1. [Deeson] (https://www.deeson.co.uk/careers) - UK-based w/European team. Digital agency specialising in Drupal, Symfony and Laravel
   1. [DigitalOcean](https://www.digitalocean.com/company/careers/) - Simple Cloud Hosting, Built for Developers
+  1. [DNSimple](https://dnsimple.com) - Small 100% remote and globally distributed team working to make domain management an afterthought.
   1. [Doximity](https://doximity.com/about/jobs) - Largest online medical network of US physicians. Ruby, Rails, Go, JavaScript, MySQL.
   1. [Dotsub](https://dotsub.com/jobs) - Browser-based platform for subtitling & translating online videos. Java / Spring, JavaScript / React.js
   1. [Drupal Association](https://assoc.drupal.org/jobs) - Non-profit supporting the Drupal project.
