@@ -341,7 +341,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   - [Precursor](https://precursorapp.com) - Simple prototyping & brainstorming web app with real-time collaboration
   - [PukkaTeam](https://www.pukkateam.com) - Real team presence through regular automated selfies and one-click video calling
   - [ScreenHero](https://screenhero.com) - Real-time, HD screen sharing for collaboration in teams
-  - [Skype](http://www.skype.com/en/) video calls
   - [Slack](https://slack.com/) chat system with loads of integration options
   - [Talky](https://talky.io/) — Truly simple video chat and screen sharing for groups
 
