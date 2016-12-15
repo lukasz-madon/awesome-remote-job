@@ -343,6 +343,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   - [ScreenHero](https://screenhero.com) - Real-time, HD screen sharing for collaboration in teams
   - [Slack](https://slack.com/) chat system with loads of integration options
   - [Talky](https://talky.io/) — Truly simple video chat and screen sharing for groups
+  - [Zoom](https://zoom.us) — Video chat and screen sharing for teams
 
 #### Project Management
   - [Asana](https://asana.com/) - Project management good for distributed teams
