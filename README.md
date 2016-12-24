@@ -194,6 +194,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Companies with "remote DNA"
   1. [Aha!](https://www.aha.io/company/careers/current-openings) - Aha! is roadmapping software for PMs who want their mojo back.
+  1. [amihaiemil](http://www.amihaiemil.com/2016/12/22/contributors-wanted.html) - Java, ReactJS, CSS and others
   1. [Arkency](https://blog.arkency.com/join-our-team) - Rails and React.js experts, fully remote/async.
   1. [Articulate](https://www.articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
   1. [AT&T](https://att.jobs) - Nearly [20% of the eligible workforce](https://www.att.com/Common/about_us/files/csr_2012/worklife_balance.pdf) works remotely.
