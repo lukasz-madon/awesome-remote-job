@@ -192,7 +192,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Free People Move Podcast](http://teleport.org/podcast/) - mostly interviews with founders attacking the location independence / remote work space from different angles
   2. [Home Work](http://5by5.tv/homework) - A weekly advice podcast for people who work from home.
   3. [Lessons from Distributed Companies](https://www.lullabot.com/podcasts/drupalizeme-podcast/lessons-from-distributed-companies)
-  4. [Wide Teams](http://www.wideteams.com) - Each episode a one-on-one interview with a remote worker taking about workflow and practices
+  4. [Remote Works](https://remote.works) - Launched in Jan 2017 - Bi-weekly episodes featuring topical discussion or interview style shows discussing the culture, experience, and community surrounding Remote Work.
+  5. [Wide Teams](http://www.wideteams.com) - Each episode a one-on-one interview with a remote worker taking about workflow and practices
 
 ## Companies with "remote DNA"
   1. [Aha!](https://www.aha.io/company/careers/current-openings) - Aha! is roadmapping software for PMs who want their mojo back.
