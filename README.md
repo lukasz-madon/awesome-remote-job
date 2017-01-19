@@ -328,6 +328,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Conferences
  1. [DNX Global](http://www.dnxglobal.com/) - Digital Nomad Conference
+ 1. [Out Of Office](http://www.outofoffice.hm/) - Online remote work event by [Human Made](https://hmn.md/)
  1. [Remote Working Conference](http://remoteworkingconf.com/) - Remote conference about remote working
  1. [Yonder](http://yonder.io/) - A round table conference bringing together leaders of distributed companies
 
