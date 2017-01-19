@@ -19,8 +19,8 @@ Don't use any vague marketing language. Optimize word greppability. For example,
 1. [Foo](foo.io) - We are building new certificate provider based on crypocurrencies. Python, Scala, JS, Full Time
 1. [Bar](bar.io) - Uber for fruit baskets. Node, grunt, JS, workday overlaps New York afternoons (1700 - 2200 UTC)
 
-- Feel free to post your own company.
-- Companies should have "remote DNA"
+- Feel free to post your own company or site. However, make sure there is content before posting - we can't tell whether something is awesome if there is little to see. For a good reference, there should be at least six months of content. 
+- Companies should have "remote DNA".
 - Link to the career/job page rather than to a single job post.
 - Job boards should be high quality, without paywalls, requiring login, etc.
 - No agencies please.
