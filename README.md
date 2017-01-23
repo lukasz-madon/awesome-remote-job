@@ -372,3 +372,11 @@ US based companies can hire remote workers as [1099 contractors](http://www.wise
 - [Regus USA](http://www.regus.com/) - Executive suites, virtual offices & conference room space
 - [Remote Companies on Careers SO](https://stackoverflow.com/jobs/companies?r=true)
 - [WorkFrom](https://workfrom.co/) - Find coffee shops that are good to work from
+
+## License
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Lukasz Madon](https://github.com/lukasz-madon) has waived all copyright and related or neighboring rights to this work.
