@@ -133,6 +133,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [RemoteBase](https://remotebase.io/) - a searchable collection of remote companies and hiring info
   1. [Remote Coder](https://remotecoder.io/)
   1. [Remote OK](https://remoteok.io/) - scrapes many job board feeds for remote positions
+  1. [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   1. [Remotely Awesome Jobs](http://www.remotelyawesomejobs.com) - Crawls multiple job boards for remote job postings.
   1. [Remotive Jobs](http://jobs.remotive.io/)
   1. [Skip the Drive](http://www.skipthedrive.com/)
