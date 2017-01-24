@@ -132,6 +132,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [HN hiring](http://hnhiring.me/) filter REMOTE
   1. [Jobbatical](https://jobbatical.com/)
   1. [Jobmote](http://jobmote.com/)
+  1. [Jobpig](https://jobpigapp.com/) - job board aggregator with emphasis on remote
   1. [Jobspresso](http://jobspresso.co) * High-quality remote positions that are open and legitimate *
   1. [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) filter -> "*remote*"
