@@ -30,8 +30,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 <!-- /MarkdownTOC -->
 
----
-
 ## Articles & Posts
   1. [10 Lessons from 4 Years Working Remotely at Automattic](http://whenihavetime.com/2014/07/08/10-lessons-from-4-years-working-remotely/)
   1. [10 Secrets to Becoming a Great Remote Developer](http://x-team.com/2014/05/10-secrets-to-becoming-a-great-remote-developer/)
@@ -321,7 +319,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Zamphyr](https://zamphyr.com/posao/) - School 2.0 for learning computer science. Remote-first, 100% JavaScript mostly Meteor.
   1. [Zapier](https://zapier.com/jobs/)
 
-<<<<<<< HEAD
 ## Q&A
   1. Chegg Tutor: [Online tutoring jobs starting at $20+/hour](https://www.chegg.com/tutors/become-a-tutor/)
   1. Quora: [Telecommuting and Working Remotely](http://www.quora.com/Telecommuting-and-Working-Remotely) / [Virtual Workplace](http://www.quora.com/Virtual-Workplace) / [Working at Home](http://www.quora.com/Working-at-Home)
@@ -387,8 +384,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote Companies on Careers SO](http://careers.stackoverflow.com/companies?searchTerm=&location=&allowsremote=true)
   1. [The Caravanserai](http://www.thecaravanserai.co/) - Co-living provider.
   1. [WorkFrom](https://workfrom.co/) - Find coffee shops that are good to work from.
-
-## License
 
 ## License
 
