@@ -148,29 +148,28 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Housing
   1. [bedndesk](http://www.bedndesk.com) - Coworking & coliving space in Mallorca island in Spain
-  2. [Blackbox](http://blackbox.vc) - Coliving space in Silicon Valley
-  2. [Casa98](http://casa98.co/) - Coworking space. Medellin, Colombia
+  1. [Blackbox](http://blackbox.vc) - Coliving space in Silicon Valley
+  1. [Casa98](http://casa98.co/) - Coworking space. Medellin, Colombia
   1. [Common] (http://www.hicommon.com/) - Coliving House in NewYork
-  3. [Coworking in the Sun](http://www.coworkinginthesun.com) - Coliving & coworking space in Tenerife island in Spain
-  3. [Etincelle Coworking](http://www.etincelle-coworking.com) - Coworking spaces in south of France
-  22. [Embassy Network](https://embassynetwork.com/) - Global Network of community houses in San Francisco, Amsterdam, Costa Rica, Haiti, Nepal, Estonia and soon-to-be-more locations. Mix of remote workers, entrepreneurs, artists, ... <3
+  1. [Coworking in the Sun](http://www.coworkinginthesun.com) - Coliving & coworking space in Tenerife island in Spain
+  1. [Etincelle Coworking](http://www.etincelle-coworking.com) - Coworking spaces in south of France
+  1. [Embassy Network](https://embassynetwork.com/) - Global Network of community houses in San Francisco, Amsterdam, Costa Rica, Haiti, Nepal, Estonia and soon-to-be-more locations. Mix of remote workers, entrepreneurs, artists, ... <3
   1. [Hive Arena] (http://hivearena.com/) - Coworking & Coliving Space in Seoul, South Korea
-  3. [HubBOG](http://hubbog.com/) - Coworking Space + Startup Accelerator. Bogota, Colombia
-  4. [Hus24](http://hus24.org/en/) - Coliving space in Sweden
-  5. [Nest Copenhagen](http://nestcopenhagen.dk) - Coliving space in Copenhagen, Denmark
-  4. [NoHatDigital](http://www.nohatdigital.com/mansionpage/) - Coliving space in Mexico
-  4. [Nomad House](https://nomadhouse.io) - Global network of nomad housing
-  5. [Nomad Pad](http://nomadpad.org) - Global network of coliving spaces
-  6. [nomadicHUB](http://nomadichub.com) - Coliving & coworking spaces in exotic locations
-  7. [Ondas](http://www.ondasmedellin.com) - Coworking space in Medellin, Colombia
-  4. [Roam](http://www.roam.co) - Global network of coliving spaces
-  5. [Sende](http://sende.co) - Coliving & coworking space in northern Spain
-  5. [Sun Desk](http://sun-desk.com) - Coliving & coworking space in Taghazout, Morocco
-  5. [The Blue House](http://www.thebluehouse.io) - Startup house & coliving space in Morocco
-  6. [The Surf Office](http://www.thesurfoffice.com) - Coworking & vacation space in Portugal, Canaries and California
-  6. [Work From Curacao](http://www.workfromcuracao.com/) - Coliving space in Curacao
-  7. [Working Retreat](http://workingretreat.com) - Coliving space in Thailand
-  2. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
+  1. [HubBOG](http://hubbog.com/) - Coworking Space + Startup Accelerator. Bogota, Colombia
+  1. [Hus24](http://hus24.org/en/) - Coliving space in Sweden
+  1. [Nest Copenhagen](http://nestcopenhagen.dk) - Coliving space in Copenhagen, Denmark
+  1. [NoHatDigital](http://www.nohatdigital.com/mansionpage/) - Coliving space in Mexico
+  1. [Nomad House](https://nomadhouse.io) - Global network of nomad housing
+  1. [Nomad Pad](http://nomadpad.org) - Global network of coliving spaces
+  1. [nomadicHUB](http://nomadichub.com) - Coliving & coworking spaces in exotic locations
+  1. [Ondas](http://www.ondasmedellin.com) - Coworking space in Medellin, Colombia
+  1. [Roam](http://www.roam.co) - Global network of coliving spaces
+  1. [Sende](http://sende.co) - Coliving & coworking space in northern Spain
+  1. [Sun Desk](http://sun-desk.com) - Coliving & coworking space in Taghazout, Morocco
+  1. [The Blue House](http://www.thebluehouse.io) - Startup house & coliving space in Morocco
+  1. [The Surf Office](http://www.thesurfoffice.com) - Coworking & vacation space in Portugal, Canaries and California
+  1. [Work From Curacao](http://www.workfromcuracao.com/) - Coliving space in Curacao
+  1. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
 
 
 ## Interviewing
