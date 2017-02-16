@@ -336,7 +336,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 1. [##remotes](https://github.com/remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes))
 1. [Hacker Paradise](http://www.hackerparadise.org/) - Traveling remote workers.
 1. [#nomads](https://hashtagnomads.com/) - Slack community for nomadic working, $100 signup fee.
-1. [Nomadler](http://nomadler.com) - Hacker News for nomads.
 1. [Remote Year] (http://www.remoteyear.com/) - Traveling techies for 1 year.
 
 ## Conferences
