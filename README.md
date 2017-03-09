@@ -295,6 +295,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Recurly](https://recurly.com/jobs/) - recurring billing management for subscription-based businesses
   1. [Red Hat](http://jobs.redhat.com/)
   1. [RightScale](http://www.rightscale.com/jobs)
+  1. [Sangoma](http://www.sangoma.com) - Trusted leader in delivering globally scalable Voice-Over-IP telephony systems, both on-site and cloud-based. C, PHP, Python, JavaScript, Linux, FreePBX, VoIP.
   1. [Scrapinghub](https://scrapinghub.com/careers/)
   1. [Simple](https://www.simple.com/careers)
   1. [ServiceNow](http://jobs.jobvite.com/servicenow/search?c=&l=&r=&t=&q=remote) - Enterprise cloud computing to improve service levels, energize employees, and change the way your enterprise works. Work at lightspeed.
