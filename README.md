@@ -12,6 +12,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 - [Articles & Posts](#articles--posts)
 - [Videos](#videos)
 - [Books](#books)
+- [Comics](#comics)
 - [Job boards](#job-boards)
 - [Housing](#housing)
 - [Interviewing](#interviewing)
@@ -109,6 +110,10 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [The Year Without Pants: WordPress.com and the Future of Work](http://scottberkun.com/yearwithoutpants/) ([bibliography](https://www.zotero.org/groups/oscon_2014-remote/items/collectionKey/9WMMQMJ9))
   1. [The Remote Jobseeker’s Handbook](http://cobyism.com/remotejobseeker/)
   1. [Async Remote](http://blog.arkency.com/async-remote/)
+
+## Comics
+
+  1. [Why working from home is both awesome and horrible](http://theoatmeal.com/comics/working_home)
 
 ## Job boards
   1. [Angel List](https://angel.co/jobs) Job Type -> Remote OK
