@@ -205,6 +205,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Working Nomads](http://workingnomads.co/) - Job posts.
 
 ## Podcasts
+  1. [The Yonder Podcast](https://yonder.io) - Bi-weekly podcast: Jeff Robbins interviews people thinking about distributed teams, remote work, and how to support happy, productive, free-range workers. 
   1. [Free People Move Podcast](https://teleport.org/podcast/) - mostly interviews with founders attacking the location independence / remote work space from different angles
   1. [Home Work](http://5by5.tv/homework) - A weekly advice podcast for people who work from home.
   1. [Lessons from Distributed Companies](https://www.lullabot.com/podcasts/drupalizeme-podcast/lessons-from-distributed-companies)
