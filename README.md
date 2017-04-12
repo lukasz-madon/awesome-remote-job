@@ -13,6 +13,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 - [Books](#books)
 - [Comics](#comics)
 - [Job boards](#job-boards)
+- [Freelance marketplaces](#freelance-marketplaces)
 - [Housing](#housing)
 - [Interviewing](#interviewing)
 - [Events](#events)
@@ -158,6 +159,9 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Working Nomads](http://www.workingnomads.co/jobs)
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
   1. [Work Remotely](https://workremotely.io/) - Crawls and curates many job board feeds for remote positions
+
+## Freelance marketplaces
+  1. [Design Inc.](https://www.designinc.com)
 
 ## Housing
   1. [bedndesk](http://www.bedndesk.com) - Coworking & coliving space in Mallorca island in Spain
