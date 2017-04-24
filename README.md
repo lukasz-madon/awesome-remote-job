@@ -120,7 +120,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Job boards
   1. [Angel List](https://angel.co/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
-  1. [Authentic Jobs](https://authenticjobs.com/) – Full-time and freelance job opportunities for web, design, and creative professionals.
+  1. [Authentic Jobs](https://authenticjobs.com/#remote=true) – Full-time and freelance job opportunities for web, design, and creative professionals.
   1. [Careers Stackoverflow](https://stackoverflow.com/jobs/remote)
   1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
   1. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
