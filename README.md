@@ -266,6 +266,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [GitHub](https://github.com/about/jobs)
   1. [GitLab](https://about.gitlab.com/jobs/) - Competitor to GitHub.
   1. [GlueNetworks] (http://gluenetworks.com/) - Network automation company.
+  1. [Hanzo](https://www.hanzo.co/about-us/careers-uk) - Web archiving company. Fully Remote. Python, AWS. 
   1. [Harvest](https://www.getharvest.com/careers) - Time tracking software.
   1. [HashiCorp](https://www.hashicorp.com/jobs.html) - Open source tools for automating the modern data center. Go, Ruby, Rails, Ember, JavaScript.
   1. [HE:labs](https://helabs.com/us/)
