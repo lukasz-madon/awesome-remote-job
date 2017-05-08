@@ -368,7 +368,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Bluejeans](https://bluejeans.com/) video conferencing app, great for large groups & live streams
   1. [Codeshare.io](https://codeshare.io/) – Browser-based multi-user live code sharing with optional video chat.
   1. [Fleep](https://fleep.io/) - Internal chat and collaboration tool for development teams
-  1. [Floobits](https://floobits.com) remote pair programming with screen share. Integrates with Sublime, IntelliJ, Atom and others
+  1. [Floobits](https://floobits.com) - Remote pair programming with screen share. Integrates with Sublime, IntelliJ, Atom and others
   1. [Flowdock](https://www.flowdock.com/) – Browser-based group chat for teams. Integrates with GitHub, Jira, Jenkins etc.
   1. [Hangouts](http://www.google.com/+/learnmore/hangouts/) – Chat system, share desktop and video calls.
   1. [Hipchat](https://www.hipchat.com/) – Great internal chat for hackers.
@@ -387,7 +387,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 #### Project Management
   1. [Asana](https://asana.com/) - Project management good for distributed teams.
   1. [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source).
-  1. [Trello](https://trello.com/) - lean project boards.
+  1. [Trello](https://trello.com/) - Lean project boards.
 
 #### Others
   1. [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better.
