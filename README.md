@@ -58,7 +58,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Managing a Geographically Dispersed Team: Achieving Your Goals Together, While Apart](https://www.mindtools.com/pages/article/newTMM_40.htm)
   1. [Michael Bloomberg agrees with Marissa Mayer on telecommuting](http://www.capitalnewyork.com/article/politics/2013/03/8071699/michael-bloomberg-agrees-marissa-mayer-telecommuting)
   1. [My Ideal Day as a Remote Programmer: Taking Charge of Your Daily Routine](https://overflow.buffer.com/2014/06/12/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/)
-  1. [My Remote Developer Life](https://shift.infinite.red/my-remote-developer-life-ama-bb91fa7bd0bd#.kjpehbcab)  
+  1. [My Remote Developer Life](https://shift.infinite.red/my-remote-developer-life-ama-bb91fa7bd0bd#.kjpehbcab)
   1. [One day offices will be a thing of the past](https://www.virgin.com/richard-branson/one-day-offices-will-be-a-thing-of-the-past)
   1. [Remote worker vs distributed team](https://opensource.com/life/11/11/remote-worker-vs-distributed-team)
   1. [Remote Workers Log More Hours and Are Slightly More Engaged](http://www.gallup.com/opinion/gallup/170669/remote-workers-log-hours-slightly-engaged.aspx)
@@ -217,7 +217,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Wide Teams](http://www.wideteams.com) - Each episode a one-on-one interview with a remote worker taking about workflow and practices
 
 ## Companies with "remote DNA"
-  1. [10up](https://10up.com/careers/) - 10up makes the web better by finely crafting websites & tools for content creators. 
+  1. [10up](https://10up.com/careers/) - 10up makes the web better by finely crafting websites & tools for content creators.
   1. [Aha!](https://www.aha.io/company/careers/current-openings) - Aha! is roadmapping software for PMs who want their mojo back.
   1. [Arkency](http://blog.arkency.com/join-our-team/) - Rails and React.js experts, fully remote/async.
   1. [Articulate](https://articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
@@ -265,7 +265,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [GitHub](https://github.com/about/jobs)
   1. [GitLab](https://about.gitlab.com/jobs/) - Competitor to GitHub.
   1. [GlueNetworks] (http://gluenetworks.com/) - Network automation company.
-  1. [Hanzo](https://www.hanzo.co/about-us/careers-uk) - Web archiving company. Fully Remote. Python, AWS. 
+  1. [Hanzo](https://www.hanzo.co/about-us/careers-uk) - Web archiving company. Fully Remote. Python, AWS.
   1. [Harvest](https://www.getharvest.com/careers) - Time tracking software.
   1. [HashiCorp](https://www.hashicorp.com/jobs.html) - Open source tools for automating the modern data center. Go, Ruby, Rails, Ember, JavaScript.
   1. [HE:labs](https://helabs.com/us/)
@@ -289,6 +289,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Lullabot](https://www.lullabot.com/jobs) - Strategy, design and development using Drupal.
   1. [Maintainer Mountaineer](https://maintainer.io) - Open source community management as a service.
   1. [Mapbox](https://www.mapbox.com/jobs/) - Map integration tools for various platforms.
+  1. [Mobile Jazz](https://mobilejazz.com/) - We are a dedicated team of highly-skilled engineers, designers and marketing experts on a mission to build a more beautiful digital world. We are a remote friendly company with headquarters in Barcelona. 
   1. [Modern Tribe](http://tri.be/about/join-our-team/) - A digital agency with a modern twist. All freelancers. All experts.
   1. [Mozilla](https://careers.mozilla.org/listings/) - Firefox has a 'Remote' option under it's location searchbar
   1. [Netsparker](https://www.netsparker.com/jobs/) - Web Application Security Scanner.
