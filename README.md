@@ -166,7 +166,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Housing
   1. [bedndesk](http://www.bedndesk.com) - Coworking & coliving space in Mallorca island in Spain
   1. [Blackbox](http://blackbox.vc) - Coliving space in Silicon Valley
-  1. [Casa98](http://casa98.co/) - Coworking space. Medellin, Colombia
   1. [Common] (https://www.hicommon.com/) - Coliving House in NewYork
   1. [Coworking in the Sun](http://www.coworkinginthesun.com) - Coliving & coworking space in Tenerife island in Spain
   1. [Etincelle Coworking](http://www.etincelle-coworking.com) - Coworking spaces in south of France
