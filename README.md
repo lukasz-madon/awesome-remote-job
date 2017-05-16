@@ -231,6 +231,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [BeBanjo](http://bebanjo.com/careers/) - Software as a service for managing video on-demand. Ruby / Rails, Elasticsearch, Sidekiq.
   1. [Bluespark Labs](http://www.bluespark.com/work-at-bluespark) - WebDev Consulting and makers of Roomify. Remote team with HQs in Raleigh, NC and Italy. Drupal.
   1. [Buffer](https://buffer.com/journey/) - Tools to help manage social media. PHP, CodeIgniter, MongoDB, Memcache, Backbone.js, React.js, Grunt.js, LESS, and Python.
+  1. [Bugfender](https://bugfender.com/) - Bugfender is a remote logger for multiple platforms including iOS and Android. It stores logs created by your application and sends them to our server, creating a remote console where you can see logs in real time. Remote company based in Barcelona.
   1. [Cadasta](http://cadasta.org/about-us/careers/) - Secure platform for mapping global land & resource rights. 100% remote team; Python, Django, JavaScript, PostgreSQL.
   1. [Canonical](https://www.canonical.com/careers/all-vacancies) - Ubuntu.
   1. [Catalyze](https://catalyze.io/jobs) - HIPAA-compliant cloud computing for healthcare. HQ in Madison, WI. Docker, Go, Python.
@@ -289,7 +290,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Lullabot](https://www.lullabot.com/jobs) - Strategy, design and development using Drupal.
   1. [Maintainer Mountaineer](https://maintainer.io) - Open source community management as a service.
   1. [Mapbox](https://www.mapbox.com/jobs/) - Map integration tools for various platforms.
-  1. [Mobile Jazz](https://mobilejazz.com/) - We are a dedicated team of highly-skilled engineers, designers and marketing experts on a mission to build a more beautiful digital world. We are a remote friendly company with headquarters in Barcelona. 
+  1. [Mobile Jazz](https://mobilejazz.com/) - We are a dedicated team of highly-skilled engineers, designers and marketing experts on a mission to build a more beautiful digital world. We are a remote friendly company with headquarters in Barcelona.
   1. [Modern Tribe](http://tri.be/about/join-our-team/) - A digital agency with a modern twist. All freelancers. All experts.
   1. [Mozilla](https://careers.mozilla.org/listings/) - Firefox has a 'Remote' option under it's location searchbar
   1. [Netsparker](https://www.netsparker.com/jobs/) - Web Application Security Scanner.
