@@ -128,6 +128,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Find Bacon](https://findbacon.com/jobs/remote)
   1. [Flexjobs](https://www.flexjobs.com/) – Telecommuting Jobs & Professional Part-Time Jobs.
   1. [Front-end Developer Jobs](http://frontenddeveloperjob.com/) - View as table, then sort by `performed`
+  1. [FrontHAT](https://fronthat.com/) - Aggragated and curated collection of 100% remote frontend development and design jobs.
   1. [Github Jobs](https://jobs.github.com/) - Location filter -> "*Anywhere/Remote*"
   1. [Golangprojects](http://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
   1. [GoRemote.io](https://goremote.io/)
