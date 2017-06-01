@@ -202,7 +202,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   3. [Project Getaway](http://www.projectgetaway.com) - 30 days retreat
 
 ## Newsletters
-  1. [Remote Digest](http://remotedigest.com/) - Job posts.
   1. [Remote Internships](http://foundersgrid.com/)
   1. [Remotive - productive remote workers](http://remotive.io/) - A weekly newsletter on Remote Tips & Jobs sent to 10,000+ Remote Workers
   1. [Working Nomads](http://workingnomads.co/) - Job posts.
