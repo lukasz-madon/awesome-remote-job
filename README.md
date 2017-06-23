@@ -361,6 +361,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
  1. [Out Of Office](http://www.outofoffice.hm/) - Online remote work event by [Human Made](https://hmn.md/)
  1. [Remote Working Conference](http://remoteworkingconf.com/) - Remote conference about remote working
  1. [Yonder](http://www.yonder.io/events/) - A round table conference bringing together leaders of distributed companies.
+ 1. [9punto5](http://www.9punto5.cl) - Remote work conference in Latin America. 
 
 ## Tools
 #### Communication
