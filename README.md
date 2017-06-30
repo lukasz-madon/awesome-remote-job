@@ -159,6 +159,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Working Nomads](http://www.workingnomads.co/jobs)
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
   1. [Work Remotely](https://workremotely.io/) - Crawls and curates many job board feeds for remote positions
+  1. [WEMO](https://wemo.work/)
 
 ## Freelance marketplaces
   1. [Design Inc.](https://www.designinc.com)
