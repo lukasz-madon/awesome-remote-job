@@ -160,11 +160,11 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Housing
   1. [bedndesk](http://www.bedndesk.com) - Coworking & coliving space in Mallorca island in Spain
   1. [Blackbox](http://blackbox.vc) - Coliving space in Silicon Valley
-  1. [Common] (https://www.hicommon.com/) - Coliving House in NewYork
+  1. [Common](https://www.hicommon.com/) - Coliving House in NewYork
   1. [Coworking in the Sun](http://www.coworkinginthesun.com) - Coliving & coworking space in Tenerife island in Spain
   1. [Etincelle Coworking](http://www.etincelle-coworking.com) - Coworking spaces in south of France
   1. [Embassy Network](https://embassynetwork.com/) - Global Network of community houses in San Francisco, Amsterdam, Costa Rica, Haiti, Nepal, Estonia and soon-to-be-more locations. Mix of remote workers, entrepreneurs, artists, ... <3
-  1. [Hive Arena] (http://hivearena.com/) - Coworking & Coliving Space in Seoul, South Korea
+  1. [Hive Arena](http://hivearena.com/) - Coworking & Coliving Space in Seoul, South Korea
   1. [HubBOG](http://hubbog.com/) - Coworking Space + Startup Accelerator. Bogota, Colombia
   1. [Hus24](http://hus24.org/en/) - Coliving space in Sweden
   1. [Nest Copenhagen](http://nestcopenhagen.dk) - Coliving space in Copenhagen, Denmark
@@ -387,7 +387,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 1. [##remotes](https://github.com/remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes))
 1. [Hacker Paradise](http://www.hackerparadise.org/) - Traveling remote workers.
 1. [#nomads](https://hashtagnomads.com/) - Slack community for nomadic working, $100 signup fee.
-1. [Remote Year] (http://www.remoteyear.com/) - Traveling techies for 1 year.
+1. [Remote Year](http://www.remoteyear.com/) - Traveling techies for 1 year.
 
 ## Conferences
  1. [DNX Global](http://www.dnxglobal.com/) - Digital Nomad Conference.
