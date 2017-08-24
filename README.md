@@ -140,7 +140,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [JOBBOX.io](https://landing.jobs/offers) – Filter -> Remote only.
   1. [Jobmote](http://jobmote.com/) – Telecommuting jobs for IT professionals.
   1. [Jobspresso](https://jobspresso.co/) * High-quality remote positions that are open and legitimate *
-  1. [JS Remotely](https://jsremotely.com/) – All remote JavaScript jobs on one board
+  1. [JS Remotely](http://jsremotely.com/) – All remote JavaScript jobs on one board
   1. [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
