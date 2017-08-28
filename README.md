@@ -145,6 +145,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
   1. [RemoteBase](https://remotebase.io/) - a searchable collection of remote companies and hiring info
   1. [Remote OK](https://remoteok.io/) - Scrapes many job board feeds for remote positions.
+  1. [Remote part-time jobs](http://remoteparttimejobs.com/)
   1. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
   1. [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - Crawls multiple job boards for remote job postings.
