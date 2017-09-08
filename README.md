@@ -72,7 +72,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Why I work remotely ( hint: it has nothing to do with productivity)](https://m.signalvnoise.com/why-i-work-remotely-hint-it-has-nothing-to-do-with-productivity-34ace30f74fc?gi=39b26e8f40a1)
   1. [Why Coworking Is a Hit for Telecommuters and Entrepreneurs](http://www.cio.com/article/2369058/telecommuting/why-coworking-is-a-hit-for-telecommuters-and-entrepreneurs.html)
   1. [Why Marissa Mayer’s ban on remote working at Yahoo could backfire badly](https://gigaom.com/2013/02/25/why-marissa-mayers-ban-on-remote-working-at-yahoo-could-backfire-badly/)
-  1. [Why moonlighting will change your career](http://blog.landing.jobs/why-moonlighting-will-change-your-career/)
+  1. [Why moonlighting will change your career](https://blog.landing.jobs/why-moonlighting-will-change-your-career-7e8aac3dc25f)
   1. [Why Remote Workers Are More (Yes, More) Engaged](https://hbr.org/2012/08/are-you-taking-your-people-for)
   1. [Why Small Businesses Are Building Remote Workforces](http://www.businessinsider.com/why-small-businesses-are-building-remote-workforces-2013-10)
   1. [Why We (Still) Believe in Working Remotely](https://stackoverflow.blog/2013/02/why-we-still-believe-in-working-remotely/)
