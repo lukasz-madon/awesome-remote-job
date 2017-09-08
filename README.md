@@ -13,6 +13,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 - [Books](#books)
 - [Comics](#comics)
 - [Job boards](#job-boards)
+- [Job boards aggregators](#job-boards-aggregators)
 - [Housing](#housing)
 - [Interviewing](#interviewing)
 - [Events](#events)
@@ -127,10 +128,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Find Bacon](https://findbacon.com/jobs/remote)
   1. [Flexjobs](https://www.flexjobs.com/) – Telecommuting Jobs & Professional Part-Time Jobs.
   1. [Front-end Developer Jobs](http://frontenddeveloperjob.com/) - View as table, then sort by `performed`
-  1. [FrontHAT](https://fronthat.com/) - Aggragated and curated collection of 100% remote frontend development and design jobs.
   1. [Github Jobs](https://jobs.github.com/) - Location filter -> "*Anywhere/Remote*"
   1. [Golangprojects](http://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
-  1. [GoRemote.io](https://goremote.io/)
   1. [Guru](http://www.guru.com/) - (has MANY different categories outside software)
   1. [Hasjob](https://hasjob.co/) – Location filter -> "*Anywhere/Remote*"
   1. [Honestlance](https://www.honestlance.com/)
@@ -144,18 +143,23 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
   1. [RemoteBase](https://remotebase.io/) - a searchable collection of remote companies and hiring info
-  1. [Remote OK](https://remoteok.io/) - Scrapes many job board feeds for remote positions.
-  1. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
   1. [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
-  1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - Crawls multiple job boards for remote job postings.
   1. [Remotive Jobs](http://jobs.remotive.io/)
   1. [Skip the Drive](http://www.skipthedrive.com/)
   1. [Virtual Vocations](https://www.virtualvocations.com/)
   1. [We Work Remotely](https://weworkremotely.com/)
   1. [WFH.io](https://www.wfh.io/)
-  1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
   1. [Working Nomads](http://www.workingnomads.co/jobs)
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
+
+## Job boards aggregators
+  1. [Alfred](https://alfred.serafin.io/) - Remote jobs aggregator.
+  1. [FrontHAT](https://fronthat.com/) - Aggregated and curated collection of 100% remote frontend development and design jobs.
+  1. [GoRemote.io](https://goremote.io/)
+  1. [Remote OK](https://remoteok.io/) - Scrapes many job board feeds for remote positions.
+  1. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
+  1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - Crawls multiple job boards for remote job postings.
+  1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
   1. [Work Remotely](https://workremotely.io/) - Crawls and curates many job board feeds for remote positions
 
 ## Housing
