@@ -101,10 +101,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [How to Work Remotely and Still Be the Best](https://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best)
   1. [The Ultimate Remote Team Culture](https://www.toptal.com/remote/the-ultimate-remote-culture)
   1. [How to Handle Client Work Remotely: Our Communication Stack](https://marsbased.com/blog/2015/12/07/how-to-handle-client-work-remotely-our-communication-stack/)
-  1. [Our Six Tips for Working Remotely](https://marsbased.com/blog/2015/06/15/six-tips-for-remote-working/)
-  1. [Dealing With Your First Hire in a Distributed Team](https://marsbased.com/blog/2014/10/25/dealing-with-your-first-hire-in-a-distributed-team/)
-  1. [How a Week of Remote Work Boosts my Productivity Enormously](http://www.alexrodba.com/2016/07/24/How-a-week-of-remote-work-boosts-my-productivity-enormously.html)
-  1. [How to Keep Your Remote Workers Productive](http://www.alexrodba.com/2016/03/22/How-To-Keep-Your-Remote-Workers-Productive.html)
+  1. [How a Week of Remote Work Boosts my Productivity Enormously](http://www.alexrodba.com/2016/07/24/How-a-week-of-remote-work-boosts-my-productivity-enormously/)
+  1. [How to Keep Your Remote Workers Productive](http://www.alexrodba.com/2016/03/22/How-To-Keep-Your-Remote-Workers-Productive/)
 
 ## Videos
   1. [Jason Fried: Why work doesn't happen at work](https://www.youtube.com/watch?v=5XD2kNopsUs)
@@ -296,7 +294,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Prezly](https://www.prezly.com/) - SaaS PR platform. PHP, React, JS, Postgres. 100% remote.
   1. [ProofHQ, a Workfront company](https://www.proofhq.com/job-openings.html) - Online proofing solution. PHP, JavaScript, Java, .NET, MySQL, Redis
   1. [RainforestQA](https://www.rainforestqa.com/jobs/) - On demand QA as a service.
-  1. [Real HQ](https://realhq.com) - Maker of Agent Pronto, software designed to help make home buying and selling a better experience. We'''ve been remote since the start, now 50+ spread across the globe. Ruby, Rails, React.js, iOS/Android.
+  1. [Real HQ](https://realhq.com) - Maker of Agent Pronto, software designed to help make home buying and selling a better experience. We've been remote since the start, now 50+ spread across the globe. Ruby, Rails, React.js, iOS/Android.
   1. [RebelMouse](https://blog.rebelmouse.com/careers/) - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
   1. [Recurly](https://recurly.com/jobs/) - recurring billing management for subscription-based businesses
   1. [Red Hat](http://jobs.redhat.com/)
