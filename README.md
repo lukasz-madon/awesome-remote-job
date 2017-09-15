@@ -140,7 +140,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [HN hiring](http://hnhiring.me/) – Filter REMOTE.
   1. [Jobbatical](https://jobbatical.com/)
   1. [JOBBOX.io](https://landing.jobs/offers) – Filter -> Remote only.
-  1. [Jobmote](http://jobmote.com/) – Telecommuting jobs for IT professionals.
   1. [Jobspresso](https://jobspresso.co/) * High-quality remote positions that are open and legitimate *
   1. [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
@@ -154,6 +153,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [WFH.io](https://www.wfh.io/)
   1. [Working Nomads](http://www.workingnomads.co/jobs)
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
+  1. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
 
 ## Job boards aggregators
   1. [Alfred](https://alfred.serafin.io/) - Remote jobs aggregator.
@@ -164,6 +164,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - Crawls multiple job boards for remote job postings.
   1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
   1. [Work Remotely](https://workremotely.io/) - Crawls and curates many job board feeds for remote positions
+  1. [Jobmote](http://jobmote.com/) – Telecommuting jobs for IT professionals.
 
 ## Housing
   1. [bedndesk](http://www.bedndesk.com) - Coworking & coliving space in Mallorca island in Spain
