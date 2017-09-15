@@ -198,9 +198,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   6. [hackerrank.com](https://www.hackerrank.com/) - Online platform for code studying and recruiting with job offers also
 
 ## Events
-  1. [Coworking Camp](http://www.coworking-camp.com) - Worldwide temporary coworking Spaces
-  2. [deceler8](https://sierraymar.exposure.co/decelerate-bali) - 10 days retreat
-  3. [Project Getaway](http://www.projectgetaway.com) - 30 days retreat
+  1. [deceler8](https://sierraymar.exposure.co/decelerate-bali) - 10 days retreat
+  1. [Project Getaway](http://www.projectgetaway.com) - 30 days retreat
 
 ## Newsletters
   1. [Remote Internships](http://foundersgrid.com/)
