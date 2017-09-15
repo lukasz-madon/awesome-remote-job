@@ -140,7 +140,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Honestlance](https://www.honestlance.com/)
   1. [Jobbatical](https://jobbatical.com/)
   1. [JOBBOX.io](https://landing.jobs/offers) – Filter -> Remote only.
-  1. [Jobmote](http://jobmote.com/) – Telecommuting jobs for IT professionals.
   1. [Jobspresso](https://jobspresso.co/) * High-quality remote positions that are open and legitimate *
   1. [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
@@ -151,6 +150,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Skip the Drive](http://www.skipthedrive.com/)
   1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
   1. [Virtual Vocations](https://www.virtualvocations.com/)
+  1. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
   1. [We Work Remotely](https://weworkremotely.com/)
   1. [WFH.io](https://www.wfh.io/)
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
@@ -165,6 +165,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - Crawls multiple job boards for remote job postings.
   1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
   1. [Work Remotely](https://workremotely.io/) - Crawls and curates many job board feeds for remote positions
+  1. [Jobmote](http://jobmote.com/) – Telecommuting jobs for IT professionals.
 
 ## Housing
   1. [bedndesk](http://www.bedndesk.com) - Coworking & coliving space in Mallorca island in Spain
@@ -352,7 +353,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [SoftwareMill](https://softwaremill.com/join-us/)
   1. [Songspace](https://songspace.com) Helps music creators collaborate, catalog, and share work with their professional team
   1. [Soostone](http://www.soostone.com/careers)
-  1. [Spreaker](https://www.spreaker.com/jobs) Discover and listen to your favorite podcasts. 
+  1. [Spreaker](https://www.spreaker.com/jobs) Discover and listen to your favorite podcasts.
   1. [StackExchange](http://stackexchange.com/work-here)
   1. [Strongloop](https://strongloop.com/careers/)
   1. [StyleSeat](http://static.styleseat.com/jobs/index.html) - we love high-impact remote engineers, collaboration, creativity, python, angularjs
@@ -404,7 +405,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
  1. [Out Of Office](http://www.outofoffice.hm/) - Online remote work event by [Human Made](https://hmn.md/)
  1. [Remote Working Conference](http://remoteworkingconf.com/) - Remote conference about remote working
  1. [Yonder](http://www.yonder.io/events/) - A round table conference bringing together leaders of distributed companies.
- 1. [9punto5](http://www.9punto5.cl) - Remote work conference in Latin America. 
+ 1. [9punto5](http://www.9punto5.cl) - Remote work conference in Latin America.
 
 ## Tools
 #### Communication
