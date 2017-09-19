@@ -124,7 +124,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Job boards
   1. [Angel List](https://angel.co/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
   1. [Authentic Jobs](https://authenticjobs.com/#remote=true) – Full-time and freelance job opportunities for web, design, and creative professionals.
-  1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
   1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
   1. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
   1. [Europe Remotely](http://europeremotely.com/)
@@ -135,25 +134,26 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Golangprojects](http://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
   1. [Guru](http://www.guru.com/) - (has MANY different categories outside software)
   1. [Hasjob](https://hasjob.co/) – Location filter -> "*Anywhere/Remote*"
-  1. [Honestlance](https://www.honestlance.com/)
   1. [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) has remote type filter.
   1. [HN hiring](http://hnhiring.me/) – Filter REMOTE.
+  1. [Honestlance](https://www.honestlance.com/)
   1. [Jobbatical](https://jobbatical.com/)
   1. [JOBBOX.io](https://landing.jobs/offers) – Filter -> Remote only.
   1. [Jobmote](http://jobmote.com/) – Telecommuting jobs for IT professionals.
   1. [Jobspresso](https://jobspresso.co/) * High-quality remote positions that are open and legitimate *
   1. [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
+  1. [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
   1. [RemoteBase](https://remotebase.io/) - a searchable collection of remote companies and hiring info
-  1. [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   1. [Remotive Jobs](http://jobs.remotive.io/)
   1. [Skip the Drive](http://www.skipthedrive.com/)
+  1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
   1. [Virtual Vocations](https://www.virtualvocations.com/)
   1. [We Work Remotely](https://weworkremotely.com/)
   1. [WFH.io](https://www.wfh.io/)
-  1. [Working Nomads](http://www.workingnomads.co/jobs)
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
+  1. [Working Nomads](http://www.workingnomads.co/jobs)
 
 ## Job boards aggregators
   1. [Alfred](https://alfred.serafin.io/) - Remote jobs aggregator.
@@ -421,7 +421,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [ScreenHero](https://screenhero.com) - Real-time, HD screen sharing for collaboration in teams.
   1. [Skype](https://www.skype.com/) – Video calls.
   1. [Slack](https://slack.com/) – Chat system with loads of integration options.
-  1. [Sqwiggle](https://www.sqwiggle.com/) – Online Collaboration Software for Remote and Virtual Teams.
   1. [Talky](https://talky.io/) — Truly simple video chat and screen sharing for groups
   1. [Zoom](https://zoom.us) — High-quality group video and sharing screen, run on linux, record session and support telephone calls.
 
