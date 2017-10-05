@@ -267,7 +267,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Drupal Association](https://assoc.drupal.org/jobs) - Non-profit supporting the Drupal project.
   1. [DuckDuckGo](https://duck.co/help/company/hiring) - Search engine.
   1. [Elastic](https://www.elastic.co/) - Open source search & analytics
-  1. [ElevenYellow](http://www.elevenyellow.com/) - Startup studio based in Singapore, Madrid, and Bali.
   1. [Envato](https://envato.com/careers) - Maker of ThemeForest and other online marketplaces. MySQL, Ruby, Rails, Javascript. Distributed team with HQ in Melbourne, Australia.
   1. [Etsy](https://www.etsy.com/careers) - Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.
   1. [Eyeo](https://eyeo.com/en/jobs/) - Maker of AdBlock Plus. Main office in Cologne, Germany.
