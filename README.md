@@ -204,10 +204,10 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Newsletters
   1. [Remote Internships](http://foundersgrid.com/)
+  1. [Remote Report](http://remote.report) - A collection of the best remote, support focused and non-technical jobs delivered weekly.
   1. [Remotive - productive remote workers](http://remotive.io/) - A weekly newsletter on Remote Tips & Jobs sent to 10,000+ Remote Workers
   1. [Working Nomads](http://workingnomads.co/) - Job posts.
   1. [Yonder Newsletter](https://yonder.io/newsletter) - Daily remote work tips, links, articles, and the Yonder Podcast.
-  1. [Remote Report](http://remote.report) - A collection of the best remote, support and non-technical focused jobs delivered weekly.
 
 ## Podcasts
   1. [Free People Move Podcast](https://teleport.org/podcast/) - mostly interviews with founders attacking the location independence / remote work space from different angles
