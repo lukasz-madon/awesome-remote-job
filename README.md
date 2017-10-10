@@ -337,7 +337,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Precision Nutrition](http://www.precisionnutrition.com/) -  Online Nutrition Coaching and Certification.
   1. [PreviousNext](https://www.previousnext.com.au) - Australian based Drupal agency.
   1. [Prezly](https://www.prezly.com/) - SaaS PR platform. PHP, React, JS, Postgres. 100% remote.
-  1. [ProofHQ, a Workfront company](https://www.proofhq.com/careers/) - Online proofing solution. PHP, JavaScript, Java, .NET, MySQL, Redis
   1. [RainforestQA](https://www.rainforestqa.com/jobs/) - On demand QA as a service.
   1. [Real HQ](https://realhq.com) - Maker of Agent Pronto, software designed to help make home buying and selling a better experience. We've been remote since the start, now 50+ spread across the globe. Ruby, Rails, React.js, iOS/Android.
   1. [RebelMouse](https://blog.rebelmouse.com/careers/) - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
@@ -376,6 +375,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Walltime](https://walltime.info) - A Brazilian digital assets exchange and other products & services using Blockchain technology.
   1. [Water Lily Pond](http://waterlilypond.co.uk/) - Advertising and marketing communication services.
   1. [Wikimedia](https://wikimediafoundation.org/wiki/Work_with_us)
+  1. [WorkFront](https://www.workfront.com/careers/) - Online proofing solution. PHP, JavaScript, Java, .NET, MySQL, Redis
   1. [X-Team](https://x-team.com/join/) - Work on incredible web and mobile projects, with extraordinary developers. Unleash your potential. From anywhere. We are X-Team.
   1. [You Need a Budget](https://www.youneedabudget.com/jobs/) - Bank syncing and goals and debt management.
   1. [YourSports](https://www.yoursports.com/jobs) - A social network for your favorite teams.
