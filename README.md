@@ -253,6 +253,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Collage](http://jobs.collage.com/) - We provide the easiest and most versatile tools to help you turn your photos into memories. 100% remote team.
   1. [Compose](https://www.compose.io/jobs/) - Managing databases as a service. Distributed team with offices in San Meteo, CA and Birmingham, AL.
   1. [Continu](http://www.continu.co/careers/) - Continuous learning software for modern teams.
+  1. [Countly](https://count.ly/full-stack-node-js-developer) - Open source, enterprise mobile / web analytics and marketing platform.
   1. [CRO Metrics](http://crometrics.com/jobs/) - Data-driven expirementation and growth programs.
   1. [Crossover](https://app.crossover.com/x/marketplace/available-jobs) - Project-based Java, .Net and DevOps positions.
   1. [Datadog](https://www.datadoghq.com/careers/) - Easy to use and scalable monitoring systems for modern and dynamic infrastructure.  Distributed team with offices in New York, Boston and Paris.  Engineers based all around the world.
