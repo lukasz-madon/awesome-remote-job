@@ -352,6 +352,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [SoftwareMill](https://softwaremill.com/join-us/)
   1. [Songspace](https://songspace.com) Helps music creators collaborate, catalog, and share work with their professional team
   1. [Soostone](http://www.soostone.com/careers)
+  1. [Spreaker](https://www.spreaker.com/jobs) Discover and listen to your favorite podcasts. 
   1. [StackExchange](http://stackexchange.com/work-here)
   1. [Strongloop](https://strongloop.com/careers/)
   1. [StyleSeat](http://static.styleseat.com/jobs/index.html) - we love high-impact remote engineers, collaboration, creativity, python, angularjs
@@ -419,6 +420,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Mumble](https://wiki.mumble.info/) Mumble is an open source voice chat software
   1. [Precursor](https://precursorapp.com) - Simple prototyping & brainstorming web app with real-time collaboration.
   1. [PukkaTeam](https://www.pukkateam.com) - Real team presence through regular automated selfies and one-click video calling
+  1. [Rocket.Chat](https://rocket.chat/) — The Ultimate Open Source WebChat Platform.
   1. [ScreenHero](https://screenhero.com) - Real-time, HD screen sharing for collaboration in teams.
   1. [Skype](https://www.skype.com/) – Video calls.
   1. [Slack](https://slack.com/) – Chat system with loads of integration options.
