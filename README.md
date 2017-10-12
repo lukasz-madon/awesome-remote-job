@@ -173,7 +173,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Common](https://www.hicommon.com/) - Coliving House in NewYork
   1. [Coworking in the Sun](http://www.coworkinginthesun.com) - Coliving & coworking space in Tenerife island in Spain
   1. [Etincelle Coworking](http://www.etincelle-coworking.com) - Coworking spaces in south of France
-  1. [Embassy Network](https://embassynetwork.com/) - Global Network of community houses in San Francisco, Amsterdam, Costa Rica, Haiti, Nepal, Estonia and soon-to-be-more locations. Mix of remote workers, entrepreneurs, artists, ... <3
   1. [Hive Arena](http://hivearena.com/) - Coworking & Coliving Space in Seoul, South Korea
   1. [HubBOG](http://hubbog.com/) - Coworking Space + Startup Accelerator. Bogota, Colombia
   1. [Hus24](http://hus24.org/en/) - Coliving space in Sweden
