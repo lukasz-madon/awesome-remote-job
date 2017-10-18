@@ -427,6 +427,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Skype](https://www.skype.com/) – Video calls.
   1. [Slack](https://slack.com/) – Chat system with loads of integration options.
   1. [Talky](https://talky.io/) — Truly simple video chat and screen sharing for groups
+  1. [Telegram](https://telegram.org/) - Telegram is a cloud-based mobile and desktop messaging app with a focus on security and speed.
   1. [Zoom](https://zoom.us) — High-quality group video and sharing screen, run on linux, record session and support telephone calls.
 
 #### Project Management
