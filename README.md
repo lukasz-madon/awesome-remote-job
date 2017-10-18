@@ -227,6 +227,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [AT&T](https://att.jobs) - Nearly [20% of the eligible workforce](https://www.att.com/Common/about_us/files/csr_2012/worklife_balance.pdf) works remotely.
   1. [Auth0](https://auth0.com/jobs) - Zero-friction authentication and authorization for developers.
   1. [Authentic F & F](http://authenticff.com/) - Independent design and technology studio based in Denver and Minnesota
+  1. [Aurity](https://www.aurity.co/) - 100% remote company, specializing in React and React Native.
   1. [Automattic](https://automattic.com/work-with-us/) - Makers of WordPress.com and Gravatar
   1. [Avallain](https://www.avallain.com/) - Education Technology and Digital Publishing. We have the tools and processes to achieve the positive impact on human potential that technology enhanced education can provide
   1. [Axelerant](https://www.axelerant.com/careers)
