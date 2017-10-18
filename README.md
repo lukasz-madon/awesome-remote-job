@@ -184,7 +184,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Roam](https://www.roam.co/) - Global network of coliving spaces
   1. [Sende](http://sende.co) - Coliving & coworking space in northern Spain
   1. [Sun Desk](http://sun-desk.com) - Coliving & coworking space in Taghazout, Morocco
-  1. [The Blue House](http://www.thebluehouse.io) - Startup house & coliving space in Morocco
   1. [The Surf Office](https://www.thesurfoffice.com/) - Coworking & vacation space in Portugal, Canaries and California
   1. [Work From Curacao](http://www.workfromcuracao.com/) - Coliving space in Curacao
   1. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
@@ -235,7 +234,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [BaseCamp](http://basecamp.com/about/team) - Project management software.
   1. [Basho](http://bashojobs.theresumator.com) - Creators of Riak, an open source platform and k/v database. We code in Erlang and hang out on clouds. Everyone works remote and gets together a few times a year at HQ in Seattle.
   1. [BeBanjo](http://bebanjo.com/careers/) - Software as a service for managing video on-demand. Ruby / Rails, Elasticsearch, Sidekiq.
-  1. [Big Universe](https://www.biguniverse.com/careers) - K-12 digital literacy solution with a 100% virtual workforce.
   1. [Bluespark Labs](http://www.bluespark.com/work-at-bluespark) - WebDev Consulting and makers of Roomify. Remote team with HQs in Raleigh, NC and Italy. Drupal.
   1. [Buffer](https://buffer.com/journey/) - Tools to help manage social media. PHP, CodeIgniter, MongoDB, Memcache, Backbone.js, React.js, Grunt.js, LESS, and Python.
   1. [Bugfender](https://bugfender.com/) - Bugfender is a remote logger for multiple platforms including iOS and Android. It stores logs created by your application and sends them to our server, creating a remote console where you can see logs in real time. Remote company based in Barcelona.
