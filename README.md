@@ -431,9 +431,9 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 #### Project Management
   1. [Asana](https://asana.com/) - Project management good for distributed teams.
+  1. [Harvest](https://www.getharvest.com/) - Time tracking
   1. [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source).
   1. [Trello](https://trello.com/) - Lean project boards.
-  1. [Harvest](https://www.getharvest.com/) - Time tracking
 
 #### Others
   1. [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better.
