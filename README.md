@@ -111,11 +111,16 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Fluent 2013: Mike Hostetler, “Remote Working Works!”](https://www.youtube.com/watch?v=23oBUH270YU)
 
 ## Books
-  1. [Remote. Office Not Required.](http://37signals.com/remote/)
-  1. [The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/)
-  1. [The Year Without Pants: WordPress.com and the Future of Work](http://scottberkun.com/yearwithoutpants/)
-  1. [The Remote Jobseeker’s Handbook](http://cobyism.com/remotejobseeker/)
-  1. [Async Remote](http://blog.arkency.com/async-remote/)
+  1. [Remote: Office Not Required](http://37signals.com/remote/).
+     by Jason Fried and David Heinemeier Hansson (37signals), 2013.
+  1. [The Ultimate Guide to Remote Work](https://zapier.com/learn/remote-work/).
+     by Wade Foster (Zapier), 2015.
+  1. [The Year Without Pants: WordPress.com and the Future of Work](http://scottberkun.com/yearwithoutpants/).
+     by Scott Berkun, 2013.
+  1. [The Remote Jobseeker’s Handbook](http://cobyism.com/remotejobseeker/).
+     by Coby Chapple (GitHub), 2016.
+  1. [Async Remote](http://blog.arkency.com/async-remote/).
+     by Robert Pankowecki and Andrzej Krzywda (Arkency), 2014.
 
 ## Comics
 
