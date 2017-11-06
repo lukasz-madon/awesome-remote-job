@@ -148,6 +148,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Jobspresso](https://jobspresso.co/) * High-quality remote positions that are open and legitimate *
   1. [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
+  1. [Relevant Jobs](https://www.relevantjobs.com/jobs/remote) - Search jobs by skill.
   1. [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
   1. [RemoteBase](https://remotebase.io/) - a searchable collection of remote companies and hiring info
@@ -273,7 +274,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Doximity](https://www.doximity.com/about/jobs) - Largest online medical network of US physicians. Ruby, Rails, Go, JavaScript, MySQL.
   1. [Drupal Association](https://assoc.drupal.org/jobs) - Non-profit supporting the Drupal project.
   1. [DuckDuckGo](https://duck.co/help/company/hiring) - Search engine.
-  1. [EasyCommunicationTechnology](https://www.easycomtec.com/homeoffice/developer) - .NET development using C#, Angular, Azure. Remote-first company. 
+  1. [EasyCommunicationTechnology](https://www.easycomtec.com/homeoffice/developer) - .NET development using C#, Angular, Azure. Remote-first company.
   1. [Elastic](https://www.elastic.co/) - Open source search & analytics
   1. [Envato](https://envato.com/careers) - Maker of ThemeForest and other online marketplaces. MySQL, Ruby, Rails, Javascript. Distributed team with HQ in Melbourne, Australia.
   1. [Etsy](https://www.etsy.com/careers) - Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.
