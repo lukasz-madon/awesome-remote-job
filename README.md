@@ -178,7 +178,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Blackbox](http://blackbox.vc) - Coliving space in Silicon Valley
   1. [Common](https://www.hicommon.com/) - Coliving House in NewYork
   1. [Coworking in the Sun](http://www.coworkinginthesun.com) - Coliving & coworking space in Tenerife island in Spain
-  1. [Etincelle Coworking](http://www.etincelle-coworking.com) - Coworking spaces in south of France
   1. [Hive Arena](http://hivearena.com/) - Coworking & Coliving Space in Seoul, South Korea
   1. [HubBOG](http://hubbog.com/) - Coworking Space + Startup Accelerator. Bogota, Colombia
   1. [Hus24](http://hus24.org/en/) - Coliving space in Sweden
