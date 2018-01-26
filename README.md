@@ -299,6 +299,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Help Scout](https://www.helpscout.net/careers/) - A help desk for teams that insist on a delightful customer experience.
   1. [Heroku](https://www.heroku.com/careers) - PaaS Cloud, makes devs' experience awesome, Ruby, Erlang, Javascript, Golang, Python.
   1. [Honeybadger](https://www.honeybadger.io/) - Ruby. 100% remote.
+  1. [Hotjar](https://careers.hotjar.com/) - Analytics & Feedback tool.
   1. [Hubstaff](https://hubstaff.com/jobs) - Time tracking solution with multiple integrations.
   1. [Igalia](https://www.igalia.com/about-us/form) - Open source consultancy. HQ in Spain.
   1. [Incsub](http://incsub.com/careers/) - Remote team that builds Wordpress projects.
