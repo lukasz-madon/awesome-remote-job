@@ -169,6 +169,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Alfred](https://alfred.serafin.io/) - Remote jobs aggregator.
   1. [Google Jobs](https://www.google.com/search?q=remote&ibp=htl;jobs#fpstate=tldetail&htidocid=IO0hI7dpKTSlzSKoAAAAAA%3D%3D&htin=1&htivrt=jobs)  – Aggregates from multiple boards and employer sites with sensitivity to location, job type, and more. Find out how to use it [here](https://support.google.com/websearch/answer/7498276?p=job_search_box&sa=X&ved=0ahUKEwid_qyLmJfXAhVD4YMKHYGBAK8Qra4CCGQoAQ&visit_id=1-636449234996681631-3229288694&rd=1).
   1. [GoRemote.io](https://goremote.io/)
+  1. [Remote Index](https://remoteindex.io/) - Crawls jobs and companies informations.
   1. [Remote OK](https://remoteok.io/) - Scrapes many job board feeds for remote positions.
   1. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
   1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - Crawls multiple job boards for remote job postings.
