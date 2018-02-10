@@ -242,6 +242,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Axelerant](https://www.axelerant.com/careers)
   1. [Baremetrics](https://baremetrics.com/jobs#all) - Analytics and insights for Stripe, Braintree, Recurly and Chargify.
   1. [BaseCamp](http://basecamp.com/about/team) - Project management software.
+  1. [Baselayer](https://www.baselayer.com/company/careers/) - Data center and infrastructure management software.
   1. [Basho](http://bashojobs.theresumator.com) - Creators of Riak, an open source platform and k/v database. We code in Erlang and hang out on clouds. Everyone works remote and gets together a few times a year at HQ in Seattle.
   1. [BeBanjo](http://bebanjo.com/careers/) - Software as a service for managing video on-demand. Ruby / Rails, Elasticsearch, Sidekiq.
   1. [Bluespark Labs](http://www.bluespark.com/work-at-bluespark) - WebDev Consulting and makers of Roomify. Remote team with HQs in Raleigh, NC and Italy. Drupal.
