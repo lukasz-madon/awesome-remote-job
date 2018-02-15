@@ -107,8 +107,9 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [How to Keep Your Remote Workers Productive](http://www.alexrodba.com/2016/03/22/How-To-Keep-Your-Remote-Workers-Productive/)
 
 ## Videos
-  1. [Jason Fried: Why work doesn't happen at work](https://www.youtube.com/watch?v=5XD2kNopsUs)
+  1. [David Copeland: The Effective Remote Developer](https://www.infoq.com/presentations/effective-remote-developer-2017)
   1. [Fluent 2013: Mike Hostetler, “Remote Working Works!”](https://www.youtube.com/watch?v=23oBUH270YU)
+  1. [Jason Fried: Why work doesn't happen at work](https://www.youtube.com/watch?v=5XD2kNopsUs)
 
 ## Books
   1. [Remote: Office Not Required](http://37signals.com/remote/).
