@@ -377,6 +377,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Surevine](https://www.surevine.com/jobs/)
   1. [Surge](http://www.surgeforward.com/careers/) - 100% remote consulting company working primarily in Node.JS, iOS, .NET, PHP, and Android
   1. [Sysdig Cloud](https://sysdig.com/jobs/)
+  1. [Taskade](https://www.taskade.com/contact/) - Remote team building real-time collaboration & collaborative editing for teams.
   1. [TaxJar](https://www.taxjar.com/jobs/) - Eliminate sales tax headaches.
   1. [Teamed.io](http://www.teamed.io/)
   1. [TeamSnap](https://www.teamsnap.com/about/careers) - TeamSnap is the No. 1 online sports team management software. 80% remote employees
@@ -455,6 +456,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Harvest](https://www.getharvest.com/) - Time tracking
   1. [Hitask](https://hitask.com/) - Easy task and project management for teams.
   1. [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source).
+  1. [Taskade](https://taskade.com/) - Real-time collaborative notes, checklists and outlines for teams.
   1. [Trello](https://trello.com/) - Lean project boards.
 
 #### Others
