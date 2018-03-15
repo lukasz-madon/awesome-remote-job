@@ -104,6 +104,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [How to Handle Client Work Remotely: Our Communication Stack](https://marsbased.com/blog/2015/12/07/how-to-handle-client-work-remotely-our-communication-stack/)
   1. [How a Week of Remote Work Boosts my Productivity Enormously](http://www.alexrodba.com/2016/07/24/How-a-week-of-remote-work-boosts-my-productivity-enormously/)
   1. [How to Keep Your Remote Workers Productive](http://www.alexrodba.com/2016/03/22/How-To-Keep-Your-Remote-Workers-Productive/)
+  1. [Remote Team Guide](https://x-team.gitbooks.io/remote-team-guide)  
 
 ## Videos
   1. [David Copeland: The Effective Remote Developer](https://www.infoq.com/presentations/effective-remote-developer-2017)
@@ -279,7 +280,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Doximity](https://www.doximity.com/about/jobs) - Largest online medical network of US physicians. Ruby, Rails, Go, JavaScript, MySQL.
   1. [Drupal Association](https://assoc.drupal.org/jobs) - Non-profit supporting the Drupal project.
   1. [DuckDuckGo](https://duck.co/help/company/hiring) - Search engine.
-  1. [EasyCommunicationTechnology](https://www.easycomtec.com/homeoffice/developer) - .NET development using C#, Angular, Azure. Remote-first company. 
+  1. [EasyCommunicationTechnology](https://www.easycomtec.com/homeoffice/developer) - .NET development using C#, Angular, Azure. Remote-first company.
   1. [Elastic](https://www.elastic.co/) - Open source search & analytics
   1. [Envato](https://envato.com/careers) - Maker of ThemeForest and other online marketplaces. MySQL, Ruby, Rails, Javascript. Distributed team with HQ in Melbourne, Australia.
   1. [Etsy](https://www.etsy.com/careers) - Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.
