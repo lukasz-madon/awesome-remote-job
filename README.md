@@ -397,7 +397,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Water Lily Pond](http://waterlilypond.co.uk/) - Advertising and marketing communication services.
   1. [wemake.services](https://wemake.services/meta/employees) - We sell repeatable software development process. Fully remote. Python, Javascript, Vue
   1. [Wikimedia](https://wikimediafoundation.org/wiki/Work_with_us)
-  1. [WorkFront](https://www.workfront.com/careers/) - Online proofing solution. PHP, JavaScript, Java, .NET, MySQL, Redis
   1. [X-Team](https://x-team.com/join/) - Work on incredible web and mobile projects, with extraordinary developers. Unleash your potential. From anywhere. We are X-Team.
   1. [You Need a Budget](https://www.youneedabudget.com/jobs/) - Bank syncing and goals and debt management.
   1. [YourSports](https://www.yoursports.com/jobs) - A social network for your favorite teams.
