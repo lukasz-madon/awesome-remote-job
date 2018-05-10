@@ -443,10 +443,9 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Precursor](https://precursorapp.com) - Simple prototyping & brainstorming web app with real-time collaboration.
   1. [PukkaTeam](https://www.pukkateam.com) - Real team presence through regular automated selfies and one-click video calling
   1. [Rocket.Chat](https://rocket.chat/) — The Ultimate Open Source WebChat Platform.
-  1. [ScreenHero](https://screenhero.com) - Real-time, HD screen sharing for collaboration in teams.
   2. [Signal](https://signal.org/) - Encrypted, secure chat and video calls.
   1. [Skype](https://www.skype.com/) – Video calls.
-  1. [Slack](https://slack.com/) – Chat system with loads of integration options.
+  1. [Slack](https://slack.com/) – Text, voice, and video chat system with loads of integration options including [ScreenHero](https://screenhero.com), a real-time, HD screen sharing system for collaboration in teams
   1. [Talky](https://talky.io/) — Truly simple video chat and screen sharing for groups
   1. [Zoom](https://zoom.us) — High-quality group video and sharing screen, run on linux, record session and support telephone calls.
 
