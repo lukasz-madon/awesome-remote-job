@@ -179,6 +179,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Work Remotely](https://workremotely.io/) - Crawls and curates many job board feeds for remote positions
 
 ## Housing
+  1. [Agora space] (http://www.agora-space.com) - Coworking & coliving space in Shanghai in China
   1. [bedndesk](http://www.bedndesk.com) - Coworking & coliving space in Mallorca island in Spain
   1. [Blackbox](http://blackbox.vc) - Coliving space in Silicon Valley
   1. [Common](https://www.hicommon.com/) - Coliving House in NewYork
