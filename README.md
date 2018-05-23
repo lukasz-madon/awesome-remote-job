@@ -274,6 +274,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Deeson](https://www.deeson.co.uk/careers) - UK-based with European team. Digital agency specialising in Drupal, Symfony and Laravel
   1. [Demio](https://demio.com/inside/) - Webinar platform that just works.
   1. [DigitalOcean](https://www.digitalocean.com/company/careers/) - Simple Cloud Hosting, Built for Developers
+  1. [Discourse](https://www.discourse.org/team) - Civilized discussion for your community.
   1. [DNSimple](https://dnsimple.com) - Small 100% remote and globally distributed team working to make domain management an afterthought.
   1. [Doist](https://doist.com/jobs/) - Redefining productivity since 2007.
   1. [Dotsub](https://dotsub.com/jobs) - Browser-based platform for subtitling & translating online videos. Java / Spring, JavaScript / React.js
