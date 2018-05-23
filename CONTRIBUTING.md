@@ -26,3 +26,8 @@ If you're making a pull request, please ensure it adheres to the following guide
 15. Link to the career/job page rather than to a single job post.
 16. Job boards should be high quality, without paywalls, requiring login, etc.
 17. No agencies, please.
+
+## Dead Link Policy
+
+We check all links are valid with the awesome [awesome_bot](https://github.com/dkhamsing/awesome_bot). If links die, we remove them - this saves time for the maintainers, and ensures awesome links. We'd be happy to accept PRs tore-add new links.
+
