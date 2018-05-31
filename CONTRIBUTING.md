@@ -29,5 +29,5 @@ If you're making a pull request, please ensure it adheres to the following guide
 
 ## Dead Link Policy
 
-We check all links are valid with the awesome [awesome_bot](https://github.com/dkhamsing/awesome_bot). If links die, we remove them - this saves time for the maintainers, and ensures awesome links. We'd be happy to accept PRs tore-add new links.
+We check all links are valid with the awesome [awesome_bot](https://github.com/dkhamsing/awesome_bot). If links die, we remove them - this saves time for the maintainers, and ensures awesome links. We'd be happy to accept PRs to re-add new links.
 
