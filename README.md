@@ -323,7 +323,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Lullabot](https://www.lullabot.com/jobs) - Strategy, design and development using Drupal.
   1. [Maintainer Mountaineer](https://maintainer.io) - Open source community management as a service.
   1. [MariaDB](https://mariadb.com/about-us/careers) - Open source database.
-  1. [MarsBased](https://marsbased.com) - Design & development consultancy from Barcelona, providing hieh-end Ruby on Rails & Javascript mobile and web applications.
+  1. [MarsBased](https://marsbased.com) - MarsBased is a development consultancy from Barcelona offering end‑to‑end web & mobile apps based on Ruby on Rails, Angular and other Javascript frameworks.
   1. [Mapbox](https://www.mapbox.com/jobs/) - Map integration tools for various platforms.
   1. [MCFTech](https://www.mcftech.com/careers/) - Applications to help you run your business succesfully.
   1. [MeetEdgar](https://meetedgar.com/careers/) - Automated social sharing. US remote.
