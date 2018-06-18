@@ -101,7 +101,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [How to Handle Client Work Remotely: Our Communication Stack](https://marsbased.com/blog/2015/12/07/how-to-handle-client-work-remotely-our-communication-stack/)
   1. [How a Week of Remote Work Boosts my Productivity Enormously](http://www.alexrodba.com/2016/07/24/How-a-week-of-remote-work-boosts-my-productivity-enormously/)
   1. [How to Keep Your Remote Workers Productive](http://www.alexrodba.com/2016/03/22/How-To-Keep-Your-Remote-Workers-Productive/)
-  1. [Remote Team Guide](https://x-team.gitbooks.io/remote-team-guide)  
+  1. [Remote Team Guide](https://x-team.gitbooks.io/remote-team-guide)
 
 ## Videos
   1. [David Copeland: The Effective Remote Developer](https://www.infoq.com/presentations/effective-remote-developer-2017)
@@ -160,6 +160,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Virtual Vocations](https://www.virtualvocations.com/)
   1. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
   1. [React.js Jobs](https://www.react-jobs.com) Find React.js jobs all around the world - Click on "Remote" toggle button.
+  1. [We Love Angular](https://www.weloveangular.com/) Find Angular jobs and AngularJS people all around the world - Click on "Remote Angular jobs" link.
   1. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
   1. [We Work Remotely](https://weworkremotely.com/)
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
