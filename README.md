@@ -341,6 +341,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Next Big Sound](https://www.nextbigsound.com/about) - Analytics and Insights for the Music Industry.
   1. [Niteoweb](https://www.niteoweb.com/careers) - Employing tech enthusiasts from all over the world who love to build cool stuff.
   1. [NodeSource](https://nodesource.com/about) - NodeSource is dedicated to creating a sustainable ecosystem for Node.js.
+  1. [ofri](https://www.ofri.ch/job_openings) - A swiss online marketplace that connects homeowners with quality home improvement professionals.
   1. [Olark](https://www.olark.com/jobs) - Chat support funnel.
   1. [onTheGo Systems](https://www.onthegosystems.com/jobs/) - WordPress Developer, Supporter and Marketing Jobs.
   1. [Onyo](http://www.onyo.com) - Transforming the eating out experience in pure pleasure.
