@@ -247,7 +247,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Automattic](https://automattic.com/work-with-us/) - Makers of WordPress.com and Gravatar
   1. [Avallain](https://www.avallain.com/) - Education Technology and Digital Publishing. We have the tools and processes to achieve the positive impact on human potential that technology enhanced education can provide
   1. [Axelerant](https://www.axelerant.com/careers)
-  1. [Baremetrics](https://baremetrics.com/jobs#all) - Analytics and insights for Stripe, Braintree, Recurly and Chargify.
+  1. [Baremetrics](https://baremetrics.com/about) - Analytics and insights for Stripe, Braintree, Recurly and Chargify.
   1. [BaseCamp](http://basecamp.com/about/team) - Project management software.
   1. [Baselayer](https://www.baselayer.com/company/careers/) - Data center and infrastructure management software.
   1. [Basho](http://basho.com/careers/) - Creators of Riak, an open source platform and k/v database. We code in Erlang and hang out on clouds. Everyone works remote and gets together a few times a year at HQ in Seattle.
