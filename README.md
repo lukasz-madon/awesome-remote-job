@@ -324,6 +324,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Intellum](http://intellum.com/) - We build employee collaboration, performance and learning tools. Ruby, iOS, Android, AWS, GCS.
   1. [InVision](https://www.invisionapp.com/company#jobs) - prototyping, collaboration & workflow platform.
   1. [Jackson River](https://www.jacksonriver.com/about/jobs) - Digital-first technology and strategy for nonprofits.
+  1. [Judge.me](https://judge.me/) - A review platform for ecommerces. Our company is fully remote across 4 continents.
   1. [Khan Academy](https://www.khanacademy.org/careers) - EdTech. Non-profit focusing on K-12 STEM. Less, React, Flux, Backbone, jQuery, Python, Google App Engine, Swift, and Objective-C.
   1. [LaterPay](https://www.laterpay.net/) - The (micro)payment enabler. Munich, Germany. Python, JavaScript, AWS.
   1. [LaunchPotato](http://launchpotato.com/careers) - Startup studio based in Delray Beach, Florida.
