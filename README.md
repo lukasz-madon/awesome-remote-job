@@ -281,7 +281,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [DataStax](http://www.datastax.com/company/careers) - Consulting based on Apache Cassandra.
   1. [Deeson](https://www.deeson.co.uk/careers) - UK-based with European team. Digital agency specialising in Drupal, Symfony and Laravel
   1. [Demio](https://demio.com/inside/) - Webinar platform that just works.
-  1. [DigitalOcean](https://www.digitalocean.com/company/careers/) - Simple Cloud Hosting, Built for Developers
+  1. [DigitalOcean](https://www.digitalocean.com/careers/) - Simple Cloud Hosting, Built for Developers
   1. [Discourse](https://www.discourse.org/team) - Civilized discussion for your community.
   1. [DNSimple](https://dnsimple.com) - Small 100% remote and globally distributed team working to make domain management an afterthought.
   1. [Doist](https://doist.com/jobs/) - Redefining productivity since 2007.
@@ -310,7 +310,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [HashiCorp](https://www.hashicorp.com/jobs.html) - Open source tools for automating the modern data center. Go, Ruby, Rails, Ember, JavaScript.
   1. [HE:labs](https://helabs.com/us/)
   1. [Healthfinch](http://www.healthfinch.com/careers/) - Making Healthcare systems more usable. HQ in Madison, WI, USA. Ruby, Javascript.
-  1. [Heap](https://heapanalytics.com/jobs) – Web & Mobile Analytics, 2 of our 8 teammates are remote.
+  1. [Heap](https://heapanalytics.com/careers/jobs) – Web & Mobile Analytics, 2 of our 8 teammates are remote.
   1. [Help Scout](https://www.helpscout.net/careers/) - A help desk for teams that insist on a delightful customer experience.
   1. [Heroku](https://www.heroku.com/careers) - PaaS Cloud, makes devs' experience awesome, Ruby, Erlang, Javascript, Golang, Python.
   1. [Honeybadger](https://www.honeybadger.io/) - Ruby. 100% remote.
