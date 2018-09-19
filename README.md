@@ -346,6 +346,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Modus Create](https://moduscreate.com/) - Modus is a digital design-build agency driven by world-class talent. PHP, Javascript.
   1. [Mosalingua](https://www.mosalingua.com/en/jobs/) - Learn words, enjoy the world.
   1. [Mozilla](https://careers.mozilla.org/listings/) - Firefox has a 'Remote' option under it's location searchbar
+  1. [NearForm](https://www.nearform.com/careers/) - NearForm evolves enterprises by building high-performance, open software. Our global team uses modern processes and tools to help clients innovate at speed.
   1. [Nectafy](http://nectafy.com/jobs/) - Inbound marketing and content creation.
   1. [Netsparker](https://www.netsparker.com/jobs/) - Web Application Security Scanner.
   1. [Next Big Sound](https://www.nextbigsound.com/about) - Analytics and Insights for the Music Industry.
