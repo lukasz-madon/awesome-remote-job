@@ -119,6 +119,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
      by Coby Chapple (GitHub), 2016.
   1. [Async Remote](http://blog.arkency.com/async-remote/).
      by Robert Pankowecki and Andrzej Krzywda (Arkency), 2014.
+  1. [Work Together Anywhere](https://www.collaborationsuperpowers.com/book/).
+     by Lisette Sutherland (Collaboration Superpowers), 2018.
 
 ## Comics
 
