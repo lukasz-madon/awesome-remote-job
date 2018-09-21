@@ -204,7 +204,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Roam](https://www.roam.co/) - Global network of coliving spaces
   1. [Sende](http://sende.co) - Coliving & coworking space in northern Spain
   1. [Sun Desk](http://sun-desk.com) - Coliving & coworking space in Taghazout, Morocco
-  1. [The Surf Office](https://www.thesurfoffice.com/) - Coworking & vacation space in Portugal, Canaries and California
+  1. [The Surf Office](https://www.thesurfoffice.com/home/) - Coworking & vacation space in Portugal, Canaries and California
   1. [Work From Curacao](http://www.workfromcuracao.com/) - Coliving space in Curacao
   1. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
 
@@ -365,6 +365,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Patients Know Best](https://patients.workable.com/) - Empowering patients to manage their care, enabling professionals to share information while improving efficiencies for payers.
   1. [Paylocity](http://www.paylocity.com/careers/) - HR and payroll solutions
   1. [Pilot](https://pilot.co) - Pilot is a software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.
+  1. [Pleo](https://careers.pleo.io/) - Pleo is a company payment card solution that automates expense reports and simplifies company spending.
   1. [Precision Nutrition](http://www.precisionnutrition.com/) -  Online Nutrition Coaching and Certification.
   1. [PreviousNext](https://www.previousnext.com.au) - Australian based Drupal agency.
   1. [Prezly](https://www.prezly.com/) - SaaS PR platform. PHP, React, JS, Postgres. 100% remote.
