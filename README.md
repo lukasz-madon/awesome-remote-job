@@ -270,6 +270,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Chef](https://www.chef.io/careers/) - We are all about IT automation for speed and awesomeness. Ruby, JavaScript & shell scripting. HQ in Seattle but we have employees all around US.
   1. [Ciao Bambino](http://ciaobambino.com/) - Family destinations and hotel reviews.
   1. [CircleCI](https://circleci.com/jobs#engineer) - Provides continuous integration tools and services.
+  1. [Circonus](https://www.circonus.com/careers) - SaaS and on-prem monitoring, analytics, alerting, and more.  C, Go, Java, Perl.  HQ in Fulton MD, most employees are remote.
   1. [Clevertech](https://clevertech.biz/careers) - We build incredible, game changing technology.
   1. [Close.io](http://jobs.close.io) - Inside sales CRM for startups and SMBs.
   1. [Codeship](https://codeship.com/jobs) - SaaS Continuous Delivery
