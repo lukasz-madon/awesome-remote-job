@@ -150,7 +150,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [JOBBOX.io](https://landing.jobs/offers) – Filter -> Remote only.
   1. [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) – Machine learning jobs. Filter -> Remote only.
   1. [Jobspresso](https://jobspresso.co/) * High-quality remote positions that are open and legitimate *
-  1. [JustRemote](https://justremote.co) 
+  1. [JustRemote](https://justremote.co)
   1. [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
   1. [Larajobs](https://larajobs.com/?location=&remote=1) – The artisan employment connection
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
@@ -181,6 +181,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote 4 Me](https://remote4me.com/) - An aggregator for remote jobs in tech and non-tech.
   1. [Remote OK](https://remoteok.io/) - Scrapes many job board feeds for remote positions.
   1. [Remote Only](https://remoteonly.io/) - A manually-curated list of jobs aggregated from many job boards.
+  1. [RemotePHP.io](https://remotephp.io) - Remote PHP jobs from across the web.
   1. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
   1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - Crawls multiple job boards for remote job postings.
   1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
@@ -411,7 +412,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Toggl](https://jobs.toggl.com/)
   1. [Toptal](https://www.toptal.com/careers) - 100% remote development company, solving worldwide talent shortage
   1. [Tortuga Backpacks](https://www.tortugabackpacks.com/pages/join) - Backpacks for city travel.
-  1. [Transloadit](https://transloadit.com/jobs/) - The world's most versatile file uploading & encoding service, since 2009, by devs for devs 
+  1. [Transloadit](https://transloadit.com/jobs/) - The world's most versatile file uploading & encoding service, since 2009, by devs for devs
   1. [Trello](https://trello.com/jobs)
   1. [Twin Technologies](http://twintechs.com/about-twin/careers)
   1. [Vidalingua](http://www.vidalingua.com/amaze.php) - Bringing language apps to life.
