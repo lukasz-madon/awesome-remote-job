@@ -168,6 +168,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
   1. [React.js Jobs](https://www.react-jobs.com) Find React.js jobs all around the world - Click on "Remote" toggle button.
   1. [Remote.com](https://remote.com) - Tries to auto-match you with jobs, can import profile from LinkedIn
+  1. [Remote Circle[(https://remotecircle.com/)
   1. [We Love Angular](https://www.weloveangular.com/) Find Angular jobs and AngularJS people all around the world - Click on "Remote Angular jobs" link.
   1. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
   1. [We Work Remotely](https://weworkremotely.com/)
