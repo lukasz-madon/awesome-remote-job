@@ -477,6 +477,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source).
   1. [Taskade](https://taskade.com/) - Real-time collaborative notes, checklists and outlines for teams.
   1. [Trello](https://trello.com/) - Lean project boards.
+  1. [Notion](http://notion.so/) - All in one workspace to write, plan, collaborate, and get organized. 
 
 #### Others
   1. [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better.
