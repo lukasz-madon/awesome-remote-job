@@ -278,6 +278,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Collabora](https://www.collabora.com/careers.html) - Open source software-based consulting.
   1. [Collage](http://jobs.collage.com/) - We provide the easiest and most versatile tools to help you turn your photos into memories. 100% remote team.
   1. [Compose](https://www.compose.io/jobs/) - Managing databases as a service. Distributed team with offices in San Meteo, CA and Birmingham, AL.
+  1. [ConsenSys](https://consensys.net/careers/) - Blockchain software technology company with offices all around the world, and independent employees in even more locations. 
   1. [Continu](http://www.continu.co/careers/) - Continuous learning software for modern teams.
   1. [Countly](https://count.ly/full-stack-node-js-developer) - Open source, enterprise mobile / web analytics and marketing platform.
   1. [CRO Metrics](http://crometrics.com/jobs/) - Data-driven expirementation and growth programs.
