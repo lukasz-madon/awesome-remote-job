@@ -330,6 +330,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Instructure](https://www.instructure.com/careers/) - We make software that makes people smarter.
   1. [Intellum](http://intellum.com/) - We build employee collaboration, performance and learning tools. Ruby, iOS, Android, AWS, GCS.
   1. [InVision](https://www.invisionapp.com/company#jobs) - prototyping, collaboration & workflow platform.
+  1. [Isos Technology](https://careers.isostech.com/) - premier Atlassian Platinum & Enterprise Solution Partner, helping organizations solve complex development and business problems with the Atlassian tools.
   1. [Jackson River](https://www.jacksonriver.com/about/jobs) - Digital-first technology and strategy for nonprofits.
   1. [Judge.me](https://judge.me/) - A review platform for ecommerces. Our company is fully remote across 4 continents.
   1. [Keepsafe](https://www.getkeepsafe.com) - Mobile-first privacy products, making privacy easy for the world to opt into.
