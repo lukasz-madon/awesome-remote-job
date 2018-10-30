@@ -43,6 +43,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Bosses without borders: Essential tools for managing remote workers](http://www.pcworld.com/article/2045737/bosses-without-borders-essential-tools-for-managing-remote-workers.html)
   1. [Communication for Distributed Teams](https://www.lullabot.com/articles/communication-for-distributed-teams)
   1. [Death of the office and rise of the telecommuter](http://www.zdnet.com/article/death-of-the-office-and-rise-of-the-telecommuter/)
+  1. [Distributed Design: How Stack Overflow builds strong remote teams](http://www.tedgoas.com/blog/distributed-design)
   1. [Give people the freedom of where to work](https://www.virgin.com/richard-branson/give-people-the-freedom-of-where-to-work)
   1. [Hiring Secrets Of A Distributed Company](https://www.lullabot.com/articles/hiring-secrets-of-a-distributed-company)
   1. [How GitHub Works](https://zachholman.com/posts/how-github-works/)
