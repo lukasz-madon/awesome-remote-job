@@ -48,6 +48,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Communication for Distributed Teams](https://www.lullabot.com/articles/communication-for-distributed-teams)
   1. [Datadog Engineering: 9 ways to make working remote work for you](http://engineering.datadoghq.com/9-ways-to-make-working-remote-work-for-you/)
   1. [Death of the office and rise of the telecommuter](http://www.zdnet.com/article/death-of-the-office-and-rise-of-the-telecommuter/)
+  1. [Distributed Design: How Stack Overflow builds strong remote teams](http://www.tedgoas.com/blog/distributed-design)
   1. [Gitlab's Remote Manifesto](https://about.gitlab.com/2015/04/08/the-remote-manifesto/)
   1. [Give people the freedom of where to work](https://www.virgin.com/richard-branson/give-people-the-freedom-of-where-to-work)
   1. [Hiring Secrets Of A Distributed Company](https://www.lullabot.com/articles/hiring-secrets-of-a-distributed-company)
