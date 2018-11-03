@@ -497,6 +497,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Law & Finance
   1. [1099 contractors](http://www.wisegeek.com/what-is-a-1099-contractor.htm) – US based companies can hire remote workers as.
+  1. [Transferwise internanial payroll](https://transferwise.com/gb/business/international-payroll-via-batch-payments) - Easy way to pay remote employees.
 
 ## Others
   1. [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
