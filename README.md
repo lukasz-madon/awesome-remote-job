@@ -161,7 +161,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   1. [Remotees](https://remotees.com/)
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
-  1. [RemoteBase](https://remotebase.io/) - a searchable collection of remote companies and hiring info
   1. [RemoteList](https://remotelist.io/) - Has great job category filters
   1. [Remotive Jobs](http://jobs.remotive.io/)
   1. [Skip the Drive](http://www.skipthedrive.com/)
@@ -248,6 +247,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Aha!](https://www.aha.io/company/careers/current-openings) - Aha! is roadmapping software for PMs who want their mojo back.
   1. [AirTreks](https://www.airtreks.com/about/) - Multi-stop international flight planner with a distributed team.
   1. [Alley](https://alley.co/jobs/) - Digital Agency. We are strategists, researchers, designers, and developers who craft custom digital experiences for publishers, nonprofit institutions, museums, and brands.
+  1. [ALICE](https://www.aliceplatform.com/careers/) - We’re creating the global operations platform for the hospitality industry. ALICE empowers the world's best hotels to deliver a remarkable guest experience.
   1. [Ameego](http://ameego.ca/) - Restaurant scheduling software.
   1. [Arkency](http://blog.arkency.com/join-our-team/) - Rails and React.js experts, fully remote/async.
   1. [Articulate](https://articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
