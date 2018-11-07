@@ -83,6 +83,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Six Strategies for Managing Telecommuters](http://www.cio.com/article/2422138/leadership-management/six-strategies-for-managing-telecommuters.html)
   1. [Solo Workers Bond at Shared Workspaces](http://www.nytimes.com/2013/05/05/fashion/solo-workers-bond-at-shared-workspaces.html)
   1. [The 5 most important things we do as a remote company](https://x-team.com/blog/5-important-things-remote-company/)
+  1. [The case for all-remote companies](https://about.gitlab.com/2018/10/18/the-case-for-all-remote-companies/)
   1. [The future of telecommuting: Corralling the Yahoos](http://www.economist.com/news/business/21572804-technology-allows-millions-people-work-home-big-tech-firm-trying-stop?fsrc=scn/tw/te/pe/corallingtheyahoos)
   1. [The Pros & Cons of Being a Remote Team (& How We Do It)](https://www.groovehq.com/blog/being-a-remote-team)
   1. [The Ultimate Remote Team Culture](https://www.toptal.com/remote/the-ultimate-remote-culture)
