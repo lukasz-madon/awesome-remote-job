@@ -141,7 +141,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Flexjobs](https://www.flexjobs.com/) – Telecommuting Jobs & Professional Part-Time Jobs.
   1. [Freelancermap](https://www.freelancermap.com/remote-jobs) - Freelance & contract jobs for IT experts (mostly German projects)
   1. [Front-end Developer Jobs](http://frontenddeveloperjob.com/) - View as table, then sort by `performed`
-  1. [Github Jobs](https://jobs.github.com/) - Location filter -> "*Anywhere/Remote*"
+  1. [Github Jobs](https://jobs.github.com/) - Location filter -> "*[Anywhere](https://jobs.github.com/positions?description=&location=anywhere)/[Remote](https://jobs.github.com/positions?description=&location=remote)*"
   1. [Golangprojects](http://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
   1. [Guru](http://www.guru.com/) - (has MANY different categories outside software)
   1. [HackerX](https://www.hackerx.org/jobs/)
