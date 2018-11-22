@@ -334,6 +334,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 #### Project Management
   - [Asana](https://asana.com/) - Project management good for distributed teams
+  - [Outplanr](https://www.outplanr.com/) - Project and task management tool
   - [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source)
   - [Trello](https://trello.com/) - lean project boards
 
