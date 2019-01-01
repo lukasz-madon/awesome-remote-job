@@ -124,9 +124,10 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [The Year Without Pants: WordPress.com and the Future of Work](http://scottberkun.com/yearwithoutpants/).
      by Scott Berkun, 2013.
   
-## Comics
+## Humor
 
   1. [Why working from home is both awesome and horrible](http://theoatmeal.com/comics/working_home)
+  1. [Working From Home](https://www.youtube.com/watch?v=IW3lhfVpLL4)
 
 ## Job boards
   1. [Angel List](https://angel.co/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
