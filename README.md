@@ -460,6 +460,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 1. [##remotes](https://github.com/remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes))
 1. [Hacker Paradise](http://www.hackerparadise.org/) - Traveling remote workers.
 1. [Remote Year](http://www.remoteyear.com/) - Traveling techies for 1 year.
+1. [We work remotely in Romania](https://weworkremotely.ro/) - Remote workers in Romania, full-time or in transit
 
 ## Conferences
  1. [DNX Global](http://www.dnxglobal.com/) - Digital Nomad Conference.
