@@ -115,6 +115,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Books
   1. [Async Remote](http://blog.arkency.com/async-remote/).
      by Robert Pankowecki and Andrzej Krzywda (Arkency), 2014.
+  1. [Distributed Teams](https://oduinn.com/book/).
+     by John O'Duinn, 2018.
   1. [Remote: Office Not Required](http://37signals.com/remote/).
      by Jason Fried and David Heinemeier Hansson (37signals), 2013.
   1. [The Remote Jobseeker’s Handbook](http://cobyism.com/remotejobseeker/).
