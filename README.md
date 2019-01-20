@@ -383,6 +383,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Onyo](http://www.onyo.com) - Transforming the eating out experience in pure pleasure.
   1. [OpenCraft](http://opencraft.com/) - Open edX development (Free Software MOOC project).
   1. [Owsy](http://owsy.com/careers/) - International studio focused on creating products for financial service firms.
+  1. [Parknav](https://parknav.com) - Intelligent parking using AI
   1. [Parsely](http://www.parsely.com/jobs/) - Analytics solutions
   1. [Particular Software (NServiceBus)](https://particular.net/careers) - Enterprise Service Bus, Messaging, C#, Open Source
   1. [Patients Know Best](https://patients.workable.com/) - Empowering patients to manage their care, enabling professionals to share information while improving efficiencies for payers.
