@@ -1,9 +1,11 @@
 <!-- Thanks for adding a resource about remote work to this list! 🎉
 
-Please fill in the below placeholders -->
+Add the URL below -->
 
-**[Insert URL you're adding here]**
 
-**[Explain what this URL adds and why it is awesome]**
+
+<!-- And then, explain what this URL adds and why it is awesome -->
+
+
 
 <!-- Make sure your pull request follows the [Contribution Guidelines](CONTRIBUTING.md) before submitting! Thank you. -->
