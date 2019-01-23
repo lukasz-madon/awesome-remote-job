@@ -358,6 +358,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Litmus](https://litmus.com/careers) - Optimization tools for email professionals. Offices in Boston and London, but nearly 50% of the team works remotely.
   1. [LivingSocial](https://jobs.groupon.com/) - Company-wide support for teams of experienced, remote developers. Lots of autonomy.
   1. [Lullabot](https://www.lullabot.com/jobs) - Strategy, design and development using Drupal.
+  1. [madewithlove](https://madewithlove.be) - We help companies build digital products and bring new juice to teams that seem to jam.
   1. [Maintainer Mountaineer](https://maintainer.io) - Open source community management as a service.
   1. [MariaDB](https://mariadb.com/about-us/careers) - Open source database.
   1. [MarsBased](https://marsbased.com) - MarsBased is a development consultancy from Barcelona offering end‑to‑end web & mobile apps based on Ruby on Rails, Angular and other Javascript frameworks.
