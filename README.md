@@ -11,7 +11,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 - [Articles & Posts](#articles--posts)
 - [Videos](#videos)
 - [Books](#books)
-- [Comics](#comics)
+- [Humor](#humor)
 - [Job boards](#job-boards)
 - [Job boards aggregators](#job-boards-aggregators)
 - [Housing](#housing)
