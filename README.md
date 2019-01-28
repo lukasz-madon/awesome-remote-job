@@ -218,6 +218,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
   
 ## Relocation Incentives
+  1. [Live And Work In Maine](https://www.liveandworkinmaine.com/opportunity-maine/) - The amount spent on student loan payments each year is subtracted from your state income taxes. Out-of-state residents must have earned their bachelors or associates degrees after 2015 to qualify.
   1. [Tulsa Remote](https://tulsaremote.com/) - Get $10,000 cash to work from Tulsa.
   1. [Vermont Remote Worker Grant Program](https://legislature.vermont.gov/assets/Documents/2018/Docs/BILLS/S-0094/S-0094%20As%20Passed%20by%20Both%20House%20and%20Senate%20Unofficial.pdf) - Receive up to a max of $5,000 per year to work from Vermont. Cannot exceed $10,000 for life of the program per individual.
 
