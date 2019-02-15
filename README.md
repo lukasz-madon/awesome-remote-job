@@ -44,7 +44,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [30 Tips for Successful Communication as a Remote Worker](http://www.hanselman.com/blog/30TipsForSuccessfulCommunicationAsARemoteWorker.aspx)
   1. [Acceptance of Telecommuting Project Management Grows](http://www.amanet.org/training/articles/Acceptance-of-Telecommuting-Project-Management-Grows.aspx?pcode=XCRP)
   1. [Andreessen-Incubated Teleport Aims To Make Location Irrelevant For Mobile Workers](https://techcrunch.com/2014/05/19/teleport/)
-  1. [Becoming a contractor programmer in the UK](https://github.com/tadast/switching-to-contracting-uk/tree/formationsfactory)
   1. [Bosses without borders: Essential tools for managing remote workers](http://www.pcworld.com/article/2045737/bosses-without-borders-essential-tools-for-managing-remote-workers.html)
   1. [Communication for Distributed Teams](https://www.lullabot.com/articles/communication-for-distributed-teams)
   1. [Datadog Engineering: 9 ways to make working remote work for you](http://engineering.datadoghq.com/9-ways-to-make-working-remote-work-for-you/)
@@ -94,7 +93,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [To Raise Productivity, Let More Employees Work from Home](https://hbr.org/2014/01/to-raise-productivity-let-more-employees-work-from-home)
   1. [What is a Distributed Company?](https://www.lullabot.com/articles/what-is-a-distributed-company)
   1. [Who Needs an Office? How to Go 100 Percent Remote.](https://www.entrepreneur.com/article/242708)
-  1. [Why I work remotely ( hint: it has nothing to do with productivity)](https://m.signalvnoise.com/why-i-work-remotely-hint-it-has-nothing-to-do-with-productivity-34ace30f74fc?gi=39b26e8f40a1)
+  1. [Why I work remotely (hint: it has nothing to do with productivity)](https://m.signalvnoise.com/why-i-work-remotely-hint-it-has-nothing-to-do-with-productivity/)
   1. [Why Coworking Is a Hit for Telecommuters and Entrepreneurs](http://www.cio.com/article/2369058/telecommuting/why-coworking-is-a-hit-for-telecommuters-and-entrepreneurs.html)
   1. [Why Marissa Mayer’s ban on remote working at Yahoo could backfire badly](https://gigaom.com/2013/02/25/why-marissa-mayers-ban-on-remote-working-at-yahoo-could-backfire-badly/)
   1. [Why moonlighting will change your career](https://blog.landing.jobs/why-moonlighting-will-change-your-career-7e8aac3dc25f)
@@ -167,7 +166,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   1. [Remotees](https://remotees.com/)
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
-  1. [RemoteList](https://remotelist.io/) - Has great job category filters
   1. [Remotive Jobs](http://jobs.remotive.io/)
   1. [Skip the Drive](http://www.skipthedrive.com/)
   1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
@@ -198,7 +196,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Housing
   1. [Agora space](http://www.agora-space.com) - Coworking & coliving space in Shanghai in China
   1. [bedndesk](http://www.bedndesk.com) - Coworking & coliving space in Mallorca island in Spain
-  1. [Blackbox](http://blackbox.vc) - Coliving space in Silicon Valley
   1. [Common](https://www.hicommon.com/) - Coliving House in NewYork
   1. [Coworking in the Sun](http://www.coworkinginthesun.com) - Coliving & coworking space in Tenerife island in Spain
   1. [Hive Arena](http://hivearena.com/) - Coworking & Coliving Space in Seoul, South Korea
@@ -220,7 +217,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Relocation Incentives
   1. [Live And Work In Maine](https://www.liveandworkinmaine.com/opportunity-maine/) - The amount spent on student loan payments each year is subtracted from your state income taxes. Out-of-state residents must have earned their bachelors or associates degrees after 2015 to qualify.
   1. [Tulsa Remote](https://tulsaremote.com/) - Get $10,000 cash to work from Tulsa.
-  1. [Vermont Remote Worker Grant Program](https://legislature.vermont.gov/assets/Documents/2018/Docs/BILLS/S-0094/S-0094%20As%20Passed%20by%20Both%20House%20and%20Senate%20Unofficial.pdf) - Receive up to a max of $5,000 per year to work from Vermont. Cannot exceed $10,000 for life of the program per individual.
+  1. [Vermont Remote Worker Grant Program](https://www.thinkvermont.com/relocate/) - Receive up to a max of $5,000 per year to work from Vermont. Cannot exceed $10,000 for life of the program per individual.
 
 ## Interviewing
   1. [andreis/interview](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
@@ -241,7 +238,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote Report](http://remote.report) - A collection of the best remote, support focused and non-technical jobs delivered weekly
   1. [Remoteur](http://www.remoteur.com) - Remote jobs in Europe delivered to your inbox bi-weekly
   1. [Remotive - productive remote workers](http://remotive.io/) - A weekly newsletter on Remote Tips & Jobs sent to 10,000+ Remote Workers
-  1. [Working Nomads](http://workingnomads.co/) - Job posts
   1. [Yonder Newsletter](https://yonder.io/newsletter) - Daily remote work tips, links, articles, and the Yonder Podcast
   1. [Remote Jobs Club](https://remotejobsclub.com) - Weekly newsletter featuring a hand curated list of remote jobs
 
@@ -316,7 +312,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Envato](https://envato.com/careers) - Maker of ThemeForest and other online marketplaces. MySQL, Ruby, Rails, Javascript. Distributed team with HQ in Melbourne, Australia.
   1. [Etsy](https://www.etsy.com/careers) - Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.
   1. [Eyeo](https://eyeo.com/en/jobs/) - Maker of AdBlock Plus. Main office in Cologne, Germany.
-  1. [Findify](https://findify.io/careers/) - E-commerce search powered by machine learning and big data. Team distributed across Europe.
+  1. [Findify](https://findify.io/) - E-commerce search powered by machine learning and big data. Team distributed across Europe.
   1. [Fog Creek](http://www.fogcreek.com/careers/) - NY-based software company. Makers of bug-tracking and source control tools. Workday must overlap New York afternoons (1700 - 2200 GMT)
   1. [General Assembly](https://generalassemb.ly/careers) - Physical and on-line education for technology, business, and design.
   1. [Ghost](https://ghost.org/about/#careers) - Publishing platform.
@@ -448,7 +444,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [X-Team](https://x-team.com/join/) - Work on incredible web and mobile projects, with extraordinary developers. Unleash your potential. From anywhere. We are X-Team.
   1. [You Need a Budget](https://www.youneedabudget.com/jobs/) - Bank syncing and goals and debt management.
   1. [YourSports](https://www.yoursports.com/jobs) - A social network for your favorite teams.
-  1. [Zamphyr](https://zamphyr.com/posao/) - School 2.0 for learning computer science. Remote-first, 100% JavaScript mostly Meteor.
+  1. [Zamphyr](https://zamphyr.com/) - School 2.0 for learning computer science. Remote-first, 100% JavaScript mostly Meteor.
   1. [Zapier](https://zapier.com/about/)
   1. [ZipRecruiter](https://www.ziprecruiter.com/careers) - Perl/Catalyst shop that has some of the best Perl devs working remotely.
 
