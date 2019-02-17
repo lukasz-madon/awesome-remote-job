@@ -8,28 +8,31 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 <!-- MarkdownTOC depth=4 -->
 
-- [Articles & Posts](#articles--posts)
-- [Videos](#videos)
-- [Books](#books)
-- [Humor](#humor)
-- [Job boards](#job-boards)
-- [Job boards aggregators](#job-boards-aggregators)
-- [Housing](#housing)
-- [Relocation Incentives](#relocation-incentives)
-- [Interviewing](#interviewing)
-- [Events](#events)
-- [Newsletters](#newsletters)
-- [Podcasts](#podcasts)
-- [Companies with "remote DNA"](#companies-with-remote-dna)
-- [Q&A](#qa)
-- [Communities](#communities)
-- [Conferences](#conferences)
-- [Tools](#tools)
-  - [Communication](#communication)
-  - [Project Management](#project-management)
-  - [Others](#others)
-- [Law & Finance](#law--finance)
-- [Others](#others-1)
+- [Awesome Remote Job ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-remote-job-awesomehttpsgithubcomsindresorhusawesome)
+  - [Table of Contents](#table-of-contents)
+  - [Articles & Posts](#articles--posts)
+  - [Videos](#videos)
+  - [Books](#books)
+  - [Humor](#humor)
+  - [Job boards](#job-boards)
+  - [Job boards aggregators](#job-boards-aggregators)
+  - [Housing](#housing)
+  - [Relocation Incentives](#relocation-incentives)
+  - [Interviewing](#interviewing)
+  - [Events](#events)
+  - [Newsletters](#newsletters)
+  - [Podcasts](#podcasts)
+  - [Companies with "remote DNA"](#companies-with-%22remote-dna%22)
+  - [Q&A](#qa)
+  - [Communities](#communities)
+  - [Conferences](#conferences)
+  - [Tools](#tools)
+      - [Communication](#communication)
+      - [Project Management](#project-management)
+      - [Others](#others)
+  - [Law & Finance](#law--finance)
+  - [Others](#others-1)
+  - [License](#license)
 
 <!-- /MarkdownTOC -->
 
@@ -178,20 +181,21 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [We Work Remotely](https://weworkremotely.com/)
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
   1. [Working Nomads](http://www.workingnomads.co/jobs)
+  1. [Best Remote Job](https://bestremotejob.com) Remote job boards, processed by nlp and machine learning, for better filter and search.
 
 ## Job boards aggregators
   1. [Google Jobs](https://www.google.com/search?q=remote&ibp=htl;jobs#fpstate=tldetail&htidocid=IO0hI7dpKTSlzSKoAAAAAA%3D%3D&htin=1&htivrt=jobs)  – Aggregates from multiple boards and employer sites with sensitivity to location, job type, and more. Find out how to use it [here](https://support.google.com/websearch/answer/7498276?p=job_search_box&sa=X&ved=0ahUKEwid_qyLmJfXAhVD4YMKHYGBAK8Qra4CCGQoAQ&visit_id=1-636449234996681631-3229288694&rd=1).
-  1. [GoRemote.io](https://goremote.io/)
-  1. [JS Remotely](https://jsremotely.com/) - All remote JavaScript jobs on one board
-  1. [Remote 4 Me](https://remote4me.com/) - An aggregator for remote jobs in tech and non-tech.
-  1. [Remote OK](https://remoteok.io/) - Scrapes many job board feeds for remote positions.
-  1. [Remote Only](https://remoteonly.io/) - A manually-curated list of jobs aggregated from many job boards.
-  1. [RemotePHP.io](https://remotephp.io) - Remote PHP jobs from across the web.
-  1. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
-  1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - Crawls multiple job boards for remote job postings.
-  1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
-  1. [Work Remotely](https://workremotely.io/) - Crawls and curates many job board feeds for remote positions
-  1. [Workaline](https://workaline.com/) - Remote jobs aggregator. Formerly called Alfred.
+  2. [GoRemote.io](https://goremote.io/)
+  3. [JS Remotely](https://jsremotely.com/) - All remote JavaScript jobs on one board
+  4. [Remote 4 Me](https://remote4me.com/) - An aggregator for remote jobs in tech and non-tech.
+  5. [Remote OK](https://remoteok.io/) - Scrapes many job board feeds for remote positions.
+  6. [Remote Only](https://remoteonly.io/) - A manually-curated list of jobs aggregated from many job boards.
+  7. [RemotePHP.io](https://remotephp.io) - Remote PHP jobs from across the web.
+  8. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
+  9. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - Crawls multiple job boards for remote job postings.
+  10. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
+  11. [Work Remotely](https://workremotely.io/) - Crawls and curates many job board feeds for remote positions
+  12. [Workaline](https://workaline.com/) - Remote jobs aggregator. Formerly called Alfred.
 
 ## Housing
   1. [Agora space](http://www.agora-space.com) - Coworking & coliving space in Shanghai in China
