@@ -25,6 +25,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 - [Communities](#communities)
 - [Conferences](#conferences)
 - [Tools](#tools)
+  - [HR] (#hr)
   - [Communication](#communication)
   - [Project Management](#project-management)
   - [Others](#others)
@@ -472,6 +473,10 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
  1. [9punto5](http://www.9punto5.cl) - Remote work conference in Latin America.
 
 ## Tools
+
+#### HR
+  1. [Remoteteam.com](https://www.remoteteam.com) – Automated payrolls, time off, HR tools, and compliance for remote companies.
+  
 #### Communication
   1. [Appear.in](https://appear.in) – Browser-based, plugin-less group video calls.
   1. [Bluejeans](https://bluejeans.com/) video conferencing app, great for large groups & live streams
