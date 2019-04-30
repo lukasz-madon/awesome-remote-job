@@ -199,7 +199,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [bedndesk](http://www.bedndesk.com) - Coworking & coliving space in Mallorca island in Spain
   1. [Common](https://www.hicommon.com/) - Coliving House in NewYork
   1. [Coworking in the Sun](http://www.coworkinginthesun.com) - Coliving & coworking space in Tenerife island in Spain
-  1. [Hive Arena](http://hivearena.com/) - Coworking & Coliving Space in Seoul, South Korea
+  1. [Hive Arena](https://hivearena.com/coworking/) - Coworking & Coliving Space in Seoul, South Korea
   1. [HubBOG](http://hubbog.com/) - Coworking Space + Startup Accelerator. Bogota, Colombia
   1. [Hus24](http://hus24.org/en/) - Coliving space in Sweden
   1. [Mokrin House](http://www.mokrinhouse.com/) - Coliving & coworking space in a rural area of Serbia
@@ -399,7 +399,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [RebelMouse](https://blog.rebelmouse.com/careers/) - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
   1. [Recurly](https://recurly.com/jobs/) - recurring billing management for subscription-based businesses
   1. [Red Hat](http://jobs.redhat.com/)
-  1. [Rendered Text](https://renderedtext.workable.com) — makers of Semaphore CI/CD
   1. [RightScale](http://www.rightscale.com/jobs)
   1. [Sangoma](http://www.sangoma.com) - Trusted leader in delivering globally scalable Voice-Over-IP telephony systems, both on-site and cloud-based. C, PHP, Python, JavaScript, Linux, FreePBX, VoIP.
   1. [Scrapinghub](https://scrapinghub.com/jobs)
