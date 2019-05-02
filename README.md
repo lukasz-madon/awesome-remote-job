@@ -288,7 +288,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Circonus](https://www.circonus.com/careers) - SaaS and on-prem monitoring, analytics, alerting, and more.  C, Go, Java, Perl.  HQ in Fulton MD, most employees are remote.
   1. [Clevertech](https://clevertech.biz/careers) - We build incredible, game changing technology.
   1. [Close.io](http://jobs.close.io) - Inside sales CRM for startups and SMBs.
-  1. [Clubhouse](https://clubhouse.io/) - Project management for software development teams.  
   1. [Codeship](https://codeship.com/jobs) - SaaS Continuous Delivery
   1. [Collabora](https://www.collabora.com/careers.html) - Open source software-based consulting.
   1. [Collage](http://jobs.collage.com/) - We provide the easiest and most versatile tools to help you turn your photos into memories. 100% remote team.
