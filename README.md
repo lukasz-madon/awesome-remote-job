@@ -170,6 +170,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
   1. [Remotive Jobs](http://jobs.remotive.io/)
   1. [Skip the Drive](http://www.skipthedrive.com/)
+  1. [Slasify](https://slasify.com/en/) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included. 
   1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
   1. [Virtual Vocations](https://www.virtualvocations.com/)
   1. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
