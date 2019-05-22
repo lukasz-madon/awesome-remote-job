@@ -139,8 +139,10 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Crypto Jobs](https://crypto.jobs/?jobs=remote) - Blockchain jobs for crypto enthusiasts.
   1. [Crypto Jobs List](https://cryptojobslist.com/remote) - #1 job board to find and post crypto, bitcoin and blockchain jobs.
   1. [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/remote/) - Location filter -> *Remote*
+  1. [Dice](https://www.dice.com/)
   1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
   1. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
+  1. [Dynamite Jobs](https://dynamitejobs.co/)
   1. [Europe Remotely](http://europeremotely.com/)
   1. [Find Bacon](https://findbacon.com) - Design and Dev jobs
   1. [Flexjobs](https://www.flexjobs.com/) – Telecommuting Jobs & Professional Part-Time Jobs.
@@ -169,6 +171,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remotees](https://remotees.com/)
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
   1. [Remotive Jobs](http://jobs.remotive.io/)
+  1. [RMTWRK](https://rmtwrk.com/)
   1. [Skip the Drive](http://www.skipthedrive.com/)
   1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
   1. [Virtual Vocations](https://www.virtualvocations.com/)
@@ -190,7 +193,9 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote Only](https://remoteonly.io/) - A manually-curated list of jobs aggregated from many job boards.
   1. [RemotePHP.io](https://remotephp.io) - Remote PHP jobs from across the web.
   1. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
+  1. [Remoters Jobs](https://remoters.net/jobs/)
   1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - Crawls multiple job boards for remote job postings.
+  1. [The Guardian Jobs](https://jobs.theguardian.com/landingpage/2879819/jobs-remote-html/)
   1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
   1. [Work Remotely](https://workremotely.io/) - Crawls and curates many job board feeds for remote positions
   1. [Workaline](https://workaline.com/) - Remote jobs aggregator. Formerly called Alfred.
