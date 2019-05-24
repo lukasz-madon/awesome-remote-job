@@ -225,9 +225,10 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [andreis/interview](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
   2. [awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
   3. [interviewing.io](https://interviewing.io/) - Become awesome at technical interviews
-  4. [remoteinterview.io](https://www.remoteinterview.io/) - Coding tests & pair programming interview tools
-  5. [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies
-  6. [hackerrank.com](https://www.hackerrank.com/) - Online platform for code studying and recruiting with job offers also
+  4. [karat.io](https://karat.io/practice) - Have a free practice coding interview with a professional interviewer
+  5. [remoteinterview.io](https://www.remoteinterview.io/) - Coding tests & pair programming interview tools
+  6. [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies
+  7. [hackerrank.com](https://www.hackerrank.com/) - Online platform for code studying and recruiting with job offers also
 
 ## Events
   1. [deceler8](https://sierraymar.exposure.co/decelerate-bali) - 10 days retreat
