@@ -501,6 +501,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 #### Project Management
   1. [Asana](https://asana.com/) - Project management good for distributed teams.
+  1. [Clubhouse](https://clubhouse.io/) - Project management for software development teams.
   1. [Harvest](https://www.getharvest.com/) - Time tracking
   1. [Hitask](https://hitask.com/) - Easy task and project management for teams.
   1. [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source).
