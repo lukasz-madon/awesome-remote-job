@@ -155,7 +155,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Hasjob](https://hasjob.co/) – Location filter -> "*Anywhere/Remote*"
   1. [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) has remote type filter.
   1. [HN hiring](http://hnhiring.me/) – Filter REMOTE.
-  1. [Honestlance](https://www.honestlance.com/)
   1. [Jobbatical](https://jobbatical.com/)
   1. [JOBBOX.io](https://landing.jobs/offers) – Filter -> Remote only.
   1. [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) – Machine learning jobs. Filter -> Remote only.
@@ -190,7 +189,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [JS Remotely](https://jsremotely.com/) - All remote JavaScript jobs on one board
   1. [Remote 4 Me](https://remote4me.com/) - An aggregator for remote jobs in tech and non-tech.
   1. [Remote OK](https://remoteok.io/) - Scrapes many job board feeds for remote positions.
-  1. [Remote Only](https://remoteonly.io/) - A manually-curated list of jobs aggregated from many job boards.
   1. [RemotePHP.io](https://remotephp.io) - Remote PHP jobs from across the web.
   1. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
   1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - Crawls multiple job boards for remote job postings.
