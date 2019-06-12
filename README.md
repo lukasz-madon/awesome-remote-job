@@ -25,7 +25,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 - [Communities](#communities)
 - [Conferences](#conferences)
 - [Tools](#tools)
-  - [HR] (#hr)
+  - [HR](#hr)
   - [Communication](#communication)
   - [Project Management](#project-management)
   - [Others](#others)
