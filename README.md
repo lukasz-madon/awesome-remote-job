@@ -504,6 +504,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Talky](https://talky.io/) — Truly simple video chat and screen sharing for groups
   1. [TeamHub](https://teamhub.app/) — Realtime status and progress reporting directly inside your IDE
   1. [Zoom](https://zoom.us) — High-quality group video and sharing screen, run on linux, record session and support telephone calls.
+  1. [Jitsi](https://jitsi.org) - Multi-platform open-source video conferencing
 
 #### Project Management
   1. [Asana](https://asana.com/) - Project management good for distributed teams.
