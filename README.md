@@ -547,6 +547,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote Working](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
   1. [The Caravanserai](http://www.thecaravanserai.co/) - Co-living provider.
   1. [WorkFrom](https://workfrom.co/) - Find coffee shops that are good to work from.
+  1. [remotework.FYI](https://remotework.fyi/) - Collaboration Platform for Remote Work Resources.
 
 ## License
 
