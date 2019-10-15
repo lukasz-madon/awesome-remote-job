@@ -47,6 +47,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Andreessen-Incubated Teleport Aims To Make Location Irrelevant For Mobile Workers](https://techcrunch.com/2014/05/19/teleport/)
   1. [Bosses without borders: Essential tools for managing remote workers](http://www.pcworld.com/article/2045737/bosses-without-borders-essential-tools-for-managing-remote-workers.html)
   1. [Communication for Distributed Teams](https://www.lullabot.com/articles/communication-for-distributed-teams)
+  1. [Currents: The Remote Developer Experience (July 2019)](https://blog.digitalocean.com/currents-july2019/)
   1. [Datadog Engineering: 9 ways to make working remote work for you](http://engineering.datadoghq.com/9-ways-to-make-working-remote-work-for-you/)
   1. [Death of the office and rise of the telecommuter](http://www.zdnet.com/article/death-of-the-office-and-rise-of-the-telecommuter/)
   1. [Distributed Design: How Stack Overflow builds strong remote teams](http://www.tedgoas.com/blog/distributed-design)
