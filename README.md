@@ -256,6 +256,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote Works](https://remote.works) - The Remote Works podcast publishes every two weeks with host Jonathan Sharp discussing the opportunities, experiences, culture and community surrounding remote work, remote teams, telecommuting and digital nomads.
   1. [The Yonder Podcast](https://www.yonder.io/post?category=Podcast) - Bi-weekly podcast: Jeff Robbins interviews people thinking about distributed teams, remote work, and how to support happy, productive, free-range workers.
   1. [Wide Teams](http://www.wideteams.com) - Each episode a one-on-one interview with a remote worker taking about workflow and practices
+  1. [Distributed, with Matt Mullenweg](https://distributed.blog/podcast/) - Interview podcast by Matt Mullenweg, the cofounder of WordPress and CEO of Automattic. Mullenweg examines the benefits and challenges of distributed work and recruiting talented people around the globe. Episodes are usually not longer than 45 minutes.
 
 ## Companies with "remote DNA"
   1. [10up](https://10up.com/careers/) - 10up makes the web better by finely crafting websites & tools for content creators.
