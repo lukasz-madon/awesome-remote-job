@@ -71,7 +71,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Latest Telecommuting Statistics | Global Workplace Analytics](http://globalworkplaceanalytics.com/telecommuting-statistics)
   1. [Learning From Distributed Companies](https://www.lullabot.com/articles/learning-from-distributed-companies)
   1. [Managing a Geographically Dispersed Team: Achieving Your Goals Together, While Apart](https://www.mindtools.com/pages/article/newTMM_40.htm)
-  1. [Michael Bloomberg agrees with Marissa Mayer on telecommuting](http://www.capitalnewyork.com/article/politics/2013/03/8071699/michael-bloomberg-agrees-marissa-mayer-telecommuting)
   1. [My Ideal Day as a Remote Programmer: Taking Charge of Your Daily Routine](https://overflow.buffer.com/2014/06/12/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/)
   1. [My Remote Developer Life](https://shift.infinite.red/my-remote-developer-life-ama-bb91fa7bd0bd#.kjpehbcab)
   1. [One day offices will be a thing of the past](https://www.virgin.com/richard-branson/one-day-offices-will-be-a-thing-of-the-past)
@@ -242,8 +241,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Daily Remote](https://dailyremote.com/newsletter) - A newsletter containing remote jobs crafted and curated especially for you
   1. [NODESK](https://nodesk.co/) - A newsletter about digital nomads and remote work that is sent out every two weeks.
   1. [Remote Internships](http://foundersgrid.com/)
-  1. [Remote Jobs Direct](https://remotejobsdirect.com/) - A weekly newsletter covering a wide variety of remote jobs and related news.
-  1. [Remote Report](http://remote.report) - A collection of the best remote, support focused and non-technical jobs delivered weekly
   1. [Remoteur](http://www.remoteur.com) - Remote jobs in Europe delivered to your inbox bi-weekly
   1. [Remotive - productive remote workers](http://remotive.io/) - A weekly newsletter on Remote Tips & Jobs sent to 10,000+ Remote Workers
   1. [Yonder Newsletter](https://yonder.io/newsletter) - Daily remote work tips, links, articles, and the Yonder Podcast
