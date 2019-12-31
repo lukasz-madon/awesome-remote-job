@@ -253,7 +253,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote Works](https://remote.works) - The Remote Works podcast publishes every two weeks with host Jonathan Sharp discussing the opportunities, experiences, culture and community surrounding remote work, remote teams, telecommuting and digital nomads.
   1. [The Yonder Podcast](https://www.yonder.io/post?category=Podcast) - Bi-weekly podcast: Jeff Robbins interviews people thinking about distributed teams, remote work, and how to support happy, productive, free-range workers.
   1. [Wide Teams](http://www.wideteams.com) - Each episode a one-on-one interview with a remote worker taking about workflow and practices
-  
+
 
 ## Companies with "remote DNA"
   1. [10up](https://10up.com/careers/) - 10up makes the web better by finely crafting websites & tools for content creators.
@@ -340,6 +340,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [HE:labs](https://helabs.com/us/)
   1. [Healthfinch](http://www.healthfinch.com/careers/) - Making Healthcare systems more usable. HQ in Madison, WI, USA. Ruby, Javascript.
   1. [Heap](https://heapanalytics.com/careers/jobs) – Web & Mobile Analytics, 2 of our 8 teammates are remote.
+  1. [Heetch](https://jobs.heetch.com) – Ride Hailing service, operating in Europe and Africa. Fully Remote across Europe or similar timezones. Go, AWS.
   1. [Help Scout](https://www.helpscout.net/careers/) - A help desk for teams that insist on a delightful customer experience.
   1. [Heroku](https://www.heroku.com/careers) - PaaS Cloud, makes devs' experience awesome, Ruby, Erlang, Javascript, Golang, Python.
   1. [Honeybadger](https://www.honeybadger.io/) - Ruby. 100% remote.
@@ -358,7 +359,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Judge.me](https://judge.me/) - A review platform for ecommerces. Our company is fully remote across 4 continents.
   1. [Keepsafe](https://www.getkeepsafe.com) - Mobile-first privacy products, making privacy easy for the world to opt into.
   1. [Khan Academy](https://www.khanacademy.org/careers) - EdTech. Non-profit focusing on K-12 STEM. Less, React, Flux, Backbone, jQuery, Python, Google App Engine, Swift, and Objective-C.
-  1. [Knack](https://www.knack.com/jobs) - The easy online database helping customers streamline their business processes and automate workflow. The product is DIY with no-code/low-code. The company is 100% remote. 
+  1. [Knack](https://www.knack.com/jobs) - The easy online database helping customers streamline their business processes and automate workflow. The product is DIY with no-code/low-code. The company is 100% remote.
   1. [LaterPay](https://www.laterpay.net/) - The (micro)payment enabler. Munich, Germany. Python, JavaScript, AWS.
   1. [LaunchPotato](http://launchpotato.com/careers) - Startup studio based in Delray Beach, Florida.
   1. [Librato](http://solarwinds.jobs/solarwinds-cloud/) - Cloud Monitoring.
@@ -410,7 +411,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [RebelMouse](https://blog.rebelmouse.com/careers/) - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
   1. [Recurly](https://recurly.com/jobs/) - recurring billing management for subscription-based businesses
   1. [Red Hat](http://jobs.redhat.com/)
-  1. [Redox] (https://www.redoxengine.com/company/careers/) - Healthcare API platform. Proudly remote-first team. 
+  1. [Redox] (https://www.redoxengine.com/company/careers/) - Healthcare API platform. Proudly remote-first team.
   1. [RightScale](http://www.rightscale.com/jobs)
   1. [Sangoma](http://www.sangoma.com) - Trusted leader in delivering globally scalable Voice-Over-IP telephony systems, both on-site and cloud-based. C, PHP, Python, JavaScript, Linux, FreePBX, VoIP.
   1. [Scrapinghub](https://scrapinghub.com/jobs)
@@ -524,7 +525,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Taskade](https://taskade.com/) - Real-time collaborative notes, checklists and outlines for teams.
   1. [Trello](https://trello.com/) - Lean project boards.
   1. [Notion](http://notion.so/) - All in one workspace to write, plan, collaborate, and get organized.
-  1. [Jira](https://www.atlassian.com/software/jira) - Issue and project tracking tool. 
+  1. [Jira](https://www.atlassian.com/software/jira) - Issue and project tracking tool.
 
 #### Others
   1. [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better.
