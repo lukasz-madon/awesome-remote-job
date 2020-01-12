@@ -338,6 +338,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Hanzo](https://www.hanzo.co/about-us/careers-uk) - Web archiving company. Fully Remote. Python, AWS.
   1. [Harvest](https://www.getharvest.com/careers) - Time tracking software.
   1. [HashiCorp](https://www.hashicorp.com/jobs.html) - Open source tools for automating the modern data center. Go, Ruby, Rails, Ember, JavaScript.
+  1. [HawaiiChee](https://www.hawaiichee.com/about) - A metasearch, price comparison, and listing site for Hawaii vacation rentals.  
   1. [HE:labs](https://helabs.com/us/)
   1. [Healthfinch](http://www.healthfinch.com/careers/) - Making Healthcare systems more usable. HQ in Madison, WI, USA. Ruby, Javascript.
   1. [Heap](https://heapanalytics.com/careers/jobs) – Web & Mobile Analytics, 2 of our 8 teammates are remote.
