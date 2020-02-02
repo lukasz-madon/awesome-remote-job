@@ -332,6 +332,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Gitbook](http://jobs.gitbook.com/) - Publishing toolchain based on git. Javascript, node.js, Go.
   1. [GitHub](https://github.com/about/jobs)
   1. [GitLab](https://about.gitlab.com/jobs/) - Competitor to GitHub.
+  1. [Gitee](https://gitee.com) - Github alternative in China.
   1. [GlueNetworks](http://gluenetworks.com/) - Network automation company.
   1. [Gradle](https://gradle.com/careers) - Open Source Build Tool ; Enterprise SaaS and on-premise. Fully remote. Java, Groovy, Kotlin.
   1. [GrooveHQ](https://www.groovehq.com/about) - Help desk software.
