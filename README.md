@@ -110,6 +110,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [David Copeland: The Effective Remote Developer](https://www.infoq.com/presentations/effective-remote-developer-2017)
   1. [Fluent 2013: Mike Hostetler, “Remote Working Works!”](https://www.youtube.com/watch?v=23oBUH270YU)
   1. [Jason Fried: Why work doesn't happen at work](https://www.youtube.com/watch?v=5XD2kNopsUs)
+  1. [Remoter Project Video Library](https://www.youtube.com/channel/UCkyX0my73Fq58mygfdthqWg)
 
 ## Books
   1. [Async Remote](http://blog.arkency.com/async-remote/).
