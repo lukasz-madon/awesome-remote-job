@@ -552,6 +552,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote Companies on Careers SO](http://talent.stackoverflow.com/companies?searchTerm=&location=&allowsremote=true)
   1. [Remote Working](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
   1. [The Caravanserai](http://www.thecaravanserai.co/) - Co-living provider.
+  1. [The Remoter Library](https://www.remoter.com/) - Learn about recruiting, leadership, management and scaling remote teams from seasoned remoters.
   1. [WorkFrom](https://workfrom.co/) - Find coffee shops that are good to work from.
 
 ## License
