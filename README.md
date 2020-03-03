@@ -181,6 +181,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [We Work Remotely](https://weworkremotely.com/)
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
   1. [Working Nomads](http://www.workingnomads.co/jobs)
+  1. [Weworkremotely](https://weworkremotely.com/remote-jobs)
 
 ## Job boards aggregators
   1. [Findwork](https://findwork.dev/) Crawls multiple job boards and enriches job postings with Glassdoor (reviews) and Crunchbase (funding).
