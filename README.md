@@ -285,6 +285,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Bluespark Labs](http://www.bluespark.com/work-at-bluespark) - WebDev Consulting and makers of Roomify. Remote team with HQs in Raleigh, NC and Italy. Drupal.
   1. [BookingSync](https://www.bookingsync.com/en/jobs) - Vacation Rental Software for professionals. Fully distributed team, we work remotely and try to make a company retreat each year. Proud Ember.js official sponsor, Ruby / Rails
   1. [Brave](https://brave.com) - Web browser with built-in ad blocker and crypto-token micro-payments.
+  1. [BRYTER](https://bryter.io/) - No-code platform for decision automation; Kotlin, Typescript, Vue.js, k8s
   1. [Buffer](https://buffer.com/journey/) - Tools to help manage social media. PHP, CodeIgniter, MongoDB, Memcache, Backbone.js, React.js, Grunt.js, LESS, and Python.
   1. [Bugfender](https://bugfender.com/) - Bugfender is a remote logger for multiple platforms including iOS and Android. It stores logs created by your application and sends them to our server, creating a remote console where you can see logs in real time. Remote company based in Barcelona.
   1. [ButterCloud](http://www.buttercloud.com/) - A small team of web & app developers. We help startups & small to medium sized businesses build, maintain, and grow their products.
