@@ -430,6 +430,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Splice Machine](https://www.splicemachine.com/company/careers/) Combines the functionality of a relational database, data warehouse, and machine learning in one unified AI platform.
   1. [Spreaker](https://www.spreaker.com/jobs) Discover and listen to your favorite podcasts.
   1. [StackExchange](http://stackexchange.com/work-here)
+  1. [Stripe](https://stripe.com/blog/remote-hub) Stripe builds financial tools and economic infrastructure for the internet
   1. [Strongloop](https://strongloop.com/careers/)
   1. [StyleSeat](http://static.styleseat.com/jobs/index.html) - we love high-impact remote engineers, collaboration, creativity, python, angularjs
   1. [Surevine](https://www.surevine.com/jobs/)
