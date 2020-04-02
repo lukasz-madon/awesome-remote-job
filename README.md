@@ -105,6 +105,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Working Remotely for Extroverts](https://hoppycow.com/2014/12/13/working-remotely-for-extroverts/)
   1. [Yahoo, Best Buy, and Telecommuting: Advice From A Distributed Company](https://www.lullabot.com/articles/yahoo-best-buy-and-telecommuting-advice-from-a-distributed-company)
   1. [Your Commute Is Killing You](http://www.slate.com/articles/business/moneybox/2011/05/your_commute_is_killing_you.html)
+  1. [Why remote work makes disagreement hard](https://zapier.com/blog/how-to-disagree-remote-work/)
 
 ## Videos
   1. [David Copeland: The Effective Remote Developer](https://www.infoq.com/presentations/effective-remote-developer-2017)
