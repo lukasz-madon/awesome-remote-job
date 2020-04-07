@@ -387,6 +387,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [MVP Space](http://mvp-space.com/) - Test a business idea with your target audience or show its potential to your investors.
   1. [Mozilla](https://careers.mozilla.org/listings/) - Firefox has a 'Remote' option under it's location searchbar
   1. [NearForm](https://www.nearform.com/careers/) - NearForm evolves enterprises by building high-performance, open software. Our global team uses modern processes and tools to help clients innovate at speed.
+  1. [Netguru](https://www.netguru.com/career) - Software agency. JavaScript, Ruby on Rails, Python, Android, iOS
   1. [Netsparker](https://www.netsparker.com/jobs/) - Web Application Security Scanner.
   1. [Next Big Sound](https://www.nextbigsound.com/about) - Analytics and Insights for the Music Industry.
   1. [NinjaCat](https://www.ninjacat.io/jobs) - Reporting, Monitoring & Call Tracking Platform for Leading Digital Agencies.
