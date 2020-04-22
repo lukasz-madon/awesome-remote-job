@@ -533,6 +533,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Twist](https://twist.com/) — A communications platform where long-form discussions and casual messaging live in harmony.
   1. [Whereby](https://whereby.com) – Browser-based, plugin-less group video calls.
   1. [Zoom](https://zoom.us) — High-quality group video and sharing screen, run on linux, record session and support telephone calls.
+  1. [Rivers](https://www.rivers.im/) - A platform where continuous collaboration happens. To have more organized and focused conversations with your colleagues and teams. 
 
 #### Project Management
   1. [Asana](https://asana.com/) - Project management good for distributed teams.
