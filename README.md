@@ -149,6 +149,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Full-Stack Developer Jobs](https://fullstackjob.com/jobs/remote-ok) - Remote OK Jobs for Full-Stack Developer Jobs
   1. [Github Jobs](https://jobs.github.com/) - Location filter -> "*[Anywhere](https://jobs.github.com/positions?description=&location=anywhere)/[Remote](https://jobs.github.com/positions?description=&location=remote)*"
   1. [Golangprojects](http://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
+  1. [GoWFH](https://gowfh.com/) - Remote and work from home jobs for MANY different categories 
   1. [GraphQL Jobs](https://graphql.jobs/r/remote) - Work with GraphQL in a modern startup.
   1. [Guru](http://www.guru.com/) - (has MANY different categories outside software)
   1. [HackerX](https://www.hackerx.org/jobs/)
@@ -188,6 +189,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Job boards aggregators
   1. [Findwork](https://findwork.dev/) Crawls multiple job boards and enriches job postings with Glassdoor (reviews) and Crunchbase (funding).
   1. [Google Jobs](https://www.google.com/search?q=remote&ibp=htl;jobs#fpstate=tldetail&htidocid=IO0hI7dpKTSlzSKoAAAAAA%3D%3D&htin=1&htivrt=jobs)  – Aggregates from multiple boards and employer sites with sensitivity to location, job type, and more. Find out how to use it [here](https://support.google.com/websearch/answer/7498276?p=job_search_box&sa=X&ved=0ahUKEwid_qyLmJfXAhVD4YMKHYGBAK8Qra4CCGQoAQ&visit_id=1-636449234996681631-3229288694&rd=1).
+  1. [GoWFH](https://gowfh.com/) - Remote and work from home jobs for MANY different categories 
   1. [JS Remotely](https://jsremotely.com/) - All remote JavaScript jobs on one board
   1. [Meerkad](https://meerkad.com/) - Handpicked and curated by community jobs from most popular remote job boards, companies' websites, Facebook groups, Twitter search, Reddit, StackOverflow, HackerNews, Dribbble, Behance, and many others  
   1. [Remote.io](https://www.remote.io/) - Job board and aggregator for remote jobs, primarily tech.
