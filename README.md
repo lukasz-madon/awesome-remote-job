@@ -209,12 +209,10 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Coworking in the Sun](http://www.coworkinginthesun.com) - Coliving & coworking space in Tenerife island in Spain
   1. [Hive Arena](https://hivearena.com/coworking/) - Coworking & Coliving Space in Seoul, South Korea
   1. [HubBOG](http://hubbog.com/) - Coworking Space + Startup Accelerator. Bogota, Colombia
-  1. [Hus24](http://hus24.org/en/) - Coliving space in Sweden
   1. [Mokrin House](http://www.mokrinhouse.com/) - Coliving & coworking space in a rural area of Serbia
   1. [Nest Copenhagen](http://nestcopenhagen.dk) - Coliving space in Copenhagen, Denmark
   1. [NoHatDigital](http://www.nohatdigital.com/mansionpage/) - Coliving space in Mexico
   1. [Nomad House](https://nomadhouse.io) - Global network of nomad housing
-  1. [nomadicHUB](http://nomadichub.com) - Coliving & coworking spaces in exotic locations
   1. [Ondas](http://www.ondasmedellin.com) - Coworking space in Medellin, Colombia
   1. [Roam](https://www.roam.co/) - Global network of coliving spaces
   1. [Sende](http://sende.co) - Coliving & coworking space in northern Spain
@@ -503,7 +501,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Conferences
  1. [DNX Global](http://www.dnxglobal.com/) - Digital Nomad Conference.
- 1. [Out Of Office](http://www.outofoffice.hm/) - Online remote work event by [Human Made](https://hmn.md/)
  1. [Yonder](http://www.yonder.io/events/) - A round table conference bringing together leaders of distributed companies.
  1. [9punto5](http://www.9punto5.cl) - Remote work conference in Latin America.
  1. [Git Commit Show](http://gitcommit.show) - Global Developer Conference to promote remote work an education, attend from anywhwere
