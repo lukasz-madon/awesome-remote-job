@@ -4,6 +4,7 @@ This is an open and collaborative project, and any suggestions for improvement a
 
 If you're making a pull request, please ensure it adheres to the following guidelines:
 
+1. Job boards should be high quality, without paywalls, requiring login, etc. At this point, we only accept job boards that are significantly different than the others. Please outline why a job board should be added and why it is different if adding one in a PR. Your PR may be closed without comment if you do not.
 1. Check if the link is working and pointing to the right location.
 2. Check your spelling and grammar.
 3. Choose the appropriate corresponding section.
@@ -22,7 +23,6 @@ If you're making a pull request, please ensure it adheres to the following guide
 13. Any new entry should have meaningful content at the time of the addition to this list. We can't tell whether something is awesome if there is little to see. As a general rule, there should be at least about six months worth of content.
 14. Companies in this list should have "remote DNA". This means they are not only remote friendly, but dedicated to remote work as a core of their business.
 15. Link to the career/job page rather than to a single job post.
-16. Job boards should be high quality, without paywalls, requiring login, etc. At this point, we only accept job boards that are significantly different than the others. Please outline why a job board should be added if adding one in a PR.
 17. No agencies, please.
 
 ## Dead Link Policy
