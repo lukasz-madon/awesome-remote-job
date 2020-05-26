@@ -231,12 +231,13 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Interviewing
   1. [andreis/interview](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
   2. [awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
-  3. [interviewing.io](https://interviewing.io/) - Become awesome at technical interviews
-  4. [karat.io](https://karat.com/) - Have a free practice coding interview with a professional interviewer
-  4. [pramp](https://pramp.com) - Practice coding interviews (both sides of the table) with other candidates
-  5. [remoteinterview.io](https://www.remoteinterview.io/) - Coding tests & pair programming interview tools
-  6. [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies
-  7. [hackerrank.com](https://www.hackerrank.com/) - Online platform for code studying and recruiting with job offers also
+  3. [adaface.com/pair-pro](https://www.adaface.com/pair-pro) - Remote pair programming interview tool with shared editor, code compiler and video conferencing
+  4. [interviewing.io](https://interviewing.io/) - Become awesome at technical interviews
+  5. [karat.io](https://karat.com/) - Have a free practice coding interview with a professional interviewer
+  6. [pramp](https://pramp.com) - Practice coding interviews (both sides of the table) with other candidates
+  7. [remoteinterview.io](https://www.remoteinterview.io/) - Coding tests & pair programming interview tools
+  8. [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies
+  9. [hackerrank.com](https://www.hackerrank.com/) - Online platform for code studying and recruiting with job offers also
 
 ## Events
   1. [deceler8](https://sierraymar.exposure.co/decelerate-bali) - 10 days retreat
