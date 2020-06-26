@@ -250,6 +250,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Making Remote Work](https://www.mailerlite.com/remote-newsletter) - MailerLite's monthly remote newsletter sharing best practices, mistakes and learnings, world views (quite literally) and remote job vacancies.
   1. [NODESK](https://nodesk.co/) - A newsletter about digital nomads and remote work that is sent out every two weeks.
   1. [Remote Internships](http://foundersgrid.com/)
+  1. [Remote Letter](https://remoteletter.com/) - A weekly newsletter about remote work lifestyle.
   1. [Remoteur](http://www.remoteur.com) - Remote jobs in Europe delivered to your inbox bi-weekly
   1. [Remotive - productive remote workers](http://remotive.io/) - A weekly newsletter on Remote Tips & Jobs sent to 10,000+ Remote Workers
   1. [Yonder Newsletter](https://yonder.io/newsletter) - Daily remote work tips, links, articles, and the Yonder Podcast
