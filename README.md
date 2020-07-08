@@ -217,7 +217,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Nest Copenhagen](http://nestcopenhagen.dk) - Coliving space in Copenhagen, Denmark
   1. [NoHatDigital](http://www.nohatdigital.com/mansionpage/) - Coliving space in Mexico
   1. [Nomad House](https://nomadhouse.io) - Global network of nomad housing
-  1. [Ondas](http://www.ondasmedellin.com) - Coworking space in Medellin, Colombia
   1. [Roam](https://www.roam.co/) - Global network of coliving spaces
   1. [Sende](http://sende.co) - Coliving & coworking space in northern Spain
   1. [Sun Desk](http://sun-desk.com) - Coliving & coworking space in Taghazout, Morocco
