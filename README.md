@@ -170,6 +170,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [remote-es/remotes](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
   1. [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   1. [Remotees](https://remotees.com/)
+  1. [Remotemax](https://remotemax.co/) - Remote Jobs in Development, Design, Marketing and more
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
   1. [Remotive Jobs](http://jobs.remotive.io/)
   1. [Remote People](https://remotepeople.io/)
