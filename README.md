@@ -341,6 +341,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Fog Creek](http://www.fogcreek.com/careers/) - NY-based software company. Makers of bug-tracking and source control tools. Workday must overlap New York afternoons (1700 - 2200 GMT)
   1. [General Assembly](https://generalassemb.ly/careers) - Physical and on-line education for technology, business, and design.
   1. [Ghost](https://ghost.org/about/#careers) - Publishing platform.
+  1. [Giant Swarm](https://www.giantswarm.io/careers) - Giant Swarm’s managed microservices infrastructure enables enterprises to run agile, resilient, distributed systems at scale, while removing the tasks related to managing the complex underlying infrastructure
   1. [Gigster](https://gigster.com/) - vetted network of top 5% freelancers worldwide. PM, Dev, Sales positions available.
   1. [Gitbook](http://jobs.gitbook.com/) - Publishing toolchain based on git. Javascript, node.js, Go.
   1. [GitHub](https://github.com/about/jobs)
