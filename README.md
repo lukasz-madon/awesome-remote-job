@@ -142,6 +142,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Daily Remote](https://dailyremote.com) Filter and find remote jobs for every role!
   1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
   1. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
+  1. [Dynamite Jobs](https://www.dynamitejobs.com/) - High quality, handpicked, and clearly shows whether job is WFA or region specific.
   1. [Europe Remotely](http://europeremotely.com/)
   1. [Find Bacon](https://findbacon.com) - Design and Dev jobs
   1. [Flexjobs](https://www.flexjobs.com/) – Telecommuting Jobs & Professional Part-Time Jobs.
