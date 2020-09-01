@@ -508,6 +508,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 1. [We work remotely in Romania](https://weworkremotely.ro/) - Remote workers in Romania, full-time or in transit
 1. [Remote Indian](https://remoteindian.com/) - Remote workers from India.
 1. [Eleduck](https://eleduck.com) - A remote worker community in China(来自中国的远程工作社区).
+1. [Hypelance](https://hypelance.com/) - Digital Community Forum for Freelancers and Entrepreneurs.
 
 ## Conferences
  1. [DNX Global](http://www.dnxglobal.com/) - Digital Nomad Conference.
