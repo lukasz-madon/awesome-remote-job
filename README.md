@@ -175,6 +175,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
   1. [Remotive Jobs](http://jobs.remotive.io/)
   1. [Remote People](https://remotepeople.io/)
+  1. [Remote Works](https://remote.works-hub.com) - Remote jobs in software development
   1. [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
   1. [Skip the Drive](http://www.skipthedrive.com/)
   1. [Slasify](https://slasify.com/en/) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
