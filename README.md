@@ -115,7 +115,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Fluent 2013: Mike Hostetler, “Remote Working Works!”](https://www.youtube.com/watch?v=23oBUH270YU)
   1. [Jason Fried: Why work doesn't happen at work](https://www.youtube.com/watch?v=5XD2kNopsUs)
   1. [Stop Managing Your Remote Workers As If They Work Onsite](https://youtu.be/gDFdHnkohLg)
-   
+   1. [What is Remote Work: The Basics](https://youtu.be/EzByVa3FFzw)
+ 
 
 ## Books
   1. [Async Remote](http://blog.arkency.com/async-remote/).
