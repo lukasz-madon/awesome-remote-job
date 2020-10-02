@@ -117,6 +117,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Stop Managing Your Remote Workers As If They Work Onsite](https://youtu.be/gDFdHnkohLg)
    1. [What is Remote Work: The Basics](https://youtu.be/EzByVa3FFzw)
    1. [The TRUTH About Remote Work (from a Programmer)](https://youtu.be/488LKEqvRt0)
+   1. [How to make money working remotely](https://youtu.be/4gwhtJqII_8)
 
 ## Books
   1. [Async Remote](http://blog.arkency.com/async-remote/).
