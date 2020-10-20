@@ -143,7 +143,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Daily Remote](https://dailyremote.com) Filter and find remote jobs for every role!
   1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
   1. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
-  1. [Europe Remotely](https://europeremotely.com/)
   1. [Find Bacon](https://findbacon.com) - Design and Dev jobs
   1. [Flexjobs](https://www.flexjobs.com/) – Telecommuting Jobs & Professional Part-Time Jobs.
   1. [freelancermap](https://www.freelancermap.com/remote-jobs) - Freelance & contract jobs for IT experts (mostly German projects)
@@ -184,7 +183,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
   1. [React.js Jobs](https://www.react-jobs.com) Find React.js jobs all around the world - Click on "Remote" toggle button.
   1. [Remote.com](https://remote.com) - Tries to auto-match you with jobs, can import profile from LinkedIn
-  1. [We Love Angular](https://www.weloveangular.com/) Find Angular jobs and AngularJS people all around the world - Click on "Remote Angular jobs" link.
   1. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
   1. [We Work Remotely](https://weworkremotely.com/)
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
@@ -199,9 +197,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote 4 Me](https://remote4me.com/) - An aggregator for remote jobs in tech and non-tech.
   1. [Remote Leaf](https://remoteleaf.com) - Hand-picked remote jobs from 40+ remote job boards, 1500+ company career pages, Twitter feed, Linkedin, Reddit, Hacker News Hiring and only sends the ones that apply to you.
   1. [Remote OK](https://remoteok.io/) - Scrapes many job board feeds for remote positions.
-  1. [RemotePHP.io](https://remotephp.io) - Remote PHP jobs from across the web.
   1. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
-  1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - Crawls multiple job boards for remote job postings.
   1. [Theo](https://theojobs.com/) - All remote design jobs, one place.
   1. [UN Talent](https://untalent.org/jobs/home-based) - Vacancies at the United Nations and its agencies.
   1. [Vollna](https://www.vollna.com/) - An aggregator for top freelance sites.
@@ -497,14 +493,12 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. StackExchange
     - Workplace: [telecommute](https://workplace.stackexchange.com/questions/tagged/telecommute?sort=votes)
     - Freelancing: [remote](https://freelancing.stackexchange.com/questions/tagged/remote?sort=votes) / [working from home](https://freelancing.stackexchange.com/questions/tagged/working-from-home?sort=votes)
-    - Programmers: [telecommuting](https://softwareengineering.stackexchange.com/questions/tagged/telecommuting?sort=votes) / [home](https://softwareengineering.stackexchange.com/questions/tagged/home?sort=votes)
 
 ## Communities
 1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/) - Subreddit.
 1. [##remotes](https://github.com/remotesclub/remotes) - IRC channel ([web access](https://webchat.freenode.net/?channels=#remotes))
 1. [Hacker Paradise](https://www.hackerparadise.org/) - Traveling remote workers.
 1. [Remote Year](https://www.remoteyear.com/) - Traveling techies for 1 year.
-1. [We work remotely in Romania](https://weworkremotely.ro/) - Remote workers in Romania, full-time or in transit
 1. [Remote Indian](https://remoteindian.com/) - Remote workers from India.
 1. [Eleduck](https://eleduck.com) - A remote worker community in China(来自中国的远程工作社区).
 1. [Hypelance](https://hypelance.com/) - Digital Community Forum for Freelancers and Entrepreneurs.
