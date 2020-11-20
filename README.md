@@ -525,6 +525,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Fleep](https://fleep.io/) - Internal chat and collaboration tool for development teams
   1. [Floobits](https://floobits.com) - Remote pair programming with screen share. Integrates with Sublime, IntelliJ, Atom and others
   1. [Flowdock](https://www.flowdock.com/) – Browser-based group chat for teams. Integrates with GitHub, Jira, Jenkins etc.
+  1. [Gather](https://gather.town/) - Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.
   1. [IRCCloud](https://www.irccloud.com) – Browser-based IRC client with permanent storage.
   1. [Jitsi](https://jitsi.org) - Multi-platform open-source video conferencing
   1. [Matrix](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
