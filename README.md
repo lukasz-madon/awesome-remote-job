@@ -187,6 +187,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [We Work Remotely](https://weworkremotely.com/)
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
   1. [Working Nomads](https://www.workingnomads.co/jobs)
+  1. [Jungless](https://jungless.com/) Job Board for French remote position
 
 ## Job boards aggregators
   1. [Career Vault](https://www.careervault.io) - 7500+ remote jobs scraped every few hours from hundreds of company career pages. Free and no signup.
