@@ -199,6 +199,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote Leaf](https://remoteleaf.com) - Hand-picked remote jobs from 40+ remote job boards, 1500+ company career pages, Twitter feed, Linkedin, Reddit, Hacker News Hiring and only sends the ones that apply to you.
   1. [Remote OK](https://remoteok.io/) - Scrapes many job board feeds for remote positions.
   1. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
+  1. [Remotelane.com](https://www.remotelane.com/) - Job board and aggregator scraping all the remote jobs around the web. Simple list (Hacker News style) and newsletter without noise.
   1. [Theo](https://theojobs.com/) - All remote design jobs, one place.
   1. [UN Talent](https://untalent.org/jobs/home-based) - Vacancies at the United Nations and its agencies.
   1. [Vollna](https://www.vollna.com/) - An aggregator for top freelance sites.
