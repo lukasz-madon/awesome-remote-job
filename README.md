@@ -278,6 +278,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [AirTreks](https://www.airtreks.com/about/) - Multi-stop international flight planner with a distributed team.
   1. [Alley](https://alley.co/jobs/) - Digital Agency. We are strategists, researchers, designers, and developers who craft custom digital experiences for publishers, nonprofit institutions, museums, and brands.
   1. [ALICE](https://www.aliceplatform.com/careers/) - Remote-friendly start-up company. We’re creating the global operations platform for the hospitality industry. ALICE empowers the world's best hotels to deliver a remarkable guest experience.
+  1. [amazee.io](https://www.amazee.io/careers) - Open source container hosting - high-performance flexible solutions. Kubernetes, TypeScript (Node.js and React), Go, GraphQL.
   1. [Ameego](http://ameego.ca/) - Restaurant scheduling software.
   1. [Arkency](https://arkency.com/join-our-team/) - Rails and React.js experts, fully remote/async.
   1. [Articulate](https://articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
