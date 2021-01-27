@@ -432,7 +432,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Recurly](https://recurly.com/jobs/) - recurring billing management for subscription-based businesses
   1. [Red Hat](https://www.redhat.com/jobs/)
   1. [Redox](https://www.redoxengine.com/company/careers/) - Healthcare API platform. Proudly remote-first team.
-  1. [Relevant Bits] (https://relevantbits.com) - Relevant Bits positively influences customer experiences and outcomes with data, design, technology, and critical thinking. Based out of Ontario Canada, Relevant Bits is 100% remote.
+  1. [Relevant Bits](https://relevantbits.com) - Relevant Bits positively influences customer experiences and outcomes with data, design, technology, and critical thinking. Based out of Ontario Canada, Relevant Bits is 100% remote.
   1. [Riak](https://riak.com/careers/) - An open source platform and k/v database. We code in Erlang and hang out on clouds. Everyone works remote and gets together a few times a year at HQ in Seattle.
   1. [RightScale](https://www.flexera.com/about-us/careers.html)
   1. [Sangoma](https://www.sangoma.com/) - Trusted leader in delivering globally scalable Voice-Over-IP telephony systems, both on-site and cloud-based. C, PHP, Python, JavaScript, Linux, FreePBX, VoIP.
