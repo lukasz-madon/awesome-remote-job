@@ -174,20 +174,21 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remotive Jobs](https://remotive.io/)
   1. [Remote People](https://remotepeople.io/)
   1. [Remote Works](https://remote.works-hub.com) - Remote jobs in software development
-  1. [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
-  1. [Skip the Drive](https://www.skipthedrive.com/)
-  1. [Slasify](https://slasify.com/en/) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
-  1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
-  1. [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
-  1. [Upwork](https://www.upwork.com) - Find remote jobs in any category
-  1. [Virtual Vocations](https://www.virtualvocations.com/)
-  1. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
-  1. [React.js Jobs](https://www.react-jobs.com) Find React.js jobs all around the world - Click on "Remote" toggle button.
-  1. [Remote.com](https://remote.com) - Tries to auto-match you with jobs, can import profile from LinkedIn
-  1. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
-  1. [We Work Remotely](https://weworkremotely.com/)
-  1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
-  1. [Working Nomads](https://www.workingnomads.co/jobs)
+  2. [Remote Workers](https://remoteworkers.net) - Remote Jobs & Talent Marketplace
+  3. [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
+  4. [Skip the Drive](https://www.skipthedrive.com/)
+  5. [Slasify](https://slasify.com/en/) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
+  6. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
+  7. [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
+  8. [Upwork](https://www.upwork.com) - Find remote jobs in any category
+  9. [Virtual Vocations](https://www.virtualvocations.com/)
+  10. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
+  11. [React.js Jobs](https://www.react-jobs.com) Find React.js jobs all around the world - Click on "Remote" toggle button.
+  12. [Remote.com](https://remote.com) - Tries to auto-match you with jobs, can import profile from LinkedIn
+  13. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
+  14. [We Work Remotely](https://weworkremotely.com/)
+  15. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
+  16. [Working Nomads](https://www.workingnomads.co/jobs)
 
 ## Job boards aggregators
   1. [Bergamot](https://bergamot.io/) - Provides the widest selection of remote tech jobs by monitoring over 150,000 companies' career pages. Full-text search and AI-powered geo filter inside. Free, no sign-up required.
