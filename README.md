@@ -250,6 +250,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Events
   1. [deceler8](https://sierraymar.exposure.co/decelerate-bali) - 10 days retreat
   1. [Project Getaway](https://www.projectgetaway.com/) - 30 days retreat
+  1. [Recurse Center](https://www.recurse.com/) - free 3-month retreat
 
 ## Newsletters
   1. [Daily Remote](https://dailyremote.com/newsletter) - A newsletter containing remote jobs crafted and curated especially for you
