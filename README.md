@@ -189,6 +189,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [We Work Remotely](https://weworkremotely.com/)
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
   1. [Working Nomads](https://www.workingnomads.co/jobs)
+  1. [Remotewx](https://remotewx.com/) - A job board that only accepts jobs that are fully remote
 
 ## Job boards aggregators
   1. [Bergamot](https://bergamot.io/) - Provides the widest selection of remote tech jobs by monitoring over 150,000 companies' career pages. Full-text search and AI-powered geo filter inside. Free, no sign-up required.
