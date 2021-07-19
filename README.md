@@ -75,6 +75,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Managing a Geographically Dispersed Team: Achieving Your Goals Together, While Apart](https://www.mindtools.com/pages/article/newTMM_40.htm)
   1. [My Ideal Day as a Remote Programmer: Taking Charge of Your Daily Routine](https://overflow.buffer.com/2014/06/12/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/)
   1. [My Remote Developer Life](https://shift.infinite.red/my-remote-developer-life-ama-bb91fa7bd0bd#.kjpehbcab)
+  1. [Phoning It In: 3 Years of Lessons From Running a Remote Business](https://observer.com/2014/02/phoning-it-in-3-years-of-lessons-from-running-a-remote-business)
   1. [Remote versus Co-located Work](https://martinfowler.com/articles/remote-or-co-located.html)
   1. [Remote Work: How to work the Precision Nutrition way](https://www.precisionnutrition.com/remote-how-to-work-the-pn-way)
   1. [Remote worker vs distributed team](https://opensource.com/life/11/11/remote-worker-vs-distributed-team)
