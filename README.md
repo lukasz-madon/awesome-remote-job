@@ -447,6 +447,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Red Hat](https://www.redhat.com/jobs/)
   1. [Redox](https://www.redoxengine.com/company/careers/) - Healthcare API platform. Proudly remote-first team.
   1. [Relevant Bits](https://relevantbits.com) - Relevant Bits positively influences customer experiences and outcomes with data, design, technology, and critical thinking. Based out of Ontario Canada, Relevant Bits is 100% remote.
+  1. [RenoFi](https://www.renofi.com/careers/) - 100% remote from day 1. Ruby, React.js, GraphQL, k8s.
   1. [Revolut](https://jobs.lever.co/revolut?lever-via=8QDkIWda8L) - App for buying, investing and sending money. HQ London. 
   3. [Riak](https://riak.com/careers/) - An open source platform and k/v database. We code in Erlang and hang out on clouds. Everyone works remote and gets together a few times a year at HQ in Seattle.
   4. [RightScale](https://www.flexera.com/about-us/careers.html)
