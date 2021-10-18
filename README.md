@@ -598,6 +598,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [NODESK](https://nodesk.co/) - 3000+ articles, remote jobs, resources and tools for digital nomads and remote workers.
   1. [Nomad List](https://nomadlist.io/) - Compare cost and quality of living in different cities.
   1. [Regus USA](https://www.regus.com/) - Executive suites, virtual offices & conference room space.
+  1. [Remote By Default](https://remotebydefault.org) - A detailed & transparent directory of remote software companies.
   1. [Remote Companies on Careers SO](https://stackoverflow.com/jobs/companies?q=&l=&r=true)
   1. [Remote Working](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
   1. [Remoter.com](https://www.remoter.com/) - Ongoing initiative to create an educational platform about remote work.
