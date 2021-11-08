@@ -317,6 +317,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Clevertech](https://clevertech.biz/careers) - We build incredible, game-changing technology.
   1. [Close](https://jobs.close.com/) - Inside sales CRM for startups and SMBs.
   1. [Codeship](https://codeship.com/jobs) - SaaS Continuous Delivery
+  1. [CodeWeavers](https://www.codeweavers.com/about/jobs) - Wine-based open source software.
   1. [Collabora](https://www.collabora.com/careers.html) - Open source software-based consulting.
   1. [Collage](https://www.collage.com/careers) - We provide the easiest and most versatile tools to help you turn your photos into memories. 100% remote team.
   1. [Compose](https://www.compose.io/jobs/) - Managing databases as a service. Distributed team with offices in San Meteo, CA and Birmingham, AL.
