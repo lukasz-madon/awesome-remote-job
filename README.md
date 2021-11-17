@@ -297,6 +297,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Avallain](https://www.avallain.com/) - Education Technology and Digital Publishing. We have the tools and processes to achieve the positive impact on human potential that technology enhanced education can provide
   1. [AvantStay](https://avantstay.com/careers) - Short-term rental company based in Los Angeles, with remote dev team.
   1. [Axelerant](https://www.axelerant.com/careers)
+  1. [BandLab](https://bandlab.com/careers) - Social music platform that enables creators to make music and share the creative process with musicians and fans.
   1. [Baremetrics](https://baremetrics.com/about) - Analytics and insights for Stripe, Braintree, Recurly and Chargify.
   1. [BaseCamp](https://basecamp.com/about/team) - Project management software.
   1. [Baselayer](https://www.baselayer.com/company/careers/) - Data center and infrastructure management software.
