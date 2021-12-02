@@ -152,6 +152,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Flexjobs](https://www.flexjobs.com/) – Telecommuting Jobs & Professional Part-Time Jobs.
   1. [freelancermap](https://www.freelancermap.com/remote-jobs) - Freelance & contract jobs for IT experts (mostly German projects)
   1. [Full-Stack Developer Jobs](https://fullstackjob.com/jobs/remote-ok) - Remote OK Jobs for Full-Stack Developer Jobs
+  1. [Golang Job Board](https://golangjob.xyz/jobs/remote-job) Remote Golang Jobs
   1. [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
   1. [GraphQL Jobs](https://graphql.jobs/r/remote) - Work with GraphQL in a modern startup.
   1. [Guru](https://www.guru.com/) - (has MANY different categories outside software)
@@ -168,6 +169,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
   1. [NODESK](https://nodesk.co/remote-jobs/)
   1. [Power to Fly](https://powertofly.com/jobs/) - Specific to women
+  1. [ReactJS Jobs](https://reactjsjob.com/?remoteOk=1) - Remote React JS Jobs
   1. [Remote Game Jobs](https://remotegamejobs.com/) - Find remote work and talent in the game industry.
   1. [remote-es/remotes](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
   1. [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
