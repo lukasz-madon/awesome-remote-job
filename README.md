@@ -169,7 +169,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
   1. [NODESK](https://nodesk.co/remote-jobs/)
   1. [Power to Fly](https://powertofly.com/jobs/) - Specific to women
-  1. [ReactJS Jobs](https://reactjsjob.com/?remoteOk=1) - Remote React JS Jobs
+  1. [ReactJS Jobs](https://reactjsjob.com/jobs/reactjs/all/remote) - Remote React Jobs
   1. [Remote Game Jobs](https://remotegamejobs.com/) - Find remote work and talent in the game industry.
   1. [remote-es/remotes](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
   1. [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
