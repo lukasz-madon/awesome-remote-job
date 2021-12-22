@@ -400,6 +400,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Litmus](https://litmus.com/careers) - Optimization tools for email professionals. Offices in Boston and London, but nearly 50% of the team works remotely.
   1. [LiveChat](https://www.livechat.com/careers/jobs/) - online customer service software with online chat, help desk software, and web analytics
   1. [LivingSocial](https://jobs.groupon.com/) - Company-wide support for teams of experienced, remote developers. Lots of autonomy.
+  1. [Logit.io](https://logit.io/about-us#careers) - Fully remote first logging and metrics management company with 100% of operations and development based remotely
   1. [Lullabot](https://www.lullabot.com/jobs) - Strategy, design and development using Drupal.
   1. [madewithlove](https://madewithlove.com/jobs) - We help companies build digital products and bring new juice to teams that seem to jam.
   1. [Maintainer Mountaineer](https://maintainer.io) - Open source community management as a service.
