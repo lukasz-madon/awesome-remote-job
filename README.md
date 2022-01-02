@@ -570,15 +570,15 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 #### Project Management
   1. [Asana](https://asana.com/) - Project management good for distributed teams.
-  1. [Shortcut](https://shortcut.com/) (fka Clubhouse) - Project management for software development teams.
   1. [Harvest](https://www.getharvest.com/) - Time tracking
   1. [Hitask](https://hitask.com/) - Easy task and project management for teams.
-  1. [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source).
+  1. [Jira](https://www.atlassian.com/software/jira) - Issue and project tracking tool.
+  1. [Notion](https://www.notion.so/) - All in one workspace to write, plan, collaborate, and get organized.
   1. [Outplanr](https://www.outplanr.com/) - Project and task management tool.
+  1. [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source).
+  1. [Shortcut](https://shortcut.com/) (fka Clubhouse) - Project management for software development teams.
   1. [Taskade](https://taskade.com/) - Real-time collaborative notes, checklists and outlines for teams.
   1. [Trello](https://trello.com/) - Lean project boards.
-  1. [Notion](https://www.notion.so/) - All in one workspace to write, plan, collaborate, and get organized.
-  1. [Jira](https://www.atlassian.com/software/jira) - Issue and project tracking tool.
 
 #### Others
   1. [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better.
