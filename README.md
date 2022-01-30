@@ -146,6 +146,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Crypto Jobs List](https://cryptojobslist.com/remote) - #1 job board to find and post crypto, bitcoin and blockchain jobs.
   1. [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/remote/) - Location filter -> *Remote*
   1. [Daily Remote](https://dailyremote.com) Filter and find remote jobs for every role!
+  1. [DevITJobs.us](https://devitjobs.us/jobs/all/all/Remote) / [DevITJobs.uk](https://devitjobs.uk/jobs/all/remote)  - All jobs with mandatory salary brackets
   1. [Diversify Tech](https://www.diversifytech.co/job-board) - Companies are transparent about their Diversity & Inclusion efforts 
   1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
   1. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
