@@ -192,6 +192,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Web3Jobs](https://web3.career/remote-jobs) - Remote Web3 Jobs
   1. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
   1. [We Work Remotely](https://weworkremotely.com/)
+  1. [Wait, What Do You Do?](https://waitwhatdoyoudo.com/remote-data-jobs) - Find Remote Data Science, Engineering, and Analytics Jobs
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
   1. [Working Nomads](https://www.workingnomads.co/jobs)
 
