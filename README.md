@@ -175,6 +175,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remotees](https://remotees.com/)
   1. [RemotExtra](https://www.remotextra.com/) - Remote developer jobs with transparent salaries
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
+  1. [Remote Web3 Jobs](https://remote3.co/) - Remote Web3 Jobs
   1. [Remotive Jobs](https://remotive.io/)
   1. [Remote People](https://remotepeople.io/)
   1. [Remote Works](https://remote.works-hub.com) - Remote jobs in software development
