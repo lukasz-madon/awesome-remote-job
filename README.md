@@ -472,49 +472,50 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   16. [Songspace](https://songspace.com) Helps music creators collaborate, catalog, and share work with their professional team
   17. [Soostone](http://www.soostone.com/careers)
   18. [Sourcegraph](https://github.com/sourcegraph/careers) - Code search and navigation for teams (self-hosted, OSS). Fully remote (across time zones).
-  19. [Splice Machine](https://www.splicemachine.com/company/careers/) Combines the functionality of a relational database, data warehouse, and machine learning in one unified AI platform.
-  20. [Spreaker](https://www.spreaker.com/jobs) Discover and listen to your favorite podcasts.
-  21. [StackExchange](https://stackoverflow.com/company/work-here)
-  22. [Stream Native](https://streamnative.io) Cloud-Native messaging and event streaming powered by Apache Pulsar
-  23. [Stripe](https://stripe.com/blog/remote-hub) Stripe builds financial tools and economic infrastructure for the internet
-  24. [Strongloop](https://strongloop.com/careers/)
-  25. [StyleSeat](http://static.styleseat.com/jobs/index.html) - we love high-impact remote engineers, collaboration, creativity, python, angularjs
-  26. [SuperOrbital](https://superorbit.al) - Kubernetes engineering and training.
-  27. [Surevine](https://www.surevine.com/jobs/)
-  28. [Surge](https://www.surgeforward.com/careers/) - 100% remote consulting company working primarily in Node.JS, iOS, .NET, PHP, and Android
-  29. [Square](https://careers.squareup.com/us/en/jobs?location%5B%5D=Remote) - Square helps millions of sellers run their business-from secure credit card processing to point of sale solutions. Products: Square and Cash App.
-  30. [Sysdig Cloud](https://sysdig.com/jobs/)
-  31. [Taskade](https://www.taskade.com/contact/) - Remote team building real-time collaboration & collaborative editing for teams.
-  32. [TaxJar](https://www.taxjar.com/jobs/) - Eliminate sales tax headaches.
-  33. [Teamed.io](https://www.teamed.io/)
-  34. [TeamSnap](https://www.teamsnap.com/about/careers) - TeamSnap is the No. 1 online sports team management software. 80% remote employees
-  35. [TED](https://www.ted.com/about/our-organization/jobs-at-ted) - Technology team supports ted.com and internal tools. All engineers are remote. Ruby on Rails, JavaScript, Ember.js
-  36. [Teleport](https://teleport.org/jobs/)
-  37. [Tesera](https://tesera.com/) - We disrupt conventional thinking to expand what is possible. We ignite change in the future we share.
-  38. [The Grid](https://thegrid.io/) - AI website builder. 100% distributed team.
-  39. [Thermeon](https://thermeon.com/vacancies/) - Car rental software - 100% remote technical team
-  40. [Thorn](https://thorn.org/careers) - 100% remote company, building technology to fight child sexual abuse & trafficking online.
-  41. [TimeDoctor](https://www.timedoctor.com/about-us.html) - Time tracking with screenshots, web and app usage monitoring, and integrations.
-  42. [Tipe](https://tipe.io) - Next Generation API-first CMS with GraphQL or REST API. Built with Nuxt.js, Serverless, AWS. 25% remote
-  43. [Toggl](https://jobs.toggl.com/)
-  44. [Toptal](https://www.toptal.com/careers) - 100% remote development company, solving worldwide talent shortage
-  45. [Tortuga Backpacks](https://www.tortugabackpacks.com/pages/join) - Backpacks for city travel.
-  46. [Transloadit](https://transloadit.com/jobs/) - The world's most versatile file uploading & encoding service, since 2009, by devs for devs
-  47. [Trello](https://trello.com/jobs)
-  48. [Tyk](https://tyk.io/current-vacancies/) - API Gateway and API Management. Built with Go, open source.
-  49. [Vidalingua](https://www.vidalingua.com/amaze.php) - Bringing language apps to life.
-  50. [WAAT](https://waat.eu/job/) - A cross-functional digital agency that adapts to project needs.
-  51. [Walltime](https://walltime.info) - A Brazilian digital assets exchange and other products & services using Blockchain technology.
-  52. [Water Lily Pond](https://waterlilypond.co.uk/) - Advertising and marketing communication services.
-  53. [wemake.services](https://wemake.services/meta/employees) - We sell repeatable software development process. Fully remote. Python, JavaScript, Vue
-  54. [Wikimedia](https://wikimediafoundation.org/wiki/Work_with_us)
-  55. [X-Team](https://x-team.com/join/) - Work on incredible web and mobile projects, with extraordinary developers. Unleash your potential. From anywhere. We are X-Team.
-  56. [You Need a Budget](https://www.youneedabudget.com/jobs/) - Bank syncing and goals and debt management.
-  57. [YourSports](https://www.yoursports.com/jobs) - A social network for your favorite teams.
-  58. [Zamphyr](https://zamphyr.com/) - School 2.0 for learning computer science. Remote-first, 100% JavaScript mostly Meteor.
-  59. [Zapier](https://zapier.com/about/)
-  60. [ZipRecruiter](https://www.ziprecruiter.com/careers) - Perl/Catalyst shop that has some of the best Perl devs working remotely.
-  61. [The Appraisal Lane](https://www.theappraisallane.com/careers) - A third-party vehicle appraisal service. Working space mainly in Austin and Montevideo but available in other countries.
+  19. [Spacelift](https://spacelift.io/)
+  20. [Splice Machine](https://www.splicemachine.com/company/careers/) Combines the functionality of a relational database, data warehouse, and machine learning in one unified AI platform.
+  21. [Spreaker](https://www.spreaker.com/jobs) Discover and listen to your favorite podcasts.
+  22. [StackExchange](https://stackoverflow.com/company/work-here)
+  23. [Stream Native](https://streamnative.io) Cloud-Native messaging and event streaming powered by Apache Pulsar
+  24. [Stripe](https://stripe.com/blog/remote-hub) Stripe builds financial tools and economic infrastructure for the internet
+  25. [Strongloop](https://strongloop.com/careers/)
+  26. [StyleSeat](http://static.styleseat.com/jobs/index.html) - we love high-impact remote engineers, collaboration, creativity, python, angularjs
+  27. [SuperOrbital](https://superorbit.al) - Kubernetes engineering and training.
+  28. [Surevine](https://www.surevine.com/jobs/)
+  29. [Surge](https://www.surgeforward.com/careers/) - 100% remote consulting company working primarily in Node.JS, iOS, .NET, PHP, and Android
+  30. [Square](https://careers.squareup.com/us/en/jobs?location%5B%5D=Remote) - Square helps millions of sellers run their business-from secure credit card processing to point of sale solutions. Products: Square and Cash App.
+  31. [Sysdig Cloud](https://sysdig.com/jobs/)
+  32. [Taskade](https://www.taskade.com/contact/) - Remote team building real-time collaboration & collaborative editing for teams.
+  33. [TaxJar](https://www.taxjar.com/jobs/) - Eliminate sales tax headaches.
+  34. [Teamed.io](https://www.teamed.io/)
+  35. [TeamSnap](https://www.teamsnap.com/about/careers) - TeamSnap is the No. 1 online sports team management software. 80% remote employees
+  36. [TED](https://www.ted.com/about/our-organization/jobs-at-ted) - Technology team supports ted.com and internal tools. All engineers are remote. Ruby on Rails, JavaScript, Ember.js
+  37. [Teleport](https://teleport.org/jobs/)
+  38. [Tesera](https://tesera.com/) - We disrupt conventional thinking to expand what is possible. We ignite change in the future we share.
+  39. [The Grid](https://thegrid.io/) - AI website builder. 100% distributed team.
+  40. [Thermeon](https://thermeon.com/vacancies/) - Car rental software - 100% remote technical team
+  41. [Thorn](https://thorn.org/careers) - 100% remote company, building technology to fight child sexual abuse & trafficking online.
+  42. [TimeDoctor](https://www.timedoctor.com/about-us.html) - Time tracking with screenshots, web and app usage monitoring, and integrations.
+  43. [Tipe](https://tipe.io) - Next Generation API-first CMS with GraphQL or REST API. Built with Nuxt.js, Serverless, AWS. 25% remote
+  44. [Toggl](https://jobs.toggl.com/)
+  45. [Toptal](https://www.toptal.com/careers) - 100% remote development company, solving worldwide talent shortage
+  46. [Tortuga Backpacks](https://www.tortugabackpacks.com/pages/join) - Backpacks for city travel.
+  47. [Transloadit](https://transloadit.com/jobs/) - The world's most versatile file uploading & encoding service, since 2009, by devs for devs
+  48. [Trello](https://trello.com/jobs)
+  49. [Tyk](https://tyk.io/current-vacancies/) - API Gateway and API Management. Built with Go, open source.
+  50. [Vidalingua](https://www.vidalingua.com/amaze.php) - Bringing language apps to life.
+  51. [WAAT](https://waat.eu/job/) - A cross-functional digital agency that adapts to project needs.
+  52. [Walltime](https://walltime.info) - A Brazilian digital assets exchange and other products & services using Blockchain technology.
+  53. [Water Lily Pond](https://waterlilypond.co.uk/) - Advertising and marketing communication services.
+  54. [wemake.services](https://wemake.services/meta/employees) - We sell repeatable software development process. Fully remote. Python, JavaScript, Vue
+  55. [Wikimedia](https://wikimediafoundation.org/wiki/Work_with_us)
+  56. [X-Team](https://x-team.com/join/) - Work on incredible web and mobile projects, with extraordinary developers. Unleash your potential. From anywhere. We are X-Team.
+  57. [You Need a Budget](https://www.youneedabudget.com/jobs/) - Bank syncing and goals and debt management.
+  58. [YourSports](https://www.yoursports.com/jobs) - A social network for your favorite teams.
+  59. [Zamphyr](https://zamphyr.com/) - School 2.0 for learning computer science. Remote-first, 100% JavaScript mostly Meteor.
+  60. [Zapier](https://zapier.com/about/)
+  61. [ZipRecruiter](https://www.ziprecruiter.com/careers) - Perl/Catalyst shop that has some of the best Perl devs working remotely.
+  62. [The Appraisal Lane](https://www.theappraisallane.com/careers) - A third-party vehicle appraisal service. Working space mainly in Austin and Montevideo but available in other countries.
 
 ## Q&A
   1. Chegg Tutor: [Online tutoring jobs starting at $20+/hour](https://www.chegg.com/tutors/become-a-tutor/)
