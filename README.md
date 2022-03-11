@@ -473,7 +473,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   17. [Soostone](http://www.soostone.com/careers)
   18. [Sourcegraph](https://github.com/sourcegraph/careers) - Code search and navigation for teams (self-hosted, OSS). Fully remote (across time zones).
   19. [Splice Machine](https://www.splicemachine.com/company/careers/) Combines the functionality of a relational database, data warehouse, and machine learning in one unified AI platform.
-  20. [Spreaker](https://www.spreaker.com/jobs) Discover and listen to your favorite podcasts.
+  20. [Spreaker](https://careers.spreaker.com/opportunities/) Create, host, distribute and monetize your podcasts. All engineers are remote. Tech stack: Javascript (React, Node.js), PHP (Symfony), iOS, Android. All hosted on AWS.
   21. [StackExchange](https://stackoverflow.com/company/work-here)
   22. [Stream Native](https://streamnative.io) Cloud-Native messaging and event streaming powered by Apache Pulsar
   23. [Stripe](https://stripe.com/blog/remote-hub) Stripe builds financial tools and economic infrastructure for the internet
