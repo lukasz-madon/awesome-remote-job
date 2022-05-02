@@ -218,6 +218,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Work Remotely](https://workremotely.io/) - Crawls and curates many job board feeds for remote positions
   1. [Workaline](https://workaline.com/) - Remote jobs aggregator. Formerly called Alfred.
   1. [Wrk.ist](https://wrk.ist/) - latest remote jobs in your console (curl)
+  1. [Remotewide](https://remotewide.co/) - Find remote jobs with location independent pay.
 
 ## Housing
   1. [Agora space](http://www.agora-space.com/) - Coworking & coliving space in Shanghai in China
