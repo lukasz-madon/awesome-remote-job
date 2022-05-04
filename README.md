@@ -196,8 +196,9 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   9. [Web3Jobs](https://web3.career/remote-jobs) - Remote Web3 Jobs
   10. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
   11. [We Work Remotely](https://weworkremotely.com/)
-  12. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
-  13. [Working Nomads](https://www.workingnomads.co/jobs)
+  12. [Workana](https://www.workana.com/) - Freelance Job Board in Spanish and Portuguese
+  13. [Work at a Startup](https://workatastartup.com/) - Jobs at Y Combinator startups; check "remote jobs" box
+  14. [Working Nomads](https://www.workingnomads.co/jobs)
 
 ## Job boards aggregators
   1. [Bergamot](https://bergamot.io/) - Provides the widest selection of remote tech jobs by monitoring over 150,000 companies' career pages. Full-text search and AI-powered geo filter inside. Free, no sign-up required.
@@ -261,6 +262,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [deceler8](https://sierraymar.exposure.co/decelerate-bali) - 10 days retreat
   1. [Project Getaway](https://www.projectgetaway.com/) - 30 days retreat
   1. [Recurse Center](https://www.recurse.com/) - free 3-month retreat
+  2. [Work at a Startup Events](https://www.workatastartup.com/events) - virtual events hosted by Y Combinator, including tech talks, women in engineering mentorship, tech career expos
 
 ## Newsletters
   1. [Daily Remote](https://dailyremote.com/newsletter) - A newsletter containing remote jobs crafted and curated especially for you
