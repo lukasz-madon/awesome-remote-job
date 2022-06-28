@@ -185,7 +185,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
   1. [Skip the Drive](https://www.skipthedrive.com/)
   1. [Slasify](https://slasify.com/en/) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
-  1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
+  1. [Hotfixo](https://hotfixo.com/remote-jobs) - remote jobs, information about salaries ($$$)
   2. [Stream Native Jobs](https://streamnative.io/careers/) - Scroll down to `Join Us`
   3. [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
   4. [Upwork](https://www.upwork.com) - Find remote jobs in any category
