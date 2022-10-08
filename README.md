@@ -211,7 +211,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote Index](https://remoteindex.co/) - Job board and aggregator for remote jobs in tech.
   1. [Remote Leaf](https://remoteleaf.com) - Hand-picked remote jobs from 40+ remote job boards, 1500+ company career pages, Twitter feed, Linkedin, Reddit, Hacker News Hiring and only sends the ones that apply to you.
   1. [Remote OK](https://remoteok.io/) - Scrapes many job board feeds for remote positions.
-  1. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
+  1. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote [Python](https://www.scaler.com/topics/python) jobs.
   1. [Theo](https://theojobs.com/) - All remote design jobs, one place.
   1. [UN Talent](https://untalent.org/jobs/home-based) - Vacancies at the United Nations and its agencies.
   1. [Vollna](https://www.vollna.com/) - An aggregator for top freelance sites.
@@ -371,7 +371,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   6. [Gitee](https://gitee.com) - GitHub alternative in China.
   7. [Gradle](https://gradle.com/careers) - Open Source Build Tool ; Enterprise SaaS and on-premise. Fully remote. Java, Groovy, Kotlin.
   8. [GrooveHQ](https://www.groovehq.com/about) - Help desk software.
-  9. [Hanzo](https://www.hanzo.co/about-us/careers-uk) - Web archiving company. Fully Remote. Python, AWS.
+  9. [Hanzo](https://www.hanzo.co/about-us/careers-uk) - Web archiving company. Fully Remote. [Python](https://www.scaler.com/topics/python/), AWS.
   10. [Harvest](https://www.getharvest.com/careers) - Time tracking software.
   11. [HashiCorp](https://www.hashicorp.com/jobs.html) - Open source tools for automating the modern data center. Go, Ruby, Rails, Ember, JavaScript.
   12. [Hatica](https://www.hatica.io) - Work analytics for engineering teams: Hatica equips engineering leaders and managers with actionable insights to promote effort alignment, accelerate delivery, drive team engagement, and promote team well-being.
