@@ -196,8 +196,9 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   9. [Web3Jobs](https://web3.career/remote-jobs) - Remote Web3 Jobs
   10. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
   11. [We Work Remotely](https://weworkremotely.com/)
-  12. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
-  13. [Working Nomads](https://www.workingnomads.co/jobs)
+  12. [Woody3](https://www.woody3.xyz/?work_mode%5B%5D=Fully+Remote) Find your remote non-tech job in Web3
+  13. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
+  14. [Working Nomads](https://www.workingnomads.co/jobs)
 
 ## Job boards aggregators
   1. [Bergamot](https://bergamot.io/) - Provides the widest selection of remote tech jobs by monitoring over 150,000 companies' career pages. Full-text search and AI-powered geo filter inside. Free, no sign-up required.
