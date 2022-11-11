@@ -434,6 +434,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   69. [Netsparker](https://www.netsparker.com/jobs/) - Web Application Security Scanner.
   70. [Next Big Sound](https://www.nextbigsound.com/about) - Analytics and Insights for the Music Industry.
   71. [NinjaCat](https://www.ninjacat.io/jobs) - Reporting, Monitoring & Call Tracking Platform for Leading Digital Agencies.
+  71. [Nira](https://nira.com/careers/) - Nira is a real-time access control system that proactively secures company documents. We use Golang, JavaScript, Python and run things on AWS.
   72. [Niteo](https://niteo.co/careers) - A decade old SaaS studio full of bright ideas, building smart solutions to empower small businesses online.
   73. [NodeSource](https://nodesource.com/about) - NodeSource is dedicated to creating a sustainable ecosystem for Node.js.
   74. [Nozbe](https://nozbe.com/careers) - GTD app for Mac, Windows, Linux, Android, iPad and iPhone.
