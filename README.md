@@ -489,6 +489,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   124. [Surevine](https://www.surevine.com/jobs/)
   125. [Surge](https://www.surgeforward.com/careers/) - 100% remote consulting company working primarily in Node.JS, iOS, .NET, PHP, and Android
   126. [Square](https://careers.squareup.com/us/en/jobs?location%5B%5D=Remote) - Square helps millions of sellers run their business-from secure credit card processing to point of sale solutions. Products: Square and Cash App.
+  127. [Svix](https://www.svix.com/careers/) - Open source and hosted webhook service so you can launch webhooks in days, not months.
   127. [Sysdig Cloud](https://sysdig.com/jobs/)
   128. [Taskade](https://www.taskade.com/contact/) - Remote team building real-time collaboration & collaborative editing for teams.
   129. [TaxJar](https://www.taxjar.com/jobs/) - Eliminate sales tax headaches.
