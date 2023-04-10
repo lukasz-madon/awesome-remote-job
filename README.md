@@ -259,6 +259,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   8. [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies
   9. [hackerrank.com](https://www.hackerrank.com/) - Online platform for code studying and recruiting with job offers also
   10. [Codility](https://www.codility.com/) - Online platform that offers sponsored challenges
+  11. [Meetapro](https://meetapro.com/) - An Airbnb style mock interview platform with top FAANG interviewers
 
 ## Events
   1. [deceler8](https://sierraymar.exposure.co/decelerate-bali) - 10 days retreat
