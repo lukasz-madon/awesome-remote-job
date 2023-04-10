@@ -547,6 +547,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 1. [Remote Indian](https://remoteindian.com/) - Remote workers from India.
 1. [Eleduck](https://eleduck.com) - A remote worker community in China(来自中国的远程工作社区).
 1. [Hypelance](https://hypelance.com/) - Digital Community Forum for Freelancers and Entrepreneurs.
+1. [Invide](https://invidelabs.com/developer.html) - Invite-only community of experienced remote developers since 2016. Also has a [public discord community](https://dsc.gg/invide) for newbies.
 
 ## Conferences
  1. [DNX Global](https://www.dnxfestival.com/) - Digital Nomad Conference.
