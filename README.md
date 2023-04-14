@@ -291,6 +291,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [amazee.io](https://www.amazee.io/careers) - Open source container hosting - high-performance flexible solutions. Kubernetes, TypeScript (Node.js and React), Go, GraphQL.
   1. [Ameego](http://ameego.ca/) - Restaurant scheduling software.
   1. [Arkency](https://arkency.com/join-our-team/) - Rails and React.js experts, fully remote/async.
+  1. [Array.com](https://array.com/careers) - Financial, identity, and privacy protection tools.
   1. [Articulate](https://articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
   1. [AT&T](https://att.jobs) - Nearly [20% of the eligible workforce](https://www.att.com/Common/about_us/files/csr_2012/worklife_balance.pdf) works remotely.
   1. [Auth0](https://auth0.com/jobs) - Zero-friction authentication and authorization for developers.
@@ -495,6 +496,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [TeamSnap](https://www.teamsnap.com/about/careers) - TeamSnap is the No. 1 online sports team management software. 80% remote employees
   1. [TED](https://www.ted.com/about/our-organization/jobs-at-ted) - Technology team supports ted.com and internal tools. All engineers are remote. Ruby on Rails, JavaScript, Ember.js
   1. [Teleport](https://teleport.org/jobs/)
+  1. [TeamSnap](https://www.teamsnap.com/company/careers) - sports club managment software.
   1. [Tesera](https://tesera.com/) - We disrupt conventional thinking to expand what is possible. We ignite change in the future we share.
   1. [The Grid](https://thegrid.io/) - AI website builder. 100% distributed team.
   1. [Thermeon](https://thermeon.com/vacancies/) - Car rental software - 100% remote technical team
@@ -511,6 +513,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Walltime](https://walltime.info) - A Brazilian digital assets exchange and other products & services using Blockchain technology.
   1. [Water Lily Pond](https://waterlilypond.co.uk/) - Advertising and marketing communication services.
   1. [wemake.services](https://wemake.services/meta/employees) - We sell repeatable software development process. Fully remote. Python, JavaScript, Vue
+  1. [Wheel](https://www.wheel.com/careers) - healthcare startup.
   1. [Wikimedia](https://wikimediafoundation.org/wiki/Work_with_us)
   1. [X-Team](https://x-team.com/join/) - Work on incredible web and mobile projects, with extraordinary developers. Unleash your potential. From anywhere. We are X-Team.
   1. [You Need a Budget](https://www.youneedabudget.com/jobs/) - Bank syncing and goals and debt management.
