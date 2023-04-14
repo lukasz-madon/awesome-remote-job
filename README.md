@@ -283,6 +283,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [1Password](https://1password.com/jobs/) - The world’s most-loved password manager.
   1. [Adeva](https://adevait.com) - An exclusive remote developers network. Adeva partners with companies to scale engineering teams on-demand.
   1. [AgentFire](https://agentfire.com/meet-our-team/) - Hyper local real estate websites powered by Wordpress.
+  1. [Affirm](https://www.affirm.com/careers) - financial technology company that offers point-of-sale financing options to consumers.
   1. [Aha!](https://www.aha.io/company/careers/current-openings) - Aha! is roadmapping software for PMs who want their mojo back.
   1. [AirTreks](https://www.airtreks.com/about/) - Multi-stop international flight planner with a distributed team.
   1. [Alley](https://alley.co/jobs/) - Digital Agency. We are strategists, researchers, designers, and developers who craft custom digital experiences for publishers, nonprofit institutions, museums, and brands.
