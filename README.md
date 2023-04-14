@@ -294,6 +294,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Array.com](https://array.com/careers) - Financial, identity, and privacy protection tools.
   1. [Articulate](https://articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
   1. [AT&T](https://att.jobs) - Nearly [20% of the eligible workforce](https://www.att.com/Common/about_us/files/csr_2012/worklife_balance.pdf) works remotely.
+  1. [Aurora Solar](https://aurorasolar.com/careers/) - solar permitting.
   1. [Auth0](https://auth0.com/jobs) - Zero-friction authentication and authorization for developers.
   1. [Authentic F & F](https://authenticff.com/) - Independent design and technology studio based in Denver and Minnesota
   1. [Aurity](https://www.aurity.co/) - 100% remote company, specializing in React and React Native.
@@ -308,6 +309,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Baselayer](https://www.baselayer.com/company/careers/) - Data center and infrastructure management software.
   1. [BeBanjo](https://bebanjo.com/careers/) - Software as a service for managing video on-demand. Ruby / Rails, Elasticsearch, Sidekiq.
   1. [Bluespark Labs](https://www.bluespark.com/careers) - WebDev Consulting and makers of Roomify. Remote team with HQs in Raleigh, NC and Italy. Drupal.
+  1. [Blend](https://blend.com/company/careers/) - Fintech.
   1. [BookingSync](https://www.bookingsync.com/en/jobs) - Vacation Rental Software for professionals. Fully distributed team, we work remotely and try to make a company retreat each year. Proud Ember.js official sponsor, Ruby / Rails
   1. [Brave](https://brave.com) - Web browser with built-in ad blocker and crypto-token micro-payments.
   1. [Buffer](https://buffer.com/journey/) - Tools to help manage social media. PHP, CodeIgniter, MongoDB, Memcache, Backbone.js, React.js, Grunt.js, LESS, and Python.
