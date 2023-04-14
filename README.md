@@ -139,7 +139,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Humor
 
   1. [Why working from home is both awesome and horrible](https://theoatmeal.com/comics/working_home)
-  1. [Working From Home](https://www.youtube.com/watch?v=IW3lhfVpLL4)
 
 ## Job boards
   1. [4 Day Week](https://4dayweek.io) - Software jobs with a better work / life balance.
@@ -191,22 +190,21 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
   1. [Skip the Drive](https://www.skipthedrive.com/)
   1. [Slasify](https://slasify.com/en/) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
-  1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
   1. [Stream Native Jobs](https://streamnative.io/careers/) - Scroll down to `Join Us`
   1. [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
+  1. [useWeb3](https://www.useweb3.xyz/jobs) - A curated blockchain, crypto and web3 job board and developer platform
   1. [Upwork](https://www.upwork.com) - Find remote jobs in any category
   1. [Virtual Vocations](https://www.virtualvocations.com/)
   1. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
   1. [React.js Jobs](https://www.react-jobs.com) Find React.js jobs all around the world - Click on "Remote" toggle button.
-  1. [Remote.com](https://remote.com) - Tries to auto-match you with jobs, can import profile from LinkedIn
   1. [Web3Jobs](https://web3.career/remote-jobs) - Remote Web3 Jobs
   1. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
   1. [We Work Remotely](https://weworkremotely.com/)
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
   1. [Working Nomads](https://www.workingnomads.co/jobs)
+  1. [zuhausejobs.com](https://zuhausejobs.com) - Remote Jobs in German-speaking countries (Germany/Austria/Switzerland)
 
 ## Job boards aggregators
-  1. [Bergamot](https://bergamot.io/) - Provides the widest selection of remote tech jobs by monitoring over 150,000 companies' career pages. Full-text search and AI-powered geo filter inside. Free, no sign-up required.
   1. [Career Vault](https://www.careervault.io) - Hundreds of remote jobs added each day from thousands of company career pages. Free and no signup required.
   1. [Findwork](https://findwork.dev/) Crawls multiple job boards and enriches job postings with Glassdoor (reviews) and Crunchbase (funding).
   1. [Google Jobs](https://www.google.com/search?q=remote&ibp=htl;jobs#fpstate=tldetail&htidocid=IO0hI7dpKTSlzSKoAAAAAA%3D%3D&htin=1&htivrt=jobs)  – Aggregates from multiple boards and employer sites with sensitivity to location, job type, and more. Find out how to use it [here](https://support.google.com/websearch/answer/7498276?p=job_search_box&sa=X&ved=0ahUKEwid_qyLmJfXAhVD4YMKHYGBAK8Qra4CCGQoAQ&visit_id=1-636449234996681631-3229288694&rd=1).
@@ -328,7 +326,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [ButterCloud](http://www.buttercloud.com/) - A small team of web & app developers. We help startups & small to medium-sized businesses build, maintain, and grow their products.
   1. [Cadasta](https://cadasta.org/about-us-3/careers-2/) - Secure platform for mapping global land & resource rights. 100% remote team; Python, Django, JavaScript, PostgreSQL.
   1. [Canonical](https://www.canonical.com/careers/all-vacancies) - Ubuntu.
-  1. [Catalyze](https://catalyze.io/jobs) - HIPAA-compliant cloud computing for healthcare. HQ in Madison, WI. Docker, Go, Python.
   1. [Chef](https://www.chef.io/careers/) - We are all about IT automation for speed and awesomeness. Ruby, JavaScript & shell scripting. HQ in Seattle but we have employees all around US.
   1. [Ciao Bambino](https://ciaobambino.com/) - Family destinations and hotel reviews.
   1. [Circonus](https://www.circonus.com/careers) - SaaS and on-prem monitoring, analytics, alerting, and more.  C, Go, Java, Perl.  HQ in Fulton MD, most employees are remote.
@@ -369,6 +366,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Etsy](https://www.etsy.com/careers) - Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.
   1. [ExportData](https://www.exportdata.io/team) - Export, search & analyse Twitter data. Ruby, Rails, React.JS, Terraform, AWS.
   1. [Eyeo](https://eyeo.com/en/jobs/) - Maker of AdBlock Plus. Main office in Cologne, Germany.
+  1. [Factorial](https://factorialhr.com/) - A Human Resources management platform for SMEs 
   1. [Feeld](https://feeld.co/) - Dating app for couples and singles.  
   1. [Findify](https://findify.io/) - E-commerce search powered by machine learning and big data. Team distributed across Europe.
   1. [General Assembly](https://generalassemb.ly/careers) - Physical and on-line education for technology, business, and design.
@@ -402,6 +400,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Instructure](https://www.instructure.com/careers/) - We make software that makes people smarter.
   1. [Intellum](https://www.intellum.com/) - We build employee collaboration, performance and learning tools. Ruby, iOS, Android, AWS, GCS.
   1. [Intevity](https://www.intevity.com/)
+  1. [Intuition Machines, Inc.](https://jobs.imachines.com/) - Intuition Machines specializes in deep learning and visual domain ML at scale. Python, JavaScript, Kubernetes, Kafka, Dask/Spark, ML/Computer Vision
   1. [InVision](https://www.invisionapp.com/company#jobs) - prototyping, collaboration & workflow platform.
   1. [Iterative](https://iterative.notion.site/Iterative-ai-is-Hiring-852cb978129645e1906e2c9a878a4d22) - ML Model Development for teams. Remotely worldwide
   1. [iRonin.IT](https://careers.ironin.it) - software house. Polish language. Ruby on Rails, Node.js, JavaScript, React, Angular, Vue.js.
@@ -591,6 +590,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 #### Project Management
   1. [Asana](https://asana.com/) - Project management good for distributed teams.
+  1. [ClickUp](https://clickup.com/) - All-in-one productivity platform that brings teams, tasks, and tools together in one place.
   1. [Harvest](https://www.getharvest.com/) - Time tracking
   1. [Hitask](https://hitask.com/) - Easy task and project management for teams.
   1. [Jira](https://www.atlassian.com/software/jira) - Issue and project tracking tool.
