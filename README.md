@@ -308,6 +308,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [BaseCamp](https://basecamp.com/about/team) - Project management software.
   1. [Baselayer](https://www.baselayer.com/company/careers/) - Data center and infrastructure management software.
   1. [BeBanjo](https://bebanjo.com/careers/) - Software as a service for managing video on-demand. Ruby / Rails, Elasticsearch, Sidekiq.
+  1. [Binti](https://binti.com/current-openings/) - Foster care.
   1. [Bluespark Labs](https://www.bluespark.com/careers) - WebDev Consulting and makers of Roomify. Remote team with HQs in Raleigh, NC and Italy. Drupal.
   1. [Blend](https://blend.com/company/careers/) - Fintech.
   1. [BookingSync](https://www.bookingsync.com/en/jobs) - Vacation Rental Software for professionals. Fully distributed team, we work remotely and try to make a company retreat each year. Proud Ember.js official sponsor, Ruby / Rails
@@ -509,6 +510,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Tortuga Backpacks](https://www.tortugabackpacks.com/pages/join) - Backpacks for city travel.
   1. [Transloadit](https://transloadit.com/jobs/) - The world's most versatile file uploading & encoding service, since 2009, by devs for devs
   1. [Trello](https://trello.com/jobs)
+  1. [TRM labs](https://www.trmlabs.com/careers)
   1. [Tyk](https://tyk.io/current-vacancies/) - API Gateway and API Management. Built with Go, open source.
   1. [Vidalingua](https://www.vidalingua.com/amaze.php) - Bringing language apps to life.
   1. [WAAT](https://waat.eu/job/) - A cross-functional digital agency that adapts to project needs.
