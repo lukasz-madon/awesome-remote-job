@@ -296,7 +296,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Auth0](https://auth0.com/jobs) - Zero-friction authentication and authorization for developers.
   1. [Authentic F & F](https://authenticff.com/) - Independent design and technology studio based in Denver and Minnesota
   1. [Aurity](https://www.aurity.co/) - 100% remote company, specializing in React and React Native.
-  1. [Automattic](https://automattic.com/work-with-us/) - Makers of WordPress.com and Gravatar
+  1. [Automattic](https://automattic.com/work-with-us/) - Makers of WordPress.com and Gravatar.
+  1. [AssemblyAI](https://www.assemblyai.com/careers) - AI models to transcribe and understand speech.
   1. [Avallain](https://www.avallain.com/) - Education Technology and Digital Publishing. We have the tools and processes to achieve the positive impact on human potential that technology enhanced education can provide
   1. [AvantStay](https://avantstay.com/careers) - Short-term rental company based in Los Angeles, with remote dev team.
   1. [Axelerant](https://www.axelerant.com/careers)
