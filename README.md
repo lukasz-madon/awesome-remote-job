@@ -370,6 +370,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Gitee](https://gitee.com) - GitHub alternative in China.
   1. [Gradle](https://gradle.com/careers) - Open Source Build Tool ; Enterprise SaaS and on-premise. Fully remote. Java, Groovy, Kotlin.
   1. [GrooveHQ](https://www.groovehq.com/about) - Help desk software.
+  1. [GoGuardian](https://www.goguardian.com/careers) - K-12 digital learning environments.
   1. [Hanzo](https://www.hanzo.co/about-us/careers-uk) - Web archiving company. Fully Remote. Python, AWS.
   1. [Harvest](https://www.getharvest.com/careers) - Time tracking software.
   1. [HashiCorp](https://www.hashicorp.com/jobs.html) - Open source tools for automating the modern data center. Go, Ruby, Rails, Ember, JavaScript.
@@ -425,6 +426,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Modern Tribe](https://tri.be/careers) - A digital agency with a modern twist. All freelancers. All experts.
   1. [MODLR](https://modlr.co) - MODLR is business modelling and collaborative planning tool for connected financial planning process
   1. [Modus Create](https://moduscreate.com/) - Modus is a digital design-build agency driven by world-class talent. PHP, JavaScript.
+  1. [Mode Analytic](https://mode.com/careers/#open-roles) - BI.
   1. [Mosalingua](https://www.mosalingua.com/en/jobs/) - Learn words, enjoy the world.
   1. [Mozilla](https://careers.mozilla.org/listings/) - Firefox has a 'Remote' option under it's location searchbar
   1. [NearForm](https://www.nearform.com/careers/) - NearForm evolves enterprises by building high-performance, open software. Our global team uses modern processes and tools to help clients innovate at speed.
