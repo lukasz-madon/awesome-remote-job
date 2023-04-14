@@ -162,6 +162,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [JustRemote](https://justremote.co)
   1. [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
   1. [Larajobs](https://larajobs.com/?location=&remote=1) – The artisan employment connection
+  1. [LGBTQ Remotely](https://lgbtqremotely.com/) – Democratizing remote job opportunities for the LGBTQ+ community.
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
   1. [NODESK](https://nodesk.co/remote-jobs/)
   1. [Power to Fly](https://powertofly.com/jobs/) - Specific to women
@@ -184,6 +185,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Slasify](https://slasify.com/en/) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
   1. [Stream Native Jobs](https://streamnative.io/careers/) - Scroll down to `Join Us`
   1. [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
+  1. [UI & UX Designer Jobs](https://uiuxdesignerjobs.com/remote-ui-ux-designer-jobs/) - Remote jobs for UI, UX & UXR Designers
   1. [useWeb3](https://www.useweb3.xyz/jobs) - A curated blockchain, crypto and web3 job board and developer platform
   1. [Upwork](https://www.upwork.com) - Find remote jobs in any category
   1. [Virtual Vocations](https://www.virtualvocations.com/)
