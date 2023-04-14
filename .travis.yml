@@ -1,6 +1,0 @@
-language: ruby
-rvm: 2.2
-before_script:
-  - gem install awesome_bot
-script:
-  - awesome_bot README.md --allow-ssl --allow-dupe --allow-redirect --white-list http://www.9punto5.cl,https://www.higheredjobs.com/search/remote.cfm,https://www.chegg.com/tutors/become-a-tutor/,https://jobs.drupal.org/home/type/telecommute-remote-3588,https://assoc.drupal.org/jobs,https://angel.co/jobs,http://gitcommit.show  
