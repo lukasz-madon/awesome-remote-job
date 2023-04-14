@@ -8,29 +8,32 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 <!-- MarkdownTOC depth=4 -->
 
-- [Articles & Posts](#articles--posts)
-- [Videos](#videos)
-- [Books](#books)
-- [Humor](#humor)
-- [Job boards](#job-boards)
-- [Job boards aggregators](#job-boards-aggregators)
-- [Housing](#housing)
-- [Relocation Incentives](#relocation-incentives)
-- [Interviewing](#interviewing)
-- [Events](#events)
-- [Newsletters](#newsletters)
-- [Podcasts](#podcasts)
-- [Companies with "remote DNA"](#companies-with-remote-dna)
-- [Q&A](#qa)
-- [Communities](#communities)
-- [Conferences](#conferences)
-- [Tools](#tools)
-  - [HR](#hr)
-  - [Communication](#communication)
-  - [Project Management](#project-management)
-  - [Others](#others)
-- [Law & Finance](#law--finance)
-- [Others](#others-1)
+- [Awesome Remote Job  ](#awesome-remote-job--)
+  - [Table of Contents](#table-of-contents)
+  - [Articles \& Posts](#articles--posts)
+  - [Videos](#videos)
+  - [Books](#books)
+  - [Humor](#humor)
+  - [Job boards](#job-boards)
+  - [Job boards aggregators](#job-boards-aggregators)
+  - [Housing](#housing)
+  - [Relocation Incentives](#relocation-incentives)
+  - [Interviewing](#interviewing)
+  - [Events](#events)
+  - [Newsletters](#newsletters)
+  - [Podcasts](#podcasts)
+  - [Companies with "remote DNA"](#companies-with-remote-dna)
+  - [Q\&A](#qa)
+  - [Communities](#communities)
+  - [Conferences](#conferences)
+  - [Tools](#tools)
+      - [HR](#hr)
+      - [Communication](#communication)
+      - [Project Management](#project-management)
+      - [Others](#others)
+  - [Law \& Finance](#law--finance)
+  - [Others](#others-1)
+  - [License](#license)
 
 <!-- /MarkdownTOC -->
 
@@ -180,27 +183,27 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remotees](https://remotees.com/)
   1. [RemotExtra](https://www.remotextra.com/) - Remote developer jobs with transparent salaries
   1. [Remotewide](https://remotewide.co/) - Find remote jobs with location independent pay
-  3. [Remote.co Jobs](https://remote.co/remote-jobs/)
-  4. [RemoteJobs.lat](https://remotejobs.lat/) -  Remote jobs for LATAM people
-  5. [Remotive Jobs](https://remotive.io/)
-  6. [Remote People](https://remotepeople.io/)
-  7. [Remote Works](https://remote.works-hub.com) - Remote jobs in software development
-  8. [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
-  9. [Skip the Drive](https://www.skipthedrive.com/)
-  10. [Slasify](https://slasify.com/en/) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
-  11. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
-  12. [Stream Native Jobs](https://streamnative.io/careers/) - Scroll down to `Join Us`
-  13. [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
-  14. [Upwork](https://www.upwork.com) - Find remote jobs in any category
-  15. [Virtual Vocations](https://www.virtualvocations.com/)
-  16. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
-  17. [React.js Jobs](https://www.react-jobs.com) Find React.js jobs all around the world - Click on "Remote" toggle button.
-  18. [Remote.com](https://remote.com) - Tries to auto-match you with jobs, can import profile from LinkedIn
-  19. [Web3Jobs](https://web3.career/remote-jobs) - Remote Web3 Jobs
-  20. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
-  21. [We Work Remotely](https://weworkremotely.com/)
-  22. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
-  23. [Working Nomads](https://www.workingnomads.co/jobs)
+  1. [Remote.co Jobs](https://remote.co/remote-jobs/)
+  1. [RemoteJobs.lat](https://remotejobs.lat/) -  Remote jobs for LATAM people
+  1. [Remotive Jobs](https://remotive.io/)
+  1. [Remote People](https://remotepeople.io/)
+  1. [Remote Works](https://remote.works-hub.com) - Remote jobs in software development
+  1. [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
+  1. [Skip the Drive](https://www.skipthedrive.com/)
+  1. [Slasify](https://slasify.com/en/) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
+  1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
+  1. [Stream Native Jobs](https://streamnative.io/careers/) - Scroll down to `Join Us`
+  1. [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
+  1. [Upwork](https://www.upwork.com) - Find remote jobs in any category
+  1. [Virtual Vocations](https://www.virtualvocations.com/)
+  1. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
+  1. [React.js Jobs](https://www.react-jobs.com) Find React.js jobs all around the world - Click on "Remote" toggle button.
+  1. [Remote.com](https://remote.com) - Tries to auto-match you with jobs, can import profile from LinkedIn
+  1. [Web3Jobs](https://web3.career/remote-jobs) - Remote Web3 Jobs
+  1. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
+  1. [We Work Remotely](https://weworkremotely.com/)
+  1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
+  1. [Working Nomads](https://www.workingnomads.co/jobs)
 
 ## Job boards aggregators
   1. [Bergamot](https://bergamot.io/) - Provides the widest selection of remote tech jobs by monitoring over 150,000 companies' career pages. Full-text search and AI-powered geo filter inside. Free, no sign-up required.
@@ -252,16 +255,16 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Interviewing
   1. [andreis/interview](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
-  2. [awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
-  3. [adaface.com/pair-pro](https://www.adaface.com/pair-pro) - Remote pair programming interview tool with shared editor, code compiler and video conferencing
-  4. [interviewing.io](https://interviewing.io/) - Become awesome at technical interviews
-  5. [karat.io](https://karat.com/) - Have a free practice coding interview with a professional interviewer
-  6. [pramp](https://pramp.com) - Practice coding interviews (both sides of the table) with other candidates
-  7. [remoteinterview.io](https://www.remoteinterview.io/) - Coding tests & pair programming interview tools
-  8. [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies
-  9. [hackerrank.com](https://www.hackerrank.com/) - Online platform for code studying and recruiting with job offers also
-  10. [Codility](https://www.codility.com/) - Online platform that offers sponsored challenges
-  11. [Meetapro](https://meetapro.com/) - An Airbnb style mock interview platform with top FAANG interviewers
+  1. [awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
+  1. [adaface.com/pair-pro](https://www.adaface.com/pair-pro) - Remote pair programming interview tool with shared editor, code compiler and video conferencing
+  1. [interviewing.io](https://interviewing.io/) - Become awesome at technical interviews
+  1. [karat.io](https://karat.com/) - Have a free practice coding interview with a professional interviewer
+  1. [pramp](https://pramp.com) - Practice coding interviews (both sides of the table) with other candidates
+  1. [remoteinterview.io](https://www.remoteinterview.io/) - Coding tests & pair programming interview tools
+  1. [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies
+  1. [hackerrank.com](https://www.hackerrank.com/) - Online platform for code studying and recruiting with job offers also
+  1. [Codility](https://www.codility.com/) - Online platform that offers sponsored challenges
+  1. [Meetapro](https://meetapro.com/) - An Airbnb style mock interview platform with top FAANG interviewers
 
 ## Events
   1. [deceler8](https://sierraymar.exposure.co/decelerate-bali) - 10 days retreat
@@ -270,14 +273,14 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Newsletters
   1. [Daily Remote](https://dailyremote.com/newsletter) - A newsletter containing remote jobs crafted and curated especially for you
-  2. [Figures](https://joinfigures.com) - Set your salary requirement and receive remote jobs that pay more
-  3. [Making Remote Work](https://www.mailerlite.com/remote-newsletter) - MailerLite's monthly remote newsletter sharing best practices, mistakes and learnings, world views (quite literally) and remote job vacancies.
-  4. [NODESK](https://nodesk.co/) - A newsletter about digital nomads and remote work that is sent out every two weeks.
-  5. [Remote Internships](https://smash.vc/startup-newsletter/)
-  6. [Remoteur](http://www.remoteur.com) - Remote jobs in Europe delivered to your inbox bi-weekly
-  7. [Remotive - productive remote workers](https://remotive.io/) - A weekly newsletter on Remote Tips & Jobs sent to 10,000+ Remote Workers
-  8. [Yonder Newsletter](https://yonder.io/newsletter) - Daily remote work tips, links, articles, and the Yonder Podcast
-  9. [Remote Jobs Club](https://remotejobsclub.com) - Weekly newsletter featuring a hand curated list of remote jobs
+  1. [Figures](https://joinfigures.com) - Set your salary requirement and receive remote jobs that pay more
+  1. [Making Remote Work](https://www.mailerlite.com/remote-newsletter) - MailerLite's monthly remote newsletter sharing best practices, mistakes and learnings, world views (quite literally) and remote job vacancies.
+  1. [NODESK](https://nodesk.co/) - A newsletter about digital nomads and remote work that is sent out every two weeks.
+  1. [Remote Internships](https://smash.vc/startup-newsletter/)
+  1. [Remoteur](http://www.remoteur.com) - Remote jobs in Europe delivered to your inbox bi-weekly
+  1. [Remotive - productive remote workers](https://remotive.io/) - A weekly newsletter on Remote Tips & Jobs sent to 10,000+ Remote Workers
+  1. [Yonder Newsletter](https://yonder.io/newsletter) - Daily remote work tips, links, articles, and the Yonder Podcast
+  1. [Remote Jobs Club](https://remotejobsclub.com) - Weekly newsletter featuring a hand curated list of remote jobs
 
 ## Podcasts
   1. [Building Remote Teams](https://www.buildingremoteteams.com/) - Targeted at people already working remotely and focuses on nuanced challenges of remote work.
@@ -343,6 +346,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Crosscan](https://crosscan.com/jobs/) - Retail Analytics, IoT (PHP, React, Web, Mobile, Rust)
   1. [Crossover](https://app.crossover.com/x/marketplace/available-jobs) - Project-based Java, .Net and DevOps positions.
   1. [Custimy](https://jobs.custimy.io/) - Customer Data Platform for e-commerce. Jobs with Spark, Python, Terraform, AWS, Node and more. EU timezone. HQ in Copenhagen with colleagues all over Europe. Fully remote allowed. Company gatherings and optional travel.
+  1. [DataCose](https://www.datacose.com) - Custome web development and custom automations. Python, Vue.Js, TypeScript
   1. [DareCode](https://www.darecode.com) - Big-data, fast-data, micro-services. Projects with real DevOps and OpenSource orientation.
   1. [Datadog](https://www.datadoghq.com/careers/) - Easy to use and scalable monitoring systems for modern and dynamic infrastructure.  Distributed team with offices in New York, Boston and Paris.  Engineers based all around the world.
   1. [DataStax](https://www.datastax.com/company/careers) - Consulting based on Apache Cassandra.
@@ -539,20 +543,20 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
     - Freelancing: [remote](https://freelancing.stackexchange.com/questions/tagged/remote?sort=votes) / [working from home](https://freelancing.stackexchange.com/questions/tagged/working-from-home?sort=votes)
 
 ## Communities
-1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/) - Subreddit.
-1. [##remotes](https://github.com/remotesclub/remotes) - IRC channel ([web access](https://webchat.freenode.net/?channels=#remotes))
-1. [Hacker Paradise](https://www.hackerparadise.org/) - Traveling remote workers.
-1. [Remote Year](https://www.remoteyear.com/) - Traveling techies for 1 year.
-1. [Remote Indian](https://remoteindian.com/) - Remote workers from India.
-1. [Eleduck](https://eleduck.com) - A remote worker community in China(来自中国的远程工作社区).
-1. [Hypelance](https://hypelance.com/) - Digital Community Forum for Freelancers and Entrepreneurs.
-1. [Invide](https://invidelabs.com/developer.html) - Invite-only community of experienced remote developers since 2016. Also has a [public discord community](https://dsc.gg/invide) for newbies.
+  1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/) - Subreddit.
+  1. [##remotes](https://github.com/remotesclub/remotes) - IRC channel ([web access](https://webchat.freenode.net/?channels=#remotes))
+  1. [Hacker Paradise](https://www.hackerparadise.org/) - Traveling remote workers.
+  1. [Remote Year](https://www.remoteyear.com/) - Traveling techies for 1 year.
+  1. [Remote Indian](https://remoteindian.com/) - Remote workers from India.
+  1. [Eleduck](https://eleduck.com) - A remote worker community in China(来自中国的远程工作社区).
+  1. [Hypelance](https://hypelance.com/) - Digital Community Forum for Freelancers and Entrepreneurs.
+  1. [Invide](https://invidelabs.com/developer.html) - Invite-only community of experienced remote developers since 2016. Also has a [public discord community](https://dsc.gg/invide) for newbies.
 
 ## Conferences
- 1. [DNX Global](https://www.dnxfestival.com/) - Digital Nomad Conference.
- 1. [Yonder](https://www.yonder.io/events) - A round table conference bringing together leaders of distributed companies.
- 1. [9punto5](https://www.9punto5.cl/) - Remote work conference in Latin America.
- 1. [Git Commit Show](https://gitcommit.show/) - Global Developer Conference to promote remote work an education, attend from anywhwere
+  1. [DNX Global](https://www.dnxfestival.com/) - Digital Nomad Conference.
+  1. [Yonder](https://www.yonder.io/events) - A round table conference bringing together leaders of distributed companies.
+  1. [9punto5](https://www.9punto5.cl/) - Remote work conference in Latin America.
+  1. [Git Commit Show](https://gitcommit.show/) - Global Developer Conference to promote remote work an education, attend from anywhwere
 
 ## Tools
 
