@@ -165,6 +165,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
   1. [NODESK](https://nodesk.co/remote-jobs/)
   1. [Power to Fly](https://powertofly.com/jobs/) - Specific to women
+  1. [Remote Backend Jobs](https://remotebackendjobs.com/) - Find exclusively remote backend jobs aggregated from the top 22 job boards in the world.
+  1. [Remote Frontend Jobs](https://remotefrontendjobs.com/) - Find exclusively remote frontend jobs aggregated from the top 22 job boards in the world.
   1. [PyJobs.com](https://www.pyjobs.com/?remoteLevel[0]=1&remoteLevel[1]=2) - Jobs for Python developers
   1. [Remote Game Jobs](https://remotegamejobs.com/) - Find remote work and talent in the game industry.
   1. [remote-es/remotes](https://github.com/remote-es/remotes) - Repository listing companies which offer full-time remote jobs with Spanish contracts
@@ -481,7 +483,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Soshace](https://soshace.com/) - Angular/React/Vue.js/Java/Python remote development company
   1. [Songspace](https://songspace.com) Helps music creators collaborate, catalog, and share work with their professional team
   1. [Sourcegraph](https://github.com/sourcegraph/careers) - Code search and navigation for teams (self-hosted, OSS). Fully remote (across time zones).
-  1. [Spreaker](https://www.spreaker.com/jobs) Discover and listen to your favorite podcasts.
+  1. [Spreaker](https://careers.spreaker.com/opportunities/) Create, host, distribute and monetize your podcasts. All engineers are remote. Tech stack: Javascript (React, Node.js), PHP (Symfony), iOS, Android. All hosted on AWS..
   1. [StackExchange](https://stackoverflow.com/company/work-here)
   1. [Stream Native](https://streamnative.io) Cloud-Native messaging and event streaming powered by Apache Pulsar
   1. [Stripe](https://stripe.com/blog/remote-hub) Stripe builds financial tools and economic infrastructure for the internet
