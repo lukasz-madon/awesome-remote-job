@@ -315,6 +315,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Calm](https://www.calm.com/careers) - improve your health and happiness.
   1. [Cadasta](https://cadasta.org/about-us-3/careers-2/) - Secure platform for mapping global land & resource rights. 100% remote team; Python, Django, JavaScript, PostgreSQL.
   1. [Canonical](https://www.canonical.com/careers/all-vacancies) - Ubuntu.
+  1. [Ceros](https://labs.ceros.com/jobs/#/) - .
   1. [Chef](https://www.chef.io/careers/) - We are all about IT automation for speed and awesomeness. Ruby, JavaScript & shell scripting. HQ in Seattle but we have employees all around US.
   1. [Ciao Bambino](https://ciaobambino.com/) - Family destinations and hotel reviews.
   1. [Circonus](https://www.circonus.com/careers) - SaaS and on-prem monitoring, analytics, alerting, and more.  C, Go, Java, Perl.  HQ in Fulton MD, most employees are remote.
