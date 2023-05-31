@@ -179,6 +179,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remotive Jobs](https://remotive.io/)
   1. [Remote People](https://remotepeople.io/)
   1. [Remote Works](https://remote.works-hub.com) - Remote jobs in software development
+  1. [RippleMatch] (https://app.ripplematch.com/v2/public/discover?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=github_discover&utm_term=null) - job-matching platform that curates opportunities, can filter for remote jobs and locations
   1. [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
   1. [Skip the Drive](https://www.skipthedrive.com/)
   1. [Slasify](https://slasify.com/en/) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
@@ -193,10 +194,10 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Web3Jobs](https://web3.career/remote-jobs) - Remote Web3 Jobs
   1. [Wellfound](https://wellfound.com/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
   1. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
-  1. [We Work Remotely](https://weworkremotely.com/)
-  1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
-  1. [Working Nomads](https://www.workingnomads.co/jobs)
-  1. [zuhausejobs.com](https://zuhausejobs.com) - Remote Jobs in German-speaking countries (Germany/Austria/Switzerland)
+  17. [We Work Remotely](https://weworkremotely.com/)
+  18. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
+  19. [Working Nomads](https://www.workingnomads.co/jobs)
+  20. [zuhausejobs.com](https://zuhausejobs.com) - Remote Jobs in German-speaking countries (Germany/Austria/Switzerland)
 
 ## Job boards aggregators
   1. [Career Vault](https://www.careervault.io) - Hundreds of remote jobs added each day from thousands of company career pages. Free and no signup required.
