@@ -179,7 +179,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remotive Jobs](https://remotive.io/)
   1. [Remote People](https://remotepeople.io/)
   1. [Remote Works](https://remote.works-hub.com) - Remote jobs in software development
-  1. [RippleMatch] (https://app.ripplematch.com/v2/public/discover?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=github_discover&utm_term=null) - job-matching platform that curates opportunities, can filter for remote jobs and locations
+  1. [RippleMatch](https://app.ripplematch.com/v2/public/discover?utm_source=Github&utm_medium=organic_social&utm_campaign=growth_github&utm_content=github_discover&utm_term=null) - job-matching platform that curates opportunities, can filter for remote jobs and locations
   1. [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
   1. [Skip the Drive](https://www.skipthedrive.com/)
   1. [Slasify](https://slasify.com/en/) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
