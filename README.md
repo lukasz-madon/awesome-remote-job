@@ -518,7 +518,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Tyk](https://tyk.io/current-vacancies/) - API Gateway and API Management. Built with Go, open source.
   1. [Vidalingua](https://www.vidalingua.com/amaze.php) - Bringing language apps to life.
   1. [WAAT](https://waat.eu/job/) - A cross-functional digital agency that adapts to project needs.
-  1. [Walltime](https://walltime.info) - A Brazilian digital assets exchange and other products & services using Blockchain technology.
   1. [Water Lily Pond](https://waterlilypond.co.uk/) - Advertising and marketing communication services.
   1. [wemake.services](https://wemake.services/meta/employees) - We sell repeatable software development process. Fully remote. Python, JavaScript, Vue
   1. [Wheel](https://www.wheel.com/careers) - healthcare startup.
