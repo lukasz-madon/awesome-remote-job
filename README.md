@@ -596,6 +596,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Shortcut](https://shortcut.com/) (fka Clubhouse) - Project management for software development teams.
   1. [Taskade](https://taskade.com/) - Real-time collaborative notes, checklists and outlines for teams.
   1. [Trello](https://trello.com/) - Lean project boards.
+  1. [gantt-online](https://www.gantt-online.com/) - Gantt Chart Project Management Tool.
 
 #### Others
   1. [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better.
