@@ -352,7 +352,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Doist](https://doist.com/jobs/) - Redefining productivity since 2007.
   1. [DoIT](https://careers.doit.com/) - technology and cloud expertise.
   1. [Dotnetos](https://dotnetos.org/) - Dotnet performance conferences, meetups and courses.
-  1. [Dotsub](https://dotsub.com/jobs) - Browser-based platform for subtitling & translating online videos. Java / Spring, JavaScript / React.js
   1. [Doximity](https://www.doximity.com/about/jobs) - Largest online medical network of US physicians. Ruby, Rails, Go, JavaScript, MySQL.
   1. [Drupal Association](https://assoc.drupal.org/jobs) - Non-profit supporting the Drupal project.
   1. [Dropbox](https://jobs.dropbox.com/all-jobs) -  file hosting service that provides cloud storage.
