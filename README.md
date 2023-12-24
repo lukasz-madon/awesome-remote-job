@@ -321,7 +321,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Bugfender](https://bugfender.com/) - Bugfender is a remote logger for multiple platforms including iOS and Android. It stores logs created by your application and sends them to our server, creating a remote console where you can see logs in real time. Remote company based in Barcelona.
   1. [ButterCloud](http://www.buttercloud.com/) - A small team of web & app developers. We help startups & small to medium-sized businesses build, maintain, and grow their products.
   1. [Calm](https://www.calm.com/careers) - improve your health and happiness.
-  1. [Cadasta](https://cadasta.org/about-us-3/careers-2/) - Secure platform for mapping global land & resource rights. 100% remote team; Python, Django, JavaScript, PostgreSQL.
+  1. [Cadasta](https://cadasta.org/) - Secure platform for mapping global land & resource rights. 100% remote team; Python, Django, JavaScript, PostgreSQL.
   1. [Canonical](https://www.canonical.com/careers/all-vacancies) - Ubuntu.
   1. [Ceros](https://labs.ceros.com/jobs/#/) - .
   1. [Chef](https://www.chef.io/careers/) - We are all about IT automation for speed and awesomeness. Ruby, JavaScript & shell scripting. HQ in Seattle but we have employees all around US.
@@ -352,7 +352,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Doist](https://doist.com/jobs/) - Redefining productivity since 2007.
   1. [DoIT](https://careers.doit.com/) - technology and cloud expertise.
   1. [Dotnetos](https://dotnetos.org/) - Dotnet performance conferences, meetups and courses.
-  1. [Dotsub](https://dotsub.com/jobs) - Browser-based platform for subtitling & translating online videos. Java / Spring, JavaScript / React.js
   1. [Doximity](https://www.doximity.com/about/jobs) - Largest online medical network of US physicians. Ruby, Rails, Go, JavaScript, MySQL.
   1. [Drupal Association](https://assoc.drupal.org/jobs) - Non-profit supporting the Drupal project.
   1. [Dropbox](https://jobs.dropbox.com/all-jobs) -  file hosting service that provides cloud storage.
@@ -363,7 +362,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Envato](https://envato.com/careers) - Maker of ThemeForest and other online marketplaces. MySQL, Ruby, Rails, JavaScript. Distributed team with HQ in Melbourne, Australia.
   1. [Ergeon](https://www.ergeon.com/careers/) - Home Services and construction company. An all-remote company with HQ in Palo Alto, California, but hiring worldwide.
   1. [Etsy](https://www.etsy.com/careers) - Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.
-  1. [ExportData](https://www.exportdata.io/team) - Export, search & analyse Twitter data. Ruby, Rails, React.JS, Terraform, AWS.
+  1. [ExportData](https://www.exportdata.io/team) - Export, search & analyse Twitter data. Ruby, Rails, React.JS, Terraform, AWS. (According to their website, ExportData was shutdown, due to Twitter's higher cost. That you have to use Fedica instead.)
   1. [Eyeo](https://eyeo.com/en/jobs/) - Maker of AdBlock Plus. Main office in Cologne, Germany.
   1. [Factorial](https://factorialhr.com/) - A Human Resources management platform for SMEs 
   1. [Feeld](https://feeld.co/) - Dating app for couples and singles.  
