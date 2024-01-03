@@ -340,6 +340,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Crosscan](https://crosscan.com/jobs/) - Retail Analytics, IoT (PHP, React, Web, Mobile, Rust)
   1. [Crossover](https://app.crossover.com/x/marketplace/available-jobs) - Project-based Java, .Net and DevOps positions.
   1. [Custimy](https://jobs.custimy.io/) - Customer Data Platform for e-commerce. Jobs with Spark, Python, Terraform, AWS, Node and more. EU timezone. HQ in Copenhagen with colleagues all over Europe. Fully remote allowed. Company gatherings and optional travel.
+  1. [Customer.io](https://customer.io/careers/) - Customer communications automation platform. 100% remote. Go, MySQL, TypeScript
   1. [DataCose](https://www.datacose.com) - Custome web development and custom automations. Python, Vue.Js, TypeScript
   1. [DareCode](https://www.darecode.com) - Big-data, fast-data, micro-services. Projects with real DevOps and OpenSource orientation.
   1. [Datadog](https://www.datadoghq.com/careers/) - Easy to use and scalable monitoring systems for modern and dynamic infrastructure.  Distributed team with offices in New York, Boston and Paris.  Engineers based all around the world.
