@@ -136,6 +136,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Job boards
   1. [4 Day Week](https://4dayweek.io) - Software jobs with a better work / life balance.
   1. [Authentic Jobs](https://authenticjobs.com/?search_location=remote)
+  1. [Bing Pros](https://www.bing.com/pros/onboarding?utmsource=fbrep&mkt=en-us) - A marketplace platform powered by Microsoft that connects consumers to US service providers in a wide range of categories.
   1. [Built In](https://builtin.com/jobs/remote)
   1. [ClojureJobboard.com](https://clojurejobboard.com/remote-clojure-jobs.html)- Clojure jobs, filter -> Remote only
   1. [Crypto Jobs](https://crypto.jobs/?jobs=remote) - Blockchain jobs for crypto enthusiasts.
