@@ -110,6 +110,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [10 Leadership Lessons from 10 Years Working in a Fully-Distributed and Remote Company](https://whenihavetime.com/2020/07/09/10-leadership-lessons-from-10-years-working-remotely/)
   1. [Remote Work for Everyone - NY Times](https://www.nytimes.com/2021/07/06/technology/remote-work-for-everyone.html)
   1. [This Is the Future Of Remote Work In 2021](https://www.forbes.com/sites/carolinecastrillon/2021/12/27/this-is-the-future-of-remote-work-in-2021/?sh=500189961e1d)
+  1. [Recent remote work statistics that you should know about for 2023](https://resume.io/blog/remote-work-statistics)
 
 
 ## Videos
