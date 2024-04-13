@@ -157,7 +157,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Hasjob](https://hasjob.co/) – Location filter -> "*Anywhere/Remote*"
   1. [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) has remote type filter.
   1. [HN hiring](http://hnhiring.me/) – Filter REMOTE.
-  1. [Java Jobs](https://javajobs.pro/remote/jobs) - Remote Java Jobs
+  1. [JavaProHire](https://javaprohire.com/) - Java developer jobs
   1. [JOBBOX.io](https://landing.jobs/offers) – Filter -> Remote only.
   1. [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) – Machine learning jobs. Filter -> Remote only.
   1. [Jobspresso](https://jobspresso.co/) * High-quality remote positions that are open and legitimate *
