@@ -463,6 +463,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Prezly](https://www.prezly.com/) - SaaS PR platform. PHP, React, JS, Postgres. 100% remote.
   1. [Prodperfect](https://prodperfect.com/) - Automated QA testing from live user data. Remote-first org with workplaces in Boston and San Fran.
   1. [ProFinda](https://profinda.com/) - Workforce planning & optimization. 100% remote dev team. Ruby on Rails, React.js and Python. Company based in UK.
+  1. [Prosopo](https://prosopo.io/) - Bot protection & web security company. Fully remote team based in UK. Typescript, Rust, Open Source.  
   1. [RainforestQA](https://www.rainforestqa.com/jobs/) - On demand QA as a service.
   1. [RebelMouse](https://blog.rebelmouse.com/careers/) - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
   1. [Recurly](https://recurly.com/jobs/) - recurring billing management for subscription-based businesses
