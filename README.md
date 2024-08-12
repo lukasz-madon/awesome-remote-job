@@ -71,6 +71,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [How to suggest improvements remotely](https://x-team.com/blog/suggest-improvements-remotely/)
   1. [How to Work Remotely and Still Be the Best](https://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best)
   1. [How Working at Home Works (For Us)](https://www.lullabot.com/articles/how-working-at-home-works-for-us)
+  2. [Industries For Remote Work](https://hqhire.com/industries-for-remote-work/)
   1. [It’s Unclearly Defined, but Telecommuting Is Fast on the Rise](https://www.nytimes.com/2014/03/08/your-money/when-working-in-your-pajamas-is-more-productive.html?_r=0)
   1. [Latest Telecommuting Statistics | Global Workplace Analytics](https://globalworkplaceanalytics.com/telecommuting-statistics)
   1. [Learning From Distributed Companies](https://www.lullabot.com/articles/learning-from-distributed-companies)
@@ -158,6 +159,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Hasjob](https://hasjob.co/) – Location filter -> "*Anywhere/Remote*"
   1. [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) has remote type filter.
   1. [HN hiring](http://hnhiring.me/) – Filter REMOTE.
+  2. [HQ Hire](https://hqhire.com/) - Remote Job Board For Remote Workers and Freelancers
   1. [JavaProHire](https://javaprohire.com/) - Java developer jobs
   1. [JOBBOX.io](https://landing.jobs/offers) – Filter -> Remote only.
   1. [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) – Machine learning jobs. Filter -> Remote only.
