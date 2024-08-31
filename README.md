@@ -161,6 +161,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [JavaProHire](https://javaprohire.com/) - Java developer jobs
   1. [JOBBOX.io](https://landing.jobs/offers) – Filter -> Remote only.
   1. [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html) – Machine learning jobs. Filter -> Remote only.
+  1. [JobsCollider](https://jobscollider.com/remote-jobs) - * Tens of thousands of remote jobs from over 10,000 companies and startups worldwide. *
   1. [Jobspresso](https://jobspresso.co/) * High-quality remote positions that are open and legitimate *
   1. [JustRemote](https://justremote.co)
   1. [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
