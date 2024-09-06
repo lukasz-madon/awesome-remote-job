@@ -479,6 +479,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [RightScale](https://www.flexera.com/about-us/careers.html)
   1. [Sangoma](https://www.sangoma.com/) - Trusted leader in delivering globally scalable Voice-Over-IP telephony systems, both on-site and cloud-based. C, PHP, Python, JavaScript, Linux, FreePBX, VoIP.
   1. [Scrapinghub](https://scrapinghub.com/jobs)
+  1. [SearchApi](https://www.searchapi.io/) - Real-time API to access structured search results of Google, Bing, Baidu, Amazon, Youtube, and other search engines. Ruby, Rails, Hotwire, TailwindCSS, PostgreSQL, Redis, Sidekiq, Terraform.
   1. [Sketch](https://www.sketch.com/about-us/#careers-at-sketch) - design tool for Mac.
   1. [SerpApi](https://serpapi.com/team) - Real-time API to access structured search results of Google, Youtube, eBay and other search engines. Ruby, Rails, React.js.
   1. [ServiceNow](https://jobs.jobvite.com/servicenow/search?c=&l=&r=&t=&q=remote) - Enterprise cloud computing to improve service levels, energize employees, and change the way your enterprise works. Work at lightspeed.
