@@ -264,6 +264,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Recurse Center](https://www.recurse.com/) - free 3-month retreat
 
 ## Newsletters
+  1. [Fullremote.tech](https://fullremote.tech) - A weekly newsletter featuring a carefully curated list of global, fully-remote, tech job openings.
   1. [Daily Remote](https://dailyremote.com/newsletter) - A newsletter containing remote jobs crafted and curated especially for you
   1. [Figures](https://joinfigures.com) - Set your salary requirement and receive remote jobs that pay more
   1. [Making Remote Work](https://www.mailerlite.com/remote-newsletter) - MailerLite's monthly remote newsletter sharing best practices, mistakes and learnings, world views (quite literally) and remote job vacancies.
