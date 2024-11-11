@@ -459,6 +459,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Patients Know Best](https://patients.workable.com/) - Empowering patients to manage their care, enabling professionals to share information while improving efficiencies for payers.
   1. [Paylocity](https://www.paylocity.com/careers/) - HR and payroll solutions
   1. [Pilot](https://pilot.co) - Pilot is a software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.
+  1. [Pinterest](https://www.pinterestcareers.com/jobs/#results) - I discovered today (11/11/2024) that Pinterest does hire people to work remote jobs. So, they're "remote-ish"
   1. [Pleo](https://careers.pleo.io/) - Pleo is a company payment card solution that automates expense reports and simplifies company spending.
   1. [Precision Nutrition](https://www.precisionnutrition.com/) -  Online Nutrition Coaching and Certification.
   1. [PreviousNext](https://www.previousnext.com.au) - Australian based Drupal agency.
