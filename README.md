@@ -295,7 +295,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Ameego](http://ameego.ca/) - Restaurant scheduling software.
   1. [Arkency](https://arkency.com/join-our-team/) - Rails and React.js experts, fully remote/async.
   1. [Array.com](https://array.com/careers) - Financial, identity, and privacy protection tools.
-  1. [Articulate](https://articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
+  1. [Articulate](https://www.articulate.com/about/careers) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
   1. [AT&T](https://att.jobs) - Nearly [20% of the eligible workforce](https://www.att.com/Common/about_us/files/csr_2012/worklife_balance.pdf) works remotely.
   1. [Aurora Solar](https://aurorasolar.com/careers/) - solar permitting.
   1. [Auth0](https://auth0.com/jobs) - Zero-friction authentication and authorization for developers.
