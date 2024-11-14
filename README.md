@@ -147,7 +147,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Diversify Tech](https://www.diversifytech.co/job-board) - Companies are transparent about their Diversity & Inclusion efforts 
   1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
   1. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
-  1. [Flexjobs](https://www.flexjobs.com/) – Telecommuting Jobs & Professional Part-Time Jobs.
   1. [freelancermap](https://www.freelancermap.com/remote-jobs) - Freelance & contract jobs for IT experts (mostly German projects)
   1. [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
   1. [GraphQL Jobs](https://graphql.jobs/r/remote) - Work with GraphQL in a modern startup.
