@@ -135,7 +135,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Job boards
   1. [Real Work From Anywhere](https://www.realworkfromanywhere.com/) - A site for fully location independent jobs. All jobs on the site are 100% work from anywhere.
-  1. [Remote AI Jobs](https://www.moaijobs.com/remote-ai-jobs) - Remote AI jobs in Machine Learning, Engineering, Data Science, Research, etc
   1. [4 Day Week](https://4dayweek.io) - Software jobs with a better work / life balance.
   1. [Authentic Jobs](https://authenticjobs.com/?search_location=remote)
   1. [Built In](https://builtin.com/jobs/remote)
@@ -166,6 +165,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
   1. [NODESK](https://nodesk.co/remote-jobs/)
   1. [Power to Fly](https://powertofly.com/jobs/) - Specific to women
+  1. [Remote AI Jobs](https://www.moaijobs.com/remote-ai-jobs) - Remote AI jobs in Machine Learning, Engineering, Data Science, Research, etc
   1. [Remote Backend Jobs](https://remotebackendjobs.com/) - Find exclusively remote backend jobs aggregated from the top 22 job boards in the world.
   1. [Remote Frontend Jobs](https://remotefrontendjobs.com/) - Find exclusively remote frontend jobs aggregated from the top 22 job boards in the world.
   1. [PyJobs.com](https://www.pyjobs.com/?remoteLevel[0]=1&remoteLevel[1]=2) - Jobs for Python developers
