@@ -147,7 +147,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
   1. [freelancermap](https://www.freelancermap.com/remote-jobs) - Freelance & contract jobs for IT experts (mostly German projects)
   1. [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
-  1. [GraphQL Jobs](https://graphql.jobs/r/remote) - Work with GraphQL in a modern startup.
   1. [Guru](https://www.guru.com/) - (has MANY different categories outside software)
   1. [HackerX](https://www.hackerx.org/jobs/)
   1. [Hasjob](https://hasjob.co/) – Location filter -> "*Anywhere/Remote*"
@@ -171,7 +170,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [thatmlopsguy/remote-pt](https://github.com/thatmlopsguy/remote-pt) - Repository listing companies which offer full-time remote jobs with Portuguese contracts
   1. [remote-jobs](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   1. [Remotees](https://remotees.com/)
-  1. [Remotewide](https://remotewide.co/) - Find remote jobs with location independent pay
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
   1. [RemoteJobs.lat](https://remotejobs.lat/) -  Remote jobs for LATAM people
   1. [Remotive Jobs](https://remotive.io/)
@@ -211,7 +209,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [UN Talent](https://untalent.org/jobs/home-based) - Vacancies at the United Nations and its agencies.
   1. [Vollna](https://www.vollna.com/) - An aggregator for top freelance sites.
   1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
-  1. [Work Remotely](https://workremotely.io/) - Crawls and curates many job board feeds for remote positions
 
 ## Housing
   1. [bedndesk](https://www.bedndesk.com/) - Coworking & coliving space in Mallorca island in Spain
@@ -258,7 +255,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Newsletters
   1. [Daily Remote](https://dailyremote.com/newsletter) - A newsletter containing remote jobs crafted and curated especially for you
   2. [European Remote](https://europeanremote.com/alerts) - Selected opportunities for European tech folks, every week in your inbox
-  1. [Figures](https://joinfigures.com) - Set your salary requirement and receive remote jobs that pay more
   1. [Making Remote Work](https://www.mailerlite.com/remote-newsletter) - MailerLite's monthly remote newsletter sharing best practices, mistakes and learnings, world views (quite literally) and remote job vacancies.
   1. [NODESK](https://nodesk.co/) - A newsletter about digital nomads and remote work that is sent out every two weeks.
   1. [Remote Internships](https://smash.vc/startup-newsletter/)
@@ -286,7 +282,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Aha!](https://www.aha.io/company/careers/current-openings) - Aha! is roadmapping software for PMs who want their mojo back.
   1. [AirTreks](https://www.airtreks.com/about/) - Multi-stop international flight planner with a distributed team.
   1. [Alley](https://alley.co/jobs/) - Digital Agency. We are strategists, researchers, designers, and developers who craft custom digital experiences for publishers, nonprofit institutions, museums, and brands.
-  1. [ALICE](https://www.aliceplatform.com/careers/) - Remote-friendly start-up company. We’re creating the global operations platform for the hospitality industry. ALICE empowers the world's best hotels to deliver a remarkable guest experience.
   1. [amazee.io](https://www.amazee.io/careers) - Open source container hosting - high-performance flexible solutions. Kubernetes, TypeScript (Node.js and React), Go, GraphQL.
   1. [Ameego](http://ameego.ca/) - Restaurant scheduling software.
   1. [Arkency](https://arkency.com/join-our-team/) - Rails and React.js experts, fully remote/async.
@@ -328,14 +323,12 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Codeship](https://codeship.com/jobs) - SaaS Continuous Delivery
   1. [CodeWeavers](https://www.codeweavers.com/about/jobs) - Wine-based open source software.
   1. [Collabora](https://www.collabora.com/careers.html) - Open source software-based consulting.
-  1. [Compose](https://www.compose.io/jobs/) - Managing databases as a service. Distributed team with offices in San Meteo, CA and Birmingham, AL.
   1. [ConsenSys](https://consensys.net/careers/) - Blockchain software technology company with offices all around the world, and independent employees in even more locations.
   1. [Continu](https://www.continu.co/) - Continuous learning software for modern teams.
   1. [Coursera](https://about.coursera.org/careers/jobs/) - online courses.
   1. [CRO Metrics](https://crometrics.com/careers/) - Data-driven expirementation and growth programs.
   1. [Crosscan](https://crosscan.com/jobs/) - Retail Analytics, IoT (PHP, React, Web, Mobile, Rust)
   1. [Crossover](https://app.crossover.com/x/marketplace/available-jobs) - Project-based Java, .Net and DevOps positions.
-  1. [Custimy](https://jobs.custimy.io/) - Customer Data Platform for e-commerce. Jobs with Spark, Python, Terraform, AWS, Node and more. EU timezone. HQ in Copenhagen with colleagues all over Europe. Fully remote allowed. Company gatherings and optional travel.
   1. [Customer.io](https://customer.io/careers/) - Customer engagement platform. 100% remote and globally distributed team. Go, MySQL, Typescript, Ember, React, etc
   1. [DataCose](https://www.datacose.com) - Custome web development and custom automations. Python, Vue.Js, TypeScript
   1. [Datadog](https://www.datadoghq.com/careers/) - Easy to use and scalable monitoring systems for modern and dynamic infrastructure.  Distributed team with offices in New York, Boston and Paris.  Engineers based all around the world.
@@ -404,7 +397,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Keepsafe](https://www.getkeepsafe.com) - Mobile-first privacy products, making privacy easy for the world to opt into.
   1. [Khan Academy](https://www.khanacademy.org/careers) - EdTech. Non-profit focusing on K-12 STEM. Less, React, Flux, Backbone, jQuery, Python, Google App Engine, Swift, and Objective-C.
   1. [Knack](https://www.knack.com/jobs) - The easy online database helping customers streamline their business processes and automate workflow. The product is DIY with no-code/low-code. The company is 100% remote.
-  1. [LaterPay](https://www.laterpay.net/) - The (micro)payment enabler. Munich, Germany. Python, JavaScript, AWS.
   1. [LaunchPotato](https://launchpotato.com/careers) - Startup studio based in Delray Beach, Florida.
   1. [Librato](https://www.solarwinds.jobs/) - Cloud Monitoring.
   1. [Linaro](https://www.linaro.org/careers/) - OpenSource Engineering on ARM.
@@ -423,7 +415,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Meta](https://www.metacareers.com/jobs/) - Partent company of Facebook, Instagram. Filter by remote.
   1. [Merico](https://merico.dev/) - Code deep analysis engine.
   1. [Mixmax](https://careers.mixmax.com/) - Email with superpowers.
-  1. [Mobile Jazz](https://mobilejazz.com/) - We are a dedicated team of highly-skilled engineers, designers and marketing experts on a mission to build a more beautiful digital world. We are a remote friendly company with headquarters in Barcelona.
   1. [Modern Tribe](https://tri.be/careers) - A digital agency with a modern twist. All freelancers. All experts.
   1. [MODLR](https://modlr.co) - MODLR is business modelling and collaborative planning tool for connected financial planning process
   1. [Modus Create](https://moduscreate.com/) - Modus is a digital design-build agency driven by world-class talent. PHP, JavaScript.
@@ -433,7 +424,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [NearForm](https://www.nearform.com/careers/) - NearForm evolves enterprises by building high-performance, open software. Our global team uses modern processes and tools to help clients innovate at speed.
   1. [Netlandish](https://www.netlandish.com/) - Software development for businesses of all sizes. Python, Django, DevOps. 100% Remote.
   1. [Netsparker](https://www.netsparker.com/jobs/) - Web Application Security Scanner.
-  1. [Next Big Sound](https://www.nextbigsound.com/about) - Analytics and Insights for the Music Industry.
   1. [NinjaCat](https://www.ninjacat.io/jobs) - Reporting, Monitoring & Call Tracking Platform for Leading Digital Agencies.
   1. [Niteo](https://niteo.co/careers) - A decade old SaaS studio full of bright ideas, building smart solutions to empower small businesses online.
   1. [NodeSource](https://nodesource.com/about) - NodeSource is dedicated to creating a sustainable ecosystem for Node.js.
@@ -465,7 +455,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Riak](https://riak.com/careers/) - An open source platform and k/v database. We code in Erlang and hang out on clouds. Everyone works remote and gets together a few times a year at HQ in Seattle.
   1. [RightScale](https://www.flexera.com/about-us/careers.html)
   1. [Sangoma](https://www.sangoma.com/) - Trusted leader in delivering globally scalable Voice-Over-IP telephony systems, both on-site and cloud-based. C, PHP, Python, JavaScript, Linux, FreePBX, VoIP.
-  1. [Scrapinghub](https://scrapinghub.com/jobs)
   1. [SearchApi](https://www.searchapi.io/) - Real-time API to access structured search results of Google, Bing, Baidu, Amazon, Youtube, and other search engines. Ruby, Rails, Hotwire, TailwindCSS, PostgreSQL, Redis, Sidekiq, Terraform.
   1. [Sketch](https://www.sketch.com/about-us/#careers-at-sketch) - design tool for Mac.
   1. [SerpApi](https://serpapi.com/team) - Real-time API to access structured search results of Google, Youtube, eBay and other search engines. Ruby, Rails, React.js.
@@ -483,7 +472,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [StackExchange](https://stackoverflow.com/company/work-here)
   1. [Stream Native](https://streamnative.io) Cloud-Native messaging and event streaming powered by Apache Pulsar
   1. [Stripe](https://stripe.com/blog/remote-hub) Stripe builds financial tools and economic infrastructure for the internet
-  1. [Strongloop](https://strongloop.com/careers/)
   1. [StyleSeat](http://static.styleseat.com/jobs/index.html) - we love high-impact remote engineers, collaboration, creativity, python, angularjs
   1. [SuperOrbital](https://superorbit.al) - Kubernetes engineering and training.
   1. [Surevine](https://www.surevine.com/jobs/)
@@ -550,11 +538,9 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remoteteam.com](https://www.remoteteam.com) – Automated payrolls, time off, HR tools, and compliance for remote companies.
 
 #### Communication
-  1. [Bluejeans](https://bluejeans.com/) video conferencing app, great for large groups & live streams
   1. [Codeshare.io](https://codeshare.io/) – Browser-based multi-user live code sharing with optional video chat.
   1. [Fleep](https://fleep.io/) - Internal chat and collaboration tool for development teams
   1. [Floobits](https://floobits.com) - Remote pair programming with screen share. Integrates with Sublime, IntelliJ, Atom and others
-  1. [Flowdock](https://www.flowdock.com/) – Browser-based group chat for teams. Integrates with GitHub, Jira, Jenkins etc.
   1. [Gather](https://gather.town/) - Gather is a video-calling space that lets multiple people hold separate conversations in parallel, walking in and out of those conversations just as easily as they would in real life.
   1. [IRCCloud](https://www.irccloud.com) – Browser-based IRC client with permanent storage.
   1. [Jitsi](https://jitsi.org) - Multi-platform open-source video conferencing
@@ -598,7 +584,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [musicforprogramming.net](https://musicforprogramming.net/) - `return 'A series of mixes intended for listening while '+task+' to aid concentration and increase productivity (also compatible with other activities).';`
   1. [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback (Mac).
   1. [Miro](https://miro.com) (fka Realtime Board) - Distributed permanent virtual whiteboard.
-  1. [Teleport Sundial](https://sundial.teleport.org) - Manage the locations and timezones of your distributed team.
   1. [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work (especially important when working remotely). Also ensures that no billable hours get lost if you are billing hourly (Mac).
 
 ## Law & Finance
