@@ -191,6 +191,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1.  [Dataaxy](https://dataaxy.com) Job board and reverse job board specialized in Data and AI in North America
   1.  [Freel](https://freel.ca) Freelancers job board in Canada
   1.  [DevOpsJobs](https://devopsprojectshq.com) DevOps, SRE, Cloud and Platform engineering jobs
+  1.  [AIJobster](https://aijobster.work/) Jobs at AI companies, highlighting remote jobs and jobs from all teams. 
 ## Job boards aggregators
   1. [Career Vault](https://careervault.io/) - Hundreds of remote jobs added each day from thousands of company career pages. Free and no signup required.
   1. [Findwork](https://findwork.dev/) Crawls multiple job boards and enriches job postings with Glassdoor (reviews) and Crunchbase (funding).
