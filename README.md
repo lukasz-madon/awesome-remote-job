@@ -67,14 +67,13 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [How to Make Remote Working Work for You](https://www.toptal.com/remote/how-to-make-remote-working-work-for-you)
   1. [How to run a team of people who never see each other](https://qz.com/230998/how-to-run-a-team-of-people-who-never-see-each-other)
   1. [How to suggest improvements remotely](https://x-team.com/blog/suggest-improvements-remotely)
-  1. [How to Work Remotely and Still Be the Best](https://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best)
   1. [How Working at Home Works (For Us)](https://www.lullabot.com/articles/how-working-at-home-works-for-us)
   1. [It’s Unclearly Defined, but Telecommuting Is Fast on the Rise](https://www.nytimes.com/2014/03/08/your-money/when-working-in-your-pajamas-is-more-productive.html?_r=0)
   1. [Latest Telecommuting Statistics | Global Workplace Analytics](https://globalworkplaceanalytics.com/telecommuting-statistics)
   1. [Learning From Distributed Companies](https://www.lullabot.com/articles/learning-from-distributed-companies)
   1. [Managing a Geographically Dispersed Team: Achieving Your Goals Together, While Apart](https://www.mindtools.com/awe2ycs/managing-a-geographically-dispersed-team)
   1. [My Ideal Day as a Remote Programmer: Taking Charge of Your Daily Routine](https://buffer.com/resources/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/)
-  1. [My Remote Developer Life](https://shift.infinite.red/my-remote-developer-life-ama-bb91fa7bd0bd#.kjpehbcab)
+  1. [My Remote Developer Life](https://shift.infinite.red/my-remote-developer-life-ama-bb91fa7bd0bd)
   1. [Phoning It In: 3 Years of Lessons From Running a Remote Business](https://observer.com/2014/02/phoning-it-in-3-years-of-lessons-from-running-a-remote-business/)
   1. [Remote versus Co-located Work](https://martinfowler.com/articles/remote-or-co-located.html)
   1. [Remote Work: How to work the Precision Nutrition way](https://www.precisionnutrition.com/remote-how-to-work-the-pn-way)
@@ -87,7 +86,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [The case for all-remote companies](https://about.gitlab.com/blog/2018/10/18/the-case-for-all-remote-companies/)
   1. [The future of telecommuting: Corralling the Yahoos](https://www.economist.com/business/2013/03/02/corralling-the-yahoos?fsrc=scn%2Ftw%2Fte%2Fpe%2Fcorallingtheyahoos)
   1. [The Pros & Cons of Being a Remote Team (& How We Do It)](https://blog.groovehq.com/being-a-remote-team)
-  1. [The Ultimate Remote Team Culture](https://www.toptal.com/remote/the-ultimate-remote-culture)
+  1. [The Ultimate Remote Team Culture](https://www.toptal.com/remote-work-playbook)
   1. [The Villains of Remote Work](https://blog.dnsimple.com/2016/10/the-villains-of-remote-work/)
   1. [Things To Watch Out For While Working Remotely](https://www.toptal.com/remote/remote-work-burnout-a-cautionary-tale)
   1. [Tips to Land a Remote Job](https://moduscreate.com/blog/tips-to-land-a-remote-job/)
@@ -340,7 +339,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [DuckDuckGo](https://duckduckgo.com/duckduckgo-help-pages/) - Search engine.
   1. [EasyCommunicationTechnology](https://www.easycomtec.com/homeoffice/developer) - .NET development using C#, Angular, Azure. Remote-first company.
   1. [Elastic](https://www.elastic.co/) - Open source search & analytics
-  1. [Eloquentix](http://eloquentix.com/) - All remote company across 3 continents and 9 timezones.
+  1. [Eloquentix](https://www.eloquentix.com/) - All remote company across 3 continents and 9 timezones.
   1. [Envato](https://www.envato.com/about/careers/) - Maker of ThemeForest and other online marketplaces. MySQL, Ruby, Rails, JavaScript. Distributed team with HQ in Melbourne, Australia.
   1. [Ergeon](https://www.ergeon.com/careers/) - Home Services and construction company. An all-remote company with HQ in Palo Alto, California, but hiring worldwide.
   1. [Etsy](https://careers.etsy.com) - Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.
@@ -350,7 +349,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Findify](https://findify.io/) - E-commerce search powered by machine learning and big data. Team distributed across Europe.
   1. [General Assembly](https://generalassemb.ly/careers) - Physical and on-line education for technology, business, and design.
   1. [Ghost](https://ghost.org/about/#careers) - Publishing platform.
-  1. [Giant Swarm](https://www.giantswarm.io/careers) - Giant Swarm’s managed microservices infrastructure enables enterprises to run agile, resilient, distributed systems at scale, while removing the tasks related to managing the complex underlying infrastructure
+  1. [Giant Swarm](https://www.giantswarm.io/) - Giant Swarm’s managed microservices infrastructure enables enterprises to run agile, resilient, distributed systems at scale, while removing the tasks related to managing the complex underlying infrastructure
   1. [Gigster](https://gigster.com/) - vetted network of top 5% freelancers worldwide. PM, Dev, Sales positions available.
   1. [TestGrid](https://testgrid.io/) - TestGrid is a leading provider of end-to-end automation cloud and on-premise testing solutions. With a focus on simplifying the testing process, TestGrid's innovative AI-powered technology allows organizations to streamline their end to end testing process. Hiring developers, sales & marketing folks worldwide.
   1. [HeadSpin](https://www.headspin.io/) - world’s first Digital Experience AI Platform that combines cloud-hosted and on-prem global device infrastructure, test automation, and ML-driven performance & quality of experience analytics for mobile, web, audio, and video.
@@ -408,7 +407,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Meta](https://www.metacareers.com/jobs/) - Partent company of Facebook, Instagram. Filter by remote.
   1. [Merico](https://www.devinsight.ai/) - Code deep analysis engine.
   1. [Mixmax](https://www.mixmax.com/) - Email with superpowers.
-  1. [Modern Tribe](https://tri.be/careers) - A digital agency with a modern twist. All freelancers. All experts.
+  1. [Modern Tribe](https://tri.be/careers/ ) - A digital agency with a modern twist. All freelancers. All experts.
   1. [MODLR](https://modlr.co/au/home) - MODLR is business modelling and collaborative planning tool for connected financial planning process
   1. [Modus Create](https://moduscreate.com/) - Modus is a digital design-build agency driven by world-class talent. PHP, JavaScript.
   1. [Mode Analytic](https://www.thoughtspot.com/careers) - BI.
@@ -455,7 +454,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [ShakaCode](https://www.shakacode.com/career/) - A global web development software consultancy and product company.
   1. [Shiphero](https://shiphero.breezy.hr/?&remote=remote#positions) - ShipHero builds a fully featured Warehouse Management System. 100% remote. 
   1. [Shogun](https://getshogun.com/) - Build and optimize eCommerce landing pages. Ruby / Rails, Go, JavaScript, React. 100% remote.
-  1. [Signal](https://signal.org/workworkwork/) - These people make the fantastic [Signal app](https://signal.org/). US Only.
+  1. [Signal](https://signal.org/workworkwork/) - These people make the fantastic Signal app. US Only.
   1. [Skyscrapers](https://skyscrapers.eu/join-us/) - Cloud hosting services & management. Working with multiple cloud providers (AWS, Digital Ocean, Linode, ...). 100% remote.
   1. [SoftwareMill](https://softwaremill.com/join-us/)
   1. [Soshace](https://soshace.com/) - Angular/React/Vue.js/Java/Python remote development company
@@ -493,7 +492,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Vidalingua](https://www.vidalingua.com/amaze.php) - Bringing language apps to life.
   1. [WAAT](https://waat.eu/job/) - A cross-functional digital agency that adapts to project needs.
   1. [Water Lily Pond](https://waterlilypond.co.uk/) - Advertising and marketing communication services.
-  1. [wemake.services](https://wemake.services/meta/employees) - We sell repeatable software development process. Fully remote. Python, JavaScript, Vue
+  1. [wemake.services](https://wemake.services/meta/) - We sell repeatable software development process. Fully remote. Python, JavaScript, Vue
   1. [Wheel](https://www.wheel.com/careers) - healthcare startup.
   1. [Wikimedia](https://wikimediafoundation.org/about/jobs/)
   1. [You Need a Budget](https://www.ynab.com/careers) - Bank syncing and goals and debt management.
