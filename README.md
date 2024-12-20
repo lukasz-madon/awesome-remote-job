@@ -169,6 +169,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remotees](https://weworkremotely.com/?utm_source=Remotees&utm_medium=Redirect&utm_campaign=Remotees)
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
   1. [RemoteJobs.lat](https://remotejobs.lat/) -  Remote jobs for LATAM people
+  1. [RemoteFR.com](https://remotefr.com/) -  Remote jobs for French people
   1. [Remotive Jobs](https://remotive.com/)
   1. [Remote People](https://remotepeople.io/)
   1. [Remote Works](https://remote.works-hub.com) - Remote jobs in software development
