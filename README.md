@@ -512,6 +512,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/?rdt=54904) - Subreddit.
   1. [##remotes](https://github.com/remotesclub/remotes) - IRC channel 
   1. [Hacker Paradise](https://www.hackerparadise.org/) - Traveling remote workers.
+  2. [Growth Spark](https://growthspark.solutions/pages/join-our-online-support-community)- Free community for remote job search and networking.
   1. [Remote Year](https://www.remoteyear.com/) - Traveling techies for 1 year.
   1. [Remote Indian](https://remoteindian.com/) - Remote workers from India.
   1. [Eleduck](https://eleduck.com) - A remote worker community in China(来自中国的远程工作社区).
