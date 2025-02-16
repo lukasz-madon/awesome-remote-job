@@ -206,6 +206,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [UN Talent](https://untalent.org/jobs/home-based) - Vacancies at the United Nations and its agencies.
   1. [Vollna](https://www.vollna.com/) - An aggregator for top freelance sites.
   1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
+  1. [RemoteLiz](https://www.remoteliz.com) - A remote search engine that actually crawls the web to find the job.
 
 ## Housing
   1. [bedndesk](https://www.bedndesk.com/) - Coworking & coliving space in Mallorca island in Spain
