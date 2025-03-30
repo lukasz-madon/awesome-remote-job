@@ -236,6 +236,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [awesome-interviews](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions
   1. [adaface.com/pair-pro](https://www.adaface.com/online-assessment-platform) - Remote pair programming interview tool with shared editor, code compiler and video conferencing
   1. [interviewing.io](https://interviewing.io/) - Become awesome at technical interviews
+  2. [easyclimb.tech](https://easyclimb.tech/) - Find a mentor to get ready for interviews in tech
   1. [karat.io](https://karat.com/) - Have a free practice coding interview with a professional interviewer
   1. [exponent](https://www.tryexponent.com) - Practice coding interviews (both sides of the table) with other candidates
   1. [remoteinterview.io](https://www.remoteinterview.io/) - Coding tests & pair programming interview tools
