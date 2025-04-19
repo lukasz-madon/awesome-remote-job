@@ -243,7 +243,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [hackerrank.com](https://www.hackerrank.com/) - Online platform for code studying and recruiting with job offers also
   1. [Codility](https://www.codility.com/) - Online platform that offers sponsored challenges
   1. [Meetapro](https://www.meetapro.com/) - An Airbnb style mock interview platform with top FAANG interviewers
-
+  1. [Easyclimbtech](https://www.easyclimb.tech/) - $99 mock interviews with a FAANG mentor, also free P2P mock interviews
 ## Events
   1. [deceler8](https://sierraymar.exposure.co/decelerate-bali) - 10 days retreat
   1. [Project Getaway](https://www.projectgetaway.com/) - 30 days retreat
