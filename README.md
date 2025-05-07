@@ -203,6 +203,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote OK](https://remoteok.com/) - Scrapes many job board feeds for remote positions.
   1. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
   1. [SlashJobs](https://slashjobs.com/) - Remote dev jobs aggregator. `and`/`or`/`not` filters, location search, fast, no sign-up/login.
+  1. [tokenjobs.io](https://tokenjobs.io?remote=true) A web3 job aggregator where jobs can be filtered based on keywords, locations, languages and contract types. Anyone can publish a job offer.
   1. [UN Talent](https://untalent.org/jobs/home-based) - Vacancies at the United Nations and its agencies.
   1. [Vollna](https://www.vollna.com/) - An aggregator for top freelance sites.
   1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
