@@ -500,7 +500,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Q&A
   1. Quora: [Telecommuting and Working Remotely](https://www.quora.com/topic/Telecommuting-and-Working-Remotely) / [Virtual Workplace](https://www.quora.com/topic/Virtual-Workplace) / [Working at Home](https://www.quora.com/topic/Working-at-Home)
-  1. Remote.co: [Q&A's with 90+ Remote Companies](https://remote.co/qa-leading-remote-companies/)
   1. StackExchange
     - Workplace: [telecommute](https://workplace.stackexchange.com/questions/tagged/telecommute?sort=votes)
     - Freelancing: [remote](https://freelancing.stackexchange.com/questions/tagged/remote?sort=votes) / [working from home](https://freelancing.stackexchange.com/questions/tagged/working-from-home?sort=votes)
@@ -578,7 +577,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Others
   1. [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
   1. [Established Remote](https://github.com/yanirs/established-remote) - A list of established remote companies
-  1. [Hacker Spaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) - List of hacker spaces.
   1. [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
   1. [Nomad List](https://nomads.com/) - Compare cost and quality of living in different cities.
   1. [Regus USA](https://www.regus.com/en-gb) - Executive suites, virtual offices & conference room space.

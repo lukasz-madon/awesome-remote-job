@@ -20,4 +20,4 @@ jobs:
     - name: Checks
       run: |
         gem install awesome_bot
-        awesome_bot README.md --allow-ssl -a 302,429,502,403 -w xbmc/xbmc,swiftui/fruta,shift.infinite.red,skipthedrive.com
+        awesome_bot README.md --allow-ssl -a 301,302,307,308,429,502,403 -w xbmc/xbmc,swiftui/fruta,shift.infinite.red,skipthedrive.com
