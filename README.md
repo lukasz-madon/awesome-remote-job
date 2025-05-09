@@ -167,7 +167,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [thatmlopsguy/remote-pt](https://github.com/thatmlopsguy/remote-pt) - Repository listing companies which offer full-time remote jobs with Portuguese contracts
   1. [remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   1. [Remotees](https://weworkremotely.com/?utm_source=Remotees&utm_medium=Redirect&utm_campaign=Remotees)
-  1. [Remote.co Jobs](https://remote.co/remote-jobs/)
   1. [RemoteJobs.lat](https://remotejobs.lat/) -  Remote jobs for LATAM people
   1. [Remotive Jobs](https://remotive.com/)
   1. [Remote People](https://remotepeople.io/)
@@ -312,7 +311,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Ciao Bambino](https://ciaobambino.com/) - Family destinations and hotel reviews.
   1. [Circonus](https://www.apica.io) - SaaS and on-prem monitoring, analytics, alerting, and more.  C, Go, Java, Perl.  HQ in Fulton MD, most employees are remote.
   1. [Clevertech](https://lumenalta.com/remote-jobs) - We build incredible, game-changing technology.
-  1. [Close](https://jobs.lever.co/close.io/) - Inside sales CRM for startups and SMBs.
   1. [Codeship](https://www.cloudbees.com/products/codeship) - SaaS Continuous Delivery
   1. [CodeWeavers](https://www.codeweavers.com/about/jobs) - Wine-based open source software.
   1. [Collabora](https://www.collabora.com/careers.html) - Open source software-based consulting.
@@ -511,7 +509,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/?rdt=54904) - Subreddit.
   1. [##remotes](https://github.com/remotesclub/remotes) - IRC channel 
   1. [Hacker Paradise](https://www.hackerparadise.org/) - Traveling remote workers.
-  1. [Remote Year](https://www.remoteyear.com/) - Traveling techies for 1 year.
   1. [Remote Indian](https://remoteindian.com/) - Remote workers from India.
   1. [Eleduck](https://eleduck.com) - A remote worker community in China(来自中国的远程工作社区).
   1. [Invide](https://www.invidelabs.com/developer.html) - Invite-only community of experienced remote developers since 2016. Also has a [public discord community](https://discord.com/invite/92q23kCad2) for newbies.
