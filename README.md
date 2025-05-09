@@ -39,7 +39,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Articles & Posts
   1. [3 mistakes to avoid if you want to get hired remotely](https://x-team.com/blog/mistakes-remote-developers)
-  1. [5 Little-Known Hacks for Finding Remote Work](https://hubstaff.com/blog/hacks-find-remote-jobs/)
   1. [5 Things I've Learned From Working Remotely](https://www.donedone.com/blog/five-things-ive-learned-working-remotely)
   1. [5 Tricks to Get More Done While Working Remotely](https://rdutel.medium.com/working-remotely-getting-things-done-38dcd0413733)
   1. [8 tips that will make you a more active, healthier remote developer](https://x-team.com/blog/how-to-be-healthy-remote)
@@ -370,7 +369,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Heroku](https://www.heroku.com/careers) - PaaS Cloud, makes devs' experience awesome, Ruby, Erlang, JavaScript, Golang, Python.
   1. [Honeybadger](https://www.honeybadger.io/) - Ruby. 100% remote.
   1. [Hotjar](https://www.hotjar.com/careers/) - Analytics & Feedback tool.
-  1. [Hubstaff](https://hubstaff.com/jobs) - Time tracking solution with multiple integrations.
   1. [Igalia](https://www.igalia.com/about/) - Open source consultancy. HQ in Spain.
   1. [Incsub](https://incsub.com/careers/) - Remote team that builds WordPress projects.
   1. [Inpsyde GmbH](https://syde.com/) - WordPress Agency in Germany.
