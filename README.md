@@ -548,6 +548,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Asana](https://asana.com/) - Project management good for distributed teams.
   1. [ClickUp](https://clickup.com/) - All-in-one productivity platform that brings teams, tasks, and tools together in one place.
   1. [Harvest](https://www.getharvest.com/) - Time tracking
+  1. [StaffWatcher](https://staffwatcher.com/) - Time tracking
   1. [Hitask](https://hitask.com/) - Easy task and project management for teams.
   1. [Jira](https://www.atlassian.com/software/jira) - Issue and project tracking tool.
   1. [Notion](https://www.notion.so/) - All in one workspace to write, plan, collaborate, and get organized.
