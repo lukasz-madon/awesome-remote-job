@@ -399,6 +399,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [MariaDB](https://mariadb.com/about-us/careers/) - Open source database.
   1. [MarsBased](https://marsbased.com) - MarsBased is a development consultancy from Barcelona offering end‑to‑end web & mobile apps based on Ruby on Rails, Angular and other JavaScript frameworks.
   1. [Mapbox](https://www.mapbox.com/careers) - Map integration tools for various platforms.
+  1. [Maxim](https://www.getmaxim.ai) - AI Agent Simulation, Evaluation & Observability Platform
   1. [MeetEdgar](https://meetedgar.com/careers) - Automated social sharing. US remote.
   1. [Meta](https://www.metacareers.com/jobs/) - Partent company of Facebook, Instagram. Filter by remote.
   1. [Merico](https://www.devinsight.ai/) - Code deep analysis engine.
