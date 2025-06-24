@@ -425,6 +425,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Particular Software (NServiceBus)](https://particular.net/careers) - Enterprise Service Bus, Messaging, C#, Open Source
   1. [Patients Know Best](https://apply.workable.com/patients/) - Empowering patients to manage their care, enabling professionals to share information while improving efficiencies for payers.
   1. [Paylocity](https://www.paylocity.com/careers/) - HR and payroll solutions
+  2. [Peakforce](https://www.peakforce.dev) - Atlassian (Jira, Confluence) and Splunk (SIEM, Observability) Partner helping with licenses, implementation, migrations and consulting.
   1. [Pilot](https://plane.com) - Pilot is a software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.
   1. [Pleo](https://www.pleo.io/en/careers) - Pleo is a company payment card solution that automates expense reports and simplifies company spending.
   1. [Precision Nutrition](https://www.precisionnutrition.com/) -  Online Nutrition Coaching and Certification.
