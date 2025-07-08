@@ -583,6 +583,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote Working](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
   1. [WorkFrom](https://workfrom.co/) - Find coffee shops that are good to work from.
   2. [Websoft9](https://github.com/Websoft9/websoft9) - Open source software self-hosting platform, one-click to install 200+ application includes remote tools like Jiti Meet, Rocket.chat, GitLab, Mattermost.
+  3. [Study Near Me](https://studynearme.com/) - Directory to find laptop friendly cafes to work remote at for the day anywhere in the US.
 
 ## License
 
