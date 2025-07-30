@@ -392,6 +392,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Lincoln Loop](https://lincolnloop.com) - WebDev shop.
   1. [LiveChat](https://www.livechat.com/careers/) - online customer service software with online chat, help desk software, and web analytics
   1. [LivingSocial](https://www.grouponcareers.com/) - Company-wide support for teams of experienced, remote developers. Lots of autonomy.
+  1. [log.dog](https://log.dog) - Remote debugging and logging tool for iOS and Android apps. No offices - fully remote.
   1. [Logit.io](https://logit.io/about-us/#careers) - Fully remote first logging and metrics management company with 100% of operations and development based remotely
   1. [Lullabot](https://www.lullabot.com/jobs) - Strategy, design and development using Drupal.
   1. [madewithlove](https://madewithlove.com/careers/) - We help companies build digital products and bring new juice to teams that seem to jam.
