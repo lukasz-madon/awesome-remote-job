@@ -523,6 +523,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Git Commit Show](https://gitcommit.show/) - Global Developer Conference to promote remote work an education, attend from anywhwere
 
 ## Tools
+* [TopFreePrompts by LucyBrain](https://topfreeprompts.com) -> 10,000+ professional AI prompts accelerating remove work tasks.
 
 #### HR
   1. [Remoteteam.com](https://gusto.com) – Automated payrolls, time off, HR tools, and compliance for remote companies.
@@ -597,3 +598,4 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Lukasz Madon](https://github.com/lukasz-madon) has waived all copyright and related or neighboring rights to this work.
+
