@@ -373,6 +373,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Hotjar](https://www.hotjar.com/careers/) - Analytics & Feedback tool.
   1. [Igalia](https://www.igalia.com/about/) - Open source consultancy. HQ in Spain.
   1. [Incsub](https://incsub.com/careers/) - Remote team that builds WordPress projects.
+  1. [infraWS](https://infra.ws) - infra.ws is a DevSecOps and cloud infrastructure powerhouse delivering secure, scalable cloud solutions for Fortune 500, government, and high-growth startups.
   1. [Inpsyde GmbH](https://syde.com/) - WordPress Agency in Germany.
   1. [Institute for Nonprofit News](https://inn.users.membersuite.com/community/career-center/browse-jobs/allJobs/allCities/allStates) - Nonprofit news organization.
   1. [Instructure](https://www.instructure.com/about/careers) - We make software that makes people smarter.
