@@ -475,7 +475,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Square](https://block.xyz/careers/jobs?businessUnits[]=square) - Square helps millions of sellers run their business-from secure credit card processing to point of sale solutions. Products: Square and Cash App.
   1. [Svix](https://www.svix.com/careers/) - Open source and hosted webhook service so you can launch webhooks in days, not months.
   1. [Sysdig Cloud](https://sysdig.com/careers/open-positions/)
-  1. [Taskade](https://www.taskade.com/contact) - Remote team building real-time collaboration & collaborative editing for teams.
+  1. [Taskade](https://www.taskade.com/contact) - AI-powered remote team workspace with real-time collaboration, AI agents, project management, workflow automation, and built-in video chat.
   1. [TaxJar](https://www.taxjar.com) - Eliminate sales tax headaches.
   1. [Teamed.io](https://www.teamed.io/)
   1. [TeamSnap](https://www.teamsnap.com/company/careers) - TeamSnap is the No. 1 online sports team management software. 80% remote employees
@@ -563,7 +563,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Outplanr](https://www.outplanr.com/) - Project and task management tool.
   1. [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source).
   1. [Shortcut](https://www.shortcut.com/) (fka Clubhouse) - Project management for software development teams.
-  1. [Taskade](https://www.taskade.com/) - Real-time collaborative notes, checklists and outlines for teams.
+  1. [Taskade](https://www.taskade.com/) - AI-powered workspace for remote teams with real-time collaboration, AI agents, project management (8 views including Kanban, Gantt, Mind Map), workflow automation, and built-in video chat.
   1. [Trello](https://trello.com/) - Lean project boards.
   1. [gantt-online](https://gantt-online.com/) - Gantt Chart Project Management Tool.
 
