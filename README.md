@@ -563,7 +563,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Outplanr](https://www.outplanr.com/) - Project and task management tool.
   1. [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source).
   1. [Shortcut](https://www.shortcut.com/) (fka Clubhouse) - Project management for software development teams.
-  1. [Taskade](https://www.taskade.com/) - Real-time collaborative notes, checklists and outlines for teams.
+  1. [Taskade](https://www.taskade.com/) - AI-powered collaboration platform for remote teams with real-time tasks, notes, mind maps, video chat, and AI agents.
   1. [Trello](https://trello.com/) - Lean project boards.
   1. [gantt-online](https://gantt-online.com/) - Gantt Chart Project Management Tool.
 
