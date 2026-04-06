@@ -4,6 +4,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 *To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow [the contributions guidelines](CONTRIBUTING.md).*
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for remote development workflow orchestration, automated task management, and multi-agent coordination. MIT licensed.
 ## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
