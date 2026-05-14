@@ -1,4 +1,5 @@
 # Awesome Remote Job [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/)
+- [DataAnnotation.tech](https://www.dataannotation.tech/) - AI training work, paid hourly, remote.
 
 A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecommuting) resources.
 
