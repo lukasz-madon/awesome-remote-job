@@ -521,6 +521,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [wemake.services](https://wemake.services/meta/) - We sell repeatable software development process. Fully remote. Python, JavaScript, Vue
   1. [Wheel](https://www.wheel.com/careers) - healthcare startup.
   1. [Wikimedia](https://wikimediafoundation.org/about/jobs/)
+  1. [WitArist](https://www.witarist.com) - IT staff augmentation company providing remote developers to scale engineering teams on-demand.
   1. [You Need a Budget](https://www.ynab.com/careers) - Bank syncing and goals and debt management.
   1. [Quora](https://www.careers.quora.com/) - Q&A site.
   1. [Zamphyr](https://zamphyr.com/) - School 2.0 for learning computer science. Remote-first, 100% JavaScript mostly Meteor.
