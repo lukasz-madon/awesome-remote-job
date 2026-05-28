@@ -547,6 +547,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Tools
 
+- [Suppr](https://suppr.wilddata.cn/) - AI literature search, document translation, and deep-research workspace for researchers.
+
 #### HR
   1. [Brighten](https://hellobrighten.com) – AI-powered peer recognition for remote teams — kudos, badges, and a rewards marketplace.
   1. [Remoteteam.com](https://gusto.com) – Automated payrolls, time off, HR tools, and compliance for remote companies.
