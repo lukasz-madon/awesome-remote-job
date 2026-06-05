@@ -175,6 +175,7 @@
   1. [remote-jobs](https://github.com/remoteintech/remote-jobs) - 一份科技行业从半远程友好到完全远程友好的公司列表
   1. [Remotees](https://weworkremotely.com/?utm_source=Remotees&utm_medium=Redirect&utm_campaign=Remotees)
   1. [RemoteJobs.lat](https://remotejobs.lat/) - 面向拉美人群的远程职位
+  1. [RemotePilot](https://remotepilot.dev) - AI原生公司精心挑选的远程开发和工程职位。
   1. [Remotive Jobs](https://remotive.com/)
   1. [Remote Works](https://remote.works-hub.com) - 软件开发领域的远程职位
   1. [Ruby On Remote](https://rubyonremote.com/) - 所有 Ruby 远程职位汇聚一处
