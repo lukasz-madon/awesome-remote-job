@@ -534,12 +534,13 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
     - Freelancing: [remote](https://freelancing.stackexchange.com/questions/tagged/remote?sort=votes) / [working from home](https://freelancing.stackexchange.com/questions/tagged/working-from-home?sort=votes)
 
 ## Communities
-  1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/?rdt=54904) - Subreddit.
   1. [##remotes](https://github.com/remotesclub/remotes) - IRC channel 
-  1. [Hacker Paradise](https://www.hackerparadise.org/) - Traveling remote workers.
-  1. [Remote Indian](https://remoteindian.com/) - Remote workers from India.
+  1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/?rdt=54904) - Subreddit.
   1. [Eleduck](https://eleduck.com) - A remote worker community in China(来自中国的远程工作社区).
+  1. [Freaking Nomads](https://freakingnomads.com/) - Curated digital nomad community and places directory.
+  1. [Hacker Paradise](https://www.hackerparadise.org/) - Traveling remote workers.
   1. [Invide](https://www.invidelabs.com/developer.html) - Invite-only community of experienced remote developers since 2016. Also has a [public discord community](https://discord.com/invite/92q23kCad2) for newbies.
+  1. [Remote Indian](https://remoteindian.com/) - Remote workers from India.
 
 ## Conferences
   1. [9punto5](https://9punto5.cl/) - Remote work conference in Latin America.
