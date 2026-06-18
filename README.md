@@ -261,6 +261,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [interviewing.io](https://interviewing.io/) - Become awesome at technical interviews
   1. [karat.io](https://karat.com/) - Have a free practice coding interview with a professional interviewer
   1. [exponent](https://www.tryexponent.com) - Practice coding interviews (both sides of the table) with other candidates
+  1. [PracHub](https://prachub.com) - Practice real interview questions from 400+ companies across coding, system design, and behavioral
   1. [remoteinterview.io](https://www.remoteinterview.io/) - Coding tests & pair programming interview tools
   1. [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies
   1. [hackerrank.com](https://www.hackerrank.com/) - Online platform for code studying and recruiting with job offers also
