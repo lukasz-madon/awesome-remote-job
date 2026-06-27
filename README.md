@@ -614,6 +614,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Others
   1. [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+  1. [Nordic Expat Guide](https://nordicexpat.com/) - 160+ practical guides for expats relocating to Denmark, Sweden, Norway, and Finland — immigration, banking, tax, healthcare, housing, and cost of living.
   1. [Established Remote](https://github.com/yanirs/established-remote) - A list of established remote companies
   1. [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
   1. [Nomad List](https://nomads.com/) - Compare cost and quality of living in different cities.
