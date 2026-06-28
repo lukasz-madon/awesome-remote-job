@@ -42,6 +42,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [5 Little-Known Hacks for Finding Remote Work](https://blog.hubstaff.com/hacks-find-remote-jobs/)
   1. [5 Things I've Learned From Working Remotely](https://www.donedone.com/blog/five-things-ive-learned-working-remotely)
   1. [5 Tricks to Get More Done While Working Remotely](https://medium.com/@rdutel/working-remotely-getting-things-done-38dcd0413733)
+  1. [6 Tips for Managing a Team of Remote Workers](https://www.hoxtonmix.com/blog/6-tips-for-managing-a-team-of-remote-workers/)
   1. [8 tips that will make you a more active, healthier remote developer](https://x-team.com/blog/how-to-be-healthy-remote/)
   1. [10 Lessons from 4 Years Working Remotely at Automattic](https://whenihavetime.com/2014/07/08/10-lessons-from-4-years-working-remotely/)
   1. [10 Secrets to Becoming a Great Remote Developer](https://x-team.com/blog/10-secrets-to-becoming-a-great-remote-developer/)
