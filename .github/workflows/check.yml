@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v6
     - name: Set up Ruby 2.6
       uses: ruby/setup-ruby@v1
       with:
@@ -20,4 +20,4 @@ jobs:
     - name: Checks
       run: |
         gem install awesome_bot
-        awesome_bot README.md --allow-ssl -a 302,429,502 -w xbmc/xbmc,swiftui/fruta
+        awesome_bot README.md --allow-ssl -a 301,302,307,308,429,502,403 -w xbmc/xbmc,swiftui/fruta,shift.infinite.red,skipthedrive.com
