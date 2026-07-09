@@ -147,6 +147,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [ClojureJobboard.com](https://clojurejobboard.com/remote-clojure-jobs.html)- Clojure jobs, filter -> Remote only
   1. [Crypto Jobs](https://crypto.jobs/?jobs=remote) - Blockchain jobs for crypto enthusiasts.
   1. [Crypto Jobs List](https://cryptojobslist.com/remote) - #1 job board to find and post crypto, bitcoin and blockchain jobs.
+  1. [CryptoJobsHub](https://cryptojobshub.io/) - Remote developer, marketing, and design opportunities in the cryptocurrency and Web3 space.
   1. [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/remote/) - Location filter -> *Remote*
   1. [CyberJobHunt.in](https://cyberjobhunt.in/) - Explore Cyber Security Jobs in top Companies and Startups. 
   1. [Daily Remote](https://dailyremote.com) Filter and find remote jobs for every role! - Requires premium membership to view and apply.
