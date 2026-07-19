@@ -611,6 +611,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Your Tax Base](https://yourtaxbase.com/) - Florida residency and tax domicile services for digital nomads and remote workers, with virtual mailbox, Declaration of Domicile filing, and step-by-step guidance for establishing a tax-free home base.
   1. [Transferwise](https://wise.com/gb/business/payouts) - Easy way to pay remote employees.
   1. [VerdeDesk](https://verdedesk.vercel.app/) - Issue Portuguese green receipts (recibos verdes) and manage freelancer tax compliance in Portugal — in plain English. Built for D8 visa holders and expat freelancers.
+  1. [SmartBizCalc](https://smartbizcalc.com) - Free calculators for 1099 contractors and remote freelancers: 1099-vs-W2 cost comparison, self-employment tax estimator, and freelancer hourly rate tools covering all 50 US states.
 
 ## Others
   1. [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
