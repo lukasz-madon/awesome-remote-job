@@ -199,6 +199,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Vue.js Jobs](https://vuejobs.com/) Find Vue.js jobs all around the world - Click on "Remote" tab.
   1. [Web3Jobs](https://web3.career/remote-jobs) - Remote Web3 Jobs
   1. [web3vacancy](https://web3vacancy.com) - #1 Crypto & Web3 Job Board. Where crypto teams hire. Where builders get found.
+  1. [Web3 Jobs Radar](https://web3jobsradar.com) - Every public web3 & crypto job aggregated from companies' official hiring systems, deduped and classified; filter by remote, role, chain and salary.
   1. [Wellfound](https://wellfound.com/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
   1. [We Work Remotely](https://weworkremotely.com/)
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
