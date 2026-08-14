@@ -229,6 +229,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [usdevjobs.com](https://usdevjobs.com/) - Real-time job aggregator for software, AI, data, engineers in US.
   1. [Vollna](https://www.vollna.com/) - An aggregator for top freelance sites.
   1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
+  2. [ParlayJobs](https://www.parlayjobs.com/) - Specialist job board for iGaming and betting-tech careers, featuring verified remote jobs.
 
 ## Housing
   1. [bedndesk](https://www.bedndesk.com/) - Coworking & coliving space in Mallorca island in Spain
