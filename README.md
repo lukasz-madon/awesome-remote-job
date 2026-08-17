@@ -223,6 +223,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote 4 Me](https://remote4me.com/) - An aggregator for remote jobs in tech and non-tech.
   1. [Remote Index](https://remoteindex.co/) - Job board and aggregator for remote jobs in tech.
   1. [Remote OK](https://remoteok.com/) - Scrapes many job board feeds for remote positions.
+  1. [Remote Signal API](https://hotels-belt-affect-heard.trycloudflare.com/pricing) - JSON API aggregating 50 curated RemoteOK dev/SaaS jobs + 20 Hacker News Show HN posts (15 min cache). Free tier: 10 req/day. Pro: $5/mo. [API docs](https://gist.github.com/reckoning89/d87818b2020bbc27590df1fa0c42f175).
   1. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
   1. [SlashJobs](https://slashjobs.com/) - Remote dev jobs aggregator. `and`/`or`/`not` filters, location search, fast, no sign-up/login.
   1. [tokenjobs.io](https://tokenjobs.io?remote=true) A web3 job aggregator where jobs can be filtered based on keywords, locations, languages and contract types. Anyone can publish a job offer.
