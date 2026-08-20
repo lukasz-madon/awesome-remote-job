@@ -9,8 +9,9 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 - [Français](README.fr.md)
 - [Português (BR)](README.pt-BR.md)
 - [简体中文](README.zh.md)
+- [日本語](README.ja.md)
 
-*To contribute, click on the README file you want to edit and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow [the contributions guidelines](CONTRIBUTING.md).*
+*To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow [the contributions guidelines](CONTRIBUTING.md).*
 
 ## Table of Contents
 
