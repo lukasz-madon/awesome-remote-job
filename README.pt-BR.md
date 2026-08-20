@@ -1,54 +1,53 @@
 # Awesome Remote Job [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/lukasz-madon/awesome-remote-job/)
 
-A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecommuting) resources.
+Uma lista curada de recursos incríveis sobre [trabalho remoto](https://en.wikipedia.org/wiki/Telecommuting).
 
-## Languages
+## Idiomas
 
 - [English (default)](README.md)
 - [Español](README.es.md)
 - [Français](README.fr.md)
 - [Português (BR)](README.pt-BR.md)
 - [简体中文](README.zh.md)
-- [日本語](README.ja.md)
 
-*To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow [the contributions guidelines](CONTRIBUTING.md).*
+*Para contribuir, clique em README.md e depois no ícone do lápis. Faça suas alterações e clique no botão "Propose file change" para enviar um pull request. Certifique-se de seguir [as diretrizes de contribuição](CONTRIBUTING.md).*
 
-## Table of Contents
+## Índice
 
 <!-- MarkdownTOC depth=4 -->
 
 - [Awesome Remote Job  ](#awesome-remote-job--)
   - [Languages](#languages)
-  - [Table of Contents](#table-of-contents)
-  - [Articles \& Posts](#articles--posts)
-  - [Videos](#videos)
-  - [Books](#books)
+  - [Índice](#índice)
+  - [Artigos e Publicações](#artigos-e-publicações)
+  - [Vídeos](#vídeos)
+  - [Livros](#livros)
   - [Humor](#humor)
-  - [Job boards](#job-boards)
-  - [Job boards aggregators](#job-boards-aggregators)
-  - [Housing](#housing)
-  - [Relocation Incentives](#relocation-incentives)
-  - [Interviewing](#interviewing)
-  - [Events](#events)
+  - [Vagas de Emprego](#vagas-de-emprego)
+  - [Agregadores de Vagas](#agregadores-de-vagas)
+  - [Moradia](#moradia)
+  - [Incentivos de Relocação](#incentivos-de-relocação)
+  - [Entrevistas](#entrevistas)
+  - [Eventos](#eventos)
   - [Newsletters](#newsletters)
   - [Podcasts](#podcasts)
-  - [Companies with "remote DNA"](#companies-with-remote-dna)
-  - [Q\&A](#qa)
-  - [Communities](#communities)
-  - [Conferences](#conferences)
-  - [Tools](#tools)
-      - [HR](#hr)
-      - [Communication](#communication)
+  - [Empresas com "DNA Remoto"](#empresas-com-dna-remoto)
+  - [Perguntas e Respostas](#perguntas-e-respostas)
+  - [Comunidades](#comunidades)
+  - [Conferências](#conferências)
+  - [Ferramentas](#ferramentas)
+      - [RH](#rh)
+      - [Comunicação](#comunicação)
   * [Nubo Email](https://nubo.email) - Privacy-first email and collaboration platform. Email, calendar, drive, video meetings, team chat. Organization-based pricing.
-      - [Project Management](#project-management)
-      - [Others](#others)
-  - [Law \& Finance](#law--finance)
-  - [Others](#others-1)
-  - [License](#license)
+      - [Gestão de Projetos](#gestão-de-projetos)
+      - [Outros](#outros)
+  - [Leis e Finanças](#leis-e-finanças)
+  - [Outros](#outros-1)
+  - [Licença](#licença)
 
 <!-- /MarkdownTOC -->
 
-## Articles & Posts
+## Artigos e Publicações
   1. [3 mistakes to avoid if you want to get hired remotely](https://x-team.com/blog/mistakes-remote-developers)
   1. [5 Things I've Learned From Working Remotely](https://www.donedone.com/blog/five-things-ive-learned-working-remotely)
   1. [5 Tricks to Get More Done While Working Remotely](https://rdutel.medium.com/working-remotely-getting-things-done-38dcd0413733)
@@ -116,12 +115,12 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [This Is the Future Of Remote Work In 2021](https://www.forbes.com/sites/carolinecastrillon/2021/12/27/this-is-the-future-of-remote-work-in-2021/?sh=500189961e1d)
 
 
-## Videos
+## Vídeos
   1. [David Copeland: The Effective Remote Developer](https://www.infoq.com/presentations/effective-remote-developer-2017/)
   1. [Fluent 2013: Mike Hostetler, “Remote Working Works!”](https://www.youtube.com/watch?v=23oBUH270YU)
   1. [Jason Fried: Why work doesn't happen at work](https://www.youtube.com/watch?v=5XD2kNopsUs)
 
-## Books
+## Livros
   1. [Async Remote](https://products.arkency.com/async-remote/).
      by Robert Pankowecki and Andrzej Krzywda (Arkency), 2014.
   1. [Distributed Teams](https://oduinn.com/book/).
@@ -137,7 +136,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
   1. [Why working from home is both awesome and horrible](https://theoatmeal.com/comics/working_home)
 
-## Job boards
+## Vagas de Emprego
   1. [Real Jobs From Anywhere](https://realjobsfromanywhere.com/) - Curated remote job board featuring verified remote-first positions across various tech and non-tech roles.
   1. [Real Work From Anywhere](https://www.realworkfromanywhere.com/) - A site for fully location independent jobs. All jobs on the site are 100% work from anywhere.
   1. [4 Day Week](https://4dayweek.io) - Software jobs with a better work / life balance.
@@ -215,7 +214,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   
 
 
-## Job boards aggregators
+## Vagas de Emprego aggregators
   1. [Career Vault](https://careervault.io/) - Hundreds of remote jobs added each day from thousands of company career pages. Free and no signup required.
   1. [Findwork](https://findwork.dev/) Crawls multiple job boards and enriches job postings with Glassdoor (reviews) and Crunchbase (funding).
   1. [Google Jobs](https://www.google.com/search?q=remote&ibp=htl;jobs#fpstate=tldetail&htidocid=IO0hI7dpKTSlzSKoAAAAAA%3D%3D&htin=1&htivrt=jobs)  – Aggregates from multiple boards and employer sites with sensitivity to location, job type, and more. Find out how to use it [here](https://support.google.com/websearch/answer/7498276?p=job_search_box&sa=X&ved=0ahUKEwid_qyLmJfXAhVD4YMKHYGBAK8Qra4CCGQoAQ&visit_id=1-636449234996681631-3229288694&rd=1).
@@ -232,7 +231,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Vollna](https://www.vollna.com/) - An aggregator for top freelance sites.
   1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
 
-## Housing
+## Moradia
   1. [bedndesk](https://www.bedndesk.com/) - Coworking & coliving space in Mallorca island in Spain
   1. [Common](https://www.common.com/) - Coliving House in New York
   1. [Coworking in the Sun](https://www.coworkinginthesun.com/) - Coliving & coworking space in Tenerife island in Spain
@@ -248,7 +247,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
   1. [Anceu](https://anceu.com) - Rural Coliving & coworking space in Galicia, Spain
 
-## Relocation Incentives
+## Incentivos de Relocação
   1. [Live And Work In Maine](https://www.liveandworkinmaine.com/opportunity-maine) - The amount spent on student loan payments each year is subtracted from your state income taxes. Out-of-state residents must have earned their bachelors or associates degrees after 2015 to qualify.
   1. [Tulsa Remote](https://www.tulsaremote.com/) - Get $10,000 cash to work from Tulsa.
   1. [Vermont Remote Worker Grant Program](https://thinkvermont.com/relocate/) - Receive up to a max of $5,000 per year to work from Vermont. Cannot exceed $10,000 for life of the program per individual.
@@ -256,7 +255,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Visto](https://visto.ai/) - We relocate developers to canada and help companies to bring developers outside the world!
   1. [Where Do I Move To](https://wheredoimoveto.com) - Get personalized city and country relocation recommendations based on 50+ factors.
 
-## Interviewing
+## Entrevistas
   1. [andreis/interview](https://github.com/Olshansk/interview) - Everything you need to kick ass on your coding interview
   1. [awesome-interviews](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions
   1. [adaface.com/pair-pro](https://www.adaface.com/online-assessment-platform) - Remote pair programming interview tool with shared editor, code compiler and video conferencing
@@ -271,7 +270,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Easyclimbtech](https://www.easyclimb.tech/) - $99 mock interviews with a FAANG mentor, also free P2P mock interviews
   1. [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
   1. [MianLing AI](https://mianlingai.com) - AI-powered real-time interview assistant that captures interviewer questions via system audio and generates professional answers in milliseconds
-## Events
+## Eventos
   1. [deceler8](https://sierraymar.exposure.co/decelerate-bali) - 10 days retreat
   1. [Project Getaway](https://www.projectgetaway.com/) - 30 days retreat
   1. [Recurse Center](https://www.recurse.com/) - free 3-month retreat
@@ -294,7 +293,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Wide Teams](https://www.wideteams.com/) - Each episode a one-on-one interview with a remote worker taking about workflow and practices
 
 
-## Companies with "remote DNA"
+## Empresas com "DNA Remoto"
   1. [10up](https://10up.com/careers/) - 10up makes the web better by finely crafting websites & tools for content creators.
   1. [15Five](https://www.15five.com/about/careers/) - Join our mission to create the spaces where people become their greatest selves, by joining some of the greatest employees around.
   1. [1Password](https://1password.com/careers) - The world’s most-loved password manager.
@@ -529,13 +528,13 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Zapier](https://zapier.com/about)
   1. [ZipRecruiter](https://www.ziprecruiter.com/careers) - Perl/Catalyst shop that has some of the best Perl devs working remotely.
 
-## Q&A
+## Perguntas e Respostas
   1. Quora: [Telecommuting and Working Remotely](https://www.quora.com/topic/Telecommuting-and-Working-Remotely) / [Virtual Workplace](https://www.quora.com/topic/Virtual-Workplace) / [Working at Home](https://www.quora.com/topic/Working-at-Home)
   1. StackExchange
     - Workplace: [telecommute](https://workplace.stackexchange.com/questions/tagged/telecommute?sort=votes)
     - Freelancing: [remote](https://freelancing.stackexchange.com/questions/tagged/remote?sort=votes) / [working from home](https://freelancing.stackexchange.com/questions/tagged/working-from-home?sort=votes)
 
-## Communities
+## Comunidades
   1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/?rdt=54904) - Subreddit.
   1. [##remotes](https://github.com/remotesclub/remotes) - IRC channel 
   1. [Hacker Paradise](https://www.hackerparadise.org/) - Traveling remote workers.
@@ -543,11 +542,11 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Eleduck](https://eleduck.com) - A remote worker community in China(来自中国的远程工作社区).
   1. [Invide](https://www.invidelabs.com/developer.html) - Invite-only community of experienced remote developers since 2016. Also has a [public discord community](https://discord.com/invite/92q23kCad2) for newbies.
 
-## Conferences
+## Conferências
   1. [9punto5](https://9punto5.cl/) - Remote work conference in Latin America.
   1. [Git Commit Show](https://gitcommit.show/) - Global Developer Conference to promote remote work an education, attend from anywhwere
 
-## Tools
+## Ferramentas
 
 #### HR
   1. [Brighten](https://hellobrighten.com) – AI-powered peer recognition for remote teams — kudos, badges, and a rewards marketplace.
@@ -608,7 +607,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [SYNCDATE](https://syncdate.app) - Automatically syncs events across multiple Google Calendar accounts — great for remote workers juggling work and personal schedules.
   1. [FastTool](https://fasttool.app) - 800+ browser-based productivity utilities (JSON formatter, regex tester, color tools, time zone converter, meeting cost calculator). No signup, works offline after first visit — handy when working across different networks.
 
-## Law & Finance
+## Leis e Finanças
   1. [1099 contractors](https://www.smartcapitalmind.com/what-is-a-1099-contractor.htm) – US based companies can hire remote workers as.
   1. [Your Tax Base](https://yourtaxbase.com/) - Florida residency and tax domicile services for digital nomads and remote workers, with virtual mailbox, Declaration of Domicile filing, and step-by-step guidance for establishing a tax-free home base.
   1. [Transferwise](https://wise.com/gb/business/payouts) - Easy way to pay remote employees.
@@ -625,7 +624,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [WorkFrom](https://workfrom.co/) - Find coffee shops that are good to work from.
   2. [Websoft9](https://github.com/Websoft9/websoft9) - Open source software self-hosting platform, one-click to install 200+ application includes remote tools like Jiti Meet, Rocket.chat, GitLab, Mattermost.
 
-## License
+## Licença
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
