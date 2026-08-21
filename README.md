@@ -256,6 +256,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Where Do I Move To](https://wheredoimoveto.com) - Get personalized city and country relocation recommendations based on 50+ factors.
 
 ## Interviewing
+- [AimVantage](https://aimvantage.uk) - AI interview preparation tool. Upload your CV and a job URL to generate company intel, CV fit analysis, tailored cover letters, and mock interview questions in 90 seconds. 20+ free career tools included.
   1. [andreis/interview](https://github.com/Olshansk/interview) - Everything you need to kick ass on your coding interview
   1. [awesome-interviews](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions
   1. [adaface.com/pair-pro](https://www.adaface.com/online-assessment-platform) - Remote pair programming interview tool with shared editor, code compiler and video conferencing
