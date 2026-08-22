@@ -594,6 +594,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [gantt-online](https://gantt-online.com/) - Gantt Chart Project Management Tool.
 
 #### Others
+  1. [ApplyKit](https://applykit-beryl.vercel.app) - AI resume tailoring, cover letter, and interview prep for a specific job posting, powered by Gemini.
   1. [BeginThings](https://beginthings.com) - 96+ free productivity tools for remote workers and freelancers: invoice generator, QR code maker, UTM builder, bio link builder, resume formatter and more. No login required.
   1. [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better.
   1. [Fiverr](https://www.fiverr.com/) - Fiverr is the world's largest freelance services marketplace for lean entrepreneurs, where you can hire remote workers to do small tasks for you.
