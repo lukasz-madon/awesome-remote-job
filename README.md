@@ -145,6 +145,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Authentic Jobs](https://authenticjobs.com/?search_location=remote)
   1. [Built In](https://builtin.com/jobs/remote)
   1. [Trabajo Remoto Chile](https://trabajoremotochile.com/) - Remote job board for Chilean professionals seeking work with US and European companies.
+  1. [CareerPanels](https://www.careerpanels.com/job-boards/remote-job-boards) - Discover a large list of Remote job boards.
   1. [ClojureJobboard.com](https://clojurejobboard.com/remote-clojure-jobs.html)- Clojure jobs, filter -> Remote only
   1. [Crypto Jobs](https://crypto.jobs/?jobs=remote) - Blockchain jobs for crypto enthusiasts.
   1. [Crypto Jobs List](https://cryptojobslist.com/remote) - #1 job board to find and post crypto, bitcoin and blockchain jobs.
@@ -216,6 +217,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Job boards aggregators
   1. [Career Vault](https://careervault.io/) - Hundreds of remote jobs added each day from thousands of company career pages. Free and no signup required.
+  1.[CareerPanels](https://www.careerpanels.com/job-boards/remote-job-boards) - Discover a large list of remote job boards. 
   1. [Findwork](https://findwork.dev/) Crawls multiple job boards and enriches job postings with Glassdoor (reviews) and Crunchbase (funding).
   1. [Google Jobs](https://www.google.com/search?q=remote&ibp=htl;jobs#fpstate=tldetail&htidocid=IO0hI7dpKTSlzSKoAAAAAA%3D%3D&htin=1&htivrt=jobs)  – Aggregates from multiple boards and employer sites with sensitivity to location, job type, and more. Find out how to use it [here](https://support.google.com/websearch/answer/7498276?p=job_search_box&sa=X&ved=0ahUKEwid_qyLmJfXAhVD4YMKHYGBAK8Qra4CCGQoAQ&visit_id=1-636449234996681631-3229288694&rd=1).
   1. [JS Remotely](https://javascript.jobs/remote) - All remote JavaScript jobs on one board
