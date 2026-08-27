@@ -65,7 +65,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Death of the office and rise of the telecommuter](https://www.zdnet.com/article/death-of-the-office-and-rise-of-the-telecommuter/)
   1. [Distributed Design: How Stack Overflow builds strong remote teams](https://www.tedgoas.com/blog/distributed-design/)
   1. [Find "Hidden" Remote Jobs with Google Search](https://medium.com/ft-remote-job/how-to-find-hidden-remote-jobs-using-google-search-12ebaa2ea8ea?source=friends_link&sk=3bc251fed25dddd4c1a024ae4dd58e30)
-  1. [GitLab's Remote Manifesto](https://about.gitlab.com/blog/2015/04/08/the-remote-manifesto/)
+  1. [GitLab's Remote Manifesto](https://about.gitlab.com/blog/the-remote-manifesto/)
   1. [Give people the freedom of where to work](https://www.virgin.com/branson-family/richard-branson-blog)
   1. [Hiring Secrets Of A Distributed Company](https://www.lullabot.com/articles/hiring-secrets-of-a-distributed-company)
   1. [How GitHub Works](https://zachholman.com/posts/how-github-works/)
@@ -87,12 +87,11 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote versus Co-located Work](https://martinfowler.com/articles/remote-or-co-located.html)
   1. [Remote Work: How to work the Precision Nutrition way](https://www.precisionnutrition.com/remote-how-to-work-the-pn-way)
   1. [Remote worker vs distributed team](https://opensource.com/life/11/11/remote-worker-vs-distributed-team)
-  1. [Remote Working – 3 Year Retrospective](http://blog.jonliv.es/blog/2015/01/14/remote-working-3-year-retrospective/)
   1. [Rethinking Agile in an office-less world](https://signalvnoise.com/posts/3641-rethinking-agile-in-an-office-less-world)
   1. [Six Strategies for Managing Telecommuters](https://www.cio.com/article/280749/leadership-management-six-strategies-for-managing-telecommuters.html)
   1. [Solo Workers Bond at Shared Workspaces](https://www.nytimes.com/2013/05/05/fashion/solo-workers-bond-at-shared-workspaces.html)
   1. [The 5 most important things we do as a remote company](https://x-team.com/blog/5-important-things-remote-company)
-  1. [The case for all-remote companies](https://about.gitlab.com/blog/2018/10/18/the-case-for-all-remote-companies/)
+  1. [The case for all-remote companies](https://about.gitlab.com/blog/the-case-for-all-remote-companies/)
   1. [The future of telecommuting: Corralling the Yahoos](https://www.economist.com/business/2013/03/02/corralling-the-yahoos?fsrc=scn%2Ftw%2Fte%2Fpe%2Fcorallingtheyahoos)
   1. [The Pros & Cons of Being a Remote Team (& How We Do It)](https://blog.groovehq.com/being-a-remote-team)
   1. [The Ultimate Remote Team Culture](https://www.toptal.com/remote-work-playbook)
@@ -188,7 +187,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remotees](https://weworkremotely.com/?utm_source=Remotees&utm_medium=Redirect&utm_campaign=Remotees)
   1. [RemoteJobs.lat](https://remotejobs.lat/) -  Remote jobs for LATAM people
   1. [Remotive Jobs](https://remotive.com/)
-  1. [Remote Works](https://remote.works-hub.com) - Remote jobs in software development
+  1. [Remote Works](https://www.works-hub.com/jobs) - Remote jobs in software development
   1. [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
   1. [Skip the Drive](https://www.skipthedrive.com/)
   1. [Slasify](https://slasify.com/en) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
@@ -290,7 +289,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Distributed](https://distributed.blog/podcast/) - Interview podcast by Matt Mullenweg. Focused on the benefits and challenges of distributed work and recruiting people around the globe.
   1. [Lessons from Distributed Companies](https://www.lullabot.com/podcasts/drupalizeme-podcast/lessons-from-distributed-companies)
   1. [Remote Works](https://remote.works) - The Remote Works podcast publishes every two weeks with host Jonathan Sharp discussing the opportunities, experiences, culture and community surrounding remote work, remote teams, telecommuting and digital nomads.
-  1. [Wide Teams](https://www.wideteams.com/) - Each episode a one-on-one interview with a remote worker taking about workflow and practices
 
 
 ## Companies with "remote DNA"
