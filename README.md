@@ -598,6 +598,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better.
   1. [Fiverr](https://www.fiverr.com/) - Fiverr is the world's largest freelance services marketplace for lean entrepreneurs, where you can hire remote workers to do small tasks for you.
   1. [EasyRetro](https://easyretro.io) - EasyRetro is a retrospective online board for distributed teams.
+  1. [TeamRetro](https://www.teamretro.com/) - Online agile retrospectives, team health checks and story-point estimation for distributed teams.
   1. [Listen to Wikipedia (Hatnote)](http://listen.hatnote.com) - Listen to the sound of Wikipedia's recent changes feed.
   1. [Noisli](https://www.noisli.com/) - Noisli has a list of diferent ambient sounds that can be combined to boost creativity and focus.
   1. [musicforprogramming.net](https://musicforprogramming.net/) - `return 'A series of mixes intended for listening while '+task+' to aid concentration and increase productivity (also compatible with other activities).';`
