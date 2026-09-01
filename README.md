@@ -207,6 +207,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [zuhausejobs.com](https://zuhausejobs.com) - Remote Jobs in German-speaking countries (Germany/Austria/Switzerland)
   1.  [Dataaxy](https://dataaxy.com) Job board and reverse job board specialized in Data and AI in North America
   1.  [Freel](https://freel.ca) Freelancers job board in Canada
+  1. [Hanzilla Jobs Remote Canada](https://jobs.hanzilla.co/locations/remote/) - Daily-updated Canadian student and recent-grad remote-friendly jobs across internships, co-ops, new grad, junior, and entry-level roles.
   1.  [DevOpsJobs](https://devopsprojectshq.com) DevOps, SRE, Cloud and Platform engineering jobs
   1. [UI/UX Jobs Board](https://uiuxjobsboard.com/design-jobs/remote) - Remote jobs for UI/UX designers
   1. [EmbeddedJobs](https://embedded.jobs) — Remote job board dedicated to embedded systems engineers and developers.
