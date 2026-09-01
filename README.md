@@ -187,6 +187,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   1. [Remotees](https://weworkremotely.com/?utm_source=Remotees&utm_medium=Redirect&utm_campaign=Remotees)
   1. [RemoteJobs.lat](https://remotejobs.lat/) -  Remote jobs for LATAM people
+  1. [RemotePilot](https://remotepilot.dev) - Hand-curated remote developer and engineering jobs at AI-native companies.
   1. [Remotive Jobs](https://remotive.com/)
   1. [Remote Works](https://remote.works-hub.com) - Remote jobs in software development
   1. [Ruby On Remote](https://rubyonremote.com/) - All ruby remote jobs in one place
