@@ -211,6 +211,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [UI/UX Jobs Board](https://uiuxjobsboard.com/design-jobs/remote) - Remote jobs for UI/UX designers
   1. [EmbeddedJobs](https://embedded.jobs) — Remote job board dedicated to embedded systems engineers and developers.
   1. [Jobo](https://jobo.pl) - 100% remote-only verified jobs from Poland in IT, marketing, sales & more.
+  1. [Datronis](https://datronis.com/jobs/) - Free multilingual (18 languages) remote & visa-sponsor-friendly job board, 40,000+ postings crawled daily. Includes a visa sponsor directory, real salary data by role/city, and a public MCP server so AI agents can search and apply on your behalf.
   
 
 
