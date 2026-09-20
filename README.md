@@ -158,6 +158,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [hiring.lat](https://hiring.lat) — Transparent job postings for LATAM workers with remote or relocation opportunities.
   1. [Findjobit](https://findjobit.com/jobs) - Remote jobs for LATAM IT professionals.
   1. [FoundRole](https://foundrole.com/) - AI-powered job search platform and job application tracker for knowledge workers.
+  1. [Find Data Science Jobs](https://finddatasciencejobs.com/) - Data Science Jobs; Find Remote, Onsite and Hybrid Jobs across the world. Free API and MCP available. No-sign ups to apply to jobs. 
   1. [freelancermap](https://www.freelancermap.com/projects/remote.html) - Freelance & contract jobs for IT experts (mostly German projects)
   1. [Golangprojects](https://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
   1. [Gridnaut Recruiting](https://gridnaut.site/jobs/) - Remote contract roles in AI training, evaluation, and domain-expert work, curated from Mercor referrals.
