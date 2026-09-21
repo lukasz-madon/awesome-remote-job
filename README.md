@@ -617,6 +617,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Others
   1. [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+  1. [CoworkingView](https://coworkingview.com) - Compare coworking and private office prices in Europe and the UAE.
   1. [Established Remote](https://github.com/yanirs/established-remote) - A list of established remote companies
   1. [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
   1. [Nomad List](https://nomads.com/) - Compare cost and quality of living in different cities.
