@@ -283,6 +283,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote Internships](https://smash.vc/startup-newsletter/)
   1. [Remote Jobs Club](https://remotejobsclub.com) - Weekly newsletter featuring a hand curated list of remote jobs
   1. [Remoteur](https://newsletter.remoteur.com/) - Remote jobs in Europe delivered to your inbox bi-weekly
+  1. [ExtraHustles Weekly](https://extrahustles.com/newsletter) - Side hustles ranked by real hourly rate after hidden costs, for people building income on the side of a remote job.
   
 
 ## Podcasts
