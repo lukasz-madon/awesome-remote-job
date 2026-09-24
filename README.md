@@ -461,6 +461,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   2. [Peakforce](https://www.peakforce.dev) - Atlassian (Jira, Confluence) and Splunk (SIEM, Observability) Partner helping with licenses, implementation, migrations and consulting.
   1. [Pilot](https://plane.com) - Pilot is a software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.
   1. [Pleo](https://www.pleo.io/en/careers) - Pleo is a company payment card solution that automates expense reports and simplifies company spending.
+  1. [PoketDev](https://www.poketdev.com) - Unlimited software development subscription. Flat monthly fee, one active request at a time, async-first, Python-first.
   1. [Precision Nutrition](https://www.precisionnutrition.com/) -  Online Nutrition Coaching and Certification.
   1. [PreviousNext](https://www.previousnext.com.au) - Australian based Drupal agency.
   1. [Prezly](https://www.prezly.com/) - SaaS PR platform. PHP, React, JS, Postgres. 100% remote.
