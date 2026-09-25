@@ -50,8 +50,9 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Articles & Posts
   1. [3 mistakes to avoid if you want to get hired remotely](https://x-team.com/blog/mistakes-remote-developers)
   1. [5 Things I've Learned From Working Remotely](https://www.donedone.com/blog/five-things-ive-learned-working-remotely)
-  1. [5 Tricks to Get More Done While Working Remotely](https://rdutel.medium.com/working-remotely-getting-things-done-38dcd0413733)
-  1. [8 tips that will make you a more active, healthier remote developer](https://x-team.com/blog/how-to-be-healthy-remote)
+  1. [5 Tricks to Get More Done While Working Remotely](https://medium.com/@rdutel/working-remotely-getting-things-done-38dcd0413733)
+  1. [6 Tips for Managing a Team of Remote Workers](https://www.hoxtonmix.com/blog/6-tips-for-managing-a-team-of-remote-workers/)
+  1. [8 tips that will make you a more active, healthier remote developer](https://x-team.com/blog/how-to-be-healthy-remote/)
   1. [10 Lessons from 4 Years Working Remotely at Automattic](https://whenihavetime.com/2014/07/08/10-lessons-from-4-years-working-remotely/)
   1. [10 Secrets to Becoming a Great Remote Developer](https://x-team.com/blog/10-secrets-to-becoming-a-great-remote-developer)
   1. [21 tools that will help your remote team work better together](https://thenextweb.com/news/tools-remote-teams)
@@ -113,6 +114,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [10 Leadership Lessons from 10 Years Working in a Fully-Distributed and Remote Company](https://whenihavetime.com/2020/07/09/10-leadership-lessons-from-10-years-working-remotely/)
   1. [Remote Work for Everyone - NY Times](https://www.nytimes.com/2021/07/06/technology/remote-work-for-everyone.html)
   1. [This Is the Future Of Remote Work In 2021](https://www.forbes.com/sites/carolinecastrillon/2021/12/27/this-is-the-future-of-remote-work-in-2021/?sh=500189961e1d)
+  1. [Recent remote work statistics that you should know about for 2023](https://resume.io/blog/remote-work-statistics)
 
 
 ## Videos
