@@ -615,6 +615,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Elcano](https://elcano.tax) - International tax-residency day tracker that flags 183-day, Schengen 90/180, UK SRT and US SPT thresholds and exports an audit-ready workpaper. Data stays local, free to start.
 
 
+  1. [SmartBizCalc](https://smartbizcalc.com/) - Free financial calculators for freelancers and remote workers: 1099 vs W-2 cost comparison, self-employment tax, hourly rate, break-even, payroll tax, S-corp savings, and contractor pricing.
 ## Others
   1. [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
   1. [Established Remote](https://github.com/yanirs/established-remote) - A list of established remote companies
