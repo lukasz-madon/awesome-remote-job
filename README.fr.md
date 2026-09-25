@@ -172,6 +172,7 @@ Une liste organisée de super ressources sur le [travail à distance](https://en
   1. [Ruby On Remote](https://rubyonremote.com/) - Tous les emplois Ruby en remote au même endroit
   1. [Skip the Drive](https://www.skipthedrive.com/)
   1. [Slasify](https://slasify.com/en) - Opportunités à distance dans la tech, l'art/design et le marketing depuis l'Asie, avec service de paie global inclus.
+  1. [SolidJobs](https://solid.jobs/) - Plateforme d'emploi IT avec filtre télétravail, axée sur des fourchettes de salaire transparentes.
   1. [Stream Native Jobs](https://streamnative.io/careers) - Faites défiler jusqu'à `Join Us`
   1. [SwissDev Jobs](https://swissdevjobs.ch/) - Filtre -> "Remote / Work from home"
   1. [Upwork](https://www.upwork.com) - Trouvez des emplois à distance dans n'importe quelle catégorie

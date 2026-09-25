@@ -181,6 +181,7 @@
   1. [Ruby On Remote](https://rubyonremote.com/) - 所有 Ruby 远程职位汇聚一处
   1. [Skip the Drive](https://www.skipthedrive.com/)
   1. [Slasify](https://slasify.com/en) - 来自亚洲的远程技术、艺术/设计和营销机会，包含全球薪资发放服务。
+  1. [SolidJobs](https://solid.jobs/) - IT 招聘网站，支持远程筛选，专注于透明的薪资范围。
   1. [Stream Native Jobs](https://streamnative.io/careers) - 向下滚动到 `Join Us`
   1. [SwissDev Jobs](https://swissdevjobs.ch/) - 筛选 -> "Remote / Work from home"
   1. [Upwork](https://www.upwork.com) - 在任意类别中寻找远程工作
