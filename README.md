@@ -373,6 +373,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Factorial](https://factorialhr.com/) - A Human Resources management platform for SMEs 
   1. [Feeld](https://feeld.co/) - Dating app for couples and singles.  
   1. [Findify](https://findify.io/) - E-commerce search powered by machine learning and big data. Team distributed across Europe.
+  1. [First Point](https://firstpoint.com.tr/#careers) - Product studio building mobile apps, AI agents and blockchain tools. React Native, Swift, TypeScript, Node.js. Fully remote, no offices.
   1. [General Assembly](https://generalassemb.ly/careers) - Physical and on-line education for technology, business, and design.
   1. [Ghost](https://ghost.org/about/#careers) - Publishing platform.
   1. [Giant Swarm](https://www.giantswarm.io/) - Giant Swarm’s managed microservices infrastructure enables enterprises to run agile, resilient, distributed systems at scale, while removing the tasks related to managing the complex underlying infrastructure
