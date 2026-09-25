@@ -167,6 +167,7 @@ Une liste organisée de super ressources sur le [travail à distance](https://en
   1. [remote-jobs](https://github.com/remoteintech/remote-jobs) - Une liste d'entreprises tech favorables au remote, de façon partielle à complète
   1. [Remotees](https://weworkremotely.com/?utm_source=Remotees&utm_medium=Redirect&utm_campaign=Remotees)
   1. [RemoteJobs.lat](https://remotejobs.lat/) - Emplois à distance pour les personnes d'Amérique latine
+  1. [RemotePilot](https://remotepilot.dev) - Emplois de développement et d'ingénierie remote dans des entreprises natives de l'IA.
   1. [Remotive Jobs](https://remotive.com/)
   1. [Remote Works](https://remote.works-hub.com) - Emplois à distance dans le développement logiciel
   1. [Ruby On Remote](https://rubyonremote.com/) - Tous les emplois Ruby en remote au même endroit
