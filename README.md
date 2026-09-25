@@ -202,6 +202,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [web3vacancy](https://web3vacancy.com) - #1 Crypto & Web3 Job Board. Where crypto teams hire. Where builders get found.
   1. [Wellfound](https://wellfound.com/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
   1. [We Work Remotely](https://weworkremotely.com/)
+  1. [WoodyJobs](https://www.woodyjobs.com/) - Curated product and design jobs at companies building creative tools. 80%+ remote.
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
   1. [Working Nomads](https://www.workingnomads.com/jobs)
   1. [zuhausejobs.com](https://zuhausejobs.com) - Remote Jobs in German-speaking countries (Germany/Austria/Switzerland)
