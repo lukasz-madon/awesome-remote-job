@@ -610,6 +610,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Law & Finance
   1. [1099 contractors](https://www.smartcapitalmind.com/what-is-a-1099-contractor.htm) – US based companies can hire remote workers as.
   1. [Your Tax Base](https://yourtaxbase.com/) - Florida residency and tax domicile services for digital nomads and remote workers, with virtual mailbox, Declaration of Domicile filing, and step-by-step guidance for establishing a tax-free home base.
+  1. [Tax Atlas](https://globaltaxatlas.com) - Free, source-cited reference for cross-border personal tax: per-country residency rules, income and capital-gains rates and special regimes, plus a free 183-day tax-residency tracker.
   1. [Transferwise](https://wise.com/gb/business/payouts) - Easy way to pay remote employees.
   1. [VerdeDesk](https://verdedesk.vercel.app/) - Issue Portuguese green receipts (recibos verdes) and manage freelancer tax compliance in Portugal — in plain English. Built for D8 visa holders and expat freelancers.
   1. [Elcano](https://elcano.tax) - International tax-residency day tracker that flags 183-day, Schengen 90/180, UK SRT and US SPT thresholds and exports an audit-ready workpaper. Data stays local, free to start.
