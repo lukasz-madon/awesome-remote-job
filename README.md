@@ -222,6 +222,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote.io](https://www.remote.io/) - Job board and aggregator for remote jobs, primarily tech.
   1. [Remote 4 Me](https://remote4me.com/) - An aggregator for remote jobs in tech and non-tech.
   1. [Remote Index](https://remoteindex.co/) - Job board and aggregator for remote jobs in tech.
+  1. [Remote Jobs API](https://earnnova-dev.github.io/remote-jobs-api/) - Live normalized remote-job data across 5 boards in one clean API: one schema, a 0-100 skill fit-score, JSON/CSV output. Free tier, self-hostable (stdlib-only Python).
   1. [Remote OK](https://remoteok.com/) - Scrapes many job board feeds for remote positions.
   1. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
   1. [SlashJobs](https://slashjobs.com/) - Remote dev jobs aggregator. `and`/`or`/`not` filters, location search, fast, no sign-up/login.
