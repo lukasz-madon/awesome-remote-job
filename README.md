@@ -266,7 +266,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies
   1. [hackerrank.com](https://www.hackerrank.com/) - Online platform for code studying and recruiting with job offers also
   1. [Codility](https://www.codility.com/) - Online platform that offers sponsored challenges
-  1. [Meetapro](https://www.meetapro.com/) - An Airbnb style mock interview platform with top FAANG interviewers
+    1. [Luna Interview](https://lunainterview.xyz/) - Chrome interview copilot that suggests answers from your notes.
+     1. [Meetapro](https://www.meetapro.com/) - An Airbnb style mock interview platform with top FAANG interviewers
   1. [Easyclimbtech](https://www.easyclimb.tech/) - $99 mock interviews with a FAANG mentor, also free P2P mock interviews
   1. [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
   1. [MianLing AI](https://mianlingai.com) - AI-powered real-time interview assistant that captures interviewer questions via system audio and generates professional answers in milliseconds
