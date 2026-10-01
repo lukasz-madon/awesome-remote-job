@@ -228,6 +228,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [tokenjobs.io](https://tokenjobs.io?remote=true) A web3 job aggregator where jobs can be filtered based on keywords, locations, languages and contract types. Anyone can publish a job offer.
   1. [UN Talent](https://untalent.org/jobs/home-based) - Vacancies at the United Nations and its agencies.
   1. [usdevjobs.com](https://usdevjobs.com/) - Real-time job aggregator for software, AI, data, engineers in US.
+  1. [Vibeworker](https://tryvibeworker.com/) - Real-time Upwork job alerts by Telegram, push, webhook, RSS and API.
   1. [Vollna](https://www.vollna.com/) - An aggregator for top freelance sites.
   1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
 
