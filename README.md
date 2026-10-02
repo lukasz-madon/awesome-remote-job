@@ -210,6 +210,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1.  [DevOpsJobs](https://devopsprojectshq.com) DevOps, SRE, Cloud and Platform engineering jobs
   1. [UI/UX Jobs Board](https://uiuxjobsboard.com/design-jobs/remote) - Remote jobs for UI/UX designers
   1. [EmbeddedJobs](https://embedded.jobs) — Remote job board dedicated to embedded systems engineers and developers.
+  1. [Eplicant](https://eplicant.com/) - Remote-only job board with roles across industries and international development.
   1. [Jobo](https://jobo.pl) - 100% remote-only verified jobs from Poland in IT, marketing, sales & more.
   
 
