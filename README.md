@@ -581,6 +581,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 #### Project Management
   1. [Asana](https://asana.com/) - Project management good for distributed teams.
   1. [ClickUp](https://clickup.com/) - All-in-one productivity platform that brings teams, tasks, and tools together in one place.
+  1. [Eodly](https://eodly.io/) - Async daily check-ins in Slack, Telegram or Discord, checked against GitHub and Linear.
   1. [Harvest](https://www.getharvest.com/) - Time tracking
   1. [StaffWatcher](https://staffwatcher.com/) - Time tracking
   1. [Hitask](https://hitask.com/) - Easy task and project management for teams.
