@@ -565,6 +565,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Mumble](https://www.mumble.info/documentation/) Mumble is an open source voice chat software
   1. [Precursor](https://precursorapp.com) - Simple prototyping & brainstorming web app with real-time collaboration.
   1. [PukkaTeam](https://pukkateam.com/) - Real team presence through regular automated selfies and one-click video calling
+  1. [RiLiFi](https://rilifi.com) - Live polls, Q&A and quizzes for remote all-hands and team meetings. Free up to 100 people.
   1. [Rocket.Chat](https://www.rocket.chat/) — The Ultimate Open Source WebChat Platform.
   2. [Signal](https://signal.org/) - Encrypted, secure chat and video calls.
   1. [Skype](https://www.skype.com/) – Video calls.
