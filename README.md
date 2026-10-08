@@ -173,6 +173,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [JobsByCulture](https://jobsbyculture.com/) - Culture-first AI & tech job board with remote-friendly filters, Glassdoor ratings, and culture values for 45+ companies.
   1. [JustRemote](https://justremote.co)
   1. [Larajobs](https://larajobs.com/?location=&remote=1) – The artisan employment connection
+  1. [Loker Dollar](https://lokerdollar.com) - Remote jobs paying in USD open to Indonesia-based applicants. ID/EN.
   1. [No Fluff Jobs](https://nofluffjobs.com/pl/#criteria=remote) – Filter -> “*remote*”
   1. [NODESK](https://nodesk.co/remote-jobs/)
   1. [Power to Fly](https://powertofly.com/jobs/) - Specific to women
