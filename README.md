@@ -620,6 +620,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Established Remote](https://github.com/yanirs/established-remote) - A list of established remote companies
   1. [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
   1. [Nomad List](https://nomads.com/) - Compare cost and quality of living in different cities.
+  1. [Nomading USA](https://nomadingusa.com/) - Compare US cities for remote work: rent, internet, walkability and transit, with a source for every number.
   1. [Regus USA](https://www.regus.com/en-gb) - Executive suites, virtual offices & conference room space.
   1. [Remote Companies on Careers SO](https://stackoverflow.com/jobs/companies?q=&l=&r=true)
   1. [Remote Working](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
