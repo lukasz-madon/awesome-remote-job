@@ -588,6 +588,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Notion](https://www.notion.so/) - All in one workspace to write, plan, collaborate, and get organized.
   1. [Outplanr](https://www.outplanr.com/) - Project and task management tool.
   1. [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source).
+  1. [QuoteBoundary](https://quoteboundary.evanguy.chatgpt.site/?utm_source=github&utm_medium=awesome_list&utm_campaign=awesome_remote_job&utm_content=project_management) - Freelance scope, quote, and change-request toolkit.
   1. [Shortcut](https://www.shortcut.com/) (fka Clubhouse) - Project management for software development teams.
   1. [Taskade](https://www.taskade.com/) - Real-time collaborative notes, checklists and outlines for teams.
   1. [Trello](https://trello.com/) - Lean project boards.
