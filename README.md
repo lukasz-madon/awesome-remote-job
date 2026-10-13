@@ -222,6 +222,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote.io](https://www.remote.io/) - Job board and aggregator for remote jobs, primarily tech.
   1. [Remote 4 Me](https://remote4me.com/) - An aggregator for remote jobs in tech and non-tech.
   1. [Remote Index](https://remoteindex.co/) - Job board and aggregator for remote jobs in tech.
+  1. [Remote Job Radar](https://t.me/RemoteJobRadarBot) - Telegram bot with keyword alerts for new remote jobs aggregated from Remotive, Remote OK and Arbeitnow. Free, no signup.
   1. [Remote OK](https://remoteok.com/) - Scrapes many job board feeds for remote positions.
   1. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
   1. [SlashJobs](https://slashjobs.com/) - Remote dev jobs aggregator. `and`/`or`/`not` filters, location search, fast, no sign-up/login.
