@@ -278,6 +278,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Newsletters
   1. [Daily Remote](https://dailyremote.com/newsletter) - A newsletter containing remote jobs crafted and curated especially for you
   2. [European Remote](https://europeanremote.com/alerts/) - Selected opportunities for European tech folks, every week in your inbox
+  1. [Jobs Brief](https://jobsbrief.eu) - Biweekly hand-curated senior cloud, DevOps, SRE, AI-infra jobs - remote in EU.
   1. [Making Remote Work](https://www.mailerlite.com) - MailerLite's monthly remote newsletter sharing best practices, mistakes and learnings, world views (quite literally) and remote job vacancies.
   1. [NODESK](https://nodesk.co/) - A newsletter about digital nomads and remote work that is sent out every two weeks.
   1. [Remote Internships](https://smash.vc/startup-newsletter/)
