@@ -175,6 +175,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Larajobs](https://larajobs.com/?location=&remote=1) – The artisan employment connection
   1. [No Fluff Jobs](https://nofluffjobs.com/pl/#criteria=remote) – Filter -> “*remote*”
   1. [NODESK](https://nodesk.co/remote-jobs/)
+  2. [NodJobs](https://nodjobs.com) - Hand-picked remote jobs sourced directly from company career pages, refreshed around the clock. Exact salaries shown free, every listing a direct apply link. No duplicates, no stale posts, no signup. Remote-first and expanding.
   1. [Power to Fly](https://powertofly.com/jobs/) - Specific to women
   1. [Remote AI Jobs](https://www.moaijobs.com/remote-ai-jobs) - Remote AI jobs in Machine Learning, Engineering, Data Science, Research, etc
   1. [Remote Backend Jobs](https://www.remotebackendjobs.com/) - Find exclusively remote backend jobs aggregated from the top 22 job boards in the world.
