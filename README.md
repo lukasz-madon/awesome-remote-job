@@ -256,20 +256,22 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Where Do I Move To](https://wheredoimoveto.com) - Get personalized city and country relocation recommendations based on 50+ factors.
 
 ## Interviewing
+  1. [adaface.com/pair-pro](https://www.adaface.com/online-assessment-platform) - Remote pair programming interview tool with shared editor, code compiler and video conferencing
+  1. [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
   1. [andreis/interview](https://github.com/Olshansk/interview) - Everything you need to kick ass on your coding interview
   1. [awesome-interviews](https://github.com/DopplerHQ/awesome-interview-questions) - A curated awesome list of lists of interview questions
-  1. [adaface.com/pair-pro](https://www.adaface.com/online-assessment-platform) - Remote pair programming interview tool with shared editor, code compiler and video conferencing
+  1. [Codility](https://www.codility.com/) - Online platform that offers sponsored challenges
+  1. [Easyclimbtech](https://www.easyclimb.tech/) - $99 mock interviews with a FAANG mentor, also free P2P mock interviews
+  1. [exponent](https://www.tryexponent.com) - Practice coding interviews (both sides of the table) with other candidates
+  1. [hackerrank.com](https://www.hackerrank.com/) - Online platform for code studying and recruiting with job offers also
   1. [interviewing.io](https://interviewing.io/) - Become awesome at technical interviews
   1. [karat.io](https://karat.com/) - Have a free practice coding interview with a professional interviewer
-  1. [exponent](https://www.tryexponent.com) - Practice coding interviews (both sides of the table) with other candidates
+  1. [Meetapro](https://www.meetapro.com/) - An Airbnb style mock interview platform with top FAANG interviewers
+  1. [MianLing AI](https://mianlingai.com) - AI-powered real-time interview assistant that captures interviewer questions via system audio and generates professional answers in milliseconds
   1. [remoteinterview.io](https://www.remoteinterview.io/) - Coding tests & pair programming interview tools
   1. [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies
-  1. [hackerrank.com](https://www.hackerrank.com/) - Online platform for code studying and recruiting with job offers also
-  1. [Codility](https://www.codility.com/) - Online platform that offers sponsored challenges
-  1. [Meetapro](https://www.meetapro.com/) - An Airbnb style mock interview platform with top FAANG interviewers
-  1. [Easyclimbtech](https://www.easyclimb.tech/) - $99 mock interviews with a FAANG mentor, also free P2P mock interviews
-  1. [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers. 130+ role-specific questions, STAR-format scoring, and 3 interviewer personas.
-  1. [MianLing AI](https://mianlingai.com) - AI-powered real-time interview assistant that captures interviewer questions via system audio and generates professional answers in milliseconds
+  1. [speaking.app](https://speaking.app/behavioral-interview-practice) - AI behavioral interview practice with feedback on answer structure and delivery.
+
 ## Events
   1. [deceler8](https://sierraymar.exposure.co/decelerate-bali) - 10 days retreat
   1. [Project Getaway](https://www.projectgetaway.com/) - 30 days retreat
