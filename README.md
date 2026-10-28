@@ -613,6 +613,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Transferwise](https://wise.com/gb/business/payouts) - Easy way to pay remote employees.
   1. [VerdeDesk](https://verdedesk.vercel.app/) - Issue Portuguese green receipts (recibos verdes) and manage freelancer tax compliance in Portugal — in plain English. Built for D8 visa holders and expat freelancers.
   1. [Elcano](https://elcano.tax) - International tax-residency day tracker that flags 183-day, Schengen 90/180, UK SRT and US SPT thresholds and exports an audit-ready workpaper. Data stays local, free to start.
+  1. [Banking Access Index](https://www.globalsolo.global/data/banking-access-index) - Free CC-BY dataset of which US banking providers accept non-US-resident founders, by country — each claim verified against the provider's published policy, with CSV/JSON downloads.
 
 
 ## Others
