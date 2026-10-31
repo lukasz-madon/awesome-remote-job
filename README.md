@@ -631,3 +631,5 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Lukasz Madon](https://github.com/lukasz-madon) has waived all copyright and related or neighboring rights to this work.
+
+- [FourDayRoles](https://fourdayroles.com/) - Direct-to-ATS remote jobs filtered by verified 32-hour 4-day workweeks and 100% async workflows.
