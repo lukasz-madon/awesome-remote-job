@@ -143,6 +143,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [4DayJob](https://4dayjob.com/) - 4-day work week and remote jobs. 1,500+ flexible positions.
   1. [AI Dev Jobs](https://aidevboard.com) - 8,400+ AI/ML engineering roles from 489 AI-first companies, updated daily. Filter by remote/hybrid/onsite, seniority, and salary. Public REST API + MCP server for agent-driven job search.
   1. [Authentic Jobs](https://authenticjobs.com/?search_location=remote)
+  1. [Autojob](https://autojob.org/jobs/remote) - Job board with 20,000+ jobs and an auto-apply feature.
   1. [Built In](https://builtin.com/jobs/remote)
   1. [Trabajo Remoto Chile](https://trabajoremotochile.com/) - Remote job board for Chilean professionals seeking work with US and European companies.
   1. [ClojureJobboard.com](https://clojurejobboard.com/remote-clojure-jobs.html)- Clojure jobs, filter -> Remote only
