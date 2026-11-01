@@ -198,6 +198,7 @@
   1. [UI/UX Jobs Board](https://uiuxjobsboard.com/design-jobs/remote) - 面向 UI/UX 设计师的远程职位
   1. [EmbeddedJobs](https://embedded.jobs) — 专为嵌入式系统工程师和开发者打造的远程招聘网站。
   1. [Jobo](https://jobo.pl) - 来自波兰 IT、营销、销售等领域 100% 仅远程且经过验证的职位。
+  1. [ApplyRemote](https://applyremote.co/) - 远程工作招聘网站，提供免费工具，帮助求职者创建适配 ATS 的简历、使用 AI 撰写求职信并跟踪求职申请。
 
 
 ## 招聘聚合网站

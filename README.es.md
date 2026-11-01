@@ -189,6 +189,7 @@ Una lista curada de excelentes recursos sobre [trabajo remoto](https://en.wikipe
   1. [UI/UX Jobs Board](https://uiuxjobsboard.com/design-jobs/remote) - Empleos remotos para diseñadores UI/UX
   1. [EmbeddedJobs](https://embedded.jobs) - Bolsa de trabajo remoto dedicada a ingenieros y desarrolladores de sistemas embebidos.
   1. [Jobo](https://jobo.pl) - Empleos 100% remotos y verificados de Polonia en IT, marketing, ventas y más.
+  1. [ApplyRemote](https://applyremote.co/) - Bolsa de empleo remoto con ofertas de trabajo y herramientas gratuitas para crear un CV compatible con ATS, redactar cartas de presentación con IA y hacer seguimiento de solicitudes.
 
 
 ## Agregadores de bolsas de trabajo
