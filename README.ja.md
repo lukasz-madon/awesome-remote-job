@@ -210,6 +210,7 @@
   1. [UI/UX Jobs Board](https://uiuxjobsboard.com/design-jobs/remote) - UI/UXデザイナー向けリモート求人
   1. [EmbeddedJobs](https://embedded.jobs) — 組込システムエンジニア・開発者専門のリモート求人サイト。
   1. [Jobo](https://jobo.pl) - ポーランド発の100%リモート限定の検証済み求人。IT、マーケティング、セールスなど。
+  1. [ApplyRemote](https://applyremote.co/) - 世界中のリモート求人を探せる求人サイト。ATS対応の履歴書作成、AIによるカバーレター作成、応募管理などの無料ツールを提供しています。
   
 
 
