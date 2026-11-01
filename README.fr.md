@@ -189,6 +189,7 @@ Une liste organisée de super ressources sur le [travail à distance](https://en
   1. [UI/UX Jobs Board](https://uiuxjobsboard.com/design-jobs/remote) - Emplois à distance pour les designers UI/UX
   1. [EmbeddedJobs](https://embedded.jobs) - Job board à distance dédié aux ingénieurs et développeurs en systèmes embarqués.
   1. [Jobo](https://jobo.pl) - Emplois 100 % remote vérifiés depuis la Pologne en IT, marketing, ventes et plus encore.
+  1. [ApplyRemote](https://applyremote.co/) - Site d’offres d’emploi à distance proposant des outils gratuits pour créer un CV compatible avec les ATS, rédiger des lettres de motivation avec l’IA et suivre ses candidatures.
 
 
 ## Agrégateurs de sites d'emploi
