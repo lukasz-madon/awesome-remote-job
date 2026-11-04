@@ -603,6 +603,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [musicforprogramming.net](https://musicforprogramming.net/) - `return 'A series of mixes intended for listening while '+task+' to aid concentration and increase productivity (also compatible with other activities).';`
   1. [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback (Mac).
   1. [Miro](https://miro.com) (fka Realtime Board) - Distributed permanent virtual whiteboard.
+  1. [Retro Rabbit](https://retrorabbit.io/) - Async and live sprint retrospectives for remote teams.
   1. [Timing](https://timingapp.com/?lang=en) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work (especially important when working remotely). Also ensures that no billable hours get lost if you are billing hourly (Mac).
   1. [SYNCDATE](https://syncdate.app) - Automatically syncs events across multiple Google Calendar accounts — great for remote workers juggling work and personal schedules.
   1. [FastTool](https://fasttool.app) - 800+ browser-based productivity utilities (JSON formatter, regex tester, color tools, time zone converter, meeting cost calculator). No signup, works offline after first visit — handy when working across different networks.
