@@ -549,6 +549,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Tools
 
 #### HR
+  1. [AnswerReel](https://answerreel.com/one-way-video-interview) – One-way video interviews for hiring across time zones. Candidates record answers on their own schedule, and AI scores each answer with the reasons shown.
   1. [Brighten](https://hellobrighten.com) – AI-powered peer recognition for remote teams — kudos, badges, and a rewards marketplace.
   1. [Remoteteam.com](https://gusto.com) – Automated payrolls, time off, HR tools, and compliance for remote companies.
 
