@@ -577,6 +577,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Zoom](https://www.zoom.com) — High-quality group video and sharing screen, run on linux, record session and support telephone calls.
   1. [Krisp](https://krisp.ai/) - Mute background noise in any communication app.
   1. [flat.social](https://flat.social/) - Create fun virtual spaces for online meetings, team activities and virtual socials.
+  1. [OneMira C1](https://onemira.com/products/c1) - Bot-free remote meeting recorder for Zoom, Google Meet, and Teams calls (including AirPods/headphones) with local offline transcription, speaker separation, and Markdown notes via MCP ($0/month subscription).
 
 #### Project Management
   1. [Asana](https://asana.com/) - Project management good for distributed teams.
