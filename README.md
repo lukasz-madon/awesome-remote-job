@@ -540,6 +540,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Hacker Paradise](https://www.hackerparadise.org/) - Traveling remote workers.
   1. [Remote Indian](https://remoteindian.com/) - Remote workers from India.
   1. [Eleduck](https://eleduck.com) - A remote worker community in China(来自中国的远程工作社区).
+  1. [Global Remote Jobs Club](https://www.skool.com/tryna-figure-sht-out-3458/about) - Free Skool community for remote job seekers.
   1. [Invide](https://www.invidelabs.com/developer.html) - Invite-only community of experienced remote developers since 2016. Also has a [public discord community](https://discord.com/invite/92q23kCad2) for newbies.
 
 ## Conferences
