@@ -611,6 +611,7 @@
   1. [Your Tax Base](https://yourtaxbase.com/) - デジタルノマドとリモートワーカー向けのフロリダ州居住権・税ドミサイルサービス。バーチャルメールボックス、ドミサイル宣言提出、税フリーホームベース確立のためのステップバイステップガイダンスを提供。
   1. [Transferwise](https://wise.com/gb/business/payouts) - リモート従業員に簡単に支払いをする方法。
   1. [VerdeDesk](https://verdedesk.vercel.app/) - ポルトガルの green receipts (recibos verdes) を発行し、ポルトガルのフリーランサー税コンプライアンスを管理。D8ビザ保持者と外国人フリーランサー向けに英語で提供。
+  1. [Elcano](https://elcano.tax) - 国際的な税務上の居住日数トラッカー。183日ルール、シェンゲンの90/180日ルール、英国SRT、米国SPTの基準到達を通知し、監査に使える作業書類を出力。データはローカルに保存され、無料で始められる。
 
 ## その他
   1. [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 🏝 デジタルノマド向けのリソースを厳選したリスト。
