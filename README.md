@@ -304,6 +304,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [AirTreks](https://airtreks.com/about/) - Multi-stop international flight planner with a distributed team.
   1. [Alley](https://alley.com/careers/) - Digital Agency. We are strategists, researchers, designers, and developers who craft custom digital experiences for publishers, nonprofit institutions, museums, and brands.
   1. [amazee.io](https://www.amazee.io/careers/) - Open source container hosting - high-performance flexible solutions. Kubernetes, TypeScript (Node.js and React), Go, GraphQL.
+  1. [Angzoft](https://en.angzoft.com/careers/) - Remote Indonesian software company building ERP and POS apps. PHP, Laravel, JS.
   1. [Arkency](https://arkency.com/join-our-team/) - Rails and React.js experts, fully remote/async.
   1. [Array.com](https://array.com/company/careers) - Financial, identity, and privacy protection tools.
   1. [Articulate](https://www.articulate.com/about/careers/) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
