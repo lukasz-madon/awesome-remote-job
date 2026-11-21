@@ -155,6 +155,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Diversify Tech](https://www.diversifytech.com/job-board) - Companies are transparent about their Diversity & Inclusion efforts 
   1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
   1. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
+  1. [Euro Remote Talent](https://euroremotetalent.com/remote-jobs) - Remote jobs open to people based in Europe.
   1. [hiring.lat](https://hiring.lat) — Transparent job postings for LATAM workers with remote or relocation opportunities.
   1. [Findjobit](https://findjobit.com/jobs) - Remote jobs for LATAM IT professionals.
   1. [FoundRole](https://foundrole.com/) - AI-powered job search platform and job application tracker for knowledge workers.
