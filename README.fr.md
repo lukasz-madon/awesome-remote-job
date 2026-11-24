@@ -183,7 +183,7 @@ Une liste organisée de super ressources sur le [travail à distance](https://en
   1. [Workana](https://www.workana.com/) Job board freelance en espagnol et portugais
   1. [Working Nomads](https://www.workingnomads.com/jobs)
   1. [zuhausejobs.com](https://zuhausejobs.com) - Emplois à distance dans les pays germanophones (Allemagne/Autriche/Suisse)
-  1.  [Dataaxy](https://dataaxy.com) Job board et reverse job board spécialisés en data et IA en Amérique du Nord
+  1.  [Dataaxy](https://dataaxy.com) Job board et reverse job board spécialisés en data et IA en Amérique du Nord et en Europe
   1.  [Freel](https://freel.ca) Job board pour freelances au Canada
   1.  [DevOpsJobs](https://devopsprojectshq.com) Emplois DevOps, SRE, Cloud et Platform Engineering
   1. [UI/UX Jobs Board](https://uiuxjobsboard.com/design-jobs/remote) - Emplois à distance pour les designers UI/UX

@@ -192,7 +192,7 @@
   1. [Workana](https://www.workana.com/) 西班牙语和葡萄牙语自由职业招聘网站
   1. [Working Nomads](https://www.workingnomads.com/jobs)
   1. [zuhausejobs.com](https://zuhausejobs.com) - 德语区国家（德国/奥地利/瑞士）的远程职位
-  1.  [Dataaxy](https://dataaxy.com) 专注于北美数据与 AI 领域的招聘网站和反向招聘网站
+  1.  [Dataaxy](https://dataaxy.com) 专注于北美和欧洲数据与 AI 领域的招聘网站和反向招聘网站
   1.  [Freel](https://freel.ca) 加拿大自由职业者招聘网站
   1.  [DevOpsJobs](https://devopsprojectshq.com) DevOps、SRE、云和平台工程职位
   1. [UI/UX Jobs Board](https://uiuxjobsboard.com/design-jobs/remote) - 面向 UI/UX 设计师的远程职位

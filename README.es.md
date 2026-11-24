@@ -183,7 +183,7 @@ Una lista curada de excelentes recursos sobre [trabajo remoto](https://en.wikipe
   1. [Workana](https://www.workana.com/) Bolsa de trabajo freelance en español y portugués
   1. [Working Nomads](https://www.workingnomads.com/jobs)
   1. [zuhausejobs.com](https://zuhausejobs.com) - Empleos remotos en países germanohablantes (Alemania/Austria/Suiza)
-  1.  [Dataaxy](https://dataaxy.com) Bolsa de trabajo y bolsa inversa especializada en datos e IA en Norteamérica
+  1.  [Dataaxy](https://dataaxy.com) Bolsa de trabajo y bolsa inversa especializada en datos e IA en Norteamérica y Europa
   1.  [Freel](https://freel.ca) Bolsa de trabajo para freelancers en Canadá
   1.  [DevOpsJobs](https://devopsprojectshq.com) Empleos de DevOps, SRE, Cloud e ingeniería de plataformas
   1. [UI/UX Jobs Board](https://uiuxjobsboard.com/design-jobs/remote) - Empleos remotos para diseñadores UI/UX
