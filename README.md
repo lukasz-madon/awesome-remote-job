@@ -167,6 +167,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) has remote type filter.
   1. [HN hiring](https://www.hnhiring.me/) – Filter REMOTE.
   1. [Human Pages](https://humanpages.ai) - AI agents hire humans for real-world tasks.
+  1. [infosecjobs.io](https://infosecjobs.io/remote) - Remote cybersecurity jobs from employers' own job boards, with posted pay and a country filter.
   1. [JOBBOX.io](https://landing.jobs/jobs) – Filter -> Remote only.
   1. [JobsCollider](https://jobscollider.com/remote-jobs) - * Tens of thousands of remote jobs from over 10,000 companies and startups worldwide. *
   1. [Jobspresso](https://jobspresso.co/) * High-quality remote positions that are open and legitimate *
