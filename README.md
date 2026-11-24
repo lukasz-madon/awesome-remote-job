@@ -194,6 +194,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Slasify](https://slasify.com/en) - Remote tech, art/design and marketing opportunities from Asia, global payroll service included.
   1. [Stream Native Jobs](https://streamnative.io/careers) - Scroll down to `Join Us`
   1. [SwissDev Jobs](https://swissdevjobs.ch/) - Filter -> "Remote / Work from home"
+  1. [Trainwage](https://trainwage.com/) - Hand-checked remote AI training gigs: annotation, rating, voice. Pay and countries.
   1. [TypeScriptJobs](https://typescriptjobs.net/) - TypeScript positions with remote filter
   1. [Upwork](https://www.upwork.com) - Find remote jobs in any category
   1. [Virtual Vocations](https://www.virtualvocations.com/)
