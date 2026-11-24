@@ -205,7 +205,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
   1. [Working Nomads](https://www.workingnomads.com/jobs)
   1. [zuhausejobs.com](https://zuhausejobs.com) - Remote Jobs in German-speaking countries (Germany/Austria/Switzerland)
-  1.  [Dataaxy](https://dataaxy.com) Job board and reverse job board specialized in Data and AI in North America
+  1.  [Dataaxy](https://dataaxy.com) Job board and reverse job board specialized in Data and AI in North America and Europe
   1.  [Freel](https://freel.ca) Freelancers job board in Canada
   1.  [DevOpsJobs](https://devopsprojectshq.com) DevOps, SRE, Cloud and Platform engineering jobs
   1. [UI/UX Jobs Board](https://uiuxjobsboard.com/design-jobs/remote) - Remote jobs for UI/UX designers

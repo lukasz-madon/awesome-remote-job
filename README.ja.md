@@ -204,7 +204,7 @@
   1. [Workana](https://www.workana.com/) スペイン語・ポルトガル語のフリーランス求人サイト
   1. [Working Nomads](https://www.workingnomads.com/jobs)
   1. [zuhausejobs.com](https://zuhausejobs.com) - ドイツ語圏（ドイツ/オーストリア/スイス）のリモート求人
-  1.  [Dataaxy](https://dataaxy.com) 北米のデータ・AI分野に特化した求人サイト兼リバース求人サイト
+  1.  [Dataaxy](https://dataaxy.com) 北米・欧州のデータ・AI分野に特化した求人サイト兼リバース求人サイト
   1.  [Freel](https://freel.ca) カナダのフリーランサー求人サイト
   1.  [DevOpsJobs](https://devopsprojectshq.com) DevOps、SRE、クラウド、プラットフォームエンジニアリング求人
   1. [UI/UX Jobs Board](https://uiuxjobsboard.com/design-jobs/remote) - UI/UXデザイナー向けリモート求人
