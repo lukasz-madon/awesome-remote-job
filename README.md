@@ -562,6 +562,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [IRCCloud](https://www.irccloud.com) – Browser-based IRC client with permanent storage.
   1. [Jitsi](https://jitsi.org) - Multi-platform open-source video conferencing
   1. [Matrix](https://github.com/ResultadosDigitais/matrix) – Matrix is the online open-source workplace for distributed teams.
+  1. [Morgenruf](https://morgenruf.dev/) - Async standups, coffee chats and kudos for Slack. Free and open source.
   1. [Mumble](https://www.mumble.info/documentation/) Mumble is an open source voice chat software
   1. [Precursor](https://precursorapp.com) - Simple prototyping & brainstorming web app with real-time collaboration.
   1. [PukkaTeam](https://pukkateam.com/) - Real team presence through regular automated selfies and one-click video calling
